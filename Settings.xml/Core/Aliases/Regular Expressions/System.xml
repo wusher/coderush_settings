@@ -1,0 +1,2155 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="System">
+ <Language Name="Basic">
+  <Section Name="Header">
+   <Option Name="Count" Value="83" />
+  </Section>
+  <Section Name="Alias0">
+   <Option Name="Name" Value="AccentedChar" />
+   <Option Name="Value" Value="([À-Ö]|[Ø-ö]|[ø-ə])" />
+   <Option Name="Description" Value="Common accented characters" />
+   <Option Name="Extra_Count" Value="61" />
+   <Option Name="Extra_0" Value="%c3%80" />
+   <Option Name="Extra_1" Value="%c3%81" />
+   <Option Name="Extra_2" Value="%c3%82" />
+   <Option Name="Extra_3" Value="%c3%83" />
+   <Option Name="Extra_4" Value="%c3%84" />
+   <Option Name="Extra_5" Value="%c3%85" />
+   <Option Name="Extra_6" Value="%c3%86" />
+   <Option Name="Extra_7" Value="%c3%87" />
+   <Option Name="Extra_8" Value="%c3%88" />
+   <Option Name="Extra_9" Value="%c3%89" />
+   <Option Name="Extra_10" Value="%c3%8a" />
+   <Option Name="Extra_11" Value="%c3%8b" />
+   <Option Name="Extra_12" Value="%c3%8c" />
+   <Option Name="Extra_13" Value="%c3%8d" />
+   <Option Name="Extra_14" Value="%c3%8e" />
+   <Option Name="Extra_15" Value="%c3%8f" />
+   <Option Name="Extra_16" Value="%c3%90" />
+   <Option Name="Extra_17" Value="%c3%91" />
+   <Option Name="Extra_18" Value="%c3%92" />
+   <Option Name="Extra_19" Value="%c3%93" />
+   <Option Name="Extra_20" Value="%c3%94" />
+   <Option Name="Extra_21" Value="%c3%95" />
+   <Option Name="Extra_22" Value="%c3%96" />
+   <Option Name="Extra_23" Value="%c3%99" />
+   <Option Name="Extra_24" Value="%c3%9a" />
+   <Option Name="Extra_25" Value="%c3%9b" />
+   <Option Name="Extra_26" Value="%c3%9c" />
+   <Option Name="Extra_27" Value="%c3%9d" />
+   <Option Name="Extra_28" Value="%c3%9e" />
+   <Option Name="Extra_29" Value="%c3%9f" />
+   <Option Name="Extra_30" Value="%c3%a0" />
+   <Option Name="Extra_31" Value="%c3%a1" />
+   <Option Name="Extra_32" Value="%c3%a2" />
+   <Option Name="Extra_33" Value="%c3%a3" />
+   <Option Name="Extra_34" Value="%c3%a4" />
+   <Option Name="Extra_35" Value="%c3%a5" />
+   <Option Name="Extra_36" Value="%c3%a6" />
+   <Option Name="Extra_37" Value="%c3%a7" />
+   <Option Name="Extra_38" Value="%c3%a8" />
+   <Option Name="Extra_39" Value="%c3%a9" />
+   <Option Name="Extra_40" Value="%c3%aa" />
+   <Option Name="Extra_41" Value="%c3%ab" />
+   <Option Name="Extra_42" Value="%c3%ac" />
+   <Option Name="Extra_43" Value="%c3%ad" />
+   <Option Name="Extra_44" Value="%c3%ae" />
+   <Option Name="Extra_45" Value="%c3%af" />
+   <Option Name="Extra_46" Value="%c3%b0" />
+   <Option Name="Extra_47" Value="%c3%b1" />
+   <Option Name="Extra_48" Value="%c3%b2" />
+   <Option Name="Extra_49" Value="%c3%b3" />
+   <Option Name="Extra_50" Value="%c3%b4" />
+   <Option Name="Extra_51" Value="%c3%b5" />
+   <Option Name="Extra_52" Value="%c3%b6" />
+   <Option Name="Extra_53" Value="%c3%b8" />
+   <Option Name="Extra_54" Value="%c3%b9" />
+   <Option Name="Extra_55" Value="%c3%ba" />
+   <Option Name="Extra_56" Value="%c3%bb" />
+   <Option Name="Extra_57" Value="%c3%bc" />
+   <Option Name="Extra_58" Value="%c3%bd" />
+   <Option Name="Extra_59" Value="%c3%be" />
+   <Option Name="Extra_60" Value="%c3%bf" />
+  </Section>
+  <Section Name="Alias1">
+   <Option Name="Name" Value="Accessibility" />
+   <Option Name="Value" Value="(?i)((private|protected%mws%friend|protected|friend|public)%mws%)" />
+   <Option Name="Description" Value="Access keywords in VB (Private, Protected Internal, Protected, Internal, Public) followed by mandatory white space." />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="Private" />
+   <Option Name="Extra_1" Value="Protected" />
+   <Option Name="Extra_2" Value="Friend" />
+   <Option Name="Extra_3" Value="Protected+Friend" />
+   <Option Name="Extra_4" Value="Public" />
+  </Section>
+  <Section Name="Alias2">
+   <Option Name="Name" Value="Alpha" />
+   <Option Name="Value" Value="(%UpperCaseAlpha%|%LowerCaseAlpha%|%AccentedChar%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="8" />
+   <Option Name="Extra_0" Value="A" />
+   <Option Name="Extra_1" Value="b" />
+   <Option Name="Extra_2" Value="c" />
+   <Option Name="Extra_3" Value="D" />
+   <Option Name="Extra_4" Value="Z" />
+   <Option Name="Extra_5" Value="z" />
+   <Option Name="Extra_6" Value="%c3%80" />
+   <Option Name="Extra_7" Value="%c3%a9" />
+  </Section>
+  <Section Name="Alias3">
+   <Option Name="Name" Value="AlphaOrUnderline" />
+   <Option Name="Value" Value="(%Alpha%|_)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="7" />
+   <Option Name="Extra_0" Value="A" />
+   <Option Name="Extra_1" Value="B" />
+   <Option Name="Extra_2" Value="C" />
+   <Option Name="Extra_3" Value="a" />
+   <Option Name="Extra_4" Value="z" />
+   <Option Name="Extra_5" Value="D" />
+   <Option Name="Extra_6" Value="_" />
+  </Section>
+  <Section Name="Alias4">
+   <Option Name="Name" Value="AlphaUnderlineOrDigit" />
+   <Option Name="Value" Value="(%AlphaOrUnderline%|%Digit%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="10" />
+   <Option Name="Extra_0" Value="A" />
+   <Option Name="Extra_1" Value="B" />
+   <Option Name="Extra_2" Value="C" />
+   <Option Name="Extra_3" Value="_" />
+   <Option Name="Extra_4" Value="a" />
+   <Option Name="Extra_5" Value="b" />
+   <Option Name="Extra_6" Value="c" />
+   <Option Name="Extra_7" Value="0" />
+   <Option Name="Extra_8" Value="1" />
+   <Option Name="Extra_9" Value="2" />
+  </Section>
+  <Section Name="Alias5">
+   <Option Name="Name" Value="Anything" />
+   <Option Name="Value" Value="(.*)" />
+   <Option Name="Description" Value="Matches anything" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias6">
+   <Option Name="Name" Value="Argument" />
+   <Option Name="Value" Value="%Value%" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="8" />
+   <Option Name="Extra_0" Value="myVar(2)" />
+   <Option Name="Extra_1" Value="2" />
+   <Option Name="Extra_2" Value="myParam" />
+   <Option Name="Extra_3" Value="DirectCast(sender%2c+Checkbox)" />
+   <Option Name="Extra_4" Value="333" />
+   <Option Name="Extra_5" Value="A.B.C(2)" />
+   <Option Name="Extra_6" Value="new+Instance()" />
+   <Option Name="Extra_7" Value="%22a+string%22" />
+  </Section>
+  <Section Name="Alias7">
+   <Option Name="Name" Value="Arguments" />
+   <Option Name="Value" Value="(((%Argument%)(%ws%,%ws%(%Argument%))+)|(%Argument%))" />
+   <Option Name="Description" Value="Matches one or more arguments passed to a method call." />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="A" />
+   <Option Name="Extra_1" Value="A%2c+B%2c+C" />
+   <Option Name="Extra_2" Value="D%2c+E.F(G)" />
+   <Option Name="Extra_3" Value="%22A%22%2c+45%2c+myList(0)" />
+  </Section>
+  <Section Name="Alias8">
+   <Option Name="Name" Value="As" />
+   <Option Name="Value" Value="((?i)as%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias9">
+   <Option Name="Name" Value="BooleanValue" />
+   <Option Name="Value" Value="(?i)(true|false)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="True" />
+   <Option Name="Extra_1" Value="False" />
+   <Option Name="Extra_2" Value="true" />
+   <Option Name="Extra_3" Value="false" />
+  </Section>
+  <Section Name="Alias10">
+   <Option Name="Name" Value="CharacterConstant" />
+   <Option Name="Value" Value="(&quot;((&quot;&quot;)?|[^%lt%&quot;])?&quot;(C|c))" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="%22d%22C" />
+   <Option Name="Extra_1" Value="%22A%22C" />
+   <Option Name="Extra_2" Value="%22B%22C" />
+   <Option Name="Extra_3" Value="%22_%22C" />
+   <Option Name="Extra_4" Value="%22%22%22%22c" />
+  </Section>
+  <Section Name="Alias11">
+   <Option Name="Name" Value="ComparisonOperator" />
+   <Option Name="Value" Value="(&lt;&gt;|&gt;=|&lt;=|&gt;|&lt;)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="%3c" />
+   <Option Name="Extra_1" Value="%3c%3e" />
+   <Option Name="Extra_2" Value="%3d" />
+   <Option Name="Extra_3" Value="%3e" />
+   <Option Name="Extra_4" Value="%3e%3d" />
+  </Section>
+  <Section Name="Alias12">
+   <Option Name="Name" Value="ConstModifier" />
+   <Option Name="Value" Value="(?i)(\bconst%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="Const" />
+  </Section>
+  <Section Name="Alias13">
+   <Option Name="Name" Value="CType" />
+   <Option Name="Value" Value="%CTypeKwd%\(%Anything%,%ws%%Identifier%%ws%\)" />
+   <Option Name="Description" Value="Matches CType type cast" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="CType(Expression%2c+Type)" />
+  </Section>
+  <Section Name="Alias14">
+   <Option Name="Name" Value="CTypeKwd" />
+   <Option Name="Value" Value="(\b(?i)CType%ws%)" />
+   <Option Name="Description" Value="Matches CType keyword." />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="CType" />
+  </Section>
+  <Section Name="Alias15">
+   <Option Name="Name" Value="Digit" />
+   <Option Name="Value" Value="[0-9]" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="7" />
+   <Option Name="Extra_0" Value="3" />
+   <Option Name="Extra_1" Value="4" />
+   <Option Name="Extra_2" Value="5" />
+   <Option Name="Extra_3" Value="6" />
+   <Option Name="Extra_4" Value="1" />
+   <Option Name="Extra_5" Value="0" />
+   <Option Name="Extra_6" Value="-1" />
+  </Section>
+  <Section Name="Alias16">
+   <Option Name="Name" Value="Dim" />
+   <Option Name="Value" Value="(\b(?i)Dim%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias17">
+   <Option Name="Name" Value="DirectCast" />
+   <Option Name="Value" Value="%DirectCastKwd%\(%Anything%,%ws%%Identifier%%ws%\)" />
+   <Option Name="Description" Value="Matches DirectCast type cast." />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="DirectCast(a%2c+b)" />
+  </Section>
+  <Section Name="Alias18">
+   <Option Name="Name" Value="DirectCastKwd" />
+   <Option Name="Value" Value="(\b(?i)DirectCast%ws%)" />
+   <Option Name="Description" Value="Matches DirectCast keyword" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="DirectCast" />
+  </Section>
+  <Section Name="Alias19">
+   <Option Name="Name" Value="EndOfLineComment" />
+   <Option Name="Value" Value="((?i)(rem|')(.*)$)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="String+'+comment" />
+   <Option Name="Extra_1" Value="String+rem+comment" />
+   <Option Name="Extra_2" Value="String+Rem+comment" />
+  </Section>
+  <Section Name="Alias20">
+   <Option Name="Name" Value="EscapedIdentifier" />
+   <Option Name="Value" Value="(\[%NonEscapedIdentifier%\])" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="%5bNew%5d" />
+   <Option Name="Extra_1" Value="%5bAs%5d" />
+   <Option Name="Extra_2" Value="New" />
+   <Option Name="Extra_3" Value="As" />
+  </Section>
+  <Section Name="Alias21">
+   <Option Name="Name" Value="Event" />
+   <Option Name="Value" Value="(\b(?i)Event%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="Event" />
+   <Option Name="Extra_1" Value="event" />
+   <Option Name="Extra_2" Value="ev" />
+  </Section>
+  <Section Name="Alias22">
+   <Option Name="Name" Value="EventName" />
+   <Option Name="Value" Value="%SimpleIdentifier%" />
+   <Option Name="Description" Value="The name of an event." />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="EventName" />
+  </Section>
+  <Section Name="Alias23">
+   <Option Name="Name" Value="FieldIdentifier" />
+   <Option Name="Value" Value="([a-z]%PartialIdentifier1%)" />
+   <Option Name="Description" Value="Matches a field identifier that starts with a lower case letter." />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="MyField" />
+   <Option Name="Extra_1" Value="myInt1" />
+  </Section>
+  <Section Name="Alias24">
+   <Option Name="Name" Value="Float" />
+   <Option Name="Value" Value="[-\+]?\d+(%FloatQualifier%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="123.223" />
+   <Option Name="Extra_1" Value="-45" />
+   <Option Name="Extra_2" Value="0x1001" />
+   <Option Name="Extra_3" Value="-0.001" />
+   <Option Name="Extra_4" Value="%2b0.1" />
+  </Section>
+  <Section Name="Alias25">
+   <Option Name="Name" Value="FloatOrIntNumber" />
+   <Option Name="Value" Value="[-\+]?\d+((%IntQualifier%)|(%FloatQualifier%))" />
+   <Option Name="Description" Value="Floating point number or integer" />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="123" />
+   <Option Name="Extra_1" Value="1234.5" />
+   <Option Name="Extra_2" Value="0x12355" />
+   <Option Name="Extra_3" Value="1234.35e10" />
+   <Option Name="Extra_4" Value="123l" />
+   <Option Name="Extra_5" Value="984543s" />
+  </Section>
+  <Section Name="Alias26">
+   <Option Name="Name" Value="FloatQualifier" />
+   <Option Name="Value" Value="(\.\d+)?([eE][-\+]?\d+)?[!#\$RrFfDd]?" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias27">
+   <Option Name="Name" Value="Function" />
+   <Option Name="Value" Value="(\b(?i)Function%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias28">
+   <Option Name="Name" Value="GenericArgs" />
+   <Option Name="Value" Value="\(%OfKwd% %Anything%\)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="(Of+Integer)" />
+   <Option Name="Extra_1" Value="(Of+List(Of+Integer))" />
+  </Section>
+  <Section Name="Alias29">
+   <Option Name="Name" Value="Hex" />
+   <Option Name="Value" Value="[0-9A-Fa-f]" />
+   <Option Name="Description" Value="Matches a single hex digit." />
+   <Option Name="Extra_Count" Value="16" />
+   <Option Name="Extra_0" Value="0" />
+   <Option Name="Extra_1" Value="1" />
+   <Option Name="Extra_2" Value="2" />
+   <Option Name="Extra_3" Value="3" />
+   <Option Name="Extra_4" Value="4" />
+   <Option Name="Extra_5" Value="5" />
+   <Option Name="Extra_6" Value="6" />
+   <Option Name="Extra_7" Value="7" />
+   <Option Name="Extra_8" Value="8" />
+   <Option Name="Extra_9" Value="9" />
+   <Option Name="Extra_10" Value="A" />
+   <Option Name="Extra_11" Value="B" />
+   <Option Name="Extra_12" Value="C" />
+   <Option Name="Extra_13" Value="D" />
+   <Option Name="Extra_14" Value="E" />
+   <Option Name="Extra_15" Value="F" />
+  </Section>
+  <Section Name="Alias30">
+   <Option Name="Name" Value="HexHex" />
+   <Option Name="Value" Value="%Hex%%Hex%" />
+   <Option Name="Description" Value="Matches a two-digit hex number." />
+   <Option Name="Extra_Count" Value="9" />
+   <Option Name="Extra_0" Value="01" />
+   <Option Name="Extra_1" Value="FD" />
+   <Option Name="Extra_2" Value="AB" />
+   <Option Name="Extra_3" Value="Hello" />
+   <Option Name="Extra_4" Value="44" />
+   <Option Name="Extra_5" Value="EB" />
+   <Option Name="Extra_6" Value="F1" />
+   <Option Name="Extra_7" Value="FB" />
+   <Option Name="Extra_8" Value="4f" />
+  </Section>
+  <Section Name="Alias31">
+   <Option Name="Name" Value="HexNumber" />
+   <Option Name="Value" Value="(?i)&amp;H%Hex%+" />
+   <Option Name="Description" Value="Hex integer" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias32">
+   <Option Name="Name" Value="Identifier" />
+   <Option Name="Value" Value="(\.?%SimpleIdentifier%(%ws%\.%ws%%SimpleIdentifier%)*)" />
+   <Option Name="Description" Value="An identifier" />
+   <Option Name="Extra_Count" Value="10" />
+   <Option Name="Extra_0" Value="Me" />
+   <Option Name="Extra_1" Value="That" />
+   <Option Name="Extra_2" Value="This.that" />
+   <Option Name="Extra_3" Value="94a" />
+   <Option Name="Extra_4" Value="%2b1qwer" />
+   <Option Name="Extra_5" Value="a.b.c.d.e.f" />
+   <Option Name="Extra_6" Value="b" />
+   <Option Name="Extra_7" Value="s(dsd)" />
+   <Option Name="Extra_8" Value="This+is" />
+   <Option Name="Extra_9" Value="edLibell%c3%a9" />
+  </Section>
+  <Section Name="Alias33">
+   <Option Name="Name" Value="IdentifierOrString" />
+   <Option Name="Value" Value="(%Identifier%|%StringConstant%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias34">
+   <Option Name="Name" Value="IdentifierStringOrFloat" />
+   <Option Name="Value" Value="((%IdentifierOrString%)|(%Float%))" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias35">
+   <Option Name="Name" Value="IdentifierStringOrNumber" />
+   <Option Name="Value" Value="(%IdentifierOrString%)|(%HexNumber%)|(%FloatOrIntNumber%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="%26H23" />
+   <Option Name="Extra_1" Value="23" />
+   <Option Name="Extra_2" Value="%22sdf%22" />
+   <Option Name="Extra_3" Value="Identeifier" />
+   <Option Name="Extra_4" Value="23.34" />
+  </Section>
+  <Section Name="Alias36">
+   <Option Name="Name" Value="IdentifierWithOptionalIndex" />
+   <Option Name="Value" Value="%Identifier%%ws%%Index%?" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="s(13)" />
+   <Option Name="Extra_1" Value="a" />
+   <Option Name="Extra_2" Value="b" />
+  </Section>
+  <Section Name="Alias37">
+   <Option Name="Name" Value="Imports" />
+   <Option Name="Value" Value="(\b(?i)Imports%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="Imports" />
+   <Option Name="Extra_1" Value="imports" />
+  </Section>
+  <Section Name="Alias38">
+   <Option Name="Name" Value="Index" />
+   <Option Name="Value" Value="(\(.*\))" />
+   <Option Name="Description" Value="Matches an index into an array" />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="(3)" />
+   <Option Name="Extra_1" Value="(i)" />
+  </Section>
+  <Section Name="Alias39">
+   <Option Name="Name" Value="Initialization" />
+   <Option Name="Value" Value="%ws%=%ws%%Anything%" />
+   <Option Name="Description" Value="Matches simple initialization for a variable." />
+   <Option Name="Extra_Count" Value="9" />
+   <Option Name="Extra_0" Value="+%3d+5" />
+   <Option Name="Extra_1" Value="private+MyClass+myVar+%3d+null" />
+   <Option Name="Extra_2" Value="private+StringCollection+myStrs+%3d+new+StringCollection()" />
+   <Option Name="Extra_3" Value="myvar+%3d+75.5+%2b+3++%3c%3c+Only+matches+simple+initializations!" />
+   <Option Name="Extra_4" Value="myVar+%3d+new+System.String()" />
+   <Option Name="Extra_5" Value="myVar+%3d+DirectCast(sender%2c+CheckBox)" />
+   <Option Name="Extra_6" Value="myVar+%3d+CType(sender%2c+CheckBox)" />
+   <Option Name="Extra_7" Value="myVar+%3d+myArray%5bindex%5d" />
+   <Option Name="Extra_8" Value="myVar+%3d+object.ToString()" />
+  </Section>
+  <Section Name="Alias40">
+   <Option Name="Name" Value="Integer" />
+   <Option Name="Value" Value="%HexNumber%|([-\+]?\d+%IntQualifier%?)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias41">
+   <Option Name="Name" Value="IntQualifier" />
+   <Option Name="Value" Value="[\u0025&amp;@SsIiLl]" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias42">
+   <Option Name="Name" Value="Is" />
+   <Option Name="Value" Value="(\b(?i)Is%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="Is" />
+   <Option Name="Extra_1" Value="is" />
+   <Option Name="Extra_2" Value="s" />
+  </Section>
+  <Section Name="Alias43">
+   <Option Name="Name" Value="lc" />
+   <Option Name="Value" Value="%ws%_%ws%%lt%" />
+   <Option Name="Description" Value="Line Continuation" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias44">
+   <Option Name="Name" Value="LocalDecModifiers" />
+   <Option Name="Value" Value="((?%Dim%)%Dim%%Accessibility%)|((?%Accessibility%)%Accessibility%%Dim%)(%TypeDeclarationModifier%)?" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="Dim+Public" />
+   <Option Name="Extra_1" Value="Public+Dim" />
+   <Option Name="Extra_2" Value="Private+Dim+Shared" />
+   <Option Name="Extra_3" Value="Dim+Private" />
+  </Section>
+  <Section Name="Alias45">
+   <Option Name="Name" Value="LowerCaseAlpha" />
+   <Option Name="Value" Value="[a-z]" />
+   <Option Name="Description" Value="Single character lower case alpha." />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias46">
+   <Option Name="Name" Value="LowerCaseSimpleIdentifier" />
+   <Option Name="Value" Value="(\b%LowerCaseAlpha%%PartialIdentifier%)" />
+   <Option Name="Description" Value="An identifier that starts with a lower-case letter." />
+   <Option Name="Extra_Count" Value="7" />
+   <Option Name="Extra_0" Value="this" />
+   <Option Name="Extra_1" Value="That" />
+   <Option Name="Extra_2" Value="This.that" />
+   <Option Name="Extra_3" Value="94a" />
+   <Option Name="Extra_4" Value="%2b1qwer" />
+   <Option Name="Extra_5" Value="a.b.c.d.e.f" />
+   <Option Name="Extra_6" Value="b" />
+  </Section>
+  <Section Name="Alias47">
+   <Option Name="Name" Value="lt" />
+   <Option Name="Value" Value="\r|\n|\r\n||\u2028|\u2029" />
+   <Option Name="Description" Value="Line Terminator" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias48">
+   <Option Name="Name" Value="MethodCall" />
+   <Option Name="Value" Value="((%Identifier%)+%ws%\(%Arguments%?\))" />
+   <Option Name="Description" Value="Matches a method call." />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="MyMethod()" />
+   <Option Name="Extra_1" Value="MyMethod(A)" />
+   <Option Name="Extra_2" Value="MyMethod(A%2c+B%2c+C)" />
+   <Option Name="Extra_3" Value="A.B.C()" />
+   <Option Name="Extra_4" Value="A.B.C.D(%22yo%22%2c+F(3)%2c+new+G.H())" />
+  </Section>
+  <Section Name="Alias49">
+   <Option Name="Name" Value="MethodCallWithAny" />
+   <Option Name="Value" Value="((%Identifier%)+%ws%\(%Anything%?\))" />
+   <Option Name="Description" Value="Matches a method call with any text passed as arguments." />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="a(10%2c+20)" />
+   <Option Name="Extra_1" Value="a.b(20%2c+20)" />
+  </Section>
+  <Section Name="Alias50">
+   <Option Name="Name" Value="mws" />
+   <Option Name="Value" Value="\s+" />
+   <Option Name="Description" Value="Mandatory white space" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias51">
+   <Option Name="Name" Value="New" />
+   <Option Name="Value" Value="(?i)new" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="New" />
+   <Option Name="Extra_1" Value="new" />
+   <Option Name="Extra_2" Value="NeW" />
+  </Section>
+  <Section Name="Alias52">
+   <Option Name="Name" Value="NewIdentifier" />
+   <Option Name="Value" Value="(?i)new%mws%(%Identifier%)%ws%(%GenericArgs%)?(\(\.*\))?" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="New+String()" />
+   <Option Name="Extra_1" Value="New+String" />
+   <Option Name="Extra_2" Value="New+Integer" />
+   <Option Name="Extra_3" Value="New+List(Of+Integer)()" />
+  </Section>
+  <Section Name="Alias53">
+   <Option Name="Name" Value="NonEscapedIdentifier" />
+   <Option Name="Value" Value="%AlphaOrUnderline%%PartialIdentifier%%TypeCharacter%?" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="New" />
+   <Option Name="Extra_1" Value="As" />
+  </Section>
+  <Section Name="Alias54">
+   <Option Name="Name" Value="NumericType" />
+   <Option Name="Value" Value="(?i)(decimal|long|double|integer|byte|short)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="Decimal" />
+   <Option Name="Extra_1" Value="Long" />
+   <Option Name="Extra_2" Value="Double" />
+   <Option Name="Extra_3" Value="Integer" />
+   <Option Name="Extra_4" Value="Byte" />
+   <Option Name="Extra_5" Value="Short" />
+  </Section>
+  <Section Name="Alias55">
+   <Option Name="Name" Value="OctalNumber" />
+   <Option Name="Value" Value="(?i)&amp;O([0-8])+" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="%26O78" />
+  </Section>
+  <Section Name="Alias56">
+   <Option Name="Name" Value="OfKwd" />
+   <Option Name="Value" Value="(?i)Of" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="of" />
+   <Option Name="Extra_1" Value="Of" />
+   <Option Name="Extra_2" Value="oF" />
+   <Option Name="Extra_3" Value="OF" />
+  </Section>
+  <Section Name="Alias57">
+   <Option Name="Name" Value="Param" />
+   <Option Name="Value" Value="(%ParamCallKwd%%mws%)?(%ParamVar%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="ByVal+aParam" />
+   <Option Name="Extra_1" Value="aParam" />
+   <Option Name="Extra_2" Value="ByRef+aParam" />
+   <Option Name="Extra_3" Value="35523jkl%3b" />
+   <Option Name="Extra_4" Value="3..3.3.3" />
+  </Section>
+  <Section Name="Alias58">
+   <Option Name="Name" Value="ParamCallKwd" />
+   <Option Name="Value" Value="(?i)((ByVal%ws%ParamArray)|((ParamArray%ws%ByVal))|ParamArray|ByVal|ByRef)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="ByVal" />
+   <Option Name="Extra_1" Value="ByRef" />
+   <Option Name="Extra_2" Value="ByVal+ParamArray" />
+   <Option Name="Extra_3" Value="ParamArray+ByVal" />
+  </Section>
+  <Section Name="Alias59">
+   <Option Name="Name" Value="ParamDec" />
+   <Option Name="Value" Value="(%ParamCallKwd%)%mws%(%ParamVar%)%mws%%As%(%ParamType%)(\(\))?" />
+   <Option Name="Description" Value="Parameter Declaration" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="ByVal+M+As+S" />
+   <Option Name="Extra_1" Value="ByRef+A+As+String()" />
+   <Option Name="Extra_2" Value="ByValA+As+String" />
+  </Section>
+  <Section Name="Alias60">
+   <Option Name="Name" Value="ParamsDec" />
+   <Option Name="Value" Value="(((%ParamDec%)(%ws%,%ws%(%ParamDec%))+)|(%ParamDec%))" />
+   <Option Name="Description" Value="Declaration of one or more parameters" />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="ByVal+A+As+String" />
+   <Option Name="Extra_1" Value="ByVal+A+As+String%2c+ByVal+B+As+String" />
+  </Section>
+  <Section Name="Alias61">
+   <Option Name="Name" Value="ParamType" />
+   <Option Name="Value" Value="%Identifier%" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="int" />
+   <Option Name="Extra_1" Value="bool" />
+   <Option Name="Extra_2" Value="1.2" />
+   <Option Name="Extra_3" Value="System.Object" />
+  </Section>
+  <Section Name="Alias62">
+   <Option Name="Name" Value="ParamVar" />
+   <Option Name="Value" Value="(%SimpleIdentifier%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias63">
+   <Option Name="Name" Value="Parens" />
+   <Option Name="Value" Value="(\(.*\))" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="()" />
+   <Option Name="Extra_1" Value="(%2c%2c%2c)" />
+   <Option Name="Extra_2" Value="(a+As+Inteter%2c+b+As+String)" />
+  </Section>
+  <Section Name="Alias64">
+   <Option Name="Name" Value="PartialIdentifier" />
+   <Option Name="Value" Value="%AlphaUnderlineOrDigit%*" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias65">
+   <Option Name="Name" Value="Property" />
+   <Option Name="Value" Value="(\b(?i)Property%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias66">
+   <Option Name="Name" Value="ReadonlyModifier" />
+   <Option Name="Value" Value="(\b(?i)readonly%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="ReadOnly" />
+  </Section>
+  <Section Name="Alias67">
+   <Option Name="Name" Value="RelationalOperator" />
+   <Option Name="Value" Value="(=|&lt;&gt;|&gt;=|&lt;=|&gt;|&lt;)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias68">
+   <Option Name="Name" Value="SharedModifier" />
+   <Option Name="Value" Value="(\b(?i)shared%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="Shared" />
+   <Option Name="Extra_1" Value="shared" />
+   <Option Name="Extra_2" Value="shared" />
+  </Section>
+  <Section Name="Alias69">
+   <Option Name="Name" Value="SimpleIdentifier" />
+   <Option Name="Value" Value="(%EscapedIdentifier%|%NonEscapedIdentifier%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="%5bNew%5d" />
+   <Option Name="Extra_1" Value="As" />
+   <Option Name="Extra_2" Value="sdd(" />
+  </Section>
+  <Section Name="Alias70">
+   <Option Name="Name" Value="StringConstant" />
+   <Option Name="Value" Value="&quot;((&quot;&quot;)*|[^%lt%&quot;])*&quot;" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="%22asdf%22" />
+   <Option Name="Extra_1" Value="%22qwer%5c%22" />
+   <Option Name="Extra_2" Value="%22poiu%22" />
+   <Option Name="Extra_3" Value="asdfsda" />
+  </Section>
+  <Section Name="Alias71">
+   <Option Name="Name" Value="Sub" />
+   <Option Name="Value" Value="(\b(?i)Sub%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias72">
+   <Option Name="Name" Value="SubOrFunction" />
+   <Option Name="Value" Value="(%Sub%)|(%Function%)" />
+   <Option Name="Description" Value="Mathes Sub or Function keywords" />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="Sub" />
+   <Option Name="Extra_1" Value="Function" />
+  </Section>
+  <Section Name="Alias73">
+   <Option Name="Name" Value="TrailingParens" />
+   <Option Name="Value" Value="(( |\))*)" />
+   <Option Name="Description" Value="Matches one or more trailing parens intermixed with spaces." />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value=")+)+)+++)))))+)" />
+   <Option Name="Extra_1" Value="!)%40%40(_))))" />
+   <Option Name="Extra_2" Value="())))" />
+   <Option Name="Extra_3" Value="+++++)++++)++)+)+)+)+))))" />
+  </Section>
+  <Section Name="Alias74">
+   <Option Name="Name" Value="Type" />
+   <Option Name="Value" Value="%Identifier%%ws%(%GenericArgs%)?%Parens%?" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="7" />
+   <Option Name="Extra_0" Value="Object(%2c%2c%2c)" />
+   <Option Name="Extra_1" Value="String" />
+   <Option Name="Extra_2" Value="Integer" />
+   <Option Name="Extra_3" Value="Decimal" />
+   <Option Name="Extra_4" Value="Date" />
+   <Option Name="Extra_5" Value="List(Of+Integer)" />
+   <Option Name="Extra_6" Value="List(Of+List(Of+Integer))" />
+  </Section>
+  <Section Name="Alias75">
+   <Option Name="Name" Value="TypeCast" />
+   <Option Name="Value" Value="(%DirectCast%|%CType%)" />
+   <Option Name="Description" Value="Matches type cast" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias76">
+   <Option Name="Name" Value="TypeCharacter" />
+   <Option Name="Value" Value="(\u0025|&amp;|@|!|#|\$)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias77">
+   <Option Name="Name" Value="TypeDeclarationModifier" />
+   <Option Name="Value" Value="((%ReadonlyModifier%|%WriteOnlyModifier%|%WithEventsModifier%|%SharedModifier%|%ConstModifier%)+)" />
+   <Option Name="Description" Value="Matches readonly, shared, writeonly, withevents and const keywords." />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="ReadOnly+WithEvents" />
+   <Option Name="Extra_1" Value="WriteOnly+WithEvents" />
+   <Option Name="Extra_2" Value="WithEvents++WriteOnly" />
+   <Option Name="Extra_3" Value="WithEvents+ReadOnly" />
+   <Option Name="Extra_4" Value="Shared+WithEvents+ReadOnly" />
+   <Option Name="Extra_5" Value="Const" />
+  </Section>
+  <Section Name="Alias78">
+   <Option Name="Name" Value="UpperCaseAlpha" />
+   <Option Name="Value" Value="[A-Z]" />
+   <Option Name="Description" Value="Single character upper case alpha." />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias79">
+   <Option Name="Name" Value="Value" />
+   <Option Name="Value" Value="((%NewIdentifier%)|(%IdentifierWithOptionalIndex%)|(%IdentifierStringOrNumber%)|(%Typecast%)|(%MethodCallWithAny%))" />
+   <Option Name="Description" Value="Matches simple expression that could appear on the right side of an assignment statement, or passed as an argument to a method call or index." />
+   <Option Name="Extra_Count" Value="10" />
+   <Option Name="Extra_0" Value="5" />
+   <Option Name="Extra_1" Value="null" />
+   <Option Name="Extra_2" Value="new+StringCollection()" />
+   <Option Name="Extra_3" Value="75.5+%2b+3++%3c%3c+Only+matches+simple+initializations!" />
+   <Option Name="Extra_4" Value="new+System.String()%3b" />
+   <Option Name="Extra_5" Value="DirectCast(object%2c+CheckBox)%3b" />
+   <Option Name="Extra_6" Value="CType(object%2c+CheckBox)%3b" />
+   <Option Name="Extra_7" Value="myArray%5bindex%5d" />
+   <Option Name="Extra_8" Value="A.B.C" />
+   <Option Name="Extra_9" Value="%22a+string%22" />
+  </Section>
+  <Section Name="Alias80">
+   <Option Name="Name" Value="WithEventsModifier" />
+   <Option Name="Value" Value="(\b(?i)withevents%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="WithEvents" />
+   <Option Name="Extra_1" Value="withevents" />
+  </Section>
+  <Section Name="Alias81">
+   <Option Name="Name" Value="WriteOnlyModifier" />
+   <Option Name="Value" Value="(\b(?i)writeonly%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="WriteOnly" />
+   <Option Name="Extra_1" Value="writeonly" />
+  </Section>
+  <Section Name="Alias82">
+   <Option Name="Name" Value="ws" />
+   <Option Name="Value" Value="(\s*)" />
+   <Option Name="Description" Value="Optional white space" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+ </Language>
+ <Language Name="CC++">
+  <Section Name="Header">
+   <Option Name="Count" Value="61" />
+  </Section>
+  <Section Name="Alias0">
+   <Option Name="Name" Value="AccentedChar" />
+   <Option Name="Value" Value="([À-Ö]|[Ø-ö]|[ø-ə])" />
+   <Option Name="Description" Value="Common accented characters" />
+   <Option Name="Extra_Count" Value="13" />
+   <Option Name="Extra_0" Value="%c3%a8" />
+   <Option Name="Extra_1" Value="%c3%a9" />
+   <Option Name="Extra_2" Value="%c3%aa" />
+   <Option Name="Extra_3" Value="%c3%ab" />
+   <Option Name="Extra_4" Value="%c3%af" />
+   <Option Name="Extra_5" Value="%c3%b1" />
+   <Option Name="Extra_6" Value="%c3%b6" />
+   <Option Name="Extra_7" Value="%c3%b9" />
+   <Option Name="Extra_8" Value="%c3%ba" />
+   <Option Name="Extra_9" Value="%c3%bd" />
+   <Option Name="Extra_10" Value="%c3%97" />
+   <Option Name="Extra_11" Value="%c3%b7" />
+   <Option Name="Extra_12" Value="%c3%bf" />
+  </Section>
+  <Section Name="Alias1">
+   <Option Name="Name" Value="Accessibility" />
+   <Option Name="Value" Value="((private|protected%mws%internal|protected|internal|public)%mws%)" />
+   <Option Name="Description" Value="Access keywords in C# (private, protected internal, protected, internal, public) followed by mandatory white space." />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="private" />
+   <Option Name="Extra_1" Value="protected" />
+   <Option Name="Extra_2" Value="internal" />
+   <Option Name="Extra_3" Value="protected+internal" />
+   <Option Name="Extra_4" Value="public" />
+  </Section>
+  <Section Name="Alias2">
+   <Option Name="Name" Value="Alpha" />
+   <Option Name="Value" Value="(%UpperCaseAlpha%|%LowerCaseAlpha%|%AccentedChar%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="8" />
+   <Option Name="Extra_0" Value="A" />
+   <Option Name="Extra_1" Value="B" />
+   <Option Name="Extra_2" Value="C" />
+   <Option Name="Extra_3" Value="a" />
+   <Option Name="Extra_4" Value="b" />
+   <Option Name="Extra_5" Value="9" />
+   <Option Name="Extra_6" Value="2" />
+   <Option Name="Extra_7" Value="%c3%a5" />
+  </Section>
+  <Section Name="Alias3">
+   <Option Name="Name" Value="AlphaOrUnderline" />
+   <Option Name="Value" Value="(%Alpha%|_)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="" />
+   <Option Name="Extra_1" Value="" />
+  </Section>
+  <Section Name="Alias4">
+   <Option Name="Name" Value="AlphaUnderlineOrDigit" />
+   <Option Name="Value" Value="(%AlphaOrUnderline%|%Digit%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="" />
+   <Option Name="Extra_1" Value="" />
+  </Section>
+  <Section Name="Alias5">
+   <Option Name="Name" Value="Anything" />
+   <Option Name="Value" Value="(.*)" />
+   <Option Name="Description" Value="Matches anything" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias6">
+   <Option Name="Name" Value="Argument" />
+   <Option Name="Value" Value="((%ParamCallKwd%)%mws%)?%Value%" />
+   <Option Name="Description" Value="Matches an argument passed to a method." />
+   <Option Name="Extra_Count" Value="10" />
+   <Option Name="Extra_0" Value="ref+myVar%5b2%5d" />
+   <Option Name="Extra_1" Value="myVar%5b2%5d" />
+   <Option Name="Extra_2" Value="2" />
+   <Option Name="Extra_3" Value="myParam" />
+   <Option Name="Extra_4" Value="out+myParam" />
+   <Option Name="Extra_5" Value="(Checkbox)sender" />
+   <Option Name="Extra_6" Value="333" />
+   <Option Name="Extra_7" Value="A.B.C%5b2%5d" />
+   <Option Name="Extra_8" Value="new+Instance()" />
+   <Option Name="Extra_9" Value="%22a+string%22" />
+  </Section>
+  <Section Name="Alias7">
+   <Option Name="Name" Value="Arguments" />
+   <Option Name="Value" Value="(((%Argument%)(%ws%,%ws%(%Argument%))+)|(%Argument%))" />
+   <Option Name="Description" Value="Matches one or more arguments passed to a method call." />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="A" />
+   <Option Name="Extra_1" Value="A%2c+B%2c+out+C" />
+   <Option Name="Extra_2" Value="ref+D%2c+E.F%5bG%5d" />
+   <Option Name="Extra_3" Value="%22A%22%2c+45%2c+myList%5b0%5d" />
+  </Section>
+  <Section Name="Alias8">
+   <Option Name="Name" Value="BooleanValue" />
+   <Option Name="Value" Value="(true|false)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias9">
+   <Option Name="Name" Value="Brackets" />
+   <Option Name="Value" Value="(\[.*\])" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias10">
+   <Option Name="Name" Value="ConstModifier" />
+   <Option Name="Value" Value="(\bconst%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias11">
+   <Option Name="Name" Value="Digit" />
+   <Option Name="Value" Value="[0-9]" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="123" />
+   <Option Name="Extra_1" Value="1234.5" />
+   <Option Name="Extra_2" Value="0x12355" />
+   <Option Name="Extra_3" Value="1234.35e10" />
+   <Option Name="Extra_4" Value="123u" />
+   <Option Name="Extra_5" Value="984543Ul" />
+  </Section>
+  <Section Name="Alias12">
+   <Option Name="Name" Value="EndOfLineComment" />
+   <Option Name="Value" Value="(//.*$)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="This+is+a+test+%2f%2f+This+is+a+comment." />
+  </Section>
+  <Section Name="Alias13">
+   <Option Name="Name" Value="EventName" />
+   <Option Name="Value" Value="%SimpleIdentifier%" />
+   <Option Name="Description" Value="The name of an event." />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias14">
+   <Option Name="Name" Value="FieldIdentifier" />
+   <Option Name="Value" Value="([a-z]%PartialIdentifier1%)" />
+   <Option Name="Description" Value="Matches a field identifier that starts with a lower case letter." />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="MyField" />
+   <Option Name="Extra_1" Value="myInt1" />
+  </Section>
+  <Section Name="Alias15">
+   <Option Name="Name" Value="Float" />
+   <Option Name="Value" Value="[-\+]?\d+(%FloatQualifier%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="123.223" />
+   <Option Name="Extra_1" Value="-45" />
+   <Option Name="Extra_2" Value="0x1001" />
+   <Option Name="Extra_3" Value="-0.001" />
+   <Option Name="Extra_4" Value="%2b0.1" />
+  </Section>
+  <Section Name="Alias16">
+   <Option Name="Name" Value="FloatOrIntNumber" />
+   <Option Name="Value" Value="[-\+]?\d+((%IntQualifier%)|(%FloatQualifier%))" />
+   <Option Name="Description" Value="Floating point number (or integer without U/L/UL)" />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="123" />
+   <Option Name="Extra_1" Value="1234.5" />
+   <Option Name="Extra_2" Value="0x12355" />
+   <Option Name="Extra_3" Value="1234.35e10" />
+   <Option Name="Extra_4" Value="123u" />
+   <Option Name="Extra_5" Value="984543Ul" />
+  </Section>
+  <Section Name="Alias17">
+   <Option Name="Name" Value="FloatQualifier" />
+   <Option Name="Value" Value="(\.\d+)?([eE][-\+]?\d+)?[dDfF]?" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="10" />
+   <Option Name="Extra_0" Value=".355" />
+   <Option Name="Extra_1" Value=".35e10" />
+   <Option Name="Extra_2" Value="e5" />
+   <Option Name="Extra_3" Value="d" />
+   <Option Name="Extra_4" Value="D" />
+   <Option Name="Extra_5" Value=".35f" />
+   <Option Name="Extra_6" Value=".55F" />
+   <Option Name="Extra_7" Value=".42D" />
+   <Option Name="Extra_8" Value=".69d" />
+   <Option Name="Extra_9" Value="0.35e5" />
+  </Section>
+  <Section Name="Alias18">
+   <Option Name="Name" Value="GenericArgs" />
+   <Option Name="Value" Value="&lt;%ws%%Anything%%ws%&gt;" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="0" />
+  </Section>
+  <Section Name="Alias19">
+   <Option Name="Name" Value="Hex" />
+   <Option Name="Value" Value="[0-9A-Fa-f]" />
+   <Option Name="Description" Value="Matches a single hex digit." />
+   <Option Name="Extra_Count" Value="17" />
+   <Option Name="Extra_0" Value="0" />
+   <Option Name="Extra_1" Value="1" />
+   <Option Name="Extra_2" Value="2" />
+   <Option Name="Extra_3" Value="3" />
+   <Option Name="Extra_4" Value="4" />
+   <Option Name="Extra_5" Value="5" />
+   <Option Name="Extra_6" Value="6" />
+   <Option Name="Extra_7" Value="7" />
+   <Option Name="Extra_8" Value="8" />
+   <Option Name="Extra_9" Value="9" />
+   <Option Name="Extra_10" Value="A" />
+   <Option Name="Extra_11" Value="B" />
+   <Option Name="Extra_12" Value="C" />
+   <Option Name="Extra_13" Value="D" />
+   <Option Name="Extra_14" Value="E" />
+   <Option Name="Extra_15" Value="F" />
+   <Option Name="Extra_16" Value="" />
+  </Section>
+  <Section Name="Alias20">
+   <Option Name="Name" Value="HexHex" />
+   <Option Name="Value" Value="%Hex%%Hex%" />
+   <Option Name="Description" Value="Matches a two-digit hex number." />
+   <Option Name="Extra_Count" Value="9" />
+   <Option Name="Extra_0" Value="01" />
+   <Option Name="Extra_1" Value="FD" />
+   <Option Name="Extra_2" Value="AB" />
+   <Option Name="Extra_3" Value="Hello" />
+   <Option Name="Extra_4" Value="44" />
+   <Option Name="Extra_5" Value="EB" />
+   <Option Name="Extra_6" Value="F1" />
+   <Option Name="Extra_7" Value="FB" />
+   <Option Name="Extra_8" Value="4f" />
+  </Section>
+  <Section Name="Alias21">
+   <Option Name="Name" Value="HexNumber" />
+   <Option Name="Value" Value="([-+]?0[xX][0-9A-Fa-f]+(([uU][lL])|([uU])|([lL]))?)" />
+   <Option Name="Description" Value="Hex integer" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="0x23" />
+   <Option Name="Extra_1" Value="0xFEED" />
+   <Option Name="Extra_2" Value="-0X343UL" />
+  </Section>
+  <Section Name="Alias22">
+   <Option Name="Name" Value="Identifier" />
+   <Option Name="Value" Value="%SimpleIdentifier%(%ws%\.%ws%%SimpleIdentifier%)*" />
+   <Option Name="Description" Value="An identifier" />
+   <Option Name="Extra_Count" Value="12" />
+   <Option Name="Extra_0" Value="this" />
+   <Option Name="Extra_1" Value="That" />
+   <Option Name="Extra_2" Value="This.that" />
+   <Option Name="Extra_3" Value="94a" />
+   <Option Name="Extra_4" Value="%2b1qwer" />
+   <Option Name="Extra_5" Value="a.b.c.d.e.f" />
+   <Option Name="Extra_6" Value="b" />
+   <Option Name="Extra_7" Value="edLibell%c3%a9" />
+   <Option Name="Extra_8" Value="*a" />
+   <Option Name="Extra_9" Value="****a" />
+   <Option Name="Extra_10" Value="%5e%5e%5ea" />
+   <Option Name="Extra_11" Value="%26%26%26a" />
+  </Section>
+  <Section Name="Alias23">
+   <Option Name="Name" Value="IdentifierOrString" />
+   <Option Name="Value" Value="%Identifier%|%StringConstant%" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="asdf" />
+   <Option Name="Extra_1" Value="%22qwer%22" />
+   <Option Name="Extra_2" Value="92341aaa" />
+  </Section>
+  <Section Name="Alias24">
+   <Option Name="Name" Value="IdentifierStringOrFloat" />
+   <Option Name="Value" Value="(%IdentifierOrString%)|(%Float%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="new+string()" />
+  </Section>
+  <Section Name="Alias25">
+   <Option Name="Name" Value="IdentifierStringOrNumber" />
+   <Option Name="Value" Value="(%IdentifierOrString%)|(%HexNumber%)|(%FloatOrIntNumber%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="MyVar" />
+   <Option Name="Extra_1" Value="988aaa" />
+   <Option Name="Extra_2" Value="0x99aFdd883" />
+   <Option Name="Extra_3" Value="435ul" />
+   <Option Name="Extra_4" Value="385.453e10" />
+   <Option Name="Extra_5" Value="%22Hello+World%22" />
+  </Section>
+  <Section Name="Alias26">
+   <Option Name="Name" Value="IdentifierWithOptionalIndex" />
+   <Option Name="Value" Value="%Identifier%%ws%%Index%?" />
+   <Option Name="Description" Value="An identifier" />
+   <Option Name="Extra_Count" Value="7" />
+   <Option Name="Extra_0" Value="this" />
+   <Option Name="Extra_1" Value="That%5be%5d" />
+   <Option Name="Extra_2" Value="This.that" />
+   <Option Name="Extra_3" Value="94a" />
+   <Option Name="Extra_4" Value="%2b1qwer" />
+   <Option Name="Extra_5" Value="a.b.c.d.e.f%5bg%5d" />
+   <Option Name="Extra_6" Value="b" />
+  </Section>
+  <Section Name="Alias27">
+   <Option Name="Name" Value="Index" />
+   <Option Name="Value" Value="(\[.*\])" />
+   <Option Name="Description" Value="Matches an index into an array" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="%5bi%5d" />
+   <Option Name="Extra_1" Value="%5b3%5d" />
+   <Option Name="Extra_2" Value="%5bi+%2b+j%5d" />
+   <Option Name="Extra_3" Value="%5bMyProc()%5d" />
+  </Section>
+  <Section Name="Alias28">
+   <Option Name="Name" Value="Initialization" />
+   <Option Name="Value" Value="%ws%=%ws%%Anything%" />
+   <Option Name="Description" Value="Matches simple initialization for a variable." />
+   <Option Name="Extra_Count" Value="8" />
+   <Option Name="Extra_0" Value="+%3d+5" />
+   <Option Name="Extra_1" Value="private+MyClass+myVar+%3d+null" />
+   <Option Name="Extra_2" Value="private+StringCollection+myStrs+%3d+new+StringCollection()" />
+   <Option Name="Extra_3" Value="myvar+%3d+75.5+%2b+3++%3c%3c+Only+matches+simple+initializations!" />
+   <Option Name="Extra_4" Value="myVar+%3d+new+System.String()" />
+   <Option Name="Extra_5" Value="myVar+%3d+(CheckBox)object" />
+   <Option Name="Extra_6" Value="myVar+%3d+myArray%5bindex%5d" />
+   <Option Name="Extra_7" Value="myVar+%3d+object.ToString()" />
+  </Section>
+  <Section Name="Alias29">
+   <Option Name="Name" Value="Integer" />
+   <Option Name="Value" Value="%HexNumber%|([-\+]?\d+%IntQualifier%?)" />
+   <Option Name="Description" Value="Matches a base 10 or hex number." />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="0x1001" />
+   <Option Name="Extra_1" Value="-45" />
+  </Section>
+  <Section Name="Alias30">
+   <Option Name="Name" Value="InterfacePropertyAccessors" />
+   <Option Name="Value" Value="((get%ws%;%ws%set%ws%;%ws%)|(get%ws%;%ws%)|(set%ws%;%ws%))" />
+   <Option Name="Description" Value="Matches property accessor declarations inside an interface.s" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="get%3b" />
+   <Option Name="Extra_1" Value="get+%3b" />
+   <Option Name="Extra_2" Value="get+%3b+set+%3b" />
+   <Option Name="Extra_3" Value="set%3b" />
+  </Section>
+  <Section Name="Alias31">
+   <Option Name="Name" Value="IntQualifier" />
+   <Option Name="Value" Value="(([uU][lL])|([uU])|([lL]))" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="u" />
+   <Option Name="Extra_1" Value="L" />
+   <Option Name="Extra_2" Value="uL" />
+   <Option Name="Extra_3" Value="Ul" />
+   <Option Name="Extra_4" Value="l" />
+   <Option Name="Extra_5" Value="U" />
+  </Section>
+  <Section Name="Alias32">
+   <Option Name="Name" Value="LowerCaseAlpha" />
+   <Option Name="Value" Value="[a-z]" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="8" />
+   <Option Name="Extra_0" Value="a" />
+   <Option Name="Extra_1" Value="b" />
+   <Option Name="Extra_2" Value="c" />
+   <Option Name="Extra_3" Value="A" />
+   <Option Name="Extra_4" Value="B" />
+   <Option Name="Extra_5" Value="9" />
+   <Option Name="Extra_6" Value="2" />
+   <Option Name="Extra_7" Value="" />
+  </Section>
+  <Section Name="Alias33">
+   <Option Name="Name" Value="LowerCaseSimpleIdentifier" />
+   <Option Name="Value" Value="\b%LowerCaseAlpha%%PartialIdentifier%" />
+   <Option Name="Description" Value="An identifier that starts with a lower-case letter." />
+   <Option Name="Extra_Count" Value="7" />
+   <Option Name="Extra_0" Value="this" />
+   <Option Name="Extra_1" Value="That" />
+   <Option Name="Extra_2" Value="This.that" />
+   <Option Name="Extra_3" Value="94a" />
+   <Option Name="Extra_4" Value="%2b1qwer" />
+   <Option Name="Extra_5" Value="a.b.c.d.e.f" />
+   <Option Name="Extra_6" Value="b" />
+  </Section>
+  <Section Name="Alias34">
+   <Option Name="Name" Value="MethodCall" />
+   <Option Name="Value" Value="((%IdentifierWithOptionalIndex%)+%ws%\(%Arguments%?\))" />
+   <Option Name="Description" Value="Matches a method call." />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="MyMethod()" />
+   <Option Name="Extra_1" Value="MyMethod(A)" />
+   <Option Name="Extra_2" Value="MyMethod(A%2c+ref+B%2c+out+C)" />
+   <Option Name="Extra_3" Value="A.B.C()" />
+   <Option Name="Extra_4" Value="A.B.C.D(%22yo%22%2c+F%5b3%5d%2c+new+G.H())" />
+  </Section>
+  <Section Name="Alias35">
+   <Option Name="Name" Value="MethodCallWithAny" />
+   <Option Name="Value" Value="((%Identifier%)+%ws%\(%Anything%?\))" />
+   <Option Name="Description" Value="Matches a method call with any text passed as arguments." />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="a(10%2c+20)" />
+   <Option Name="Extra_1" Value="a.b(20%2c+20)" />
+  </Section>
+  <Section Name="Alias36">
+   <Option Name="Name" Value="mws" />
+   <Option Name="Value" Value="\s+" />
+   <Option Name="Description" Value="Mandatory white space" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias37">
+   <Option Name="Name" Value="NewIdentifier" />
+   <Option Name="Value" Value="(\bnew%mws%%Identifier%%ws%\(.*\))" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="new+string()" />
+   <Option Name="Extra_1" Value="new+string+(+1%2c+2%2c+3+)" />
+   <Option Name="Extra_2" Value="new+Namespace.List(d)" />
+   <Option Name="Extra_3" Value="anew+string()" />
+  </Section>
+  <Section Name="Alias38">
+   <Option Name="Name" Value="NumericType" />
+   <Option Name="Value" Value="(int|double|byte|uint)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="int" />
+   <Option Name="Extra_1" Value="double" />
+   <Option Name="Extra_2" Value="byte" />
+   <Option Name="Extra_3" Value="uint" />
+  </Section>
+  <Section Name="Alias39">
+   <Option Name="Name" Value="Param" />
+   <Option Name="Value" Value="((%ParamCallKwd%)%mws%)?%ParamVar%" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="ref+aParam" />
+   <Option Name="Extra_1" Value="aParam" />
+   <Option Name="Extra_2" Value="out+aParam" />
+   <Option Name="Extra_3" Value="t35523jkl%3b" />
+   <Option Name="Extra_4" Value="333" />
+  </Section>
+  <Section Name="Alias40">
+   <Option Name="Name" Value="ParamCallKwd" />
+   <Option Name="Value" Value="ref|out" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="ref" />
+   <Option Name="Extra_1" Value="out" />
+   <Option Name="Extra_2" Value="aParam" />
+   <Option Name="Extra_3" Value="Out" />
+   <Option Name="Extra_4" Value="REF" />
+  </Section>
+  <Section Name="Alias41">
+   <Option Name="Name" Value="ParamDec" />
+   <Option Name="Value" Value="((%ParamKwd%)%mws%)?%ParamType%(\[\])?%mws%%ParamVar%" />
+   <Option Name="Description" Value="Parameter Declaration" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="ref+bool+aParam" />
+   <Option Name="Extra_1" Value="bool+aParam" />
+   <Option Name="Extra_2" Value="params+object%5b%5d+aParam" />
+  </Section>
+  <Section Name="Alias42">
+   <Option Name="Name" Value="ParamKwd" />
+   <Option Name="Value" Value="params|%ParamCallKwd%" />
+   <Option Name="Description" Value="Parameter Keyword" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="ref" />
+   <Option Name="Extra_1" Value="out" />
+   <Option Name="Extra_2" Value="params" />
+  </Section>
+  <Section Name="Alias43">
+   <Option Name="Name" Value="ParamsDec" />
+   <Option Name="Value" Value="(((%ParamDec%)(%ws%,%ws%(%ParamDec%))+)|(%ParamDec%))" />
+   <Option Name="Description" Value="Declaration of one or more parameters" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="int+A" />
+   <Option Name="Extra_1" Value="int+A%2c+int+B%2c+out+string+C" />
+   <Option Name="Extra_2" Value="ref+string+D%2c+bool+E" />
+  </Section>
+  <Section Name="Alias44">
+   <Option Name="Name" Value="ParamType" />
+   <Option Name="Value" Value="%Identifier%" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="int" />
+   <Option Name="Extra_1" Value="bool" />
+   <Option Name="Extra_2" Value="1.2" />
+   <Option Name="Extra_3" Value="System.Object" />
+  </Section>
+  <Section Name="Alias45">
+   <Option Name="Name" Value="ParamVar" />
+   <Option Name="Value" Value="%SimpleIdentifier%" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias46">
+   <Option Name="Name" Value="PartialIdentifier" />
+   <Option Name="Value" Value="%AlphaUnderlineOrDigit%*" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias47">
+   <Option Name="Name" Value="PointerTypeModifier" />
+   <Option Name="Value" Value="((\s*)?(\*)|(\^)|(\%)|(\&amp;))" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="0" />
+  </Section>
+  <Section Name="Alias48">
+   <Option Name="Name" Value="ReadonlyModifier" />
+   <Option Name="Value" Value="(\breadonly%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias49">
+   <Option Name="Name" Value="RelationalOperator" />
+   <Option Name="Value" Value="(==|!=|&gt;=|&lt;=|&gt;|&lt;)" />
+   <Option Name="Description" Value="Relational operators for testing inside expressions." />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="%3c" />
+   <Option Name="Extra_1" Value="%3e" />
+   <Option Name="Extra_2" Value="%3c%3d" />
+   <Option Name="Extra_3" Value="%3e%3d" />
+   <Option Name="Extra_4" Value="%3d%3d" />
+   <Option Name="Extra_5" Value="!%3d" />
+  </Section>
+  <Section Name="Alias50">
+   <Option Name="Name" Value="SimpleIdentifier" />
+   <Option Name="Value" Value="\b%AlphaOrUnderline%%PartialIdentifier%" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="this" />
+   <Option Name="Extra_1" Value="That" />
+   <Option Name="Extra_2" Value="94a" />
+   <Option Name="Extra_3" Value="%2b1qwer" />
+   <Option Name="Extra_4" Value="d" />
+   <Option Name="Extra_5" Value="d" />
+  </Section>
+  <Section Name="Alias51">
+   <Option Name="Name" Value="StaticModifier" />
+   <Option Name="Value" Value="(\bstatic%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias52">
+   <Option Name="Name" Value="StringConstant" />
+   <Option Name="Value" Value="(&quot;((\\&quot;)|[^\r\n&quot;])*&quot;)|('((\\')|[^\r\n'])+')" />
+   <Option Name="Description" Value="Matches a string or char constant" />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="%22asdf%22" />
+   <Option Name="Extra_1" Value="%22qwer%5c%22%22" />
+   <Option Name="Extra_2" Value="%22poiu%22%22" />
+   <Option Name="Extra_3" Value="'a'" />
+   <Option Name="Extra_4" Value="'s'" />
+   <Option Name="Extra_5" Value="'%5ct'" />
+  </Section>
+  <Section Name="Alias53">
+   <Option Name="Name" Value="Test" />
+   <Option Name="Value" Value="%Accessibility%? %TypeDeclarationModifier%?%Type%%mws%%Identifier%;%EndOfLineComment%?" />
+   <Option Name="Description" Value="A test alias for testing values and expansions -- (?&lt;ws2&gt;(\s*))?(//.*$)?$ -=-- %Accessibility%?%TypeDeclarationModifier%?%Type%%mws%%Identifier%; %EndOfLineComment%?" />
+   <Option Name="Extra_Count" Value="7" />
+   <Option Name="Extra_0" Value="public+event+MyEventHandler+Foo%3b" />
+   <Option Name="Extra_1" Value="public" />
+   <Option Name="Extra_2" Value="" />
+   <Option Name="Extra_3" Value="%2f%2f+These+should+not+match%3a" />
+   <Option Name="Extra_4" Value="bool+Foo%3b" />
+   <Option Name="Extra_5" Value="private+bool+Foo%3b" />
+   <Option Name="Extra_6" Value="private+static+bool+Foo%3b" />
+  </Section>
+  <Section Name="Alias54">
+   <Option Name="Name" Value="TrailingParens" />
+   <Option Name="Value" Value="(( |\))*)" />
+   <Option Name="Description" Value="Matches one or more trailing parens intermixed with spaces." />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value=")+)+)+++)))))+)" />
+   <Option Name="Extra_1" Value="!)%40%40(_))))" />
+   <Option Name="Extra_2" Value="())))" />
+   <Option Name="Extra_3" Value="+++++)++++)++)+)+)+)+))))" />
+  </Section>
+  <Section Name="Alias55">
+   <Option Name="Name" Value="Type" />
+   <Option Name="Value" Value="%Identifier%%ws%(%GenericArgs%)?%Brackets%?(%PointerTypeModifier%+)?" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="7" />
+   <Option Name="Extra_0" Value="object" />
+   <Option Name="Extra_1" Value="object%5b%5d" />
+   <Option Name="Extra_2" Value="object+%5b1%2c2%5d%5b%5d" />
+   <Option Name="Extra_3" Value="object%5b%5d%5b%5d%5b%5d%5b%5d" />
+   <Option Name="Extra_4" Value="EventHandler%5e" />
+   <Option Name="Extra_5" Value="EventHandler*%5e" />
+   <Option Name="Extra_6" Value="EventHandler+%5e" />
+  </Section>
+  <Section Name="Alias56">
+   <Option Name="Name" Value="Typecast" />
+   <Option Name="Value" Value="\(%ws%%Identifier%%ws%\)%ws%%Identifier%" />
+   <Option Name="Description" Value="Matches a typecast identifier." />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="(Checkbox)object" />
+   <Option Name="Extra_1" Value="(A.B.C)D" />
+  </Section>
+  <Section Name="Alias57">
+   <Option Name="Name" Value="TypeDeclarationModifier" />
+   <Option Name="Value" Value="((%ReadonlyModifier%|%StaticModifier%|%ConstModifier%)+)" />
+   <Option Name="Description" Value="Matches readonly, static, and const keywords." />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="public+readonly+const+int+myVar%3b" />
+   <Option Name="Extra_1" Value="private+static+bool+myVar%3b" />
+  </Section>
+  <Section Name="Alias58">
+   <Option Name="Name" Value="UpperCaseAlpha" />
+   <Option Name="Value" Value="[A-Z]" />
+   <Option Name="Description" Value="Single character upper case alpha." />
+   <Option Name="Extra_Count" Value="8" />
+   <Option Name="Extra_0" Value="A" />
+   <Option Name="Extra_1" Value="B" />
+   <Option Name="Extra_2" Value="C" />
+   <Option Name="Extra_3" Value="a" />
+   <Option Name="Extra_4" Value="b" />
+   <Option Name="Extra_5" Value="9" />
+   <Option Name="Extra_6" Value="2" />
+   <Option Name="Extra_7" Value="EFG" />
+  </Section>
+  <Section Name="Alias59">
+   <Option Name="Name" Value="Value" />
+   <Option Name="Value" Value="((%NewIdentifier%)|(%IdentifierWithOptionalIndex%)|(%IdentifierStringOrNumber%)|(%Typecast%)|(%MethodCallWithAny%))" />
+   <Option Name="Description" Value="Matches simple expression that could appear on the right side of an assignment statement, or passed as an argument to a method call or index." />
+   <Option Name="Extra_Count" Value="9" />
+   <Option Name="Extra_0" Value="5" />
+   <Option Name="Extra_1" Value="null" />
+   <Option Name="Extra_2" Value="new+StringCollection()" />
+   <Option Name="Extra_3" Value="75.5+%2b+3++%3c%3c+Only+matches+simple+initializations!" />
+   <Option Name="Extra_4" Value="new+System.String()%3b" />
+   <Option Name="Extra_5" Value="(CheckBox)object%3b" />
+   <Option Name="Extra_6" Value="myArray%5bindex%5d" />
+   <Option Name="Extra_7" Value="A.B.C" />
+   <Option Name="Extra_8" Value="%22a+string%22" />
+  </Section>
+  <Section Name="Alias60">
+   <Option Name="Name" Value="ws" />
+   <Option Name="Value" Value="(\s*)" />
+   <Option Name="Description" Value="Optional white space" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+ </Language>
+ <Language Name="CSharp">
+  <Section Name="Header">
+   <Option Name="Count" Value="62" />
+  </Section>
+  <Section Name="Alias0">
+   <Option Name="Name" Value="AccentedChar" />
+   <Option Name="Value" Value="([À-Ö]|[Ø-ö]|[ø-ə])" />
+   <Option Name="Description" Value="Common accented characters" />
+   <Option Name="Extra_Count" Value="13" />
+   <Option Name="Extra_0" Value="%c3%a8" />
+   <Option Name="Extra_1" Value="%c3%a9" />
+   <Option Name="Extra_2" Value="%c3%aa" />
+   <Option Name="Extra_3" Value="%c3%ab" />
+   <Option Name="Extra_4" Value="%c3%af" />
+   <Option Name="Extra_5" Value="%c3%b1" />
+   <Option Name="Extra_6" Value="%c3%b6" />
+   <Option Name="Extra_7" Value="%c3%b9" />
+   <Option Name="Extra_8" Value="%c3%ba" />
+   <Option Name="Extra_9" Value="%c3%bd" />
+   <Option Name="Extra_10" Value="%c3%97" />
+   <Option Name="Extra_11" Value="%c3%b7" />
+   <Option Name="Extra_12" Value="%c3%bf" />
+  </Section>
+  <Section Name="Alias1">
+   <Option Name="Name" Value="Accessibility" />
+   <Option Name="Value" Value="((private|protected%mws%internal|protected|internal|public)%mws%)" />
+   <Option Name="Description" Value="Access keywords in C# (private, protected internal, protected, internal, public) followed by mandatory white space." />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="private" />
+   <Option Name="Extra_1" Value="protected" />
+   <Option Name="Extra_2" Value="internal" />
+   <Option Name="Extra_3" Value="protected+internal" />
+   <Option Name="Extra_4" Value="public" />
+  </Section>
+  <Section Name="Alias2">
+   <Option Name="Name" Value="Alpha" />
+   <Option Name="Value" Value="(%UpperCaseAlpha%|%LowerCaseAlpha%|%AccentedChar%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="8" />
+   <Option Name="Extra_0" Value="A" />
+   <Option Name="Extra_1" Value="B" />
+   <Option Name="Extra_2" Value="C" />
+   <Option Name="Extra_3" Value="a" />
+   <Option Name="Extra_4" Value="b" />
+   <Option Name="Extra_5" Value="9" />
+   <Option Name="Extra_6" Value="2" />
+   <Option Name="Extra_7" Value="%c3%a5" />
+  </Section>
+  <Section Name="Alias3">
+   <Option Name="Name" Value="AlphaOrUnderline" />
+   <Option Name="Value" Value="(%Alpha%|_)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="" />
+   <Option Name="Extra_1" Value="" />
+  </Section>
+  <Section Name="Alias4">
+   <Option Name="Name" Value="AlphaUnderlineOrDigit" />
+   <Option Name="Value" Value="(%AlphaOrUnderline%|%Digit%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="" />
+   <Option Name="Extra_1" Value="" />
+  </Section>
+  <Section Name="Alias5">
+   <Option Name="Name" Value="Anything" />
+   <Option Name="Value" Value="(.*)" />
+   <Option Name="Description" Value="Matches anything" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias6">
+   <Option Name="Name" Value="Argument" />
+   <Option Name="Value" Value="((%ParamCallKwd%)%mws%)?%Value%" />
+   <Option Name="Description" Value="Matches an argument passed to a method." />
+   <Option Name="Extra_Count" Value="10" />
+   <Option Name="Extra_0" Value="ref+myVar%5b2%5d" />
+   <Option Name="Extra_1" Value="myVar%5b2%5d" />
+   <Option Name="Extra_2" Value="2" />
+   <Option Name="Extra_3" Value="myParam" />
+   <Option Name="Extra_4" Value="out+myParam" />
+   <Option Name="Extra_5" Value="(Checkbox)sender" />
+   <Option Name="Extra_6" Value="333" />
+   <Option Name="Extra_7" Value="A.B.C%5b2%5d" />
+   <Option Name="Extra_8" Value="new+Instance()" />
+   <Option Name="Extra_9" Value="%22a+string%22" />
+  </Section>
+  <Section Name="Alias7">
+   <Option Name="Name" Value="Arguments" />
+   <Option Name="Value" Value="(((%Argument%)(%ws%,%ws%(%Argument%))+)|(%Argument%))" />
+   <Option Name="Description" Value="Matches one or more arguments passed to a method call." />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="A" />
+   <Option Name="Extra_1" Value="A%2c+B%2c+out+C" />
+   <Option Name="Extra_2" Value="ref+D%2c+E.F%5bG%5d" />
+   <Option Name="Extra_3" Value="%22A%22%2c+45%2c+myList%5b0%5d" />
+  </Section>
+  <Section Name="Alias8">
+   <Option Name="Name" Value="BooleanValue" />
+   <Option Name="Value" Value="(true|false)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias9">
+   <Option Name="Name" Value="Brackets" />
+   <Option Name="Value" Value="(\[.*\])" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias10">
+   <Option Name="Name" Value="ConstModifier" />
+   <Option Name="Value" Value="(\bconst%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias11">
+   <Option Name="Name" Value="Digit" />
+   <Option Name="Value" Value="[0-9]" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="123" />
+   <Option Name="Extra_1" Value="1234.5" />
+   <Option Name="Extra_2" Value="0x12355" />
+   <Option Name="Extra_3" Value="1234.35e10" />
+   <Option Name="Extra_4" Value="123u" />
+   <Option Name="Extra_5" Value="984543Ul" />
+  </Section>
+  <Section Name="Alias12">
+   <Option Name="Name" Value="EndOfLineComment" />
+   <Option Name="Value" Value="(//.*$)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="This+is+a+test+%2f%2f+This+is+a+comment." />
+  </Section>
+  <Section Name="Alias13">
+   <Option Name="Name" Value="EventName" />
+   <Option Name="Value" Value="%SimpleIdentifier%" />
+   <Option Name="Description" Value="The name of an event." />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias14">
+   <Option Name="Name" Value="FieldIdentifier" />
+   <Option Name="Value" Value="([a-z]%PartialIdentifier1%)" />
+   <Option Name="Description" Value="Matches a field identifier that starts with a lower case letter." />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="MyField" />
+   <Option Name="Extra_1" Value="myInt1" />
+  </Section>
+  <Section Name="Alias15">
+   <Option Name="Name" Value="Float" />
+   <Option Name="Value" Value="[-\+]?\d+(%FloatQualifier%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="123.223" />
+   <Option Name="Extra_1" Value="-45" />
+   <Option Name="Extra_2" Value="0x1001" />
+   <Option Name="Extra_3" Value="-0.001" />
+   <Option Name="Extra_4" Value="%2b0.1" />
+  </Section>
+  <Section Name="Alias16">
+   <Option Name="Name" Value="FloatOrIntNumber" />
+   <Option Name="Value" Value="[-\+]?\d+((%IntQualifier%)|(%FloatQualifier%))" />
+   <Option Name="Description" Value="Floating point number (or integer without U/L/UL)" />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="123" />
+   <Option Name="Extra_1" Value="1234.5" />
+   <Option Name="Extra_2" Value="0x12355" />
+   <Option Name="Extra_3" Value="1234.35e10" />
+   <Option Name="Extra_4" Value="123u" />
+   <Option Name="Extra_5" Value="984543Ul" />
+  </Section>
+  <Section Name="Alias17">
+   <Option Name="Name" Value="FloatQualifier" />
+   <Option Name="Value" Value="(\.\d+)?([eE][-\+]?\d+)?[dDfF]?" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="10" />
+   <Option Name="Extra_0" Value=".355" />
+   <Option Name="Extra_1" Value=".35e10" />
+   <Option Name="Extra_2" Value="e5" />
+   <Option Name="Extra_3" Value="d" />
+   <Option Name="Extra_4" Value="D" />
+   <Option Name="Extra_5" Value=".35f" />
+   <Option Name="Extra_6" Value=".55F" />
+   <Option Name="Extra_7" Value=".42D" />
+   <Option Name="Extra_8" Value=".69d" />
+   <Option Name="Extra_9" Value="0.35e5" />
+  </Section>
+  <Section Name="Alias18">
+   <Option Name="Name" Value="GenericArgs" />
+   <Option Name="Value" Value="&lt;%ws%%Anything%%ws%&gt;" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="0" />
+  </Section>
+  <Section Name="Alias19">
+   <Option Name="Name" Value="Hex" />
+   <Option Name="Value" Value="[0-9A-Fa-f]" />
+   <Option Name="Description" Value="Matches a single hex digit." />
+   <Option Name="Extra_Count" Value="17" />
+   <Option Name="Extra_0" Value="0" />
+   <Option Name="Extra_1" Value="1" />
+   <Option Name="Extra_2" Value="2" />
+   <Option Name="Extra_3" Value="3" />
+   <Option Name="Extra_4" Value="4" />
+   <Option Name="Extra_5" Value="5" />
+   <Option Name="Extra_6" Value="6" />
+   <Option Name="Extra_7" Value="7" />
+   <Option Name="Extra_8" Value="8" />
+   <Option Name="Extra_9" Value="9" />
+   <Option Name="Extra_10" Value="A" />
+   <Option Name="Extra_11" Value="B" />
+   <Option Name="Extra_12" Value="C" />
+   <Option Name="Extra_13" Value="D" />
+   <Option Name="Extra_14" Value="E" />
+   <Option Name="Extra_15" Value="F" />
+   <Option Name="Extra_16" Value="" />
+  </Section>
+  <Section Name="Alias20">
+   <Option Name="Name" Value="HexHex" />
+   <Option Name="Value" Value="%Hex%%Hex%" />
+   <Option Name="Description" Value="Matches a two-digit hex number." />
+   <Option Name="Extra_Count" Value="9" />
+   <Option Name="Extra_0" Value="01" />
+   <Option Name="Extra_1" Value="FD" />
+   <Option Name="Extra_2" Value="AB" />
+   <Option Name="Extra_3" Value="Hello" />
+   <Option Name="Extra_4" Value="44" />
+   <Option Name="Extra_5" Value="EB" />
+   <Option Name="Extra_6" Value="F1" />
+   <Option Name="Extra_7" Value="FB" />
+   <Option Name="Extra_8" Value="4f" />
+  </Section>
+  <Section Name="Alias21">
+   <Option Name="Name" Value="HexNumber" />
+   <Option Name="Value" Value="([-+]?0[xX][0-9A-Fa-f]+(([uU][lL])|([uU])|([lL]))?)" />
+   <Option Name="Description" Value="Hex integer" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="0x23" />
+   <Option Name="Extra_1" Value="0xFEED" />
+   <Option Name="Extra_2" Value="-0X343UL" />
+  </Section>
+  <Section Name="Alias22">
+   <Option Name="Name" Value="Identifier" />
+   <Option Name="Value" Value="%SimpleIdentifier%(%ws%\.%ws%%SimpleIdentifier%)*" />
+   <Option Name="Description" Value="An identifier" />
+   <Option Name="Extra_Count" Value="8" />
+   <Option Name="Extra_0" Value="this" />
+   <Option Name="Extra_1" Value="That" />
+   <Option Name="Extra_2" Value="This.that" />
+   <Option Name="Extra_3" Value="94a" />
+   <Option Name="Extra_4" Value="%2b1qwer" />
+   <Option Name="Extra_5" Value="a.b.c.d.e.f" />
+   <Option Name="Extra_6" Value="b" />
+   <Option Name="Extra_7" Value="edLibell%c3%a9" />
+  </Section>
+  <Section Name="Alias23">
+   <Option Name="Name" Value="IdentifierOrString" />
+   <Option Name="Value" Value="%Identifier%|%StringConstant%" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="asdf" />
+   <Option Name="Extra_1" Value="%22qwer%22" />
+   <Option Name="Extra_2" Value="92341aaa" />
+  </Section>
+  <Section Name="Alias24">
+   <Option Name="Name" Value="IdentifierStringOrFloat" />
+   <Option Name="Value" Value="(%IdentifierOrString%)|(%Float%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="new+string()" />
+  </Section>
+  <Section Name="Alias25">
+   <Option Name="Name" Value="IdentifierStringOrNumber" />
+   <Option Name="Value" Value="(%IdentifierOrString%)|(%HexNumber%)|(%FloatOrIntNumber%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="MyVar" />
+   <Option Name="Extra_1" Value="988aaa" />
+   <Option Name="Extra_2" Value="0x99aFdd883" />
+   <Option Name="Extra_3" Value="435ul" />
+   <Option Name="Extra_4" Value="385.453e10" />
+   <Option Name="Extra_5" Value="%22Hello+World%22" />
+  </Section>
+  <Section Name="Alias26">
+   <Option Name="Name" Value="IdentifierWithOptionalIndex" />
+   <Option Name="Value" Value="%Identifier%%ws%%Index%?" />
+   <Option Name="Description" Value="An identifier" />
+   <Option Name="Extra_Count" Value="7" />
+   <Option Name="Extra_0" Value="this" />
+   <Option Name="Extra_1" Value="That%5be%5d" />
+   <Option Name="Extra_2" Value="This.that" />
+   <Option Name="Extra_3" Value="94a" />
+   <Option Name="Extra_4" Value="%2b1qwer" />
+   <Option Name="Extra_5" Value="a.b.c.d.e.f%5bg%5d" />
+   <Option Name="Extra_6" Value="b" />
+  </Section>
+  <Section Name="Alias27">
+   <Option Name="Name" Value="Index" />
+   <Option Name="Value" Value="(\[.*\])" />
+   <Option Name="Description" Value="Matches an index into an array" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="%5bi%5d" />
+   <Option Name="Extra_1" Value="%5b3%5d" />
+   <Option Name="Extra_2" Value="%5bi+%2b+j%5d" />
+   <Option Name="Extra_3" Value="%5bMyProc()%5d" />
+  </Section>
+  <Section Name="Alias28">
+   <Option Name="Name" Value="Initialization" />
+   <Option Name="Value" Value="%ws%=%ws%%Anything%" />
+   <Option Name="Description" Value="Matches simple initialization for a variable." />
+   <Option Name="Extra_Count" Value="8" />
+   <Option Name="Extra_0" Value="+%3d+5" />
+   <Option Name="Extra_1" Value="private+MyClass+myVar+%3d+null" />
+   <Option Name="Extra_2" Value="private+StringCollection+myStrs+%3d+new+StringCollection()" />
+   <Option Name="Extra_3" Value="myvar+%3d+75.5+%2b+3++%3c%3c+Only+matches+simple+initializations!" />
+   <Option Name="Extra_4" Value="myVar+%3d+new+System.String()" />
+   <Option Name="Extra_5" Value="myVar+%3d+(CheckBox)object" />
+   <Option Name="Extra_6" Value="myVar+%3d+myArray%5bindex%5d" />
+   <Option Name="Extra_7" Value="myVar+%3d+object.ToString()" />
+  </Section>
+  <Section Name="Alias29">
+   <Option Name="Name" Value="Integer" />
+   <Option Name="Value" Value="%HexNumber%|([-\+]?\d+%IntQualifier%?)" />
+   <Option Name="Description" Value="Matches a base 10 or hex number." />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="0x1001" />
+   <Option Name="Extra_1" Value="-45" />
+  </Section>
+  <Section Name="Alias30">
+   <Option Name="Name" Value="InterfacePropertyAccessors" />
+   <Option Name="Value" Value="((get%ws%;%ws%set%ws%;%ws%)|(get%ws%;%ws%)|(set%ws%;%ws%))" />
+   <Option Name="Description" Value="Matches property accessor declarations inside an interface.s" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="get%3b" />
+   <Option Name="Extra_1" Value="get+%3b" />
+   <Option Name="Extra_2" Value="get+%3b+set+%3b" />
+   <Option Name="Extra_3" Value="set%3b" />
+  </Section>
+  <Section Name="Alias31">
+   <Option Name="Name" Value="IntQualifier" />
+   <Option Name="Value" Value="(([uU][lL])|([uU])|([lL]))" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="u" />
+   <Option Name="Extra_1" Value="L" />
+   <Option Name="Extra_2" Value="uL" />
+   <Option Name="Extra_3" Value="Ul" />
+   <Option Name="Extra_4" Value="l" />
+   <Option Name="Extra_5" Value="U" />
+  </Section>
+  <Section Name="Alias32">
+   <Option Name="Name" Value="LowerCaseAlpha" />
+   <Option Name="Value" Value="[a-z]" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="8" />
+   <Option Name="Extra_0" Value="a" />
+   <Option Name="Extra_1" Value="b" />
+   <Option Name="Extra_2" Value="c" />
+   <Option Name="Extra_3" Value="A" />
+   <Option Name="Extra_4" Value="B" />
+   <Option Name="Extra_5" Value="9" />
+   <Option Name="Extra_6" Value="2" />
+   <Option Name="Extra_7" Value="" />
+  </Section>
+  <Section Name="Alias33">
+   <Option Name="Name" Value="LowerCaseSimpleIdentifier" />
+   <Option Name="Value" Value="(\b|[\b@?])%LowerCaseAlpha%%PartialIdentifier%" />
+   <Option Name="Description" Value="An identifier that starts with a lower-case letter." />
+   <Option Name="Extra_Count" Value="7" />
+   <Option Name="Extra_0" Value="this" />
+   <Option Name="Extra_1" Value="That" />
+   <Option Name="Extra_2" Value="This.that" />
+   <Option Name="Extra_3" Value="94a" />
+   <Option Name="Extra_4" Value="%2b1qwer" />
+   <Option Name="Extra_5" Value="a.b.c.d.e.f" />
+   <Option Name="Extra_6" Value="b" />
+  </Section>
+  <Section Name="Alias34">
+   <Option Name="Name" Value="MethodCall" />
+   <Option Name="Value" Value="((%IdentifierWithOptionalIndex%)+%ws%\(%Arguments%?\))" />
+   <Option Name="Description" Value="Matches a method call." />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="MyMethod()" />
+   <Option Name="Extra_1" Value="MyMethod(A)" />
+   <Option Name="Extra_2" Value="MyMethod(A%2c+ref+B%2c+out+C)" />
+   <Option Name="Extra_3" Value="A.B.C()" />
+   <Option Name="Extra_4" Value="A.B.C.D(%22yo%22%2c+F%5b3%5d%2c+new+G.H())" />
+  </Section>
+  <Section Name="Alias35">
+   <Option Name="Name" Value="MethodCallWithAny" />
+   <Option Name="Value" Value="((%IdentifierWithOptionalIndex%)+%ws%\(%Anything%?\))" />
+   <Option Name="Description" Value="Matches a method call with any text passed as arguments." />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="a(10%2c+20)" />
+   <Option Name="Extra_1" Value="a.b(20%2c+20)" />
+  </Section>
+  <Section Name="Alias36">
+   <Option Name="Name" Value="mws" />
+   <Option Name="Value" Value="\s+" />
+   <Option Name="Description" Value="Mandatory white space" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias37">
+   <Option Name="Name" Value="NewIdentifier" />
+   <Option Name="Value" Value="(\bnew%mws%%Identifier%%ws%\(.*\))" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="new+string()" />
+   <Option Name="Extra_1" Value="new+string+(+1%2c+2%2c+3+)" />
+   <Option Name="Extra_2" Value="new+Namespace.List(d)" />
+   <Option Name="Extra_3" Value="anew+string()" />
+  </Section>
+  <Section Name="Alias38">
+   <Option Name="Name" Value="NullableSuffix" />
+   <Option Name="Value" Value="(\?)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="%3f" />
+   <Option Name="Extra_1" Value="a" />
+  </Section>
+  <Section Name="Alias39">
+   <Option Name="Name" Value="NumericType" />
+   <Option Name="Value" Value="(int|double|byte|uint)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="int" />
+   <Option Name="Extra_1" Value="double" />
+   <Option Name="Extra_2" Value="byte" />
+   <Option Name="Extra_3" Value="uint" />
+  </Section>
+  <Section Name="Alias40">
+   <Option Name="Name" Value="Param" />
+   <Option Name="Value" Value="((%ParamCallKwd%)%mws%)?%ParamVar%" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="ref+aParam" />
+   <Option Name="Extra_1" Value="aParam" />
+   <Option Name="Extra_2" Value="out+aParam" />
+   <Option Name="Extra_3" Value="t35523jkl%3b" />
+   <Option Name="Extra_4" Value="333" />
+  </Section>
+  <Section Name="Alias41">
+   <Option Name="Name" Value="ParamCallKwd" />
+   <Option Name="Value" Value="ref|out" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="ref" />
+   <Option Name="Extra_1" Value="out" />
+   <Option Name="Extra_2" Value="aParam" />
+   <Option Name="Extra_3" Value="Out" />
+   <Option Name="Extra_4" Value="REF" />
+  </Section>
+  <Section Name="Alias42">
+   <Option Name="Name" Value="ParamDec" />
+   <Option Name="Value" Value="((%ParamKwd%)%mws%)?%ParamType%(\[\])?%mws%%ParamVar%" />
+   <Option Name="Description" Value="Parameter Declaration" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="ref+bool+aParam" />
+   <Option Name="Extra_1" Value="bool+aParam" />
+   <Option Name="Extra_2" Value="params+object%5b%5d+aParam" />
+   <Option Name="Extra_3" Value="bool+%40aParam" />
+  </Section>
+  <Section Name="Alias43">
+   <Option Name="Name" Value="ParamKwd" />
+   <Option Name="Value" Value="params|%ParamCallKwd%" />
+   <Option Name="Description" Value="Parameter Keyword" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="ref" />
+   <Option Name="Extra_1" Value="out" />
+   <Option Name="Extra_2" Value="params" />
+  </Section>
+  <Section Name="Alias44">
+   <Option Name="Name" Value="ParamsDec" />
+   <Option Name="Value" Value="(((%ParamDec%)(%ws%,%ws%(%ParamDec%))+)|(%ParamDec%))" />
+   <Option Name="Description" Value="Declaration of one or more parameters" />
+   <Option Name="Extra_Count" Value="3" />
+   <Option Name="Extra_0" Value="int+A" />
+   <Option Name="Extra_1" Value="int+A%2c+int+B%2c+out+string+C" />
+   <Option Name="Extra_2" Value="ref+string+D%2c+bool+E" />
+  </Section>
+  <Section Name="Alias45">
+   <Option Name="Name" Value="ParamType" />
+   <Option Name="Value" Value="%Identifier%" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="int" />
+   <Option Name="Extra_1" Value="bool" />
+   <Option Name="Extra_2" Value="1.2" />
+   <Option Name="Extra_3" Value="System.Object" />
+  </Section>
+  <Section Name="Alias46">
+   <Option Name="Name" Value="ParamVar" />
+   <Option Name="Value" Value="%SimpleIdentifier%" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias47">
+   <Option Name="Name" Value="PartialIdentifier" />
+   <Option Name="Value" Value="%AlphaUnderlineOrDigit%*" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias48">
+   <Option Name="Name" Value="QualifierIdentifier" />
+   <Option Name="Value" Value="(%SimpleIdentifier%\.)*" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="5" />
+   <Option Name="Extra_0" Value="System." />
+   <Option Name="Extra_1" Value="ComponentModel." />
+   <Option Name="Extra_2" Value="System.ComponentModel." />
+   <Option Name="Extra_3" Value="int" />
+   <Option Name="Extra_4" Value="78909sa." />
+  </Section>
+  <Section Name="Alias49">
+   <Option Name="Name" Value="ReadonlyModifier" />
+   <Option Name="Value" Value="(\breadonly%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias50">
+   <Option Name="Name" Value="RelationalOperator" />
+   <Option Name="Value" Value="(==|!=|&gt;=|&lt;=|&gt;|&lt;)" />
+   <Option Name="Description" Value="Relational operators for testing inside expressions." />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="%3c" />
+   <Option Name="Extra_1" Value="%3e" />
+   <Option Name="Extra_2" Value="%3c%3d" />
+   <Option Name="Extra_3" Value="%3e%3d" />
+   <Option Name="Extra_4" Value="%3d%3d" />
+   <Option Name="Extra_5" Value="!%3d" />
+  </Section>
+  <Section Name="Alias51">
+   <Option Name="Name" Value="SimpleIdentifier" />
+   <Option Name="Value" Value="(\b|[\b@?])%AlphaOrUnderLine%%PartialIdentifier%" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="this" />
+   <Option Name="Extra_1" Value="That" />
+   <Option Name="Extra_2" Value="94a" />
+   <Option Name="Extra_3" Value="%2b1qwer" />
+   <Option Name="Extra_4" Value="d" />
+   <Option Name="Extra_5" Value="%40d" />
+  </Section>
+  <Section Name="Alias52">
+   <Option Name="Name" Value="StaticModifier" />
+   <Option Name="Value" Value="(\bstatic%mws%)" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+  <Section Name="Alias53">
+   <Option Name="Name" Value="StringConstant" />
+   <Option Name="Value" Value="(&quot;((\\&quot;)|[^\r\n&quot;])*&quot;)|('((\\')|[^\r\n'])+')" />
+   <Option Name="Description" Value="Matches a string or char constant" />
+   <Option Name="Extra_Count" Value="6" />
+   <Option Name="Extra_0" Value="%22asdf%22" />
+   <Option Name="Extra_1" Value="%22qwer%5c%22%22" />
+   <Option Name="Extra_2" Value="%22poiu%22%22" />
+   <Option Name="Extra_3" Value="%27a%27" />
+   <Option Name="Extra_4" Value="%27s%27" />
+   <Option Name="Extra_5" Value="%27%5ct%27" />
+  </Section>
+  <Section Name="Alias54">
+   <Option Name="Name" Value="Test" />
+   <Option Name="Value" Value="%Accessibility%? %TypeDeclarationModifier%?%Type%%mws%%Identifier%;%EndOfLineComment%?" />
+   <Option Name="Description" Value="A test alias for testing values and expansions -- (?&lt;ws2&gt;(\s*))?(//.*$)?$ -=-- %Accessibility%?%TypeDeclarationModifier%?%Type%%mws%%Identifier%; %EndOfLineComment%?" />
+   <Option Name="Extra_Count" Value="7" />
+   <Option Name="Extra_0" Value="public+event+MyEventHandler+Foo%3b" />
+   <Option Name="Extra_1" Value="public" />
+   <Option Name="Extra_2" Value="" />
+   <Option Name="Extra_3" Value="%2f%2f+These+should+not+match%3a" />
+   <Option Name="Extra_4" Value="bool+Foo%3b" />
+   <Option Name="Extra_5" Value="private+bool+Foo%3b" />
+   <Option Name="Extra_6" Value="private+static+bool+Foo%3b" />
+  </Section>
+  <Section Name="Alias55">
+   <Option Name="Name" Value="TrailingParens" />
+   <Option Name="Value" Value="(( |\))*)" />
+   <Option Name="Description" Value="Matches one or more trailing parens intermixed with spaces." />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value=")+)+)+++)))))+)" />
+   <Option Name="Extra_1" Value="!)%40%40(_))))" />
+   <Option Name="Extra_2" Value="())))" />
+   <Option Name="Extra_3" Value="+++++)++++)++)+)+)+)+))))" />
+  </Section>
+  <Section Name="Alias56">
+   <Option Name="Name" Value="Type" />
+   <Option Name="Value" Value="%Identifier%%ws%(%GenericArgs%)?%ws%(%NullableSuffix%)?%ws%%Brackets%?" />
+   <Option Name="Description" Value="" />
+   <Option Name="Extra_Count" Value="4" />
+   <Option Name="Extra_0" Value="object" />
+   <Option Name="Extra_1" Value="object%5b%5d" />
+   <Option Name="Extra_2" Value="object+%5b1%2c2%5d%5b%5d" />
+   <Option Name="Extra_3" Value="object%5b%5d%5b%5d%5b%5d%5b%5d" />
+  </Section>
+  <Section Name="Alias57">
+   <Option Name="Name" Value="Typecast" />
+   <Option Name="Value" Value="\(%ws%%Identifier%%ws%\)%ws%%Identifier%" />
+   <Option Name="Description" Value="Matches a typecast identifier." />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="(Checkbox)object" />
+   <Option Name="Extra_1" Value="(A.B.C)D" />
+  </Section>
+  <Section Name="Alias58">
+   <Option Name="Name" Value="TypeDeclarationModifier" />
+   <Option Name="Value" Value="((%ReadonlyModifier%|%StaticModifier%|%ConstModifier%)+)" />
+   <Option Name="Description" Value="Matches readonly, static, and const keywords." />
+   <Option Name="Extra_Count" Value="2" />
+   <Option Name="Extra_0" Value="public+readonly+const+int+myVar%3b" />
+   <Option Name="Extra_1" Value="private+static+bool+myVar%3b" />
+  </Section>
+  <Section Name="Alias59">
+   <Option Name="Name" Value="UpperCaseAlpha" />
+   <Option Name="Value" Value="[A-Z]" />
+   <Option Name="Description" Value="Single character upper case alpha." />
+   <Option Name="Extra_Count" Value="8" />
+   <Option Name="Extra_0" Value="A" />
+   <Option Name="Extra_1" Value="B" />
+   <Option Name="Extra_2" Value="C" />
+   <Option Name="Extra_3" Value="a" />
+   <Option Name="Extra_4" Value="b" />
+   <Option Name="Extra_5" Value="9" />
+   <Option Name="Extra_6" Value="2" />
+   <Option Name="Extra_7" Value="EFG" />
+  </Section>
+  <Section Name="Alias60">
+   <Option Name="Name" Value="Value" />
+   <Option Name="Value" Value="((%NewIdentifier%)|(%IdentifierWithOptionalIndex%)|(%IdentifierStringOrNumber%)|(%Typecast%)|(%MethodCallWithAny%))" />
+   <Option Name="Description" Value="Matches simple expression that could appear on the right side of an assignment statement, or passed as an argument to a method call or index." />
+   <Option Name="Extra_Count" Value="10" />
+   <Option Name="Extra_0" Value="5" />
+   <Option Name="Extra_1" Value="null" />
+   <Option Name="Extra_2" Value="new+StringCollection()" />
+   <Option Name="Extra_3" Value="75.5+%2b+3++%3c%3c+Only+matches+simple+initializations!" />
+   <Option Name="Extra_4" Value="new+System.String()%3b" />
+   <Option Name="Extra_5" Value="(CheckBox)object%3b" />
+   <Option Name="Extra_6" Value="myArray%5bindex%5d" />
+   <Option Name="Extra_7" Value="A.B.C" />
+   <Option Name="Extra_8" Value="%22a+string%22" />
+   <Option Name="Extra_9" Value="test(10)" />
+  </Section>
+  <Section Name="Alias61">
+   <Option Name="Name" Value="ws" />
+   <Option Name="Value" Value="(\s*)" />
+   <Option Name="Description" Value="Optional white space" />
+   <Option Name="Extra_Count" Value="1" />
+   <Option Name="Extra_0" Value="" />
+  </Section>
+ </Language>
+ <Language Name="*Neutral*">
+  <Section Name="Header">
+   <Option Name="Count" Value="0" />
+  </Section>
+ </Language>
+</Page>

@@ -1,0 +1,99 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Identifiers">
+ <Language Name="Basic">
+  <Section Name="Fields">
+   <Option Name="Style" Value="1" />
+   <Option Name="Prefix" Value="_" />
+  </Section>
+  <Section Name="Params">
+   <Option Name="Style" Value="0" />
+   <Option Name="Prefix" Value="" />
+  </Section>
+  <Section Name="Locals">
+   <Option Name="Style" Value="1" />
+   <Option Name="Prefix" Value="l" />
+  </Section>
+  <Section Name="Header">
+   <Option Name="Count" Value="3" />
+  </Section>
+  <Section Name="Record0">
+   <Option Name="STR_Name" Value="0" />
+   <Option Name="STR_Style" Value="0" />
+   <Option Name="STR_Prefix" Value="_" />
+   <Option Name="STR_Suffix" Value="" />
+  </Section>
+  <Section Name="Record1">
+   <Option Name="STR_Name" Value="1" />
+   <Option Name="STR_Style" Value="0" />
+   <Option Name="STR_Prefix" Value="" />
+   <Option Name="STR_Suffix" Value="" />
+  </Section>
+  <Section Name="Record2">
+   <Option Name="STR_Name" Value="2" />
+   <Option Name="STR_Style" Value="1" />
+   <Option Name="STR_Prefix" Value="l" />
+   <Option Name="STR_Suffix" Value="" />
+  </Section>
+ </Language>
+ <Language Name="CC++">
+  <Section Name="Fields">
+   <Option Name="Style" Value="1" />
+   <Option Name="Prefix" Value="_" />
+   <Option Name="Suffix" Value="" />
+  </Section>
+  <Section Name="Params">
+   <Option Name="Style" Value="1" />
+   <Option Name="Prefix" Value="p" />
+   <Option Name="Suffix" Value="" />
+  </Section>
+  <Section Name="Locals">
+   <Option Name="Style" Value="1" />
+   <Option Name="Prefix" Value="l" />
+   <Option Name="Suffix" Value="" />
+  </Section>
+  <Section Name="Header">
+   <Option Name="Count" Value="3" />
+  </Section>
+  <Section Name="Record0">
+   <Option Name="STR_Name" Value="0" />
+   <Option Name="STR_Style" Value="1" />
+   <Option Name="STR_Prefix" Value="_" />
+   <Option Name="STR_Suffix" Value="" />
+  </Section>
+  <Section Name="Record1">
+   <Option Name="STR_Name" Value="1" />
+   <Option Name="STR_Style" Value="1" />
+   <Option Name="STR_Prefix" Value="p" />
+   <Option Name="STR_Suffix" Value="" />
+  </Section>
+  <Section Name="Record2">
+   <Option Name="STR_Name" Value="2" />
+   <Option Name="STR_Style" Value="1" />
+   <Option Name="STR_Prefix" Value="l" />
+   <Option Name="STR_Suffix" Value="" />
+  </Section>
+ </Language>
+ <Language Name="CSharp">
+  <Section Name="Header">
+   <Option Name="Count" Value="3" />
+  </Section>
+  <Section Name="Record0">
+   <Option Name="STR_Name" Value="0" />
+   <Option Name="STR_Style" Value="0" />
+   <Option Name="STR_Prefix" Value="_" />
+   <Option Name="STR_Suffix" Value="" />
+  </Section>
+  <Section Name="Record1">
+   <Option Name="STR_Name" Value="1" />
+   <Option Name="STR_Style" Value="0" />
+   <Option Name="STR_Prefix" Value="" />
+   <Option Name="STR_Suffix" Value="" />
+  </Section>
+  <Section Name="Record2">
+   <Option Name="STR_Name" Value="2" />
+   <Option Name="STR_Style" Value="0" />
+   <Option Name="STR_Prefix" Value="" />
+   <Option Name="STR_Suffix" Value="" />
+  </Section>
+ </Language>
+</Page>

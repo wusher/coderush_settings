@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="IntelliSense">
+ <Language Name="*Neutral*">
+  <Section Name="Preferences">
+   <Option Name="SupressIntellisenseDot" Value="True" />
+  </Section>
+ </Language>
+</Page>

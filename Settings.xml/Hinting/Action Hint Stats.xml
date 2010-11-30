@@ -1,0 +1,733 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Action Hint Stats">
+ <Language Name="*Neutral*">
+  <Section Name="#Hints#">
+   <Option Name="Count" Value="7" />
+   <Option Name="Feature0" Value="Navigation" />
+   <Option Name="Feature1" Value="Code Templates" />
+   <Option Name="Feature2" Value="Code Creation" />
+   <Option Name="Feature3" Value="Selection Tools" />
+   <Option Name="Feature4" Value="Clipboard Ops" />
+   <Option Name="Feature5" Value="Visual Basic to C#" />
+   <Option Name="Feature6" Value="Intelligent Paste" />
+  </Section>
+  <Section Name="Navigation">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="Named:SlateBlue" />
+   <Option Name="Items" Value="1" />
+   <Option Name="Item0" Value="Collect Marker" />
+  </Section>
+  <Section Name="Navigation.Collect Marker">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="287" />
+   <Option Name="DisplayLimit" Value="4" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="Named:DarkRed" />
+   <Option Name="Items" Value="71" />
+   <Option Name="Item0" Value="Template: f" />
+   <Option Name="Item1" Value="Template: if" />
+   <Option Name="Item2" Value="Template: t" />
+   <Option Name="Item3" Value="Template: r" />
+   <Option Name="Item4" Value="Template: a?" />
+   <Option Name="Item5" Value="Template: p/" />
+   <Option Name="Item6" Value="Template: p\" />
+   <Option Name="Item7" Value="Template: ao" />
+   <Option Name="Item8" Value="Template: m" />
+   <Option Name="Item9" Value="Template: n" />
+   <Option Name="Item10" Value="Template: cw" />
+   <Option Name="Item11" Value="Template: c" />
+   <Option Name="Item12" Value="Template: ae" />
+   <Option Name="Item13" Value="Template: =f" />
+   <Option Name="Item14" Value="Template: ps" />
+   <Option Name="Item15" Value="Template: u" />
+   <Option Name="Item16" Value="Template: ag" />
+   <Option Name="Item17" Value="Template: pt" />
+   <Option Name="Item18" Value="Template: cc" />
+   <Option Name="Item19" Value="Template: a" />
+   <Option Name="Item20" Value="Template: s" />
+   <Option Name="Item21" Value="Template: set" />
+   <Option Name="Item22" Value="Template: =t" />
+   <Option Name="Item23" Value="Template: p" />
+   <Option Name="Item24" Value="Template: as" />
+   <Option Name="Item25" Value="Template: ad8" />
+   <Option Name="Item26" Value="Template: using" />
+   <Option Name="Item27" Value="Template: pb" />
+   <Option Name="Item28" Value="Template: ab" />
+   <Option Name="Item29" Value="Template: an" />
+   <Option Name="Item30" Value="Template: get" />
+   <Option Name="Item31" Value="Template: ai" />
+   <Option Name="Item32" Value="Template: =n" />
+   <Option Name="Item33" Value="Template: !+" />
+   <Option Name="Item34" Value="Template: rn" />
+   <Option Name="Item35" Value="Template: at" />
+   <Option Name="Item36" Value="Template: fe" />
+   <Option Name="Item37" Value="Template: mg" />
+   <Option Name="Item38" Value="Template: us" />
+   <Option Name="Item39" Value="Template: ann" />
+   <Option Name="Item40" Value="Template: sw" />
+   <Option Name="Item41" Value="Template: a." />
+   <Option Name="Item42" Value="Template: m." />
+   <Option Name="Item43" Value="Template: for" />
+   <Option Name="Item44" Value="Template: !=n" />
+   <Option Name="Item45" Value="Template: while" />
+   <Option Name="Item46" Value="Template: rt" />
+   <Option Name="Item47" Value="Template: c=" />
+   <Option Name="Item48" Value="Template: n." />
+   <Option Name="Item49" Value="Template: nl." />
+   <Option Name="Item50" Value="Template: ng" />
+   <Option Name="Item51" Value="Template: af" />
+   <Option Name="Item52" Value="Template: w" />
+   <Option Name="Item53" Value="Template: nb" />
+   <Option Name="Item54" Value="Template: g" />
+   <Option Name="Item55" Value="Template: cR" />
+   <Option Name="Item56" Value="Template: i" />
+   <Option Name="Item57" Value="Template: p." />
+   <Option Name="Item58" Value="Template: rf" />
+   <Option Name="Item59" Value="Template: nu" />
+   <Option Name="Item60" Value="Template: au" />
+   <Option Name="Item61" Value="Template: vS" />
+   <Option Name="Item62" Value="Template: qs" />
+   <Option Name="Item63" Value="Template: q" />
+   <Option Name="Item64" Value="Template: newguid" />
+   <Option Name="Item65" Value="Template: al." />
+   <Option Name="Item66" Value="Template: ad." />
+   <Option Name="Item67" Value="Template: =0" />
+   <Option Name="Item68" Value="Template: mb" />
+   <Option Name="Item69" Value="Template: Mo" />
+   <Option Name="Item70" Value="Template: ad" />
+  </Section>
+  <Section Name="Code Templates.Template: f">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="24" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: if">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="127" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: t">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="40" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: r">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="42" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: a?">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="2" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: p/">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: p\">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: ao">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="3" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: m">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="39" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: n">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="59" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: cw">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="22" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: c">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="35" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: ae">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="31" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: =f">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="12" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: ps">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="4" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: u">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="6" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: ag">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="4" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: pt">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: cc">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="32" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: a">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="2" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: s">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="4" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: set">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="7" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: =t">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="13" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: p">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="2" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: as">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="17" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: ad8">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="3" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: using">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="13" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: pb">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="2" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: ab">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="4" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: an">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="5" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: get">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="6" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: ai">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="4" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: =n">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="20" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: !+">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: rn">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="11" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: at">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="38" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: fe">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="34" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: mg">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: us">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="5" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: ann">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="11" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: sw">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="3" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: a.">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="14" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: m.">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="5" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: for">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: !=n">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="5" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: while">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="3" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: rt">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: c=">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: n.">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: nl.">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: ng">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: af">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="4" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: w">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="2" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: nb">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: g">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="10" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: cR">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: i">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="2" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: p.">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: rf">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: nu">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: au">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Creation">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="Named:DarkSalmon" />
+   <Option Name="Items" Value="8" />
+   <Option Name="Item0" Value="Visibility Change" />
+   <Option Name="Item1" Value="Duplicate Line: Using" />
+   <Option Name="Item2" Value="Duplicate Line: Field" />
+   <Option Name="Item3" Value="Duplicate Line: Assignment Statement" />
+   <Option Name="Item4" Value="Duplicate Line: Local Variable" />
+   <Option Name="Item5" Value="Duplicate Line: Method Call" />
+   <Option Name="Item6" Value="Duplicate Line: Property (auto-implemented)" />
+   <Option Name="Item7" Value="Duplicate Line: Initialized Field" />
+  </Section>
+  <Section Name="Code Creation.Visibility Change">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="111" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Creation.Duplicate Line: Using">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="12" />
+   <Option Name="DisplayLimit" Value="4" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Creation.Duplicate Line: Field">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="4" />
+   <Option Name="DisplayLimit" Value="4" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Creation.Duplicate Line: Assignment Statement">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="8" />
+   <Option Name="DisplayLimit" Value="4" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Creation.Duplicate Line: Local Variable">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="2" />
+   <Option Name="DisplayLimit" Value="4" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Creation.Duplicate Line: Method Call">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="5" />
+   <Option Name="DisplayLimit" Value="4" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Selection Tools">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="ARGB:255:23:0:232" />
+   <Option Name="Items" Value="8" />
+   <Option Name="Item0" Value="Embed: parentheses" />
+   <Option Name="Item1" Value="Embed: block" />
+   <Option Name="Item2" Value="Embed: try/catch/finally" />
+   <Option Name="Item3" Value="Embed: try/catch" />
+   <Option Name="Item4" Value="Embed: try/finally" />
+   <Option Name="Item5" Value="Embed: WaitCursor" />
+   <Option Name="Item6" Value="Embed: using" />
+   <Option Name="Item7" Value="Embed: region" />
+  </Section>
+  <Section Name="Selection Tools.Embed: parentheses">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="33" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Selection Tools.Embed: block">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="21" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Selection Tools.Embed: try/catch/finally">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Selection Tools.Embed: try/catch">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="4" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Selection Tools.Embed: try/finally">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Clipboard Ops">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="Named:LightSeaGreen" />
+   <Option Name="Items" Value="3" />
+   <Option Name="Item0" Value="Smart Cut" />
+   <Option Name="Item1" Value="Smart Copy" />
+   <Option Name="Item2" Value="Paste Replace" />
+  </Section>
+  <Section Name="Clipboard Ops.Smart Cut">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="4" />
+   <Option Name="DisplayLimit" Value="4" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Clipboard Ops.Smart Copy">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="4" />
+   <Option Name="DisplayLimit" Value="4" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Clipboard Ops.Paste Replace">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="4" />
+   <Option Name="DisplayLimit" Value="4" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Visual Basic to C#">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="ARGB:255:0:0:192" />
+   <Option Name="Items" Value="2" />
+   <Option Name="Item0" Value="Visual Basic to C#: And" />
+   <Option Name="Item1" Value="Visual Basic to C#: Or" />
+  </Section>
+  <Section Name="Visual Basic to C#.Visual Basic to C#: And">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="11" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Visual Basic to C#.Visual Basic to C#: Or">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="4" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Selection Tools.Embed: not-parentheses">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: e">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: #AddEnum#">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="3" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Creation.Duplicate Line: Property (auto-implemented)">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="2" />
+   <Option Name="DisplayLimit" Value="4" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: vS">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: qs">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: q">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: ad">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: newguid">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="13" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: al.">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: ad.">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: =0">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: mb">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="3" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Creation.Duplicate Line: Initialized Field">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="4" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Intelligent Paste">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="Named:DarkOrange" />
+   <Option Name="Items" Value="2" />
+   <Option Name="Item0" Value="Introduce Local Intelligent Paste" />
+   <Option Name="Item1" Value="Paste Identifier Dot" />
+  </Section>
+  <Section Name="Intelligent Paste.Introduce Local Intelligent Paste">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Selection Tools.Embed: WaitCursor">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Selection Tools.Embed: using">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: Mo">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Selection Tools.Embed: region">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="4" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Intelligent Paste.Paste Identifier Dot">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="3" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+ </Language>
+</Page>

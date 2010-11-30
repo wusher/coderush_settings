@@ -1,0 +1,15 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Templates">
+ <Language Name="CSharp">
+  <Section Name="Options">
+   <Option Name="SelectedNode" Value="Flow\fe" />
+   <Option Name="SplitterPosition" Value="244" />
+   <Option Name="TreeSplitterPosition" Value="160" />
+  </Section>
+ </Language>
+ <Language Name="JavaScript">
+  <Section Name="Options">
+   <Option Name="SelectedNode" Value="If blocks\if" />
+  </Section>
+ </Language>
+</Page>

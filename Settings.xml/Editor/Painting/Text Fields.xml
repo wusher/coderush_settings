@@ -1,0 +1,9 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Text Fields">
+ <Language Name="*Neutral*">
+  <Section Name="Colors">
+   <Option Name="BackLens" Value="ARGB:255:255:204:134" />
+   <Option Name="GradientBorder" Value="ARGB:255:249:143:0" />
+  </Section>
+ </Language>
+</Page>

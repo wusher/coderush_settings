@@ -1,0 +1,10 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Break Apart Parameters/Arguments">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="ParameterAlignment" Value="WithMethod" />
+   <Option Name="ParamsCount" Value="3" />
+   <Option Name="IndentFirst" Value="False" />
+  </Section>
+ </Language>
+</Page>

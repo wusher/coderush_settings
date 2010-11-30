@@ -1,0 +1,9 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Format On Save">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="LanguagesToFormat" Value="CPlusPlus, CSharp, JavaScript, VisualBasic, Xml" />
+  </Section>
+ </Language>
+</Page>

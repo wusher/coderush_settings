@@ -1,0 +1,15 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Code Difference">
+ <Language Name="*Neutral*">
+  <Section Name="Appearance">
+   <Option Name="AddMarkerColor" Value="ARGB:255:167:255:175" />
+   <Option Name="DeleteMarkerColor" Value="Named:Red" />
+   <Option Name="ModifyMarkerColor" Value="Named:Blue" />
+   <Option Name="DefaultMarkerColor" Value="Named:Transparent" />
+   <Option Name="AddMarkerOpacity" Value="255" />
+   <Option Name="DeleteMarkerOpacity" Value="255" />
+   <Option Name="ModifyMarkerOpacity" Value="100" />
+   <Option Name="DefaultMarkerOpacity" Value="100" />
+  </Section>
+ </Language>
+</Page>

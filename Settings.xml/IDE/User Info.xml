@@ -1,0 +1,16 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="User Info">
+ <Language Name="*Neutral*">
+  <Section Name="Options">
+   <Option Name="Keys_Count" Value="3" />
+   <Option Name="Keys_0" Value="First Name" />
+   <Option Name="Keys_1" Value="Last Name" />
+   <Option Name="Keys_2" Value="Middle Name" />
+   <Option Name="Fields_Count" Value="3" />
+   <Option Name="Fields_0" Value="IMMIGRATIONLAW\wusher" />
+   <Option Name="Fields_1" Value="" />
+   <Option Name="Fields_2" Value="" />
+  </Section>
+ </Language>
+ <Language Name="StarNeutralStar" />
+</Page>

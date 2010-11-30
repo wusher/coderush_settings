@@ -1,0 +1,23 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Recent Files Options">
+ <Language Name="*Neutral*">
+  <Section Name="Options">
+   <Option Name="MaxCount" Value="500" />
+   <Option Name="DefFilterExt" Value="*" />
+   <Option Name="DisplayTmpFiles" Value="False" />
+   <Option Name="UseNetworkFiles" Value="False" />
+   <Option Name="Width" Value="300" />
+   <Option Name="Height" Value="400" />
+   <Option Name="Left" Value="10" />
+   <Option Name="Top" Value="10" />
+   <Option Name="StringFilterVizibility" Value="True" />
+   <Option Name="DateFilterVizibility" Value="False" />
+   <Option Name="DateFromChecked" Value="False" />
+   <Option Name="OlderThanChecked" Value="False" />
+   <Option Name="OlderVal" Value="0" />
+   <Option Name="OlderPar" Value="0" />
+   <Option Name="StartDate" Value="1/1/0001 12:00:00 AM" />
+   <Option Name="EndDate" Value="12/31/9999 11:59:59 PM" />
+  </Section>
+ </Language>
+</Page>

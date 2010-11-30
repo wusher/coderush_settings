@@ -1,0 +1,15 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Linked Identifiers">
+ <Language Name="*Neutral*">
+  <Section Name="Colors">
+   <Option Name="Border" Value="ARGB:255:85:221:85" />
+   <Option Name="Text" Value="ARGB:255:0:58:11" />
+   <Option Name="Back" Value="ARGB:255:215:255:218" />
+   <Option Name="GradientBorder" Value="ARGB:255:0:217:152" />
+   <Option Name="BackLens" Value="ARGB:255:79:255:185" />
+  </Section>
+  <Section Name="Preferences">
+   <Option Name="CheckForAmbiguity" Value="False" />
+  </Section>
+ </Language>
+</Page>

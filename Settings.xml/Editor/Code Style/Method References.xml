@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Method References">
+ <Language Name="*Neutral*">
+  <Section Name="MethodReferences">
+   <Option Name="UseAsParameterType" Value="AlwaysUseDelegates" />
+  </Section>
+ </Language>
+</Page>

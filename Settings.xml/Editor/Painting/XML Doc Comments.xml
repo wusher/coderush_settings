@@ -1,0 +1,35 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="XML Doc Comments">
+ <Language Name="*Neutral*">
+  <Section Name="Options">
+   <Option Name="Enabled" Value="False" />
+   <Option Name="NameLeftRightMargin" Value="4" />
+   <Option Name="TopTextMargin" Value="3" />
+   <Option Name="BottomTextMargin" Value="2" />
+   <Option Name="DetailLeftMargin" Value="5" />
+   <Option Name="DetailRightMargin" Value="0" />
+   <Option Name="DetailWrapAdjust" Value="20" />
+   <Option Name="IconLeftMargin" Value="4" />
+   <Option Name="IconTopMargin" Value="4" />
+   <Option Name="RightViewMargin" Value="8" />
+  </Section>
+  <Section Name="Fonts">
+   <Option Name="NameFontName" Value="Consolas" />
+   <Option Name="NameFontStyle" Value="Regular" />
+   <Option Name="DetailFontName" Value="Consolas" />
+   <Option Name="DetailFontStyle" Value="Regular" />
+   <Option Name="RemarksFontName" Value="Consolas" />
+   <Option Name="RemarksFontStyle" Value="Regular" />
+   <Option Name="MethodParensFontName" Value="Arial" />
+   <Option Name="MethodParensFontStyle" Value="Regular" />
+   <Option Name="OtherNameFontName" Value="Consolas" />
+   <Option Name="OtherNameFontStyle" Value="Regular" />
+  </Section>
+  <Section Name="Colors">
+   <Option Name="MasterBackgroundColor" Value="ARGB:255:33:51:105" />
+   <Option Name="DetailTextColor" Value="ARGB:255:51:78:158" />
+   <Option Name="NameTextColor" Value="ARGB:255:166:186:246" />
+   <Option Name="OtherNameTextColor" Value="ARGB:255:51:78:158" />
+  </Section>
+ </Language>
+</Page>

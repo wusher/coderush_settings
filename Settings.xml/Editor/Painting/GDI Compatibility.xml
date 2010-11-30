@@ -1,0 +1,11 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="GDI Compatibility">
+ <Language Name="*Neutral*">
+  <Section Name="PaintingCompatibility">
+   <Option Name="EnableEditorPaint" Value="True" />
+   <Option Name="EnableEditorPaintBackground" Value="True" />
+   <Option Name="EnableEditorPaintForeground" Value="True" />
+   <Option Name="EnableEditorPaintLanguageElement" Value="True" />
+  </Section>
+ </Language>
+</Page>

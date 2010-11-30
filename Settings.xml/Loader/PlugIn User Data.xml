@@ -1,0 +1,1045 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="PlugIn User Data">
+ <Language Name="*Neutral*">
+  <Section Name="DX_About">
+   <Option Name="LoadType" Value="StartUp" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_AspExtensions">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_CodeDifference">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_CodeStyle">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_ContentEngine">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_ContextResolver">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_CoreDialogs">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_CoreProviders">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_CPPLanguage">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_CSharpLanguage">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_FeatureEngine">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_IncParseEngine">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_IntellassistEngine">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_JavaScriptLanguage">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_LinkedIdentifierEngine">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_MarkerEngine">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_MemoryManager">
+   <Option Name="LoadType" Value="StartUp" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_PaintingCompatibility">
+   <Option Name="LoadType" Value="StartUp" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_PlugInManager">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_ProgressEngine">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_ProgressVisualizer">
+   <Option Name="LoadType" Value="StartUp" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_RegExEngine">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_ShortcutEngine">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_SmartPasteEngine">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_SmartTagEngine">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_SourceTreeResolver">
+   <Option Name="LoadType" Value="StartUp" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_TextExpansionEngine">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_TextFieldEngine">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_UserGuide">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_VBLanguage">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_XmlLanguage">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_XPOSupport">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Code_Creation">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Code_Declare">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Code_Deletions">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Code_Inversion">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Code_References">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Code_Rotate">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_AdvancedSelections">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_AutoDeclare">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_CamelCaseNav">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_ClickIdentifier">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_ClipboardHistory">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_CodeIssueUI">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_ConvertToInteger">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_DropMarkerBeforeJump">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_DuplicateLine">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_Embedding">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_EnumAssist">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_ExpressionFocus">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_FlowBreak">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_ForEach">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_Intellassist">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_LineHighlighter">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_Markers">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_MbUnitTesting">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_MemberIcons">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_MemberMover">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_MemberOrg">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_Navigation">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_NextReference">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_NUnitTesting">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_OpenFilePicker">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_PathAssist">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_QuickNav">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_RecentFiles">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_References">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_Regions">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_RightMarginLine">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_ScopeHelper">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_SelectionHandling">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_ShowColor">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_ShowMetrics">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_SmartConstructor">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_SmartEnter">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_SmartExpressions">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_SmartPaste">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_SmartTemplates">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_SourceTree">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_SpellChecker">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_StepIntoMember">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_StructuralHighlighting">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_TableSizeUI">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_Templates">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_Training">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_TrainingVideos">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_UnitTestRunner">
+   <Option Name="LoadType" Value="StartUp" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_VSHElpers">
+   <Option Name="LoadType" Value="StartUp" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_VSTesting">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="StartUp" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_XmlDocCommentPainter">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_xUnitTesting">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_EvalWelcome">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_ExpressionLab">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_HintOptions">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_MemoryLab">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_MessageLog">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_OptionsDialog">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_SystemSettings">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_UserInfo">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_AddAssociatedControlID">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_AddRunAt">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_AddValidator">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_AnonymousTypes">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Attributes">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_BooleanToEnum">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_BreakApartLineUpAttributes">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_CombineConditionals">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ComplexityMetrics">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Conditionals">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ConvertColor">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ConvertLength">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ConvertToSkin">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ConvertTypes">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_CreateCaseBlocks">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_CreateMethodContract">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_CreateMethodStub">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_CreateMultivariableDeclaration">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_CreateOverload">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_CreateSetterMethod">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Declarations">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_DecomposeParameters">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_DefineDirectives">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Delegates">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_EncapsulateDowncast">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_EncapsulateMember">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Engine">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ExtraConditionals">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ExtractContentPlaceHolder">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ExtractInterface">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Extractions">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ExtractionsXAML">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ExtractScript">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ExtractStyle">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ExtractUserControl">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Files">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_FlattenConditional">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Formatting">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Initializers">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_InlineDelegate">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_InlineMacro">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_InlineRecentAssignment">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_InlineResult">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_IntroduceConstant">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_IntroduceParameterObject">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_IntroduceUsing">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Loops">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_MakeExtensionMethod">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_MakeIDUnique">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_MethodToProperty">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_MoveMembers">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_MoveMethod">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_MoveStyleToCss">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_MoveToCodeBehind">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_NameAnonymousMethod">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_NullCoalescingOperation">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_OptimizeUsings">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Parallel">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Parameters">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_PromoteConstantToClass">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_PromoteToParameter">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Properties">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_PropertyToMethod">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_RemoveRedundantElement">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_RemoveTag">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_RenameStyle">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Renaming">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ReorderAttributes">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ReorderParams">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Replacement">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Resources">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_SetCssClass">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_SplitCallParameters">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_SplitMultivariableDeclaration">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_SplitWithStatement">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Statements">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Strings">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_SurroundWith">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_SurroundWithUpdatePanel">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_SwitchConditionals">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Tags">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Temps">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ToggleViewState">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_UseStringFormat">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_VBSpecific">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Visibilities">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_WidenScope">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_WithStatement">
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_JumpToImplementation">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_MetricShader">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_QuickAddReference">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_SmartGenerics">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_StackOverflowIssues">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_StyleNinja">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_Extras">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_MoveCode">
+   <Option Name="LoadType" Value="Default" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="MiniCodeColumn">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="UnitTestErrorVisualizer">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_LinkedIdentifierEngine08">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_ShowTestRunner">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_ZenCoding">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="OS_CompilationResult-1.0.0.0">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_ClassCleaner">
+   <Option Name="LoadType" Value="StartUp" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_FormatOnSave">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_Resolve">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_SplitStringContrib">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_Profiling">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_SmartQuotes">
+   <Option Name="LoadType" Value="StartUp" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="DX_GuidGen">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+ </Language>
+</Page>

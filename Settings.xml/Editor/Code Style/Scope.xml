@@ -1,0 +1,14 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Scope">
+ <Language Name="*Neutral*">
+  <Section Name="Options">
+   <Option Name="FieldScope" Value="Private" />
+   <Option Name="ConstantScope" Value="Private" />
+   <Option Name="MethodScope" Value="Private" />
+   <Option Name="PropertyScope" Value="Public" />
+   <Option Name="EventScope" Value="Public" />
+   <Option Name="TypeScope" Value="Public" />
+   <Option Name="NestedTypeScope" Value="MatchParentScope" />
+  </Section>
+ </Language>
+</Page>

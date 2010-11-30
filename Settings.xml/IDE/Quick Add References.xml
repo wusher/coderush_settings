@@ -1,0 +1,11 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Quick Add References">
+ <Language Name="*Neutral*">
+  <Section Name="QuickAdd">
+   <Option Name="Common_Count" Value="0" />
+   <Option Name="Win_Count" Value="0" />
+   <Option Name="Web_Count" Value="0" />
+   <Option Name="DXCore_Count" Value="0" />
+  </Section>
+ </Language>
+</Page>

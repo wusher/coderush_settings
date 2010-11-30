@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Navigation Fields">
+ <Language Name="*Neutral*">
+  <Section Name="Colors">
+   <Option Name="LineColor" Value="ARGB:255:255:0:166" />
+  </Section>
+ </Language>
+</Page>

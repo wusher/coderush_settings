@@ -1,0 +1,15 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Mini Code Column">
+ <Language Name="*Neutral*">
+  <Section Name="Config">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="WordDoubleClickEnabled" Value="False" />
+   <Option Name="ColumnBackgroundColor" Value="1677733726" />
+   <Option Name="ColumnBackgroundColorSelectedWord" Value="1694433280" />
+   <Option Name="ColumnVisibleLinesColor" Value="1644167281" />
+   <Option Name="CodeColorNormalLine" Value="1677721600" />
+   <Option Name="CodeColorPenSelectedWord" Value="1694433280" />
+   <Option Name="CodeColorCommentLine" Value="1677754368" />
+  </Section>
+ </Language>
+</Page>

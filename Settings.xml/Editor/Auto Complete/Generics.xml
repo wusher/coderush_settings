@@ -1,0 +1,13 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Generics">
+ <Language Name="*Neutral*">
+  <Section Name="Settings">
+   <Option Name="UseSmartGenerics" Value="True" />
+   <Option Name="SmartGenericsAutoComplete" Value="True" />
+   <Option Name="SmartGenericsUseTextFields" Value="True" />
+   <Option Name="SmartGenericsAddSpace" Value="False" />
+   <Option Name="SmartGenericsEasyDelete" Value="True" />
+   <Option Name="SmartGenericsIgnoreClosingOperator" Value="True" />
+  </Section>
+ </Language>
+</Page>

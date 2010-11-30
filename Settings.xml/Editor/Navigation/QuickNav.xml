@@ -1,0 +1,48 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="QuickNav">
+ <Language Name="*Neutral*">
+  <Section Name="Options">
+   <Option Name="Width" Value="681" />
+   <Option Name="MaxVisibleRows" Value="15" />
+   <Option Name="ShowingFilterControls" Value="True" />
+   <Option Name="ShowingStringFilter" Value="True" />
+   <Option Name="ShowTypeNames" Value="True" />
+   <Option Name="HighlightColor" Value="ARGB:255:78:118:238" />
+   <Option Name="PreviewTarget" Value="True" />
+   <Option Name="FillRange" Value="True" />
+   <Option Name="OutlineRange" Value="True" />
+   <Option Name="DrawSelectionBars" Value="True" />
+   <Option Name="DropMarker" Value="True" />
+   <Option Name="ThickSelectionBars" Value="True" />
+   <Option Name="PreviewPosition" Value="1" />
+  </Section>
+  <Section Name="FilterTypes">
+   <Option Name="0" Value="True" />
+   <Option Name="1" Value="True" />
+   <Option Name="2" Value="True" />
+   <Option Name="3" Value="True" />
+   <Option Name="4" Value="True" />
+  </Section>
+  <Section Name="FilterMembers">
+   <Option Name="0" Value="True" />
+   <Option Name="1" Value="True" />
+   <Option Name="2" Value="True" />
+   <Option Name="3" Value="True" />
+   <Option Name="4" Value="True" />
+  </Section>
+  <Section Name="FilterAccess">
+   <Option Name="0" Value="True" />
+   <Option Name="1" Value="True" />
+   <Option Name="2" Value="True" />
+   <Option Name="3" Value="True" />
+   <Option Name="4" Value="True" />
+  </Section>
+  <Section Name="FilterLocation">
+   <Option Name="0" Value="False" />
+   <Option Name="1" Value="True" />
+   <Option Name="2" Value="False" />
+   <Option Name="3" Value="False" />
+   <Option Name="4" Value="False" />
+  </Section>
+ </Language>
+</Page>

@@ -1,0 +1,12 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Test Runner">
+ <Language Name="*Neutral*">
+  <Section Name="Global">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="EnableTiles" Value="True" />
+   <Option Name="UseOutputWindow" Value="True" />
+   <Option Name="ShowVSProgressBar" Value="True" />
+   <Option Name="ClearAllBeforeRun" Value="False" />
+  </Section>
+ </Language>
+</Page>

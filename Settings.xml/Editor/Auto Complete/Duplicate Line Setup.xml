@@ -1,0 +1,9 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Duplicate Line Setup">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="CopyLineIfNoMatchFound" Value="False" />
+   <Option Name="DuplicatePreviousLine" Value="False" />
+  </Section>
+ </Language>
+</Page>

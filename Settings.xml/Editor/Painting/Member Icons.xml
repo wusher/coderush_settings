@@ -1,0 +1,10 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Member Icons">
+ <Language Name="*Neutral*">
+  <Section Name="Preferences">
+   <Option Name="MemberIconOpacity" Value="0" />
+   <Option Name="Enabled" Value="True" />
+   <Option Name="MemberIconStyle" Value="Member" />
+  </Section>
+ </Language>
+</Page>

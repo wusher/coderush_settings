@@ -1,0 +1,17 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Smart Constructor">
+ <Language Name="*Neutral*">
+  <Section Name="Options">
+   <Option Name="MaxParamsCount" Value="10" />
+   <Option Name="AlwaysSelect" Value="True" />
+   <Option Name="SelectWhenGreater" Value="False" />
+   <Option Name="NeverSelect" Value="False" />
+   <Option Name="GenerateProperties" Value="False" />
+   <Option Name="GenerateXmlComments" Value="True" />
+   <Option Name="GenerateBaseFields" Value="False" />
+   <Option Name="DefaultSummaryText" Value="Initializes a new instance of the «TypeName» «TypeKind»." />
+   <Option Name="FieldSelectorSortMode" Value="ByDeclaration" />
+   <Option Name="UseSerialization" Value="True" />
+  </Section>
+ </Language>
+</Page>

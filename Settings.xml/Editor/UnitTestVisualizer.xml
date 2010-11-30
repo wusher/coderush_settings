@@ -1,0 +1,10 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="UnitTestVisualizer">
+ <Language Name="*Neutral*">
+  <Section Name="Preferences">
+   <Option Name="ShadeAttribute" Value="True" />
+   <Option Name="DrawArrow" Value="True" />
+   <Option Name="OverlayError" Value="True" />
+  </Section>
+ </Language>
+</Page>

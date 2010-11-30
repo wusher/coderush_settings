@@ -1,0 +1,9 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Default Names">
+ <Language Name="CSharp">
+  <Section Name="Header">
+   <Option Name="Count" Value="0" />
+   <Option Name="UseCollection" Value="False" />
+  </Section>
+ </Language>
+</Page>

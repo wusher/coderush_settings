@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Resolve">
+ <Language Name="*Neutral*">
+  <Section Name="Resolve">
+   <Option Name="Options" Value="111" />
+  </Section>
+ </Language>
+</Page>

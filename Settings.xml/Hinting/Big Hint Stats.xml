@@ -1,0 +1,47 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Big Hint Stats">
+ <Language Name="*Neutral*">
+  <Section Name="#Hints#">
+   <Option Name="Count" Value="3" />
+   <Option Name="Feature0" Value="Refactoring" />
+   <Option Name="Feature1" Value="Shortcuts Option Page" />
+   <Option Name="Feature2" Value="CodeRush Options" />
+  </Section>
+  <Section Name="Refactoring">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="Named:DarkGray" />
+   <Option Name="Items" Value="1" />
+   <Option Name="Item0" Value="Context menu hint" />
+  </Section>
+  <Section Name="Refactoring.Context menu hint">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1923" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Shortcuts Option Page">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="Named:DarkGray" />
+   <Option Name="Items" Value="1" />
+   <Option Name="Item0" Value="Empty Folder" />
+  </Section>
+  <Section Name="Shortcuts Option Page.Empty Folder">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="9" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="CodeRush Options">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="Color" Value="Named:DarkGray" />
+   <Option Name="Items" Value="1" />
+   <Option Name="Item0" Value="Information" />
+  </Section>
+  <Section Name="CodeRush Options.Information">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="7" />
+   <Option Name="DisplayLimit" Value="0" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+ </Language>
+</Page>

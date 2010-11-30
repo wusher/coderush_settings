@@ -1,0 +1,17 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Quotes &amp; Double Quotes">
+ <Language Name="*Neutral*">
+  <Section Name="Settings">
+   <Option Name="UseSmartDoubleQuotes" Value="True" />
+   <Option Name="DoubleQuotesAutoComplete" Value="True" />
+   <Option Name="DoubleQuotesUseTextFields" Value="True" />
+   <Option Name="DoubleQuotesEasyDelete" Value="True" />
+   <Option Name="DoubleQuotesIgnoreClosingQuote" Value="True" />
+   <Option Name="UseSmartQuotes" Value="True" />
+   <Option Name="QuotesAutoComplete" Value="True" />
+   <Option Name="QuotesUseTextFields" Value="True" />
+   <Option Name="QuotesEasyDelete" Value="True" />
+   <Option Name="QuotesIgnoreClosingQuote" Value="True" />
+  </Section>
+ </Language>
+</Page>

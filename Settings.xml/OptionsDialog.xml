@@ -1,0 +1,22 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="OptionsDialog">
+ <Language Name="*Neutral*">
+  <Section Name="Position">
+   <Option Name="ScreenHeight" Value="1024" />
+   <Option Name="ScreenWidth" Value="1280" />
+   <Option Name="WindowState" Value="2" />
+   <Option Name="SplitOpen" Value="True" />
+   <Option Name="Top" Value="217" />
+   <Option Name="Left" Value="438" />
+   <Option Name="Width" Value="800" />
+   <Option Name="Height" Value="552" />
+  </Section>
+  <Section Name="Preferences">
+   <Option Name="ShowHints" Value="False" />
+   <Option Name="LastLanguage" Value="CSharp" />
+   <Option Name="UserLevel" Value="Expert" />
+   <Option Name="LastSelectedNode" Value="Core\Settings" />
+   <Option Name="PriorSelectedNode" Value="Core" />
+  </Section>
+ </Language>
+</Page>

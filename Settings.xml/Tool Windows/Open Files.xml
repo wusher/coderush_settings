@@ -1,0 +1,23 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Open Files">
+ <Language Name="*Neutral*">
+  <Section Name="Show">
+   <Option Name="Toolbar" Value="True" />
+   <Option Name="StatusBar" Value="True" />
+  </Section>
+  <Section Name="ArrangeBy">
+   <Option Name="Path" Value="False" />
+   <Option Name="Project" Value="False" />
+   <Option Name="File" Value="True" />
+  </Section>
+  <Section Name="VisibleToolbarButtons">
+   <Option Name="LastHelpPage" Value="True" />
+   <Option Name="ObjectBrowser" Value="False" />
+   <Option Name="StartPage" Value="True" />
+   <Option Name="WebBrowser" Value="False" />
+  </Section>
+  <Section Name="Stats">
+   <Option Name="HotBarAdvance" Value="300" />
+  </Section>
+ </Language>
+</Page>

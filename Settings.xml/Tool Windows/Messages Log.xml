@@ -1,0 +1,11 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Messages Log">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="AutoScroll" Value="True" />
+   <Option Name="WordWrap" Value="False" />
+   <Option Name="DataView" Value="False" />
+   <Option Name="DockSide" Value="OnRight" />
+  </Section>
+ </Language>
+</Page>

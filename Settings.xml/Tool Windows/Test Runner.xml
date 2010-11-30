@@ -1,0 +1,11 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Test Runner">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="DataView" Value="True" />
+   <Option Name="DockSide" Value="Bottom" />
+   <Option Name="DataViewWidth" Value="297" />
+   <Option Name="DataViewHeight" Value="326" />
+  </Section>
+ </Language>
+</Page>

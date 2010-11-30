@@ -1,0 +1,13 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Right Margin Line">
+ <Language Name="*Neutral*">
+  <Section Name="Config">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="LineColor" Value="Named:Blue" />
+   <Option Name="MarginColor" Value="60" />
+   <Option Name="Opacity" Value="40" />
+   <Option Name="DashStyle" Value="Dot" />
+   <Option Name="LineWidth" Value="1" />
+  </Section>
+ </Language>
+</Page>

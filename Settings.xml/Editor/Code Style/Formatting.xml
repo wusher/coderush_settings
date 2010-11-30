@@ -1,0 +1,16 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Formatting">
+ <Language Name="*Neutral*">
+  <Section Name="Preferences">
+   <Option Name="FormatSmartPaste" Value="True" />
+   <Option Name="FormatSelectionInversion" Value="True" />
+   <Option Name="FormatAutoDeclaration" Value="True" />
+   <Option Name="FormatRefactoring" Value="True" />
+   <Option Name="FormatSingleLineEmbedding" Value="True" />
+   <Option Name="FormatDuplicateLine" Value="True" />
+   <Option Name="FormatTemplate" Value="True" />
+   <Option Name="FormatMultiLineEmbedding" Value="True" />
+   <Option Name="FormatCodeLibraryClip" Value="True" />
+  </Section>
+ </Language>
+</Page>

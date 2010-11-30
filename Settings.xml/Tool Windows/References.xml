@@ -1,0 +1,53 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="References">
+ <Language Name="*Neutral*">
+  <Section Name="Layout">
+   <Option Name="SplitterPos" Value="0.69375" />
+  </Section>
+  <Section Name="Font">
+   <Option Name="Scale" Value="1" />
+   <Option Name="Size" Value="0" />
+   <Option Name="Name" Value="" />
+   <Option Name="CategoryName" Value="Arial" />
+  </Section>
+  <Section Name="Show">
+   <Option Name="Projects" Value="False" />
+   <Option Name="Namespaces" Value="True" />
+   <Option Name="Files" Value="False" />
+   <Option Name="Classes" Value="True" />
+   <Option Name="Members" Value="True" />
+  </Section>
+  <Section Name="Orientation">
+   <Option Name="Landscape" Value="True" />
+   <Option Name="Portrait" Value="False" />
+   <Option Name="ReferencesOnly" Value="False" />
+  </Section>
+  <Section Name="Sort">
+   <Option Name="Alphabetical" Value="True" />
+   <Option Name="ByRefCount" Value="False" />
+  </Section>
+  <Section Name="Colors">
+   <Option Name="Highlight" Value="ARGB:255:254:255:169" />
+   <Option Name="Member" Value="ARGB:255:57:119:213" />
+   <Option Name="Type" Value="ARGB:255:95:145:221" />
+   <Option Name="Status" Value="ARGB:255:95:145:221" />
+   <Option Name="Caution" Value="ARGB:255:222:96:96" />
+   <Option Name="File" Value="ARGB:255:159:189:235" />
+   <Option Name="Namespace" Value="ARGB:255:127:167:228" />
+   <Option Name="Summary" Value="ARGB:255:159:189:235" />
+   <Option Name="ExpandCollapseButton" Value="ARGB:255:167:198:245" />
+   <Option Name="ExpandCollapsePlusMinusLine" Value="ARGB:255:104:152:224" />
+   <Option Name="Project" Value="ARGB:255:168:195:236" />
+   <Option Name="Indicator" Value="ARGB:255:131:131:253" />
+   <Option Name="Line" Value="ARGB:255:205:221:245" />
+   <Option Name="SeparatorLine" Value="ARGB:255:221:232:249" />
+   <Option Name="Row Highlight" Value="ARGB:255:161:161:255" />
+  </Section>
+  <Section Name="LiveSync">
+   <Option Name="Active" Value="False" />
+  </Section>
+  <Section Name="Processing">
+   <Option Name="VisualizeReferenceSearch" Value="True" />
+  </Section>
+ </Language>
+</Page>

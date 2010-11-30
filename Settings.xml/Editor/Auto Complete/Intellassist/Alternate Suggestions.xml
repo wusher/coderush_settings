@@ -1,0 +1,19 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Alternate Suggestions">
+ <Language Name="*Neutral*">
+  <Section Name="History">
+   <Option Name="settings" Value="settings" />
+   <Option Name="localConfigPath,path,LoadLocalServerConfig" Value="path" />
+   <Option Name="securityGroup,_securityGroup" Value="securityGroup" />
+   <Option Name="xmlElement" Value="xmlElement" />
+   <Option Name="isSuccessful" Value="isSuccessful" />
+   <Option Name="_session" Value="_session" />
+   <Option Name="path,GetPathForEmployer,GetPathForContact,GetPathForAddress" Value="path" />
+   <Option Name="CreateUri,GetPathForEmployer,GetPathForAddress,GetPathForForeignNational" Value="CreateUri" />
+   <Option Name="mail" Value="mail" />
+   <Option Name="result" Value="result" />
+   <Option Name="value" Value="value" />
+   <Option Name="doc" Value="doc" />
+  </Section>
+ </Language>
+</Page>

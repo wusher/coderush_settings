@@ -1,0 +1,29 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Show Metrics">
+ <Language Name="*Neutral*">
+  <Section Name="Preferences">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ClickableMetrics" Value="True" />
+   <Option Name="OnRight" Value="False" />
+   <Option Name="Opacity.CyclomaticComplexity" Value="255" />
+   <Option Name="Color.CyclomaticComplexity" Value="ARGB:255:255:13:13" />
+   <Option Name="Opacity.DIT" Value="128" />
+   <Option Name="Color.DIT" Value="Named:Firebrick" />
+   <Option Name="Opacity.LineCount" Value="128" />
+   <Option Name="Color.LineCount" Value="Named:Firebrick" />
+   <Option Name="Opacity.MaintenanceComplexity" Value="128" />
+   <Option Name="Color.MaintenanceComplexity" Value="Named:Firebrick" />
+   <Option Name="Opacity.NMI" Value="128" />
+   <Option Name="Color.NMI" Value="Named:Firebrick" />
+   <Option Name="Opacity.NOC" Value="128" />
+   <Option Name="Color.NOC" Value="Named:Firebrick" />
+   <Option Name="Opacity.PMI" Value="128" />
+   <Option Name="Color.PMI" Value="Named:Firebrick" />
+   <Option Name="Opacity.PrIM" Value="128" />
+   <Option Name="Color.PrIM" Value="Named:Firebrick" />
+   <Option Name="Opacity.DemoMetric" Value="128" />
+   <Option Name="Color.DemoMetric" Value="Named:Firebrick" />
+   <Option Name="Metric" Value="CyclomaticComplexity" />
+  </Section>
+ </Language>
+</Page>

@@ -1,0 +1,9 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="MoveCode">
+ <Language Name="*Neutral*">
+  <Section Name="MoveCode">
+   <Option Name="MoveSource" Value="True" />
+   <Option Name="SwapElements" Value="False" />
+  </Section>
+ </Language>
+</Page>

@@ -1,0 +1,8 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="VS Helpers">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="SetNewProjectsAsStartup" Value="False" />
+  </Section>
+ </Language>
+</Page>
