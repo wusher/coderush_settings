@@ -705,7 +705,7 @@
   </Section>
   <Section Name="Supress IntelliSense Dot">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="250" />
+   <Option Name="QueryCount" Value="252" />
    <Option Name="Description" Value="Suppress+IntelliSense+acceptance+when+potential+templates+(that+include+the+inserted+character)+exist+at+the+caret." />
    <Option Name="OptionsPage" Value="Compatibility%5cIntelliSense" />
    <Option Name="Scope" Value="Other+features" />
@@ -1457,7 +1457,7 @@
   </Section>
   <Section Name="a.">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="29" />
+   <Option Name="QueryCount" Value="30" />
    <Option Name="Description" Value="Declares+an+auto-implemented+property+of+type+object+(type+is+selected+after+expansion+for+quick+changes).+" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -1737,7 +1737,7 @@
   </Section>
   <Section Name="p.">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="10" />
+   <Option Name="QueryCount" Value="11" />
    <Option Name="Description" Value="Declares+a+read%2fwrite+property+of+type+object+(type+is+selected+after+expansion+for+quick+changes).+" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />

@@ -4,7 +4,7 @@
   <Section Name="Root">
    <Option Name="LocalName" Value="Text Editor" />
    <Option Name="FontName" Value="Consolas" />
-   <Option Name="FontSize" Value="10" />
+   <Option Name="FontSize" Value="12" />
    <Option Name="FontCharSet" Value="ANSI" />
    <Option Name="BaseCategoryID" Value="00000000-0000-0000-0000-000000000000" />
    <Option Name="Count" Value="189" />
