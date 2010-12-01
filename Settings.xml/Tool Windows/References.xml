@@ -44,7 +44,7 @@
    <Option Name="Row Highlight" Value="ARGB:255:161:161:255" />
   </Section>
   <Section Name="LiveSync">
-   <Option Name="Active" Value="False" />
+   <Option Name="Active" Value="True" />
   </Section>
   <Section Name="Processing">
    <Option Name="VisualizeReferenceSearch" Value="True" />

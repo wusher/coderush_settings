@@ -3,8 +3,8 @@
  <Language Name="*Neutral*">
   <Section Name="General">
    <Option Name="Enabled" Value="True" />
-   <Option Name="LineColor" Value="ARGB:255:186:255:173" />
-   <Option Name="Opacity" Value="6" />
+   <Option Name="LineColor" Value="Named:Silver" />
+   <Option Name="Opacity" Value="50" />
   </Section>
  </Language>
 </Page>

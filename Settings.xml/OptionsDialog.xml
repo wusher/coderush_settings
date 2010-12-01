@@ -15,8 +15,8 @@
    <Option Name="ShowHints" Value="False" />
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="Core\Settings" />
-   <Option Name="PriorSelectedNode" Value="Core" />
+   <Option Name="LastSelectedNode" Value="Editor\Painting\Line Highlighter" />
+   <Option Name="PriorSelectedNode" Value="Editor\Painting" />
   </Section>
  </Language>
 </Page>
