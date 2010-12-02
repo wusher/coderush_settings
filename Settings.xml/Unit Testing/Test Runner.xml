@@ -7,6 +7,79 @@
    <Option Name="UseOutputWindow" Value="True" />
    <Option Name="ShowVSProgressBar" Value="True" />
    <Option Name="ClearAllBeforeRun" Value="False" />
+   <Option Name="ThreadsCount" Value="1" />
+   <Option Name="ProcessEveryTestStep" Value="False" />
+   <Option Name="FrameworkPathsCount" Value="11" />
+  </Section>
+  <Section Name="FrameworkPaths">
+   <Option Name="Provider0" Value="xUnit15" />
+   <Option Name="Path0" Value="" />
+   <Option Name="Provider1" Value="NUnit22" />
+   <Option Name="Path1" Value="" />
+   <Option Name="Provider2" Value="VS Test 2010" />
+   <Option Name="Path2" Value="C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\" />
+   <Option Name="Provider3" Value="VS Test 2005" />
+   <Option Name="Path3" Value="" />
+   <Option Name="Provider4" Value="MbUnit32" />
+   <Option Name="Path4" Value="" />
+   <Option Name="Provider5" Value="MbUnit24" />
+   <Option Name="Path5" Value="" />
+   <Option Name="Provider6" Value="SlUnitTesting" />
+   <Option Name="Path6" Value="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Toolkit\Apr10\Testing" />
+   <Option Name="Provider7" Value="NUnit24" />
+   <Option Name="Path7" Value="" />
+   <Option Name="Provider8" Value="xUnit16" />
+   <Option Name="Path8" Value="" />
+   <Option Name="Provider9" Value="VS Test 2008" />
+   <Option Name="Path9" Value="C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\" />
+   <Option Name="Provider10" Value="NUnit25" />
+   <Option Name="Path10" Value="C:\Program Files (x86)\NUnit 2.5.7\bin\net-2.0\lib" />
+  </Section>
+  <Section Name="ToolWindow">
+   <Option Name="DataView" Value="False" />
+   <Option Name="DockSide" Value="Right" />
+   <Option Name="DataViewWidth" Value="150" />
+   <Option Name="DataViewHeight" Value="150" />
+   <Option Name="DetailsInTreeView" Value="False" />
+   <Option Name="HideFilterLabel" Value="False" />
+   <Option Name="SilverlightDebugger" Value="False" />
+   <Option Name="ShowStackOnlyIfFileExists" Value="False" />
+   <Option Name="DetailsShowPassed" Value="False" />
+   <Option Name="DetailsShowIgnored" Value="True" />
+   <Option Name="DetailsShowFailed" Value="True" />
+   <Option Name="DetailsZoom" Value="100" />
+   <Option Name="BackgroundUseVsColor" Value="False" />
+   <Option Name="BackgroundCustomColor" Value="Named:White" />
+   <Option Name="TextUseVsColor" Value="False" />
+   <Option Name="TextCustomColor" Value="Named:Black" />
+   <Option Name="SeparatorUseVsColor" Value="False" />
+   <Option Name="SeparatorCustomColor" Value="ARGB:255:216:216:216" />
+   <Option Name="ErrorUseVsColor" Value="False" />
+   <Option Name="ErrorCustomColor" Value="ARGB:255:181:0:0" />
+   <Option Name="IgnoreUseVsColor" Value="False" />
+   <Option Name="IgnoreCustomColor" Value="ARGB:255:255:153:13" />
+   <Option Name="PassedUseVsColor" Value="False" />
+   <Option Name="PassedCustomColor" Value="Named:Green" />
+   <Option Name="ComparisonUseVsColor" Value="False" />
+   <Option Name="ComparisonCustomColor" Value="Named:Red" />
+   <Option Name="NamespaceUseVsColor" Value="False" />
+   <Option Name="NamespaceCustomColor" Value="Named:Gray" />
+   <Option Name="TypeUseVsColor" Value="False" />
+   <Option Name="TypeCustomColor" Value="ARGB:255:78:118:238" />
+   <Option Name="MemberUseVsColor" Value="False" />
+   <Option Name="MemberCustomColor" Value="Named:Black" />
+   <Option Name="ParameterNameUseVsColor" Value="False" />
+   <Option Name="ParameterNameCustomColor" Value="Named:Gray" />
+   <Option Name="LinkUseVsColor" Value="False" />
+   <Option Name="LinkCustomColor" Value="ARGB:255:112:48:160" />
+   <Option Name="DotUseVsColor" Value="False" />
+   <Option Name="DotCustomColor" Value="Named:Gray" />
+   <Option Name="CommaUseVsColor" Value="False" />
+   <Option Name="CommaCustomColor" Value="Named:Gray" />
+   <Option Name="InUseVsColor" Value="False" />
+   <Option Name="InCustomColor" Value="Named:Gray" />
+   <Option Name="ParensUseVsColor" Value="False" />
+   <Option Name="ParensCustomColor" Value="Named:Gray" />
   </Section>
  </Language>
 </Page>

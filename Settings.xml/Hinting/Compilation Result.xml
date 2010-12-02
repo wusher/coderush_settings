@@ -1,0 +1,35 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Compilation Result">
+ <Language Name="*Neutral*">
+  <Section Name="Global">
+   <Option Name="CompilationResultMessagesOn" Value="True" />
+   <Option Name="PositivesCount" Value="11" />
+   <Option Name="Positive0" Value="You got lucky, didn't you?" />
+   <Option Name="Positive1" Value="You rock, man!" />
+   <Option Name="Positive2" Value="All errors well hidden, eh?" />
+   <Option Name="Positive3" Value="You da man!" />
+   <Option Name="Positive4" Value="You rule!" />
+   <Option Name="Positive5" Value="Compiled, baby!" />
+   <Option Name="Positive6" Value="I love you, you know" />
+   <Option Name="Positive7" Value="Not bad... for you" />
+   <Option Name="Positive8" Value="Okay okay" />
+   <Option Name="Positive9" Value="&lt;mumble&gt; ... blind chicken... &lt;mumble&gt;" />
+   <Option Name="Positive10" Value="You get a cookie" />
+   <Option Name="NegativesCount" Value="14" />
+   <Option Name="Negative0" Value="I think you're screwed" />
+   <Option Name="Negative1" Value="Did you skip that class?" />
+   <Option Name="Negative2" Value="You couldn't pay me to compile this" />
+   <Option Name="Negative3" Value="Oh come on" />
+   <Option Name="Negative4" Value="WTF?!?!" />
+   <Option Name="Negative5" Value="Did you expect this to work?" />
+   <Option Name="Negative6" Value="Hmpf" />
+   <Option Name="Negative7" Value="Argh" />
+   <Option Name="Negative8" Value="Are you serious?" />
+   <Option Name="Negative9" Value="RTFM" />
+   <Option Name="Negative10" Value="Prutser!" />
+   <Option Name="Negative11" Value="PEBKAC" />
+   <Option Name="Negative12" Value="Need more coffee?" />
+   <Option Name="Negative13" Value="Drinking last night?" />
+  </Section>
+ </Language>
+</Page>

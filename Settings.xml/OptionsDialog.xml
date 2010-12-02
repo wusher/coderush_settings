@@ -6,17 +6,22 @@
    <Option Name="ScreenWidth" Value="1280" />
    <Option Name="WindowState" Value="2" />
    <Option Name="SplitOpen" Value="True" />
-   <Option Name="Top" Value="217" />
-   <Option Name="Left" Value="438" />
-   <Option Name="Width" Value="800" />
-   <Option Name="Height" Value="552" />
+   <Option Name="Top" Value="-8" />
+   <Option Name="Left" Value="144" />
+   <Option Name="Width" Value="898" />
+   <Option Name="Height" Value="742" />
   </Section>
   <Section Name="Preferences">
    <Option Name="ShowHints" Value="False" />
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="Editor\Painting\Line Highlighter" />
-   <Option Name="PriorSelectedNode" Value="Editor\Painting" />
+   <Option Name="LastSelectedNode" Value="Editor\Painting\Structural Highlighting" />
+   <Option Name="PriorSelectedNode" Value="Editor\Painting\Show Metrics" />
+  </Section>
+  <Section Name="Global">
+   <Option Name="IsModal" Value="True" />
+   <Option Name="EnableSkins" Value="False" />
+   <Option Name="SkinName" Value="Caramel" />
   </Section>
  </Language>
 </Page>

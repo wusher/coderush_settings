@@ -228,9 +228,41 @@
    <Option Name="Item29.Color" Value="ARGB:255:63:218:63" />
    <Option Name="Item30.Color" Value="ARGB:255:63:218:63" />
    <Option Name="Item0.Color" Value="ARGB:255:33:51:105" />
+   <Option Name="Item0.UseCustomThickness" Value="False" />
+   <Option Name="Item1.UseCustomThickness" Value="False" />
+   <Option Name="Item2.UseCustomThickness" Value="False" />
+   <Option Name="Item3.UseCustomThickness" Value="False" />
+   <Option Name="Item4.UseCustomThickness" Value="False" />
+   <Option Name="Item5.UseCustomThickness" Value="False" />
+   <Option Name="Item6.UseCustomThickness" Value="False" />
+   <Option Name="Item7.UseCustomThickness" Value="False" />
+   <Option Name="Item8.UseCustomThickness" Value="False" />
+   <Option Name="Item9.UseCustomThickness" Value="False" />
+   <Option Name="Item10.UseCustomThickness" Value="False" />
+   <Option Name="Item11.UseCustomThickness" Value="False" />
+   <Option Name="Item12.UseCustomThickness" Value="False" />
+   <Option Name="Item13.UseCustomThickness" Value="False" />
+   <Option Name="Item14.UseCustomThickness" Value="False" />
+   <Option Name="Item15.UseCustomThickness" Value="False" />
+   <Option Name="Item16.UseCustomThickness" Value="False" />
+   <Option Name="Item17.UseCustomThickness" Value="False" />
+   <Option Name="Item18.UseCustomThickness" Value="False" />
+   <Option Name="Item19.UseCustomThickness" Value="False" />
+   <Option Name="Item20.UseCustomThickness" Value="False" />
+   <Option Name="Item21.UseCustomThickness" Value="False" />
+   <Option Name="Item22.UseCustomThickness" Value="False" />
+   <Option Name="Item23.UseCustomThickness" Value="False" />
+   <Option Name="Item24.UseCustomThickness" Value="False" />
+   <Option Name="Item25.UseCustomThickness" Value="False" />
+   <Option Name="Item26.UseCustomThickness" Value="False" />
+   <Option Name="Item27.UseCustomThickness" Value="False" />
+   <Option Name="Item28.UseCustomThickness" Value="False" />
+   <Option Name="Item29.UseCustomThickness" Value="False" />
+   <Option Name="Item30.UseCustomThickness" Value="False" />
   </Section>
   <Section Name="Session">
    <Option Name="LastIndex" Value="0" />
+   <Option Name="LastTab" Value="1" />
   </Section>
   <Section Name="Globals">
    <Option Name="DefaultColor" Value="Named:Blue" />
@@ -239,6 +271,8 @@
    <Option Name="AllowDiagonalLines" Value="False" />
    <Option Name="UseSingleVerticalLine" Value="False" />
    <Option Name="UseHorizontalAndVerticalLine" Value="True" />
+   <Option Name="DefaultThickness" Value="1" />
+   <Option Name="UseTagLines" Value="True" />
   </Section>
  </Language>
 </Page>

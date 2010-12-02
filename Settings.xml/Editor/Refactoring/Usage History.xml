@@ -2,10 +2,10 @@
 <Page Name="Usage History">
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
-   <Option Name="Declaration" Value="196" />
-   <Option Name="MostRecentlyUsedObject" Value="Optimize Namespace References" />
+   <Option Name="Declaration" Value="197" />
+   <Option Name="MostRecentlyUsedObject" Value="Assert Contract" />
    <Option Name="Compress to Lambda Expression" Value="12" />
-   <Option Name="Introduce Local" Value="83" />
+   <Option Name="Introduce Local" Value="88" />
    <Option Name="Inline Temp1" Value="30" />
    <Option Name="Create Method Stub" Value="68" />
    <Option Name="Declare Local (implicit)" Value="190" />
@@ -14,17 +14,17 @@
    <Option Name="Declare Class" Value="16" />
    <Option Name="Rename File to Match Type" Value="34" />
    <Option Name="First Child" Value="4" />
-   <Option Name="Extract Method" Value="58" />
+   <Option Name="Extract Method" Value="59" />
    <Option Name="Remove Parameter" Value="23" />
    <Option Name="Expand Lambda Expression" Value="14" />
    <Option Name="Declare Local" Value="44" />
    <Option Name="Promote to Parameter" Value="13" />
    <Option Name="Introduce Using Statement" Value="10" />
-   <Option Name="Break Apart Parameters" Value="31" />
+   <Option Name="Break Apart Parameters" Value="32" />
    <Option Name="Move Type to File" Value="45" />
    <Option Name="Add Parameter" Value="19" />
    <Option Name="Widen Scope (promote to field)" Value="42" />
-   <Option Name="Introduce Setter Guard Clause" Value="8" />
+   <Option Name="Introduce Setter Guard Clause" Value="9" />
    <Option Name="Change Tag" Value="12" />
    <Option Name="Collapse Getter" Value="34" />
    <Option Name="Extract Interface" Value="8" />
@@ -82,7 +82,7 @@
    <Option Name="Remove Tag" Value="1" />
    <Option Name="Declare Constructor" Value="8" />
    <Option Name="Declare Field with Initializer" Value="19" />
-   <Option Name="Optimize Namespace References" Value="2" />
+   <Option Name="Optimize Namespace References" Value="3" />
    <Option Name="Encapsulate Field (read-only)" Value="2" />
    <Option Name="Inline Temp" Value="1" />
    <Option Name="Encapsulate Field" Value="1" />
@@ -92,6 +92,7 @@
    <Option Name="Remove Redundant Qualifier" Value="1" />
    <Option Name="Make Extension" Value="1" />
    <Option Name="Initialize Conditionally" Value="4" />
+   <Option Name="Assert Contract" Value="1" />
   </Section>
   <Section Name="|Declaration|Next Reference|Parent|Parent Member|Parent Type|">
    <Option Name="Declaration" Value="64" />
@@ -120,7 +121,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Break Apart Parameters" />
   </Section>
   <Section Name="|Ancestor|Declaration|Next Reference|Parent|Parent Member|Parent Type|">
-   <Option Name="Declaration" Value="33" />
+   <Option Name="Declaration" Value="34" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Declare Property|Declare Property (auto-implemented)|Declare Property (with backing store)|">
@@ -137,7 +138,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Compress to Lambda Expression" />
   </Section>
   <Section Name="|Extract Method|Extract Method to Type|">
-   <Option Name="Extract Method" Value="9" />
+   <Option Name="Extract Method" Value="10" />
    <Option Name="MostRecentlyUsedObject" Value="Extract Method" />
   </Section>
   <Section Name="|Promote to Parameter|Rename|">
@@ -346,7 +347,7 @@
    <Option Name="Name Anonymous Method" Value="1" />
   </Section>
   <Section Name="|Introduce Setter Guard Clause|">
-   <Option Name="Introduce Setter Guard Clause" Value="8" />
+   <Option Name="Introduce Setter Guard Clause" Value="9" />
    <Option Name="MostRecentlyUsedObject" Value="Introduce Setter Guard Clause" />
   </Section>
   <Section Name="|Add Parameter|Break Apart Parameters|">
@@ -395,10 +396,11 @@
   </Section>
   <Section Name="|Decompose Initializer|Extract Method|Extract Property|Introduce Local|">
    <Option Name="Extract Method" Value="3" />
-   <Option Name="MostRecentlyUsedObject" Value="Extract Method" />
+   <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
+   <Option Name="Introduce Local" Value="4" />
   </Section>
   <Section Name="|Break Apart Parameters|Decompose Initializer|">
-   <Option Name="Break Apart Parameters" Value="10" />
+   <Option Name="Break Apart Parameters" Value="11" />
    <Option Name="MostRecentlyUsedObject" Value="Break Apart Parameters" />
   </Section>
   <Section Name="|Decompose Initializer|Extract Method|Introduce Local|">
@@ -1202,7 +1204,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Remove Type Qualifier (remove all)" />
   </Section>
   <Section Name="|Optimize Namespace References|Sort Namespace References|">
-   <Option Name="Optimize Namespace References" Value="2" />
+   <Option Name="Optimize Namespace References" Value="3" />
    <Option Name="MostRecentlyUsedObject" Value="Optimize Namespace References" />
   </Section>
   <Section Name="|Add Setter|Add XML Comments|Convert to auto-implemented property|">
@@ -1342,6 +1344,10 @@
    <Option Name="Make Implicit" Value="1" />
    <Option Name="Promote to Parameter" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Make Implicit" />
+  </Section>
+  <Section Name="|Decompose Initializer|Extract Method|Extract Property|Introduce Local|Simplify Expression|">
+   <Option Name="Introduce Local" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
   </Section>
  </Language>
 </Page>

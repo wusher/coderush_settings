@@ -9,11 +9,11 @@
    <Option Name="Declare Method (abstract)" Value="0.159402548516984" />
    <Option Name="Declare Struct" Value="0.235369901671285" />
    <Option Name="Remove Setter" Value="0.646795924310835" />
-   <Option Name="Add Contract" Value="694.58370059407" />
+   <Option Name="Add Contract" Value="347.346550312074" />
    <Option Name="Reorder Attributes" Value="0.159387685862563" />
    <Option Name="Spell Checker" Value="0.107603061365378" />
    <Option Name="Create Method Stub" Value="0.25462155401975" />
-   <Option Name="Extract Method" Value="0.162695618931742" />
+   <Option Name="Extract Method" Value="0.151873313743745" />
    <Option Name="Exit Method" Value="0.304950855459343" />
    <Option Name="Declare Property (auto-implemented)" Value="0.563361239985403" />
    <Option Name="Declare Setter" Value="0.410126285684663" />
@@ -28,8 +28,8 @@
    <Option Name="Declare Interface" Value="0.388295570790716" />
    <Option Name="Declare Property (with backing store)" Value="0.373735229502379" />
    <Option Name="Extract Method to Type" Value="0.168601320856694" />
-   <Option Name="Rename" Value="0.15036441686585" />
-   <Option Name="Declare Properties" Value="0.157143656382216" />
+   <Option Name="Rename" Value="0.137217664304024" />
+   <Option Name="Declare Properties" Value="0.153010525689056" />
    <Option Name="Invert Selection" Value="0.351312077259491" />
    <Option Name="Convert to Function" Value="0.394031487082782" />
    <Option Name="Declare Enum" Value="0.802448001579986" />
@@ -40,7 +40,7 @@
    <Option Name="Create Case Blocks from Enum" Value="0.575625826225413" />
    <Option Name="Decompose Parameter" Value="2.23672618720715" />
    <Option Name="Replace with Constant" Value="0.73088523480322" />
-   <Option Name="Optimize Namespace References" Value="0.261490977423891" />
+   <Option Name="Optimize Namespace References" Value="0.220280827813441" />
    <Option Name="Boolean to Enum" Value="0.605029209979426" />
    <Option Name="Declare Delegate" Value="4.85531591695448" />
    <Option Name="Declare Field" Value="4.76498628791227" />

@@ -4,7 +4,7 @@
   <Section Name="FolderInfo">
    <Option Name="Enabled" Value="True" />
    <Option Name="Description" Value="" />
-   <Option Name="FolderState" Value="Expanded" />
+   <Option Name="FolderState" Value="Collapsed" />
   </Section>
   <Section Name="Header">
    <Option Name="Count" Value="3" />

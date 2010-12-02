@@ -1,0 +1,70 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Output Window10.">
+ <Language Name="*Neutral*">
+  <Section Name="Root">
+   <Option Name="Count" Value="4" />
+   <Option Name="LocalName" Value="Output Window" />
+   <Option Name="FontName" Value="Inconsolata" />
+   <Option Name="FontSize" Value="12" />
+   <Option Name="FontCharSet" Value="ANSI" />
+   <Option Name="BaseCategoryID" Value="00000000-0000-0000-0000-000000000000" />
+   <Option Name="Setting 0" Value="Plain Text" />
+   <Option Name="Setting 1" Value="Selected Text" />
+   <Option Name="Setting 2" Value="Inactive Selected Text" />
+   <Option Name="Setting 3" Value="Current List Location" />
+  </Section>
+  <Section Name="Plain Text">
+   <Option Name="LocalName" Value="Plain Text" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777240" />
+   <Option Name="AutoForeground" Value="16777239" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS, FCIF_PLAINTEXT" />
+   <Option Name="Background" Value="0" />
+   <Option Name="Foreground" Value="16776960" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="Selected Text">
+   <Option Name="LocalName" Value="Selected Text" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777235" />
+   <Option Name="AutoForeground" Value="16777216" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWBGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="16750899" />
+   <Option Name="Foreground" Value="16776960" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="Inactive Selected Text">
+   <Option Name="LocalName" Value="Inactive Selected Text" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777237" />
+   <Option Name="AutoForeground" Value="16777216" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWBGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="14405055" />
+   <Option Name="Foreground" Value="16776960" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="Current List Location">
+   <Option Name="LocalName" Value="Current List Location" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="10813440" />
+   <Option Name="AutoForeground" Value="16777215" />
+   <Option Name="MarkerVisualStyle" Value="5" />
+   <Option Name="LineStyle" Value="LI_NONE" />
+   <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="8388608" />
+   <Option Name="Foreground" Value="10738687" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+ </Language>
+ <Language Name="StarNeutralStar" />
+</Page>

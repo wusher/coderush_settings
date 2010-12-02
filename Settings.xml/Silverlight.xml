@@ -1,0 +1,12 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Silverlight">
+ <Language Name="*Neutral*">
+  <Section Name="Window Position">
+   <Option Name="Left" Value="75" />
+   <Option Name="Top" Value="75" />
+   <Option Name="Width" Value="300" />
+   <Option Name="Height" Value="300" />
+   <Option Name="Maximized" Value="False" />
+  </Section>
+ </Language>
+</Page>
