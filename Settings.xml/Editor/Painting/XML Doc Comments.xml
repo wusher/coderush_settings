@@ -14,22 +14,22 @@
    <Option Name="RightViewMargin" Value="8" />
   </Section>
   <Section Name="Fonts">
-   <Option Name="NameFontName" Value="Consolas" />
-   <Option Name="NameFontStyle" Value="Regular" />
-   <Option Name="DetailFontName" Value="Consolas" />
+   <Option Name="NameFontName" Value="Arial" />
+   <Option Name="NameFontStyle" Value="Bold" />
+   <Option Name="DetailFontName" Value="Times New Roman" />
    <Option Name="DetailFontStyle" Value="Regular" />
-   <Option Name="RemarksFontName" Value="Consolas" />
-   <Option Name="RemarksFontStyle" Value="Regular" />
+   <Option Name="RemarksFontName" Value="Times New Roman" />
+   <Option Name="RemarksFontStyle" Value="Italic" />
    <Option Name="MethodParensFontName" Value="Arial" />
    <Option Name="MethodParensFontStyle" Value="Regular" />
-   <Option Name="OtherNameFontName" Value="Consolas" />
+   <Option Name="OtherNameFontName" Value="Arial" />
    <Option Name="OtherNameFontStyle" Value="Regular" />
   </Section>
   <Section Name="Colors">
-   <Option Name="MasterBackgroundColor" Value="ARGB:255:33:51:105" />
-   <Option Name="DetailTextColor" Value="ARGB:255:51:78:158" />
-   <Option Name="NameTextColor" Value="ARGB:255:166:186:246" />
-   <Option Name="OtherNameTextColor" Value="ARGB:255:51:78:158" />
+   <Option Name="MasterBackgroundColor" Value="ARGB:255:179:166:242" />
+   <Option Name="DetailTextColor" Value="ARGB:255:48:34:122" />
+   <Option Name="NameTextColor" Value="Named:White" />
+   <Option Name="OtherNameTextColor" Value="Named:White" />
   </Section>
  </Language>
 </Page>

@@ -110,7 +110,7 @@
    <Option Name="ProviderName51" Value="Generic class cannot derive from Attribute" />
    <Option Name="Enabled51" Value="True" />
    <Option Name="ProviderName52" Value="Implicit variable can be used" />
-   <Option Name="Enabled52" Value="True" />
+   <Option Name="Enabled52" Value="False" />
    <Option Name="ProviderName53" Value="Indexer cannot be static" />
    <Option Name="Enabled53" Value="True" />
    <Option Name="ProviderName54" Value="Initializer can be used" />

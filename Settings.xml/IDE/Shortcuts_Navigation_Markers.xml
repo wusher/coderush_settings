@@ -4,7 +4,7 @@
   <Section Name="FolderInfo">
    <Option Name="Enabled" Value="True" />
    <Option Name="Description" Value="Shortcuts for dropping, collecting, and moving among markers." />
-   <Option Name="FolderState" Value="Collapsed" />
+   <Option Name="FolderState" Value="Expanded" />
   </Section>
   <Section Name="Header">
    <Option Name="Count" Value="5" />
@@ -63,7 +63,7 @@
    <Option Name="ShiftKeyDown" Value="False" />
    <Option Name="CtrlKeyDown" Value="False" />
    <Option Name="AltKeyDown" Value="False" />
-   <Option Name="Enabled" Value="True" />
+   <Option Name="Enabled" Value="False" />
    <Option Name="ContextSelected_Count" Value="1" />
    <Option Name="ContextSelected_0" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextExcluded_Count" Value="0" />

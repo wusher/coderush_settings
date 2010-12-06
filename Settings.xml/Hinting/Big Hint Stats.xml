@@ -15,7 +15,7 @@
   </Section>
   <Section Name="Refactoring.Context menu hint">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="1963" />
+   <Option Name="ExecutionCount" Value="2037" />
    <Option Name="DisplayLimit" Value="0" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -39,7 +39,7 @@
   </Section>
   <Section Name="CodeRush Options.Information">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="15" />
+   <Option Name="ExecutionCount" Value="16" />
    <Option Name="DisplayLimit" Value="0" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>

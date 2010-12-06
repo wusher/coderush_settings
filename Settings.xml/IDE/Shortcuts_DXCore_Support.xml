@@ -10,8 +10,8 @@
    <Option Name="Count" Value="3" />
   </Section>
   <Section Name="Command0">
-   <Option Name="Key1.KeyState" Value="65537" />
-   <Option Name="Key1.KeyCode" Value="27" />
+   <Option Name="Key1.KeyState" Value="5767169" />
+   <Option Name="Key1.KeyCode" Value="123" />
    <Option Name="Key1.Ctrl" Value="False" />
    <Option Name="Key1.Shift" Value="False" />
    <Option Name="Key1.Alt" Value="False" />
@@ -36,18 +36,18 @@
    <Option Name="Enabled" Value="True" />
    <Option Name="ContextSelected_Count" Value="1" />
    <Option Name="ContextSelected_0" Value="Focus\Documents\Source\Code Editor" />
-   <Option Name="ContextExcluded_Count" Value="12" />
+   <Option Name="ContextExcluded_Count" Value="11" />
    <Option Name="ContextExcluded_0" Value="Editor\In Code Snippet Field" />
-   <Option Name="ContextExcluded_1" Value="System\Annotation Mode Active" />
-   <Option Name="ContextExcluded_2" Value="System\Code Issues Zoom Window is active" />
-   <Option Name="ContextExcluded_3" Value="System\CodeFix UI is active" />
-   <Option Name="ContextExcluded_4" Value="System\In TextField" />
-   <Option Name="ContextExcluded_5" Value="System\Intellassist Active" />
-   <Option Name="ContextExcluded_6" Value="System\Intellisense Active" />
-   <Option Name="ContextExcluded_7" Value="System\Menu Active" />
-   <Option Name="ContextExcluded_8" Value="System\Picker Is Active" />
-   <Option Name="ContextExcluded_9" Value="System\Text Replacer Is Active" />
-   <Option Name="ContextExcluded_10" Value="System\Tip Window Active" />
+   <Option Name="ContextExcluded_1" Value="System\Code Issues Zoom Window is active" />
+   <Option Name="ContextExcluded_2" Value="System\CodeFix UI is active" />
+   <Option Name="ContextExcluded_3" Value="System\In TextField" />
+   <Option Name="ContextExcluded_4" Value="System\Intellassist Active" />
+   <Option Name="ContextExcluded_5" Value="System\Intellisense Active" />
+   <Option Name="ContextExcluded_6" Value="System\Menu Active" />
+   <Option Name="ContextExcluded_7" Value="System\Picker Is Active" />
+   <Option Name="ContextExcluded_8" Value="System\Text Replacer Is Active" />
+   <Option Name="ContextExcluded_9" Value="System\Tip Window Active" />
+   <Option Name="ContextExcluded_10" Value="System\Visual Studio SmartTag Active" />
    <Option Name="ContextExcluded_11" Value="System\Visual Studio SmartTag Active" />
    <Option Name="Selected" Value="False" />
   </Section>

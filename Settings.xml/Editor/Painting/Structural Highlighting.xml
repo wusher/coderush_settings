@@ -261,16 +261,16 @@
    <Option Name="Item30.UseCustomThickness" Value="False" />
   </Section>
   <Section Name="Session">
-   <Option Name="LastIndex" Value="0" />
+   <Option Name="LastIndex" Value="30" />
    <Option Name="LastTab" Value="1" />
   </Section>
   <Section Name="Globals">
-   <Option Name="DefaultColor" Value="Named:Blue" />
-   <Option Name="DefaultOpacity" Value="255" />
+   <Option Name="DefaultColor" Value="ARGB:255:66:24:105" />
+   <Option Name="DefaultOpacity" Value="62" />
    <Option Name="Enabled" Value="True" />
    <Option Name="AllowDiagonalLines" Value="False" />
-   <Option Name="UseSingleVerticalLine" Value="False" />
-   <Option Name="UseHorizontalAndVerticalLine" Value="True" />
+   <Option Name="UseSingleVerticalLine" Value="True" />
+   <Option Name="UseHorizontalAndVerticalLine" Value="False" />
    <Option Name="DefaultThickness" Value="1" />
    <Option Name="UseTagLines" Value="True" />
   </Section>

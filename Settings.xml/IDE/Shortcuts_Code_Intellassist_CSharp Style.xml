@@ -231,7 +231,7 @@
    <Option Name="Key1.KeyState" Value="65537" />
    <Option Name="Key1.KeyCode" Value="27" />
    <Option Name="Key1.Ctrl" Value="False" />
-   <Option Name="Key1.Shift" Value="False" />
+   <Option Name="Key1.Shift" Value="True" />
    <Option Name="Key1.Alt" Value="False" />
    <Option Name="Key1.RightSide" Value="False" />
    <Option Name="Key1.Extended" Value="False" />

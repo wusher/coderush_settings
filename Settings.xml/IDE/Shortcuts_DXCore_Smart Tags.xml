@@ -106,8 +106,8 @@
    <Option Name="Selected" Value="False" />
   </Section>
   <Section Name="Command3">
-   <Option Name="Key1.KeyState" Value="65537" />
-   <Option Name="Key1.KeyCode" Value="27" />
+   <Option Name="Key1.KeyState" Value="5767169" />
+   <Option Name="Key1.KeyCode" Value="123" />
    <Option Name="Key1.Ctrl" Value="False" />
    <Option Name="Key1.Shift" Value="False" />
    <Option Name="Key1.Alt" Value="False" />
@@ -133,8 +133,8 @@
    <Option Name="ContextSelected_Count" Value="2" />
    <Option Name="ContextSelected_0" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextSelected_1" Value="System\Picker Is Active" />
-   <Option Name="ContextExcluded_Count" Value="2" />
-   <Option Name="ContextExcluded_0" Value="System\Annotation Mode Active" />
+   <Option Name="ContextExcluded_Count" Value="1" />
+   <Option Name="ContextExcluded_0" Value="System\RefactorInstalled" />
    <Option Name="ContextExcluded_1" Value="System\RefactorInstalled" />
    <Option Name="Selected" Value="False" />
   </Section>

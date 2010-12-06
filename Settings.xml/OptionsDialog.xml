@@ -6,17 +6,17 @@
    <Option Name="ScreenWidth" Value="1280" />
    <Option Name="WindowState" Value="2" />
    <Option Name="SplitOpen" Value="True" />
-   <Option Name="Top" Value="-8" />
-   <Option Name="Left" Value="144" />
-   <Option Name="Width" Value="898" />
-   <Option Name="Height" Value="742" />
+   <Option Name="Top" Value="50" />
+   <Option Name="Left" Value="1279" />
+   <Option Name="Width" Value="1074" />
+   <Option Name="Height" Value="1044" />
   </Section>
   <Section Name="Preferences">
    <Option Name="ShowHints" Value="False" />
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="Editor\Painting\Structural Highlighting" />
-   <Option Name="PriorSelectedNode" Value="Editor\Painting\Show Metrics" />
+   <Option Name="LastSelectedNode" Value="IDE\Shortcuts" />
+   <Option Name="PriorSelectedNode" Value="Core" />
   </Section>
   <Section Name="Global">
    <Option Name="IsModal" Value="True" />

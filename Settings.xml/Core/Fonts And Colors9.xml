@@ -4,7 +4,7 @@
   <Section Name="Root">
    <Option Name="Count" Value="136" />
    <Option Name="LocalName" Value="Text Editor" />
-   <Option Name="FontName" Value="Consolas" />
+   <Option Name="FontName" Value="Courier New" />
    <Option Name="FontSize" Value="10" />
    <Option Name="FontCharSet" Value="ANSI" />
    <Option Name="BaseCategoryID" Value="00000000-0000-0000-0000-000000000000" />
@@ -153,8 +153,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS, FCIF_PLAINTEXT" />
-   <Option Name="Background" Value="3158064" />
-   <Option Name="Foreground" Value="14737632" />
+   <Option Name="Background" Value="15854304" />
+   <Option Name="Foreground" Value="0" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="False" />
   </Section>
@@ -166,8 +166,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="12632256" />
-   <Option Name="Foreground" Value="0" />
+   <Option Name="Background" Value="16750899" />
+   <Option Name="Foreground" Value="16777215" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="False" />
   </Section>
@@ -181,7 +181,7 @@
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
    <Option Name="Background" Value="14405055" />
    <Option Name="Foreground" Value="5525059" />
-   <Option Name="FontFlags" Value="0" />
+   <Option Name="FontFlags" Value="-2147483648" />
    <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Indicator Margin">
@@ -192,7 +192,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWBGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="4210752" />
+   <Option Name="Background" Value="15790320" />
    <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="False" />
@@ -1914,4 +1914,5 @@
    <Option Name="Invalid" Value="True" />
   </Section>
  </Language>
+ <Language Name="StarNeutralStar" />
 </Page>

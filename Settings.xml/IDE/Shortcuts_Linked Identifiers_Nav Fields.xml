@@ -45,8 +45,8 @@
    <Option Name="Selected" Value="False" />
   </Section>
   <Section Name="Command1">
-   <Option Name="Key1.KeyState" Value="65537" />
-   <Option Name="Key1.KeyCode" Value="27" />
+   <Option Name="Key1.KeyState" Value="5767169" />
+   <Option Name="Key1.KeyCode" Value="123" />
    <Option Name="Key1.Ctrl" Value="False" />
    <Option Name="Key1.Shift" Value="False" />
    <Option Name="Key1.Alt" Value="False" />

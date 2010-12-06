@@ -6,7 +6,7 @@
    <Option Name="TemplatesMode" Value="AllowExecuting" />
    <Option Name="ShowWindow" Value="False" />
    <Option Name="EnableStatistics" Value="True" />
-   <Option Name="Count" Value="237" />
+   <Option Name="Count" Value="243" />
   </Section>
   <Section Name="Features">
    <Option Name="F0" Value="SelectionExpand" />
@@ -246,10 +246,16 @@
    <Option Name="F234" Value="Make Read-only" />
    <Option Name="F235" Value="Embedding Div" />
    <Option Name="F236" Value="Throw Exceptions" />
+   <Option Name="F237" Value="Remove Redundant Assignment" />
+   <Option Name="F238" Value="[h" />
+   <Option Name="F239" Value="SelectionComment" />
+   <Option Name="F240" Value="UnitTestsDebugAtCursor" />
+   <Option Name="F241" Value="Declare Initialized Fields" />
+   <Option Name="F242" Value="Remove End Tag" />
   </Section>
   <Section Name="SelectionExpand">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="1199" />
+   <Option Name="QueryCount" Value="1231" />
    <Option Name="Description" Value="Expands+selected+text+to+the+next+contiguous+selection+of+code+that+contains+the+current+selection." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cSelectionExpand%3bCtrl%2bW" />
    <Option Name="Scope" Value="Conflict+shortcuts" />
@@ -257,7 +263,7 @@
   </Section>
   <Section Name="Navigate">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="442" />
+   <Option Name="QueryCount" Value="454" />
    <Option Name="Description" Value="Executes+navigation+provider+with+the+specified+name." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cNavigate%3bCtrl%2bAlt%2bD" />
    <Option Name="Scope" Value="Other+features" />
@@ -265,15 +271,15 @@
   </Section>
   <Section Name="MarkerCollect">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="451" />
+   <Option Name="QueryCount" Value="498" />
    <Option Name="Description" Value="Collects+the+marker+at+the+top+of+the+stack" />
-   <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cMarkerCollect%3bEsc" />
-   <Option Name="Scope" Value="Conflict+shortcuts" />
+   <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cMarkerCollect%3bF12" />
+   <Option Name="Scope" Value="Other+features" />
    <Option Name="ShowInFeatureOptions" Value="True" />
   </Section>
   <Section Name="NextIssue">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="317" />
+   <Option Name="QueryCount" Value="321" />
    <Option Name="Description" Value="Navigate+to+next+issue." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cNextIssue%3bAlt%2bPage+Down" />
    <Option Name="Scope" Value="Other+features" />
@@ -281,7 +287,7 @@
   </Section>
   <Section Name="ReferenceNext">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="350" />
+   <Option Name="QueryCount" Value="354" />
    <Option Name="Description" Value="Highlights+the+next+reference." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cReferenceNext%3bTab" />
    <Option Name="Scope" Value="Conflict+shortcuts" />
@@ -289,7 +295,7 @@
   </Section>
   <Section Name="QuickFileNav">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="221" />
+   <Option Name="QueryCount" Value="235" />
    <Option Name="Description" Value="Quick+File+Navigation" />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cQuickFileNav%3bCtrl%2bAlt%2bF" />
    <Option Name="Scope" Value="Conflict+shortcuts" />
@@ -297,7 +303,7 @@
   </Section>
   <Section Name="c">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="73" />
+   <Option Name="QueryCount" Value="82" />
    <Option Name="Description" Value="" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -305,7 +311,7 @@
   </Section>
   <Section Name="Smart parentheses">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="3038" />
+   <Option Name="QueryCount" Value="3094" />
    <Option Name="Description" Value="Automatic+parentheses+add+the+closing+parenthesis+when+you+type+the+opening+character." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cParens+%26+Brackets" />
    <Option Name="Scope" Value="Other+features" />
@@ -313,7 +319,7 @@
   </Section>
   <Section Name="Smart semi-colon">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="745" />
+   <Option Name="QueryCount" Value="753" />
    <Option Name="Description" Value="Places+a+semi-colon+typed+inside+parens+at+the+end+of+a+line." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cParens+%26+Brackets" />
    <Option Name="Scope" Value="Other+features" />
@@ -321,7 +327,7 @@
   </Section>
   <Section Name="PreviousIssue">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="140" />
+   <Option Name="QueryCount" Value="141" />
    <Option Name="Description" Value="Navigate+to+previous+issue." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cPreviousIssue%3bAlt%2bPage+Up" />
    <Option Name="Scope" Value="Other+features" />
@@ -329,7 +335,7 @@
   </Section>
   <Section Name="Declare Method">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="99" />
+   <Option Name="QueryCount" Value="102" />
    <Option Name="Description" Value="Generates+a+method+for+the+selected+method+reference+with+appropriate+parameters." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="CodeProvider" />
@@ -337,10 +343,10 @@
   </Section>
   <Section Name="CamelCaseLeft">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="933" />
+   <Option Name="QueryCount" Value="952" />
    <Option Name="Description" Value="Moves+the+caret+to+the+next+lower+case+to+upper+case+transition%2c+to+the+left+of+the+caret." />
-   <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cCamelCaseLeft%3bAlt%2bLeft" />
-   <Option Name="Scope" Value="Other+features" />
+   <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cCamelCaseLeft%3bShift%2bAlt%2bLeft" />
+   <Option Name="Scope" Value="Conflict+shortcuts" />
    <Option Name="ShowInFeatureOptions" Value="True" />
   </Section>
   <Section Name="EmbedParentheses">
@@ -361,7 +367,7 @@
   </Section>
   <Section Name="s">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="7" />
+   <Option Name="QueryCount" Value="8" />
    <Option Name="Description" Value="property+setter%2c+public+struct%2c+or+%22s%3d%22+alias." />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -369,7 +375,7 @@
   </Section>
   <Section Name="a?Type?">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="89" />
+   <Option Name="QueryCount" Value="100" />
    <Option Name="Description" Value="Declares+a+property+of+the+specified+type.+The+letters+following+the+%22p%22+indicate+the+type.+Use+the+Core%5cAliases%5cDynamic+Lists+options+page+to+add+new+types." />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -385,7 +391,7 @@
   </Section>
   <Section Name="n">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="116" />
+   <Option Name="QueryCount" Value="117" />
    <Option Name="Description" Value="" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -393,7 +399,7 @@
   </Section>
   <Section Name="if">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="251" />
+   <Option Name="QueryCount" Value="255" />
    <Option Name="Description" Value="" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -417,7 +423,7 @@
   </Section>
   <Section Name="cc">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="67" />
+   <Option Name="QueryCount" Value="70" />
    <Option Name="Description" Value="Constructor" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -449,7 +455,7 @@
   </Section>
   <Section Name="cw">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="52" />
+   <Option Name="QueryCount" Value="54" />
    <Option Name="Description" Value="Console+WriteLine..." />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -457,7 +463,7 @@
   </Section>
   <Section Name="f">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="48" />
+   <Option Name="QueryCount" Value="50" />
    <Option Name="Description" Value="for+loop%2c+false%2c+or+field+of+type+integer+(depending+on+context)" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -481,7 +487,7 @@
   </Section>
   <Section Name="Extract Method">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="99" />
+   <Option Name="QueryCount" Value="100" />
    <Option Name="Description" Value="Creates+a+new+method+from+the+selected+code+block.+The+selection+is+replaced+with+appropriate+calling+code+to+invoke+the+newly-declared+method." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -489,7 +495,7 @@
   </Section>
   <Section Name="MarkerDrop">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="5" />
+   <Option Name="QueryCount" Value="6" />
    <Option Name="Description" Value="Drops+a+marker+at+the+current+caret+position" />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cMarkerDrop%3bAlt%2bHome" />
    <Option Name="Scope" Value="Other+features" />
@@ -505,7 +511,7 @@
   </Section>
   <Section Name="Move Type to File">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="81" />
+   <Option Name="QueryCount" Value="100" />
    <Option Name="Description" Value="Moves+this+type+declaration+to+a+separate+file+with+the+same+name+as+the+class." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -537,7 +543,7 @@
   </Section>
   <Section Name="Easy-delete">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="123" />
+   <Option Name="QueryCount" Value="127" />
    <Option Name="Description" Value="Deletes+empty+parentheses+and+brackets." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cParens+%26+Brackets" />
    <Option Name="Scope" Value="Other+features" />
@@ -553,7 +559,7 @@
   </Section>
   <Section Name="Rename">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="409" />
+   <Option Name="QueryCount" Value="425" />
    <Option Name="Description" Value="Renames+the+current+element+and+updates+references+to+it." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -561,15 +567,15 @@
   </Section>
   <Section Name="CamelCaseRight">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="933" />
+   <Option Name="QueryCount" Value="944" />
    <Option Name="Description" Value="Moves+the+caret+to+the+next+lower+case+to+upper+case+transition%2c+to+the+right+of+the+caret." />
-   <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cCamelCaseRight%3bAlt%2bRight" />
+   <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cCamelCaseRight%3bShift%2bAlt%2bRight" />
    <Option Name="Scope" Value="Conflict+shortcuts" />
    <Option Name="ShowInFeatureOptions" Value="True" />
   </Section>
   <Section Name="ScopeCycleDown">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="150" />
+   <Option Name="QueryCount" Value="153" />
    <Option Name="Description" Value="Decreases+the+visibility+(e.g.%2c+moving+from+public+to+private)+of+the+member+at+the+caret." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cScopeCycleDown%3bAlt%2bDown" />
    <Option Name="Scope" Value="Other+features" />
@@ -585,7 +591,7 @@
   </Section>
   <Section Name="ScopeCycleUp">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="80" />
+   <Option Name="QueryCount" Value="81" />
    <Option Name="Description" Value="Increases+the+visibility+(e.g.%2c+moving+from+private+to+public)+of+the+member+at+the+caret." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cScopeCycleUp%3bAlt%2bUp" />
    <Option Name="Scope" Value="Conflict+shortcuts" />
@@ -593,7 +599,7 @@
   </Section>
   <Section Name="Rename File to Match Type">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="59" />
+   <Option Name="QueryCount" Value="61" />
    <Option Name="Description" Value="Renames+the+file+and+updates+the+project+appropriately." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -609,7 +615,7 @@
   </Section>
   <Section Name="Declare Local (implicit)">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="336" />
+   <Option Name="QueryCount" Value="337" />
    <Option Name="Description" Value="Generates+an+implicit+local+variable+for+the+element+reference." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="CodeProvider" />
@@ -649,7 +655,7 @@
   </Section>
   <Section Name="Smart brackets">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="278" />
+   <Option Name="QueryCount" Value="292" />
    <Option Name="Description" Value="Automatic+brackets+add+the+closing+bracket+when+you+type+the+opening+character." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cParens+%26+Brackets" />
    <Option Name="Scope" Value="Other+features" />
@@ -657,7 +663,7 @@
   </Section>
   <Section Name="Inline Temp">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="37" />
+   <Option Name="QueryCount" Value="39" />
    <Option Name="Description" Value="Replaces+all+references+to+this+local+variable+with+its+initial+value." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -713,7 +719,7 @@
   </Section>
   <Section Name="Supress IntelliSense Dot">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="256" />
+   <Option Name="QueryCount" Value="269" />
    <Option Name="Description" Value="Suppress+IntelliSense+acceptance+when+potential+templates+(that+include+the+inserted+character)+exist+at+the+caret." />
    <Option Name="OptionsPage" Value="Compatibility%5cIntelliSense" />
    <Option Name="Scope" Value="Other+features" />
@@ -761,7 +767,7 @@
   </Section>
   <Section Name="p?Type?">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="29" />
+   <Option Name="QueryCount" Value="33" />
    <Option Name="Description" Value="Declares+a+property+of+the+specified+type.+The+letters+following+the+%22p%22+indicate+the+type.+Use+the+Core%5cAliases%5cDynamic+Lists+options+page+to+add+new+types." />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -777,7 +783,7 @@
   </Section>
   <Section Name="Break Apart Attributes">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="11" />
+   <Option Name="QueryCount" Value="12" />
    <Option Name="Description" Value="Places+each+attribute+on+a+separate+line." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -785,7 +791,7 @@
   </Section>
   <Section Name="m">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="76" />
+   <Option Name="QueryCount" Value="78" />
    <Option Name="Description" Value="Method+(void).+You+can+also+use+%22mb%22+for+methods+that+return+a+bool%2c+ms+for+methods+that+return+a+string%2c+etc." />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -865,7 +871,7 @@
   </Section>
   <Section Name="u">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="9" />
+   <Option Name="QueryCount" Value="10" />
    <Option Name="Description" Value="using+block+or+using+statement" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -873,7 +879,7 @@
   </Section>
   <Section Name="Make Implicit">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="5" />
+   <Option Name="QueryCount" Value="6" />
    <Option Name="Description" Value="Converts+an+explicitly-typed+variable+declaration+to+an+implicit+one." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -889,7 +895,7 @@
   </Section>
   <Section Name="QuickNav">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="41" />
+   <Option Name="QueryCount" Value="44" />
    <Option Name="Description" Value="Navigation+in+current+file" />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cQuickNav%3bCtrl%2bShift%2bQ" />
    <Option Name="Scope" Value="Other+features" />
@@ -977,7 +983,7 @@
   </Section>
   <Section Name="Smart Copy">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="12" />
+   <Option Name="QueryCount" Value="13" />
    <Option Name="Description" Value="Smart+copy+place+logical+blocks+of+code+onto+the+clipboard+in+a+single+keystroke." />
    <Option Name="OptionsPage" Value="Editor%5cClipboard%5cSmart+Cut(Copy)" />
    <Option Name="Scope" Value="Other+features" />
@@ -1001,7 +1007,7 @@
   </Section>
   <Section Name="Remove End Tag">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="3" />
+   <Option Name="QueryCount" Value="1" />
    <Option Name="Description" Value="Removes+the+end+tag+and+adds+a+terminator+to+the+start+tag." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -1009,7 +1015,7 @@
   </Section>
   <Section Name="Smart Cut">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="10" />
+   <Option Name="QueryCount" Value="11" />
    <Option Name="Description" Value="Smart+cut+place+logical+blocks+of+code+onto+the+clipboard+in+a+single+keystroke." />
    <Option Name="OptionsPage" Value="Editor%5cClipboard%5cSmart+Cut(Copy)" />
    <Option Name="Scope" Value="Other+features" />
@@ -1017,7 +1023,7 @@
   </Section>
   <Section Name="Add End Tag">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="21" />
+   <Option Name="QueryCount" Value="22" />
    <Option Name="Description" Value="Adds+the+end+tag+and+removes+terminator+from+the+start+tag." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -1025,7 +1031,7 @@
   </Section>
   <Section Name="p">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="2" />
+   <Option Name="QueryCount" Value="4" />
    <Option Name="Description" Value="Declares+a+read%2fwrite+property+of+type+object+(type+is+selected+after+expansion+for+quick+changes).+" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -1065,7 +1071,7 @@
   </Section>
   <Section Name="And">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="38" />
+   <Option Name="QueryCount" Value="39" />
    <Option Name="Description" Value="" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -1105,7 +1111,7 @@
   </Section>
   <Section Name="at">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="75" />
+   <Option Name="QueryCount" Value="76" />
    <Option Name="Description" Value="" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -1217,7 +1223,7 @@
   </Section>
   <Section Name="MarkerCollectAndPaste">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="1" />
+   <Option Name="QueryCount" Value="2" />
    <Option Name="Description" Value="Collects+the+marker+at+the+top+of+the+stack+and+pastes+the+contents+of+the+clipboard" />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cMarkerCollectAndPaste%3bShift%2bEsc" />
    <Option Name="Scope" Value="Other+features" />
@@ -1465,7 +1471,7 @@
   </Section>
   <Section Name="a.">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="33" />
+   <Option Name="QueryCount" Value="39" />
    <Option Name="Description" Value="Declares+an+auto-implemented+property+of+type+object+(type+is+selected+after+expansion+for+quick+changes).+" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -1473,7 +1479,7 @@
   </Section>
   <Section Name="CodeRushTrainingWindowToggle">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="10" />
+   <Option Name="QueryCount" Value="12" />
    <Option Name="Description" Value="Shows+or+hides+the+CodeRush+training+window." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cCodeRushTrainingWindowToggle%3bF1" />
    <Option Name="Scope" Value="Conflict+shortcuts" />
@@ -1529,7 +1535,7 @@
   </Section>
   <Section Name="ShowReferences">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="15" />
+   <Option Name="QueryCount" Value="16" />
    <Option Name="Description" Value="Shows+all+references+for+the+active+item." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cShowReferences%3bShift%2bF12" />
    <Option Name="Scope" Value="Conflict+shortcuts" />
@@ -1577,7 +1583,7 @@
   </Section>
   <Section Name="Optimize Namespace References">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="13" />
+   <Option Name="QueryCount" Value="27" />
    <Option Name="Description" Value="Removes+unused+namespace+references+from+the+current+file." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -1745,7 +1751,7 @@
   </Section>
   <Section Name="p.">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="11" />
+   <Option Name="QueryCount" Value="13" />
    <Option Name="Description" Value="Declares+a+read%2fwrite+property+of+type+object+(type+is+selected+after+expansion+for+quick+changes).+" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -1857,7 +1863,7 @@
   </Section>
   <Section Name="Introduce Result Variable">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="7" />
+   <Option Name="QueryCount" Value="8" />
    <Option Name="Description" Value="Introduces+a+local+variable+to+store+the+result+value+for+this+code+block%2c+and+returns+that+local+at+the+end+of+the+end+of+the+block." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -1897,7 +1903,7 @@
   </Section>
   <Section Name="Remove Redundant Assignment">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="2" />
+   <Option Name="QueryCount" Value="1" />
    <Option Name="Description" Value="Removes+redundant+initialization+of+a+variable." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -1905,7 +1911,7 @@
   </Section>
   <Section Name="Compress to Ternary Expression">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="3" />
+   <Option Name="QueryCount" Value="4" />
    <Option Name="Description" Value="Compresses+active+if+statement+to+ternary+conditional+expression." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -1937,7 +1943,7 @@
   </Section>
   <Section Name="Smart double quotes">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="363" />
+   <Option Name="QueryCount" Value="379" />
    <Option Name="Description" Value="Auto+completes+closing+double+quotes" />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cQuotes+%26+Double+Quotes" />
    <Option Name="Scope" Value="Other+features" />
@@ -1945,9 +1951,9 @@
   </Section>
   <Section Name="Easy delete">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="35" />
-   <Option Name="Description" Value="Deletes+empty+generics+characters" />
-   <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cGenerics" />
+   <Option Name="QueryCount" Value="38" />
+   <Option Name="Description" Value="Deletes+empty+quotes+and+double+quotes" />
+   <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cQuotes+%26+Double+Quotes" />
    <Option Name="Scope" Value="Other+features" />
    <Option Name="ShowInFeatureOptions" Value="True" />
   </Section>
@@ -1977,7 +1983,7 @@
   </Section>
   <Section Name="Smart quotes">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="23" />
+   <Option Name="QueryCount" Value="24" />
    <Option Name="Description" Value="Auto+completes+closing+quote" />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cQuotes+%26+Double+Quotes" />
    <Option Name="Scope" Value="Other+features" />
@@ -2017,7 +2023,7 @@
   </Section>
   <Section Name="Expand Ternary Expression">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="3" />
+   <Option Name="QueryCount" Value="4" />
    <Option Name="Description" Value="Expands+active+ternary+expression+to+the+if+statement." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -2097,8 +2103,8 @@
   </Section>
   <Section Name="newguid">
    <Option Name="State" Value="Enabled" />
-   <Option Name="QueryCount" Value="14" />
-   <Option Name="Description" Value="" />
+   <Option Name="QueryCount" Value="15" />
+   <Option Name="Description" Value="newguid" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
    <Option Name="ShowInFeatureOptions" Value="True" />
@@ -2289,7 +2295,7 @@
   </Section>
   <Section Name="Make Read-only">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="3" />
+   <Option Name="QueryCount" Value="5" />
    <Option Name="Description" Value="Makes+field+read-only." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -2309,6 +2315,38 @@
    <Option Name="Description" Value="Generates+throw+exceptions+for+the+active+member." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="ContractProvider" />
+   <Option Name="ShowInFeatureOptions" Value="False" />
+  </Section>
+  <Section Name="[h">
+   <Option Name="State" Value="None" />
+   <Option Name="QueryCount" Value="2" />
+   <Option Name="Description" Value="Hides+property+from+design-time+access+and+design-time+streaming" />
+   <Option Name="OptionsPage" Value="Editor%5cTemplates" />
+   <Option Name="Scope" Value="Templates" />
+   <Option Name="ShowInFeatureOptions" Value="True" />
+  </Section>
+  <Section Name="SelectionComment">
+   <Option Name="State" Value="None" />
+   <Option Name="QueryCount" Value="2" />
+   <Option Name="Description" Value="Comments+or+uncomments+the+selection" />
+   <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cSelectionComment%3b%2f" />
+   <Option Name="Scope" Value="Other+features" />
+   <Option Name="ShowInFeatureOptions" Value="True" />
+  </Section>
+  <Section Name="UnitTestsDebugAtCursor">
+   <Option Name="State" Value="None" />
+   <Option Name="QueryCount" Value="1" />
+   <Option Name="Description" Value="Start+debugging+test(s)+at+cursor+(method%2c+fixture%2c+namespace)" />
+   <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cUnitTestsDebugAtCursor%3bCtrl%2bR" />
+   <Option Name="Scope" Value="Conflict+shortcuts" />
+   <Option Name="ShowInFeatureOptions" Value="True" />
+  </Section>
+  <Section Name="Declare Initialized Fields">
+   <Option Name="State" Value="None" />
+   <Option Name="QueryCount" Value="2" />
+   <Option Name="Description" Value="Adds+fields+and+initializes+it+to+each+parameter+of+this+constructor." />
+   <Option Name="OptionsPage" Value="" />
+   <Option Name="Scope" Value="CodeProvider" />
    <Option Name="ShowInFeatureOptions" Value="False" />
   </Section>
  </Language>

@@ -2,14 +2,14 @@
 <Page Name="ProviderComplexity">
  <Language Name="*Neutral*">
   <Section Name="TimeComplexity">
-   <Option Name="Declare Local (implicit)" Value="0.120823981124021" />
+   <Option Name="Declare Local (implicit)" Value="0.140569534300813" />
    <Option Name="Convert to Procedure" Value="4435.61934518099" />
-   <Option Name="Use Assertions" Value="0.406069909352142" />
-   <Option Name="Convert to Integer" Value="0.195438516457966" />
-   <Option Name="Declare Method (abstract)" Value="0.159402548516984" />
+   <Option Name="Use Assertions" Value="0.273231297997919" />
+   <Option Name="Convert to Integer" Value="0.215538339865983" />
+   <Option Name="Declare Method (abstract)" Value="0.129508232801758" />
    <Option Name="Declare Struct" Value="0.235369901671285" />
    <Option Name="Remove Setter" Value="0.646795924310835" />
-   <Option Name="Add Contract" Value="347.346550312074" />
+   <Option Name="Add Contract" Value="10.9756409142826" />
    <Option Name="Reorder Attributes" Value="0.159387685862563" />
    <Option Name="Spell Checker" Value="0.107603061365378" />
    <Option Name="Create Method Stub" Value="0.25462155401975" />
@@ -22,14 +22,14 @@
    <Option Name="Declare Constructor" Value="0.213787772681675" />
    <Option Name="Throw Exceptions" Value="0.442917692571041" />
    <Option Name="Declare Property" Value="0.248554687439851" />
-   <Option Name="Declare Class" Value="0.114707441136571" />
+   <Option Name="Declare Class" Value="0.137161862127163" />
    <Option Name="Declare Enum Element" Value="0.197431466156402" />
    <Option Name="Declare Getter" Value="0.300402991250077" />
    <Option Name="Declare Interface" Value="0.388295570790716" />
    <Option Name="Declare Property (with backing store)" Value="0.373735229502379" />
    <Option Name="Extract Method to Type" Value="0.168601320856694" />
    <Option Name="Rename" Value="0.137217664304024" />
-   <Option Name="Declare Properties" Value="0.153010525689056" />
+   <Option Name="Declare Properties" Value="0.335508890946735" />
    <Option Name="Invert Selection" Value="0.351312077259491" />
    <Option Name="Convert to Function" Value="0.394031487082782" />
    <Option Name="Declare Enum" Value="0.802448001579986" />
@@ -73,10 +73,14 @@
    <Option Name="Convert CSS Class to Skin" Value="14369.1132767809" />
    <Option Name="Create Implementer (explicit)" Value="14816.5569653453" />
    <Option Name="Create Ancestor" Value="18308.6027795785" />
-   <Option Name="Surround with UpdatePanel" Value="8817.96269839925" />
+   <Option Name="Surround with UpdatePanel" Value="4409.03992468232" />
    <Option Name="Create Descendant (with virtual overrides)" Value="14355.8306984465" />
    <Option Name="Inline Recent Assignment" Value="0.448083207709771" />
    <Option Name="Inline Temp" Value="0.465648948996577" />
+   <Option Name="Declare Attribute" Value="0.19198616626657" />
+   <Option Name="Seal Class" Value="0.177102276314351" />
+   <Option Name="Declare Class with Properties" Value="0.145552133147801" />
+   <Option Name="Extract to XAML Resource" Value="0.100943349256854" />
   </Section>
  </Language>
 </Page>
