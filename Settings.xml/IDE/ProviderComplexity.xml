@@ -5,21 +5,21 @@
    <Option Name="Declare Local (implicit)" Value="0.140569534300813" />
    <Option Name="Convert to Procedure" Value="4435.61934518099" />
    <Option Name="Use Assertions" Value="0.273231297997919" />
-   <Option Name="Convert to Integer" Value="0.215538339865983" />
-   <Option Name="Declare Method (abstract)" Value="0.129508232801758" />
+   <Option Name="Convert to Integer" Value="0.257407236618823" />
+   <Option Name="Declare Method (abstract)" Value="0.264280230662449" />
    <Option Name="Declare Struct" Value="0.235369901671285" />
-   <Option Name="Remove Setter" Value="0.646795924310835" />
-   <Option Name="Add Contract" Value="10.9756409142826" />
+   <Option Name="Remove Setter" Value="0.62914332018659" />
+   <Option Name="Add Contract" Value="1.48720516123253" />
    <Option Name="Reorder Attributes" Value="0.159387685862563" />
    <Option Name="Spell Checker" Value="0.107603061365378" />
    <Option Name="Create Method Stub" Value="0.25462155401975" />
-   <Option Name="Extract Method" Value="0.151873313743745" />
+   <Option Name="Extract Method" Value="0.12642655278471" />
    <Option Name="Exit Method" Value="0.304950855459343" />
    <Option Name="Declare Property (auto-implemented)" Value="0.563361239985403" />
    <Option Name="Declare Setter" Value="0.410126285684663" />
    <Option Name="Declare Method (Event Handler)" Value="0.232635319005001" />
    <Option Name="Add Missing Constructors" Value="0.162466810485756" />
-   <Option Name="Declare Constructor" Value="0.213787772681675" />
+   <Option Name="Declare Constructor" Value="0.15772613281863" />
    <Option Name="Throw Exceptions" Value="0.442917692571041" />
    <Option Name="Declare Property" Value="0.248554687439851" />
    <Option Name="Declare Class" Value="0.137161862127163" />
@@ -28,7 +28,7 @@
    <Option Name="Declare Interface" Value="0.388295570790716" />
    <Option Name="Declare Property (with backing store)" Value="0.373735229502379" />
    <Option Name="Extract Method to Type" Value="0.168601320856694" />
-   <Option Name="Rename" Value="0.137217664304024" />
+   <Option Name="Rename" Value="0.366414623995661" />
    <Option Name="Declare Properties" Value="0.335508890946735" />
    <Option Name="Invert Selection" Value="0.351312077259491" />
    <Option Name="Convert to Function" Value="0.394031487082782" />
@@ -40,12 +40,12 @@
    <Option Name="Create Case Blocks from Enum" Value="0.575625826225413" />
    <Option Name="Decompose Parameter" Value="2.23672618720715" />
    <Option Name="Replace with Constant" Value="0.73088523480322" />
-   <Option Name="Optimize Namespace References" Value="0.220280827813441" />
+   <Option Name="Optimize Namespace References" Value="0.339141904614502" />
    <Option Name="Boolean to Enum" Value="0.605029209979426" />
    <Option Name="Declare Delegate" Value="4.85531591695448" />
    <Option Name="Declare Field" Value="4.76498628791227" />
    <Option Name="Declare Local" Value="1.29177041196829" />
-   <Option Name="Add to Interface" Value="0.685659178527122" />
+   <Option Name="Add to Interface" Value="0.425007160158109" />
    <Option Name="Use StringBuilder" Value="1.09466704238249" />
    <Option Name="Introduce Parameter Object" Value="1.08602506517284" />
    <Option Name="Make Member Non-static" Value="0.110488168801112" />
@@ -58,7 +58,7 @@
    <Option Name="Extract Property" Value="0.268862470877075" />
    <Option Name="Make Extension" Value="0.152639397243006" />
    <Option Name="Remove Type Qualifier" Value="0.163826983889901" />
-   <Option Name="Pull Member Up" Value="0.127481354075721" />
+   <Option Name="Pull Member Up" Value="0.15032950374626" />
    <Option Name="Introduce Alias" Value="0.25859103486612" />
    <Option Name="Make Member Static" Value="0.278375544264633" />
    <Option Name="Rename File to Match Type" Value="2388.11490180318" />
@@ -81,6 +81,16 @@
    <Option Name="Seal Class" Value="0.177102276314351" />
    <Option Name="Declare Class with Properties" Value="0.145552133147801" />
    <Option Name="Extract to XAML Resource" Value="0.100943349256854" />
+   <Option Name="Use IsNullOrEmpty" Value="0.241321664183268" />
+   <Option Name="Convert to Parallel" Value="0.58870506207812" />
+   <Option Name="Execute Statements in Serial" Value="0.235421047687924" />
+   <Option Name="Extract Interface" Value="0.10733311741539" />
+   <Option Name="Execute Statement Asynchronously (StartNew)" Value="0.262918762328239" />
+   <Option Name="Inline Constant" Value="0.102154166437831" />
+   <Option Name="Execute Statement Asynchronously (FromAsync)" Value="0.168024109582291" />
+   <Option Name="Reorder Parameters" Value="0.107300267775889" />
+   <Option Name="Execute Statements in Parallel" Value="0.21485717336038" />
+   <Option Name="Add Setter" Value="0.260240694232505" />
   </Section>
  </Language>
 </Page>

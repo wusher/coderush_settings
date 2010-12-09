@@ -244,7 +244,7 @@
    <Option Name="ProviderName118" Value="Type name does not correspond to file name" />
    <Option Name="Enabled118" Value="True" />
    <Option Name="ProviderName119" Value="Undeclared element" />
-   <Option Name="Enabled119" Value="True" />
+   <Option Name="Enabled119" Value="False" />
    <Option Name="ProviderName120" Value="Undisposed local" />
    <Option Name="Enabled120" Value="False" />
    <Option Name="ProviderName121" Value="Unused declaration" />

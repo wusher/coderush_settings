@@ -8,15 +8,15 @@
    <Option Name="SplitOpen" Value="True" />
    <Option Name="Top" Value="50" />
    <Option Name="Left" Value="1279" />
-   <Option Name="Width" Value="1074" />
+   <Option Name="Width" Value="1090" />
    <Option Name="Height" Value="1044" />
   </Section>
   <Section Name="Preferences">
    <Option Name="ShowHints" Value="False" />
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="IDE\Shortcuts" />
-   <Option Name="PriorSelectedNode" Value="Core" />
+   <Option Name="LastSelectedNode" Value="Core\Features Statistics" />
+   <Option Name="PriorSelectedNode" Value="Editor\Code Analysis\Code Issues" />
   </Section>
   <Section Name="Global">
    <Option Name="IsModal" Value="True" />
