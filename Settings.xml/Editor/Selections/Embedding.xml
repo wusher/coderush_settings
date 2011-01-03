@@ -2,7 +2,7 @@
 <Page Name="Embedding">
  <Language Name="Basic">
   <Section Name="Embeddings">
-   <Option Name="Count" Value="15" />
+   <Option Name="Count" Value="16" />
    <Option Name="SelectedIndex" Value="7" />
   </Section>
   <Section Name="Embedding_1">
@@ -303,8 +303,33 @@
    <Option Name="BeginGroup" Value="True" />
    <Option Name="Caption" Value="Comment box  •---•" />
    <Option Name="VisibleOnMenu" Value="True" />
+   <Option Name="Bottom_1" Value=" «Link(stopwatch)».Stop()" />
+   <Option Name="Bottom_2" Value="End Try" />
+   <Option Name="Bottom_3" Value="Console.WriteLine(&quot;Time elapsed: {0}&quot;, «Link(stopwatch)».Elapsed)" />
+   <Option Name="Top_1" Value="«Link(stopwatch)».Start()" />
+   <Option Name="Top_2" Value="Try" />
   </Section>
   <Section Name="Embedding_15">
+   <Option Name="Left" Value="' | " />
+   <Option Name="Right" Value=" |" />
+   <Option Name="Bottom_Count" Value="1" />
+   <Option Name="Bottom_0" Value="' •—«?Repeat(—,«?LongestSelectedCodeLine»)»—•" />
+   <Option Name="LeftColumn" Value="-2" />
+   <Option Name="RightColumn" Value="-2" />
+   <Option Name="FormatStyle" Value="Default" />
+   <Option Name="ModifyEmptyLines" Value="True" />
+   <Option Name="Style" Value="Surround" />
+   <Option Name="AdjustSelection" Value="0" />
+   <Option Name="CursorPosition" Value="0" />
+   <Option Name="IndentSelection" Value="False" />
+   <Option Name="Name" Value="CommentBoxWithLines" />
+   <Option Name="Top_Count" Value="1" />
+   <Option Name="Top_0" Value="' •—«?Repeat(—,«?LongestSelectedCodeLine»)»—•" />
+   <Option Name="BeginGroup" Value="True" />
+   <Option Name="Caption" Value="Comment box  •---•" />
+   <Option Name="VisibleOnMenu" Value="True" />
+  </Section>
+  <Section Name="Embedding_16">
    <Option Name="Left" Value="' | " />
    <Option Name="Right" Value=" |" />
    <Option Name="Bottom_Count" Value="1" />
@@ -648,7 +673,7 @@
  </Language>
  <Language Name="CSharp">
   <Section Name="Embeddings">
-   <Option Name="Count" Value="15" />
+   <Option Name="Count" Value="16" />
    <Option Name="SelectedIndex" Value="12" />
   </Section>
   <Section Name="Embedding_1">
@@ -974,8 +999,36 @@
    <Option Name="BeginGroup" Value="True" />
    <Option Name="Caption" Value="Comment box  •---•" />
    <Option Name="VisibleOnMenu" Value="True" />
+   <Option Name="Bottom_1" Value="finally" />
+   <Option Name="Bottom_2" Value="{" />
+   <Option Name="Bottom_3" Value="  «Link(stopwatch)».Stop();" />
+   <Option Name="Bottom_4" Value="}" />
+   <Option Name="Bottom_5" Value="Console.WriteLine(&quot;Time elapsed: {0}&quot;, «Link(stopwatch)».Elapsed);" />
+   <Option Name="Top_1" Value="«Link(stopwatch)».Start();" />
+   <Option Name="Top_2" Value="try" />
+   <Option Name="Top_3" Value="{" />
   </Section>
   <Section Name="Embedding_15">
+   <Option Name="Left" Value="   | " />
+   <Option Name="Right" Value=" |" />
+   <Option Name="Bottom_Count" Value="1" />
+   <Option Name="Bottom_0" Value="   •—«?Repeat(—,«?LongestSelectedCodeLine»)»—• */" />
+   <Option Name="LeftColumn" Value="-2" />
+   <Option Name="RightColumn" Value="-2" />
+   <Option Name="FormatStyle" Value="Default" />
+   <Option Name="ModifyEmptyLines" Value="True" />
+   <Option Name="Style" Value="Surround" />
+   <Option Name="AdjustSelection" Value="0" />
+   <Option Name="CursorPosition" Value="0" />
+   <Option Name="IndentSelection" Value="False" />
+   <Option Name="Name" Value="CommentBoxWithLines" />
+   <Option Name="Top_Count" Value="1" />
+   <Option Name="Top_0" Value="/* •—«?Repeat(—,«?LongestSelectedCodeLine»)»—•" />
+   <Option Name="BeginGroup" Value="True" />
+   <Option Name="Caption" Value="Comment box  •---•" />
+   <Option Name="VisibleOnMenu" Value="True" />
+  </Section>
+  <Section Name="Embedding_16">
    <Option Name="Left" Value="   | " />
    <Option Name="Right" Value=" |" />
    <Option Name="Bottom_Count" Value="1" />

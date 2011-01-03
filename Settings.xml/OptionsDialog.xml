@@ -8,15 +8,15 @@
    <Option Name="SplitOpen" Value="True" />
    <Option Name="Top" Value="50" />
    <Option Name="Left" Value="1279" />
-   <Option Name="Width" Value="1090" />
+   <Option Name="Width" Value="1202" />
    <Option Name="Height" Value="1044" />
   </Section>
   <Section Name="Preferences">
    <Option Name="ShowHints" Value="False" />
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="Core\Features Statistics" />
-   <Option Name="PriorSelectedNode" Value="Editor\Code Analysis\Code Issues" />
+   <Option Name="LastSelectedNode" Value="Editor\Painting\XML Doc Comments" />
+   <Option Name="PriorSelectedNode" Value="Core" />
   </Section>
   <Section Name="Global">
    <Option Name="IsModal" Value="True" />

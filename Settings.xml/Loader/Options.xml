@@ -2,7 +2,7 @@
 <Page Name="Options">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="LastDXCoreVersion" Value="10.2.3" />
+   <Option Name="LastDXCoreVersion" Value="10.2.4" />
   </Section>
  </Language>
 </Page>

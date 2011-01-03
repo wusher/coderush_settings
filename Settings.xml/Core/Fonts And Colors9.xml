@@ -195,7 +195,7 @@
    <Option Name="Background" Value="15790320" />
    <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Line Numbers">
    <Option Name="LocalName" Value="Line Numbers" />
@@ -959,10 +959,10 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="3158064" />
-   <Option Name="Foreground" Value="12638957" />
+   <Option Name="Background" Value="15854304" />
+   <Option Name="Foreground" Value="0" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Keyword">
    <Option Name="LocalName" Value="Keyword" />
@@ -972,10 +972,10 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="3158064" />
-   <Option Name="Foreground" Value="16761920" />
+   <Option Name="Background" Value="15854304" />
+   <Option Name="Foreground" Value="9109504" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Memory Address">
    <Option Name="LocalName" Value="Memory Address" />
@@ -1089,10 +1089,10 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="3158064" />
-   <Option Name="Foreground" Value="12632256" />
+   <Option Name="Background" Value="15854304" />
+   <Option Name="Foreground" Value="0" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Other Error">
    <Option Name="LocalName" Value="Other Error" />
@@ -1258,10 +1258,10 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="3158064" />
-   <Option Name="Foreground" Value="16744703" />
+   <Option Name="Background" Value="15854304" />
+   <Option Name="Foreground" Value="32768" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="String(C# @ Verbatim)">
    <Option Name="LocalName" Value="String (C# @ Verbatim)" />
@@ -1914,5 +1914,4 @@
    <Option Name="Invalid" Value="True" />
   </Section>
  </Language>
- <Language Name="StarNeutralStar" />
 </Page>

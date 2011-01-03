@@ -2,7 +2,7 @@
 <Page Name="Catalog">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="Count" Value="129" />
+   <Option Name="Count" Value="145" />
   </Section>
   <Section Name="CodeIssuesList">
    <Option Name="ProviderName0" Value="Abstract member cannot be declared in nonabstract class" />
