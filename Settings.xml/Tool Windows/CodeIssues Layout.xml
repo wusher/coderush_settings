@@ -1,0 +1,161 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="CodeIssues Layout">
+ <Language Name="*Neutral*">
+  <Section Name="Bounds">
+   <Option Name="Width" Value="300" />
+   <Option Name="Height" Value="173" />
+  </Section>
+  <Section Name="Layout">
+   <Option Name="ShowMembers" Value="False" />
+   <Option Name="ShowClasses" Value="False" />
+   <Option Name="ShowFiles" Value="True" />
+   <Option Name="ShowNamespaces" Value="False" />
+   <Option Name="ShowProjects" Value="True" />
+   <Option Name="ShowIssueTypes" Value="True" />
+   <Option Name="SplitterPos" Value="0.57578125" />
+   <Option Name="CodeOrientation" Value="Portrait" />
+   <Option Name="Sorting" Value="ByLocation" />
+   <Option Name="ShowErrors" Value="Checked" />
+   <Option Name="ShowHints" Value="Checked" />
+   <Option Name="ShowWarnings" Value="Checked" />
+   <Option Name="ShowDeadCode" Value="Checked" />
+   <Option Name="Errors" Value="Checked" />
+   <Option Name="Hints" Value="Checked" />
+   <Option Name="Warnings" Value="Checked" />
+   <Option Name="DeadCode" Value="Checked" />
+  </Section>
+  <Section Name="Font">
+   <Option Name="Scale" Value="1" />
+  </Section>
+  <Section Name="Filters">
+   <Option Name="Providers_Count" Value="127" />
+   <Option Name="Providers_0" Value="Base type constructors are not implemented" />
+   <Option Name="Providers_1" Value="Can implement base type constructors" />
+   <Option Name="Providers_2" Value="Abstract member cannot declare a body" />
+   <Option Name="Providers_3" Value="Abstract member cannot be declared in nonabstract class" />
+   <Option Name="Providers_4" Value="Abstract member cannot be private" />
+   <Option Name="Providers_5" Value="Abstract member cannot be marked as sealed" />
+   <Option Name="Providers_6" Value="Abstract member cannot be marked as virtual" />
+   <Option Name="Providers_7" Value="Anonymous method cannot have 'params' parameter" />
+   <Option Name="Providers_8" Value="Array elements cannot be of static type" />
+   <Option Name="Providers_9" Value="Keyword &quot;base&quot; is not valid in a static member" />
+   <Option Name="Providers_10" Value="Can initialize conditionally" />
+   <Option Name="Providers_11" Value="Can combine initialization with declaration" />
+   <Option Name="Providers_12" Value="Can inline temporary variable" />
+   <Option Name="Providers_13" Value="Cannot create an instance of abstract class" />
+   <Option Name="Providers_14" Value="Cannot create an instance of interface" />
+   <Option Name="Providers_15" Value="Cannot create an instance of static class" />
+   <Option Name="Providers_16" Value="Cannot declare variable of static type" />
+   <Option Name="Providers_17" Value="Cannot inherit from sealed type" />
+   <Option Name="Providers_18" Value="Cannot inherit from special class 'System.ValueType'" />
+   <Option Name="Providers_19" Value="Cannot inherit from static class" />
+   <Option Name="Providers_20" Value="Cannot yield in the body of a catch clause" />
+   <Option Name="Providers_21" Value="Cannot yield in the body of a finally clause" />
+   <Option Name="Providers_22" Value="Cannot yield in the body of a try block with a catch clause" />
+   <Option Name="Providers_23" Value="Can remove type qualifier" />
+   <Option Name="Providers_24" Value="Case statement has incorrect range of integers expression" />
+   <Option Name="Providers_25" Value="Constant cannot be marked static" />
+   <Option Name="Providers_26" Value="Constructor cannot call itself" />
+   <Option Name="Providers_27" Value="Constructor must declare a body" />
+   <Option Name="Providers_28" Value="Control cannot leave the body of a finally clause" />
+   <Option Name="Providers_29" Value="Declaration can be a constant" />
+   <Option Name="Providers_30" Value="Can declare MVC View" />
+   <Option Name="Providers_31" Value="Delegate can be replaced with lambda expression" />
+   <Option Name="Providers_32" Value="Delegate cannot be marked static" />
+   <Option Name="Providers_33" Value="Destructor must declare a body" />
+   <Option Name="Providers_34" Value="Catch block is empty" />
+   <Option Name="Providers_35" Value="Environment.NewLine can be used" />
+   <Option Name="Providers_36" Value="Interface events cannot have add or remove accessors" />
+   <Option Name="Providers_37" Value="Extension method cannot have a parameter array used with 'this' modifier" />
+   <Option Name="Providers_38" Value="Extension method cannot have a pointer parameter used with 'this' modifier" />
+   <Option Name="Providers_39" Value="Extension method must be defined in a non-generic static class" />
+   <Option Name="Providers_40" Value="Extension method must be defined in a top level static class" />
+   <Option Name="Providers_41" Value="Parameter modifier 'this' should be the first parameter of extension method" />
+   <Option Name="Providers_42" Value="Extern member cannot declare a body" />
+   <Option Name="Providers_43" Value="Field can be read-only" />
+   <Option Name="Providers_44" Value="ForEach Action can be called" />
+   <Option Name="Providers_45" Value="Generic class cannot derive from Attribute" />
+   <Option Name="Providers_46" Value="Implicit variable can be used" />
+   <Option Name="Providers_47" Value="Indexer cannot be static" />
+   <Option Name="Providers_48" Value="Initializer can be used" />
+   <Option Name="Providers_49" Value="Interface cannot contain constructors" />
+   <Option Name="Providers_50" Value="Interface member cannot have a definition" />
+   <Option Name="Providers_51" Value="Interface expected" />
+   <Option Name="Providers_52" Value="Lambda expression cannot have 'params' parameter" />
+   <Option Name="Providers_53" Value="Undisposed local" />
+   <Option Name="Providers_54" Value="Member can be static" />
+   <Option Name="Providers_55" Value="Member cannot be sealed because it is not an override" />
+   <Option Name="Providers_56" Value="Member must declare a body because it is not marked abstract or extern" />
+   <Option Name="Providers_57" Value="Member names cannot be the same as their enclosing type" />
+   <Option Name="Providers_58" Value="Method must have a return type" />
+   <Option Name="Providers_59" Value="Nested code can be flattened" />
+   <Option Name="Providers_60" Value="Null coalescing operation can be used" />
+   <Option Name="Providers_61" Value="Only class types can contain destructors" />
+   <Option Name="Providers_62" Value="Operator cannot be abstract" />
+   <Option Name="Providers_63" Value="Operator cannot have 'params' parameter" />
+   <Option Name="Providers_64" Value="Operator must be declared static and public" />
+   <Option Name="Providers_65" Value="Operator must declare a body" />
+   <Option Name="Providers_66" Value="Overloaded unary operator takes one parameter" />
+   <Option Name="Providers_67" Value="Override member cannot be marked as new" />
+   <Option Name="Providers_68" Value="Override member cannot be marked as virtual" />
+   <Option Name="Providers_69" Value="Override member cannot change access rights" />
+   <Option Name="Providers_70" Value="Cannot override inherited sealed member" />
+   <Option Name="Providers_71" Value="The params parameter must be a single dimensional array" />
+   <Option Name="Providers_72" Value="The params parameter must be the last parameter in a formal parameter list" />
+   <Option Name="Providers_73" Value="Partial method cannot have access modifiers or the virtual, abstract, override, new, sealed, or extern modifiers" />
+   <Option Name="Providers_74" Value="Partial method cannot have out parameters" />
+   <Option Name="Providers_75" Value="Partial method has only single part" />
+   <Option Name="Providers_76" Value="Partial method must be declared within a partial class or partial struct" />
+   <Option Name="Providers_77" Value="Property can be auto-implemented" />
+   <Option Name="Providers_78" Value="Property cannot have void type" />
+   <Option Name="Providers_79" Value="Protected member in sealed type will be private" />
+   <Option Name="Providers_80" Value="Protected member cannot be declared in struct" />
+   <Option Name="Providers_81" Value="Redundant base constructor call" />
+   <Option Name="Providers_82" Value="Redundant base qualifier" />
+   <Option Name="Providers_83" Value="Redundant constructor" />
+   <Option Name="Providers_84" Value="Redundant destructor" />
+   <Option Name="Providers_85" Value="Redundant else statement" />
+   <Option Name="Providers_86" Value="Empty event handler" />
+   <Option Name="Providers_87" Value="Empty namespace declaration" />
+   <Option Name="Providers_88" Value="Empty case statement" />
+   <Option Name="Providers_89" Value="Redundant delegate creation" />
+   <Option Name="Providers_90" Value="Redundant field initialization" />
+   <Option Name="Providers_91" Value="Empty finally block" />
+   <Option Name="Providers_92" Value="Lambda parameter has redundant type specification" />
+   <Option Name="Providers_93" Value="Partial class has only a single part" />
+   <Option Name="Providers_94" Value="Redundant private setter" />
+   <Option Name="Providers_95" Value="Redundant String.Format call" />
+   <Option Name="Providers_96" Value="Redundant this qualifier" />
+   <Option Name="Providers_97" Value="Redundant ToString() call" />
+   <Option Name="Providers_98" Value="Redundant type qualifier" />
+   <Option Name="Providers_99" Value="Sealed class cannot be abstract" />
+   <Option Name="Providers_100" Value="Redundant sealed modifier" />
+   <Option Name="Providers_101" Value="Static class cannot be abstract" />
+   <Option Name="Providers_102" Value="Static class cannot be sealed" />
+   <Option Name="Providers_103" Value="Cannot declare instance member in a static class" />
+   <Option Name="Providers_104" Value="Static class cannot contain protected member" />
+   <Option Name="Providers_105" Value="Static constructors cannot have access modifiers" />
+   <Option Name="Providers_106" Value="Static constructors must be parameterless" />
+   <Option Name="Providers_107" Value="String.Compare can be used" />
+   <Option Name="Providers_108" Value="String.Format can be used" />
+   <Option Name="Providers_109" Value="Struct cannot contain parameterless constructor" />
+   <Option Name="Providers_110" Value="Default branch is missing" />
+   <Option Name="Providers_111" Value="Case statements do not explicitly handle all enum values" />
+   <Option Name="Providers_112" Value="Ternary expression can be used" />
+   <Option Name="Providers_113" Value="Keyword this/Me is not valid in a static member" />
+   <Option Name="Providers_114" Value="Try statement without catch or finally" />
+   <Option Name="Providers_115" Value="Type can be moved to separate file" />
+   <Option Name="Providers_116" Value="Type name does not correspond to file name" />
+   <Option Name="Providers_117" Value="Undeclared element" />
+   <Option Name="Providers_118" Value="Member is not implemented" />
+   <Option Name="Providers_119" Value="Unused declaration" />
+   <Option Name="Providers_120" Value="Unused member" />
+   <Option Name="Providers_121" Value="Unused setter" />
+   <Option Name="Providers_122" Value="Unused type parameter" />
+   <Option Name="Providers_123" Value="Virtual call in constructor" />
+   <Option Name="Providers_124" Value="Virtual member cannot be declared in sealed class" />
+   <Option Name="Providers_125" Value="Virtual member cannot be declared in structures" />
+   <Option Name="Providers_126" Value="Virtual member cannot be private" />
+  </Section>
+ </Language>
+</Page>
