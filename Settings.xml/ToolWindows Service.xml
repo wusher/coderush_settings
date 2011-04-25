@@ -4,12 +4,13 @@
   <Section Name="ToolWindows_VS2010">
    <Option Name="Visible_Count" Value="1" />
    <Option Name="Visible_0" Value="{408b0e9d-8c1d-4c61-8223-550f9242877b}" />
-   <Option Name="Visible_1" Value="{408b0e9d-8c1d-4c61-8223-550f9242877b}" />
+   <Option Name="Visible_1" Value="{68f184c9-78e5-4752-b815-44ebecfd847f}" />
    <Option Name="Visible_2" Value="{408b0e9d-8c1d-4c61-8223-550f9242877b}" />
   </Section>
   <Section Name="ToolWindows_VS2008">
    <Option Name="Visible_Count" Value="1" />
    <Option Name="Visible_0" Value="{408b0e9d-8c1d-4c61-8223-550f9242877b}" />
+   <Option Name="Visible_1" Value="{408b0e9d-8c1d-4c61-8223-550f9242877b}" />
   </Section>
  </Language>
 </Page>

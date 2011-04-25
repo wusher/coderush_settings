@@ -14,6 +14,22 @@
    <Option Name="result" Value="result" />
    <Option Name="value" Value="value" />
    <Option Name="doc" Value="doc" />
+   <Option Name="element,javascript,Stylesheet" Value="element" />
+   <Option Name="userInfo,userInfo,_modifiedUser,_createdUser" Value="userInfo" />
+   <Option Name="result,type,sql,ParseSql,Build,DataFilePath,_dataFilePath,PETITIONER_TAG,BENEFICIARY_TAG,PROCESS_TAG" Value="result" />
+   <Option Name="path,GetValue,ParseSql,GetSavePath,DataFilePath,_dataFilePath,PETITIONER_TAG,BENEFICIARY_TAG,PROCESS_TAG" Value="path" />
+   <Option Name="formDef,_formDefinition" Value="formDef" />
+   <Option Name="te,defaultName,GetValue,InsertTemplateValues,InsertTemplateValues,GetSQLObjectScript,GetTableNameFromScript,GetInsertAtFromScript,GetListNameFromScript,GetSqlFromScript,GetTemplateFromScript,GetIdentityInsertFromScript,RunDataScript,RunTestScript,_root_path,_country,_dbname,_server" Value="te" />
+   <Option Name="person" Value="person" />
+   <Option Name="genres" Value="genres" />
+   <Option Name="keyValue" Value="keyValue" />
+   <Option Name="allWaitingItemsFound,HasRemainingItems,IsPageDifferent,DoesElementExist,_isCurrentlyScanning" Value="allWaitingItemsFound" />
+   <Option Name="result,Settings" Value="result" />
+   <Option Name="summary" Value="summary" />
+   <Option Name="_fullApiPath" Value="_fullApiPath" />
+   <Option Name="path,GetCurrentDirectory" Value="path" />
+   <Option Name="path,GetCurrentDirectory,GetTempPath" Value="path" />
+   <Option Name="GetOrganizationsByCurrentUser,GetOrgs,GetAllByOrgTypeAndI9DataAccess,GetAllOrganizations" Value="GetOrgs" />
   </Section>
  </Language>
 </Page>

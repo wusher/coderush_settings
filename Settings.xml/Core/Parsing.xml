@@ -2,11 +2,11 @@
 <Page Name="Parsing">
  <Language Name="*Neutral*">
   <Section Name="Parsing">
-   <Option Name="ParsingMode" Value="Incremental" />
+   <Option Name="ParsingMode" Value="None" />
    <Option Name="FullParseOnSave" Value="True" />
    <Option Name="LineChangeCommitIdleTime" Value="250" />
-   <Option Name="ChangeIdleTime" Value="1000" />
-   <Option Name="AutoParsingMode" Value="False" />
+   <Option Name="ChangeIdleTime" Value="500" />
+   <Option Name="AutoParsingMode" Value="True" />
    <Option Name="ParsingModeThreshold" Value="1000" />
    <Option Name="LogMessages" Value="False" />
    <Option Name="DisabledLanguages_Count" Value="0" />

@@ -19,20 +19,20 @@
    <Option Name="Enabled5" Value="True" />
    <Option Name="ProviderName6" Value="Array elements cannot be of static type" />
    <Option Name="Enabled6" Value="True" />
-   <Option Name="ProviderName7" Value="Base type constructors are not implemented" />
+   <Option Name="ProviderName7" Value="BaseTypeConstructorsAreNotImplemented" />
    <Option Name="Enabled7" Value="True" />
    <Option Name="ProviderName8" Value="Can combine initialization with declaration" />
    <Option Name="Enabled8" Value="True" />
    <Option Name="ProviderName9" Value="Can declare MVC View" />
    <Option Name="Enabled9" Value="True" />
-   <Option Name="ProviderName10" Value="Can implement base type constructors" />
+   <Option Name="ProviderName10" Value="Can initialize conditionally" />
    <Option Name="Enabled10" Value="True" />
-   <Option Name="ProviderName11" Value="Can initialize conditionally" />
+   <Option Name="ProviderName11" Value="Can inline temporary variable" />
    <Option Name="Enabled11" Value="True" />
-   <Option Name="ProviderName12" Value="Can inline temporary variable" />
+   <Option Name="ProviderName12" Value="Can remove type qualifier" />
    <Option Name="Enabled12" Value="True" />
-   <Option Name="ProviderName13" Value="Can remove type qualifier" />
-   <Option Name="Enabled13" Value="False" />
+   <Option Name="ProviderName13" Value="CanImplementBaseTypeConstructors" />
+   <Option Name="Enabled13" Value="True" />
    <Option Name="ProviderName14" Value="Cannot create an instance of abstract class" />
    <Option Name="Enabled14" Value="True" />
    <Option Name="ProviderName15" Value="Cannot create an instance of interface" />
@@ -106,11 +106,11 @@
    <Option Name="ProviderName49" Value="Field can be read-only" />
    <Option Name="Enabled49" Value="True" />
    <Option Name="ProviderName50" Value="ForEach Action can be called" />
-   <Option Name="Enabled50" Value="False" />
+   <Option Name="Enabled50" Value="True" />
    <Option Name="ProviderName51" Value="Generic class cannot derive from Attribute" />
    <Option Name="Enabled51" Value="True" />
    <Option Name="ProviderName52" Value="Implicit variable can be used" />
-   <Option Name="Enabled52" Value="False" />
+   <Option Name="Enabled52" Value="True" />
    <Option Name="ProviderName53" Value="Indexer cannot be static" />
    <Option Name="Enabled53" Value="True" />
    <Option Name="ProviderName54" Value="Initializer can be used" />
@@ -144,7 +144,7 @@
    <Option Name="ProviderName68" Value="Method must have a return type" />
    <Option Name="Enabled68" Value="True" />
    <Option Name="ProviderName69" Value="Nested code can be flattened" />
-   <Option Name="Enabled69" Value="False" />
+   <Option Name="Enabled69" Value="True" />
    <Option Name="ProviderName70" Value="Null coalescing operation can be used" />
    <Option Name="Enabled70" Value="True" />
    <Option Name="ProviderName71" Value="Only class types can contain destructors" />
@@ -232,7 +232,7 @@
    <Option Name="ProviderName112" Value="Struct cannot contain parameterless constructor" />
    <Option Name="Enabled112" Value="True" />
    <Option Name="ProviderName113" Value="Ternary expression can be used" />
-   <Option Name="Enabled113" Value="False" />
+   <Option Name="Enabled113" Value="True" />
    <Option Name="ProviderName114" Value="The params parameter must be a single dimensional array" />
    <Option Name="Enabled114" Value="True" />
    <Option Name="ProviderName115" Value="The params parameter must be the last parameter in a formal parameter list" />
@@ -244,9 +244,9 @@
    <Option Name="ProviderName118" Value="Type name does not correspond to file name" />
    <Option Name="Enabled118" Value="True" />
    <Option Name="ProviderName119" Value="Undeclared element" />
-   <Option Name="Enabled119" Value="False" />
+   <Option Name="Enabled119" Value="True" />
    <Option Name="ProviderName120" Value="Undisposed local" />
-   <Option Name="Enabled120" Value="False" />
+   <Option Name="Enabled120" Value="True" />
    <Option Name="ProviderName121" Value="Unused declaration" />
    <Option Name="Enabled121" Value="True" />
    <Option Name="ProviderName122" Value="Unused member" />

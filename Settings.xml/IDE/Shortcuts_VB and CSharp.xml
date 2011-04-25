@@ -37,11 +37,11 @@
    <Option Name="ContextSelected_Count" Value="3" />
    <Option Name="ContextSelected_0" Value="Editor\Line\AtEndOfLine" />
    <Option Name="ContextSelected_1" Value="Focus\Documents\Source\Code Editor" />
+   <Option Name="ContextSelected_2" Value="Language\Visual Basic" />
    <Option Name="ContextExcluded_Count" Value="2" />
    <Option Name="ContextExcluded_0" Value="Editor\Code\InComment" />
    <Option Name="ContextExcluded_1" Value="Editor\Code\InString" />
    <Option Name="Selected" Value="False" />
-   <Option Name="ContextSelected_2" Value="Language\Visual Basic" />
   </Section>
  </Language>
 </Page>

@@ -69,7 +69,6 @@
    <Option Name="ContextSelected_0" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextSelected_1" Value="System\Picker Is Active" />
    <Option Name="ContextExcluded_Count" Value="0" />
-   <Option Name="ContextExcluded_0" Value="System\Annotation Mode Active" />
    <Option Name="Selected" Value="True" />
   </Section>
   <Section Name="Command2">

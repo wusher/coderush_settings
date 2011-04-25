@@ -40,10 +40,10 @@
    <Option Name="ContextSelected_2" Value="Editor\Selection\Any Selection\Whole Line" />
    <Option Name="ContextSelected_3" Value="Editor\XML\InSection(body)" />
    <Option Name="ContextSelected_4" Value="Focus\Documents\HTML\HTML View" />
+   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextExcluded_Count" Value="1" />
    <Option Name="ContextExcluded_0" Value="System\Picker Is Active" />
    <Option Name="Selected" Value="False" />
-   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
   </Section>
   <Section Name="Command1">
    <Option Name="Key1.KeyState" Value="1507329" />
@@ -76,10 +76,10 @@
    <Option Name="ContextSelected_2" Value="Editor\Selection\Any Selection\Whole Line" />
    <Option Name="ContextSelected_3" Value="Editor\XML\InSection(body)" />
    <Option Name="ContextSelected_4" Value="Focus\Documents\HTML\HTML View" />
+   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextExcluded_Count" Value="1" />
    <Option Name="ContextExcluded_0" Value="System\Picker Is Active" />
    <Option Name="Selected" Value="False" />
-   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
   </Section>
   <Section Name="Command2">
    <Option Name="Key1.KeyState" Value="1441793" />
@@ -112,10 +112,10 @@
    <Option Name="ContextSelected_2" Value="Editor\Selection\Any Selection\Whole Line" />
    <Option Name="ContextSelected_3" Value="Editor\XML\InSection(body)" />
    <Option Name="ContextSelected_4" Value="Focus\Documents\HTML\HTML View" />
+   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextExcluded_Count" Value="1" />
    <Option Name="ContextExcluded_0" Value="System\Picker Is Active" />
    <Option Name="Selected" Value="False" />
-   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
   </Section>
   <Section Name="Command3">
    <Option Name="Key1.KeyState" Value="538836993" />
@@ -148,10 +148,10 @@
    <Option Name="ContextSelected_2" Value="Editor\Selection\Any Selection\Whole Line" />
    <Option Name="ContextSelected_3" Value="Editor\XML\InSection(body)" />
    <Option Name="ContextSelected_4" Value="Focus\Documents\HTML\HTML View" />
+   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextExcluded_Count" Value="1" />
    <Option Name="ContextExcluded_0" Value="System\Picker Is Active" />
    <Option Name="Selected" Value="False" />
-   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
   </Section>
   <Section Name="Command4">
    <Option Name="Key1.KeyState" Value="1638401" />
@@ -183,10 +183,10 @@
    <Option Name="ContextSelected_1" Value="Editor\Selection\Any Selection\Whole Line" />
    <Option Name="ContextSelected_2" Value="Editor\XML\InSection(body)" />
    <Option Name="ContextSelected_3" Value="Focus\Documents\HTML\HTML View" />
+   <Option Name="ContextSelected_4" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextExcluded_Count" Value="1" />
    <Option Name="ContextExcluded_0" Value="System\Picker Is Active" />
    <Option Name="Selected" Value="False" />
-   <Option Name="ContextSelected_4" Value="Focus\Documents\Source\Code Editor" />
   </Section>
   <Section Name="Command5">
    <Option Name="Key1.KeyState" Value="2097153" />
@@ -218,10 +218,10 @@
    <Option Name="ContextSelected_1" Value="Editor\Selection\Any Selection\Whole Line" />
    <Option Name="ContextSelected_2" Value="Editor\XML\InSection(body)" />
    <Option Name="ContextSelected_3" Value="Focus\Documents\HTML\HTML View" />
+   <Option Name="ContextSelected_4" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextExcluded_Count" Value="1" />
    <Option Name="ContextExcluded_0" Value="System\Picker Is Active" />
    <Option Name="Selected" Value="False" />
-   <Option Name="ContextSelected_4" Value="Focus\Documents\Source\Code Editor" />
   </Section>
   <Section Name="Command6">
    <Option Name="Key1.KeyState" Value="538509313" />
@@ -254,10 +254,10 @@
    <Option Name="ContextSelected_2" Value="Editor\Selection\Any Selection\Whole Line" />
    <Option Name="ContextSelected_3" Value="Editor\XML\InSection(body)" />
    <Option Name="ContextSelected_4" Value="Focus\Documents\HTML\HTML View" />
+   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextExcluded_Count" Value="1" />
    <Option Name="ContextExcluded_0" Value="System\Picker Is Active" />
    <Option Name="Selected" Value="False" />
-   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
   </Section>
   <Section Name="Command7">
    <Option Name="Key1.KeyState" Value="538968065" />
@@ -290,10 +290,10 @@
    <Option Name="ContextSelected_2" Value="Editor\Selection\Any Selection\Whole Line" />
    <Option Name="ContextSelected_3" Value="Editor\XML\InSection(body)" />
    <Option Name="ContextSelected_4" Value="Focus\Documents\HTML\HTML View" />
+   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextExcluded_Count" Value="1" />
    <Option Name="ContextExcluded_0" Value="System\Picker Is Active" />
    <Option Name="Selected" Value="False" />
-   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
   </Section>
   <Section Name="Command8">
    <Option Name="Key1.KeyState" Value="538181633" />
@@ -326,10 +326,10 @@
    <Option Name="ContextSelected_2" Value="Editor\Selection\Any Selection\Whole Line" />
    <Option Name="ContextSelected_3" Value="Editor\XML\InSection(body)" />
    <Option Name="ContextSelected_4" Value="Focus\Documents\HTML\HTML View" />
+   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextExcluded_Count" Value="1" />
    <Option Name="ContextExcluded_0" Value="System\Picker Is Active" />
    <Option Name="Selected" Value="False" />
-   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
   </Section>
   <Section Name="Command9">
    <Option Name="Key1.KeyState" Value="539361281" />
@@ -362,10 +362,10 @@
    <Option Name="ContextSelected_2" Value="Editor\Selection\Any Selection\Whole Line" />
    <Option Name="ContextSelected_3" Value="Editor\XML\InSection(body)" />
    <Option Name="ContextSelected_4" Value="Focus\Documents\HTML\HTML View" />
+   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextExcluded_Count" Value="1" />
    <Option Name="ContextExcluded_0" Value="System\Picker Is Active" />
    <Option Name="Selected" Value="False" />
-   <Option Name="ContextSelected_5" Value="Focus\Documents\Source\Code Editor" />
   </Section>
   <Section Name="Command10">
    <Option Name="Key1.KeyState" Value="2097153" />
@@ -397,10 +397,10 @@
    <Option Name="ContextSelected_1" Value="Editor\Selection\Any Selection\Whole Line" />
    <Option Name="ContextSelected_2" Value="Editor\XML\InSection(asp:Content)" />
    <Option Name="ContextSelected_3" Value="Focus\Documents\HTML\HTML View" />
+   <Option Name="ContextSelected_4" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextExcluded_Count" Value="1" />
    <Option Name="ContextExcluded_0" Value="System\Picker Is Active" />
    <Option Name="Selected" Value="False" />
-   <Option Name="ContextSelected_4" Value="Focus\Documents\Source\Code Editor" />
   </Section>
  </Language>
 </Page>

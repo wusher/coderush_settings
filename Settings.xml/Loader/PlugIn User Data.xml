@@ -1076,5 +1076,10 @@
    <Option Name="LoadAbilityType" Value="LoadEnabled" />
    <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
   </Section>
+  <Section Name="CR_CommentHighlighter">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
  </Language>
 </Page>

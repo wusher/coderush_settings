@@ -8,7 +8,7 @@
    <Option Name="MatchIconColors" Value="True" />
    <Option Name="CustomColor" Value="Named:WindowText" />
    <Option Name="Enabled" Value="True" />
-   <Option Name="FlowBreakIconOpacity" Value="67" />
+   <Option Name="FlowBreakIconOpacity" Value="0" />
   </Section>
  </Language>
 </Page>

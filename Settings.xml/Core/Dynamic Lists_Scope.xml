@@ -81,28 +81,28 @@
    <Option Name="ContextExcluded_Count" Value="0" />
   </Section>
   <Section Name="Entry0">
-   <Option Name="EntryName" Value="n" />
-   <Option Name="EntryExpansionText" Value="internal" />
-   <Option Name="EntryCustomData" Value="" />
-  </Section>
-  <Section Name="Entry1">
    <Option Name="EntryName" Value="o" />
    <Option Name="EntryExpansionText" Value="protected" />
    <Option Name="EntryCustomData" Value="" />
   </Section>
-  <Section Name="Entry2">
-   <Option Name="EntryName" Value="v" />
-   <Option Name="EntryExpansionText" Value="private" />
+  <Section Name="Entry1">
+   <Option Name="EntryName" Value="on" />
+   <Option Name="EntryExpansionText" Value="protected internal" />
    <Option Name="EntryCustomData" Value="" />
   </Section>
-  <Section Name="Entry3">
+  <Section Name="Entry2">
    <Option Name="EntryName" Value="b" />
    <Option Name="EntryExpansionText" Value="public" />
    <Option Name="EntryCustomData" Value="" />
   </Section>
+  <Section Name="Entry3">
+   <Option Name="EntryName" Value="v" />
+   <Option Name="EntryExpansionText" Value="private" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
   <Section Name="Entry4">
-   <Option Name="EntryName" Value="on" />
-   <Option Name="EntryExpansionText" Value="protected internal" />
+   <Option Name="EntryName" Value="n" />
+   <Option Name="EntryExpansionText" Value="internal" />
    <Option Name="EntryCustomData" Value="" />
   </Section>
  </Language>

@@ -48,7 +48,6 @@
    <Option Name="ContextExcluded_8" Value="System\Text Replacer Is Active" />
    <Option Name="ContextExcluded_9" Value="System\Tip Window Active" />
    <Option Name="ContextExcluded_10" Value="System\Visual Studio SmartTag Active" />
-   <Option Name="ContextExcluded_11" Value="System\Visual Studio SmartTag Active" />
    <Option Name="Selected" Value="False" />
   </Section>
   <Section Name="Command1">

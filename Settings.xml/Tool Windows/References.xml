@@ -2,7 +2,7 @@
 <Page Name="References">
  <Language Name="*Neutral*">
   <Section Name="Layout">
-   <Option Name="SplitterPos" Value="0.69375" />
+   <Option Name="SplitterPos" Value="0.690322580645161" />
   </Section>
   <Section Name="Font">
    <Option Name="Scale" Value="1" />
@@ -18,8 +18,8 @@
    <Option Name="Members" Value="True" />
   </Section>
   <Section Name="Orientation">
-   <Option Name="Landscape" Value="True" />
-   <Option Name="Portrait" Value="False" />
+   <Option Name="Landscape" Value="False" />
+   <Option Name="Portrait" Value="True" />
    <Option Name="ReferencesOnly" Value="False" />
   </Section>
   <Section Name="Sort">

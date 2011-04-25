@@ -5,7 +5,7 @@
    <Option Name="Count" Value="4" />
    <Option Name="LocalName" Value="Output Window" />
    <Option Name="FontName" Value="Consolas" />
-   <Option Name="FontSize" Value="12" />
+   <Option Name="FontSize" Value="9" />
    <Option Name="FontCharSet" Value="ANSI" />
    <Option Name="BaseCategoryID" Value="00000000-0000-0000-0000-000000000000" />
    <Option Name="Setting 0" Value="Plain Text" />
@@ -21,8 +21,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS, FCIF_PLAINTEXT" />
-   <Option Name="Background" Value="0" />
-   <Option Name="Foreground" Value="16776960" />
+   <Option Name="Background" Value="16777215" />
+   <Option Name="Foreground" Value="0" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -35,8 +35,8 @@
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWBGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
    <Option Name="Background" Value="16750899" />
-   <Option Name="Foreground" Value="16776960" />
-   <Option Name="FontFlags" Value="0" />
+   <Option Name="Foreground" Value="0" />
+   <Option Name="FontFlags" Value="-2147483648" />
    <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Inactive Selected Text">
@@ -48,8 +48,8 @@
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWBGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
    <Option Name="Background" Value="14405055" />
-   <Option Name="Foreground" Value="16776960" />
-   <Option Name="FontFlags" Value="0" />
+   <Option Name="Foreground" Value="0" />
+   <Option Name="FontFlags" Value="-2147483648" />
    <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Current List Location">
@@ -60,8 +60,8 @@
    <Option Name="MarkerVisualStyle" Value="5" />
    <Option Name="LineStyle" Value="LI_NONE" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="8388608" />
-   <Option Name="Foreground" Value="10738687" />
+   <Option Name="Background" Value="10813440" />
+   <Option Name="Foreground" Value="16777215" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>

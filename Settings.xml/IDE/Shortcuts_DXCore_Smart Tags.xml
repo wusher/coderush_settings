@@ -135,7 +135,6 @@
    <Option Name="ContextSelected_1" Value="System\Picker Is Active" />
    <Option Name="ContextExcluded_Count" Value="1" />
    <Option Name="ContextExcluded_0" Value="System\RefactorInstalled" />
-   <Option Name="ContextExcluded_1" Value="System\RefactorInstalled" />
    <Option Name="Selected" Value="False" />
   </Section>
   <Section Name="Command4">
