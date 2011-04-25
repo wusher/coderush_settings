@@ -1,0 +1,21 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Dynamic Lists_WCF Types">
+ <Language Name="*Neutral*">
+  <Section Name="Header">
+   <Option Name="TemplateVariable" Value="Type" />
+   <Option Name="DisplayName" Value="WCF Types" />
+   <Option Name="CustomData" Value="" />
+   <Option Name="Comment" Value="Holds types frequently used in Windows Communication Foundation applications" />
+   <Option Name="HoldsTypes" Value="True" />
+   <Option Name="EntriesCount" Value="1" />
+   <Option Name="ContextSelected_Count" Value="1" />
+   <Option Name="ContextSelected_0" Value="Editor\Code\AssemblyReferenced(System.ServiceModel)" />
+   <Option Name="ContextExcluded_Count" Value="0" />
+  </Section>
+  <Section Name="Entry0">
+   <Option Name="EntryName" Value="cb" />
+   <Option Name="EntryExpansionText" Value="System.ServiceModel.ClientBase" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+ </Language>
+</Page>

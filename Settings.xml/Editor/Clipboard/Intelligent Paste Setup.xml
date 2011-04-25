@@ -1,0 +1,20 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Intelligent Paste Setup">
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="SelectedIndex" Value="0" />
+  </Section>
+  <Section Name="Regular Expressions">
+   <Option Name="MaxLineThreshold" Value="50" />
+  </Section>
+  <Section Name="Declare Method Stub Intelligent Paste">
+   <Option Name="MaxLineThreshold" Value="50" />
+  </Section>
+  <Section Name="Extract Method Refactoring">
+   <Option Name="MaxLineThreshold" Value="50" />
+  </Section>
+  <Section Name="Introduce Local Refactoring">
+   <Option Name="MaxLineThreshold" Value="50" />
+  </Section>
+ </Language>
+</Page>

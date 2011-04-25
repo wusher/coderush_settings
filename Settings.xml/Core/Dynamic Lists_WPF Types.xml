@@ -1,0 +1,171 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Dynamic Lists_WPF Types">
+ <Language Name="*Neutral*">
+  <Section Name="Header">
+   <Option Name="TemplateVariable" Value="Type" />
+   <Option Name="DisplayName" Value="WPF Types" />
+   <Option Name="CustomData" Value="" />
+   <Option Name="Comment" Value="Common .NET types for working with WPF" />
+   <Option Name="HoldsTypes" Value="True" />
+   <Option Name="EntriesCount" Value="31" />
+   <Option Name="ContextSelected_Count" Value="1" />
+   <Option Name="ContextSelected_0" Value="Project\IsWPF" />
+   <Option Name="ContextExcluded_Count" Value="0" />
+  </Section>
+  <Section Name="Entry0">
+   <Option Name="EntryName" Value="mp" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.MediaPlayer" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry1">
+   <Option Name="EntryName" Value="ff" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.FontFamily" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry2">
+   <Option Name="EntryName" Value="z" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Size" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry3">
+   <Option Name="EntryName" Value="th" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Thickness" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry4">
+   <Option Name="EntryName" Value="dp" />
+   <Option Name="EntryExpansionText" Value="System.Windows.DependencyProperty" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry5">
+   <Option Name="EntryName" Value="sct" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.ScaleTransform" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry6">
+   <Option Name="EntryName" Value="p" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Point" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry7">
+   <Option Name="EntryName" Value="mx" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.Matrix" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry8">
+   <Option Name="EntryName" Value="r" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Rect" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry9">
+   <Option Name="EntryName" Value="vi" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.Visual" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry10">
+   <Option Name="EntryName" Value="wi" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Window" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry11">
+   <Option Name="EntryName" Value="v" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Vector" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry12">
+   <Option Name="EntryName" Value="uie" />
+   <Option Name="EntryExpansionText" Value="System.Windows.UIElement" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry13">
+   <Option Name="EntryName" Value="htr" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.HitTestResult" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry14">
+   <Option Name="EntryName" Value="gd" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.GeometryDrawing" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry15">
+   <Option Name="EntryName" Value="rt" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.RotateTransform" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry16">
+   <Option Name="EntryName" Value="tt" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.TranslateTransform" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry17">
+   <Option Name="EntryName" Value="al" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Documents.AdornerLayer" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry18">
+   <Option Name="EntryName" Value="gg" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.GeometryGroup" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry19">
+   <Option Name="EntryName" Value="vb" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.VisualBrush" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry20">
+   <Option Name="EntryName" Value="mt" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.MatrixTransform" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry21">
+   <Option Name="EntryName" Value="do" />
+   <Option Name="EntryExpansionText" Value="System.Windows.DependencyObject" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry22">
+   <Option Name="EntryName" Value="lgb" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.LinearGradientBrush" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry23">
+   <Option Name="EntryName" Value="skt" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.SkewTransform" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry24">
+   <Option Name="EntryName" Value="tg" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.TransformGroup" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry25">
+   <Option Name="EntryName" Value="gb" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.GradientBrush" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry26">
+   <Option Name="EntryName" Value="fe" />
+   <Option Name="EntryExpansionText" Value="System.Windows.FrameworkElement" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry27">
+   <Option Name="EntryName" Value="cl" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.Color" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry28">
+   <Option Name="EntryName" Value="br" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.Brush" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry29">
+   <Option Name="EntryName" Value="pn" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Media.Pen" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry30">
+   <Option Name="EntryName" Value="an" />
+   <Option Name="EntryExpansionText" Value="System.Windows.Annotations.Annotation" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+ </Language>
+</Page>

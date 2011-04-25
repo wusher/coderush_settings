@@ -1,0 +1,82 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Dynamic Lists_System Drawing Types">
+ <Language Name="*Neutral*">
+  <Section Name="Header">
+   <Option Name="TemplateVariable" Value="Type" />
+   <Option Name="DisplayName" Value="System Drawing Types" />
+   <Option Name="CustomData" Value="" />
+   <Option Name="Comment" Value="Common .NET types for working with GDI+" />
+   <Option Name="HoldsTypes" Value="True" />
+   <Option Name="EntriesCount" Value="13" />
+   <Option Name="ContextSelected_Count" Value="1" />
+   <Option Name="ContextSelected_0" Value="Project\References(System.Drawing)" />
+   <Option Name="ContextExcluded_Count" Value="1" />
+   <Option Name="ContextExcluded_0" Value="File\IsWPF" />
+  </Section>
+  <Section Name="Entry0">
+   <Option Name="EntryName" Value="cl" />
+   <Option Name="EntryExpansionText" Value="System.Drawing.Color" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry1">
+   <Option Name="EntryName" Value="p" />
+   <Option Name="EntryExpansionText" Value="System.Drawing.Point" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry2">
+   <Option Name="EntryName" Value="z" />
+   <Option Name="EntryExpansionText" Value="System.Drawing.Size" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry3">
+   <Option Name="EntryName" Value="gx" />
+   <Option Name="EntryExpansionText" Value="System.Drawing.Graphics" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry4">
+   <Option Name="EntryName" Value="r" />
+   <Option Name="EntryExpansionText" Value="System.Drawing.Rectangle" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry5">
+   <Option Name="EntryName" Value="br" />
+   <Option Name="EntryExpansionText" Value="System.Drawing.Brush" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry6">
+   <Option Name="EntryName" Value="pt" />
+   <Option Name="EntryExpansionText" Value="System.Drawing.Point" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry7">
+   <Option Name="EntryName" Value="fn" />
+   <Option Name="EntryExpansionText" Value="System.Drawing.Font" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry8">
+   <Option Name="EntryName" Value="rf" />
+   <Option Name="EntryExpansionText" Value="System.Drawing.RectangleF" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry9">
+   <Option Name="EntryName" Value="bt" />
+   <Option Name="EntryExpansionText" Value="System.Drawing.Bitmap" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry10">
+   <Option Name="EntryName" Value="zf" />
+   <Option Name="EntryExpansionText" Value="System.Drawing.SizeF" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry11">
+   <Option Name="EntryName" Value="pf" />
+   <Option Name="EntryExpansionText" Value="System.Drawing.PointF" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry12">
+   <Option Name="EntryName" Value="pn" />
+   <Option Name="EntryExpansionText" Value="System.Drawing.Pen" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+ </Language>
+</Page>

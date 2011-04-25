@@ -1,0 +1,20 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Dynamic Lists_Custom Types">
+ <Language Name="*Neutral*">
+  <Section Name="Header">
+   <Option Name="TemplateVariable" Value="Type" />
+   <Option Name="DisplayName" Value="Custom Types" />
+   <Option Name="CustomData" Value="" />
+   <Option Name="Comment" Value="Custom Types..." />
+   <Option Name="HoldsTypes" Value="True" />
+   <Option Name="EntriesCount" Value="1" />
+   <Option Name="ContextSelected_Count" Value="0" />
+   <Option Name="ContextExcluded_Count" Value="0" />
+  </Section>
+  <Section Name="Entry0">
+   <Option Name="EntryName" Value="rar" />
+   <Option Name="EntryExpansionText" Value="CodeRushDemo.RunArgs" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+ </Language>
+</Page>

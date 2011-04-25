@@ -1,0 +1,56 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Dynamic Lists_SharePoint Types">
+ <Language Name="*Neutral*">
+  <Section Name="Header">
+   <Option Name="TemplateVariable" Value="Type" />
+   <Option Name="DisplayName" Value="SharePoint Types" />
+   <Option Name="CustomData" Value="" />
+   <Option Name="Comment" Value="Common SharePoint Types" />
+   <Option Name="HoldsTypes" Value="True" />
+   <Option Name="EntriesCount" Value="8" />
+   <Option Name="ContextSelected_Count" Value="1" />
+   <Option Name="ContextSelected_0" Value="Project\References(Microsoft.SharePoint)" />
+   <Option Name="ContextExcluded_Count" Value="0" />
+  </Section>
+  <Section Name="Entry0">
+   <Option Name="EntryName" Value="spf" />
+   <Option Name="EntryExpansionText" Value="Microsoft.SharePoint.SPField" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry1">
+   <Option Name="EntryName" Value="spl" />
+   <Option Name="EntryExpansionText" Value="Microsoft.SharePoint.SPList" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry2">
+   <Option Name="EntryName" Value="spcw" />
+   <Option Name="EntryExpansionText" Value="Microsoft.SharePoint.SPContext.Current.Web" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry3">
+   <Option Name="EntryName" Value="spw" />
+   <Option Name="EntryExpansionText" Value="Microsoft.SharePoint.SPWeb" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry4">
+   <Option Name="EntryName" Value="spcs" />
+   <Option Name="EntryExpansionText" Value="Microsoft.SharePoint.SPContext.Current.Site" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry5">
+   <Option Name="EntryName" Value="spli" />
+   <Option Name="EntryExpansionText" Value="Microsoft.SharePoint.SPListItem" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry6">
+   <Option Name="EntryName" Value="sps" />
+   <Option Name="EntryExpansionText" Value="Microsoft.SharePoint.SPSite" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry7">
+   <Option Name="EntryName" Value="spct" />
+   <Option Name="EntryExpansionText" Value="Microsoft.SharePoint.SPContentType" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+ </Language>
+</Page>

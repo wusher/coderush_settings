@@ -1,0 +1,370 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Dynamic Lists_System Types">
+ <Language Name="*Neutral*">
+  <Section Name="Header">
+   <Option Name="TemplateVariable" Value="Type" />
+   <Option Name="DisplayName" Value="System Types" />
+   <Option Name="CustomData" Value="" />
+   <Option Name="Comment" Value="Common .NET types" />
+   <Option Name="HoldsTypes" Value="True" />
+   <Option Name="EntriesCount" Value="71" />
+   <Option Name="ContextSelected_Count" Value="0" />
+   <Option Name="ContextExcluded_Count" Value="0" />
+  </Section>
+  <Section Name="Entry0">
+   <Option Name="EntryName" Value="xe" />
+   <Option Name="EntryExpansionText" Value="System.Xml.XmlElement" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry1">
+   <Option Name="EntryName" Value="dr" />
+   <Option Name="EntryExpansionText" Value="System.Data.DataRow" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry2">
+   <Option Name="EntryName" Value="?" />
+   <Option Name="EntryExpansionText" Value="«ReturnType»" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry3">
+   <Option Name="EntryName" Value="ea" />
+   <Option Name="EntryExpansionText" Value="System.EventArgs" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry4">
+   <Option Name="EntryName" Value="qcp" />
+   <Option Name="EntryExpansionText" Value="System.Data.SqlClient.SqlClientPermission" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry5">
+   <Option Name="EntryName" Value="xtr" />
+   <Option Name="EntryExpansionText" Value="System.Xml.XmlTextReader" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry6">
+   <Option Name="EntryName" Value="xx" />
+   <Option Name="EntryExpansionText" Value="System.Xml.XmlException" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry7">
+   <Option Name="EntryName" Value="d8" />
+   <Option Name="EntryExpansionText" Value="System.DateTime" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry8">
+   <Option Name="EntryName" Value="x" />
+   <Option Name="EntryExpansionText" Value="System.Exception" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry9">
+   <Option Name="EntryName" Value="xt" />
+   <Option Name="EntryExpansionText" Value="System.Xml.XmlText" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry10">
+   <Option Name="EntryName" Value="rx" />
+   <Option Name="EntryExpansionText" Value="System.Text.RegularExpressions.Regex" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry11">
+   <Option Name="EntryName" Value="hwr" />
+   <Option Name="EntryExpansionText" Value="System.Net.HttpWebResponse" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry12">
+   <Option Name="EntryName" Value="qt" />
+   <Option Name="EntryExpansionText" Value="System.Data.SqlClient.SqlTransaction" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry13">
+   <Option Name="EntryName" Value="xc" />
+   <Option Name="EntryExpansionText" Value="System.Xml.XmlComment" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry14">
+   <Option Name="EntryName" Value="wq" />
+   <Option Name="EntryExpansionText" Value="System.Net.WebRequest" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry15">
+   <Option Name="EntryName" Value="h" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Hashtable" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry16">
+   <Option Name="EntryName" Value="qpc" />
+   <Option Name="EntryExpansionText" Value="System.Data.SqlClient.SqlParameterCollection" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry17">
+   <Option Name="EntryName" Value="qc" />
+   <Option Name="EntryExpansionText" Value="System.Data.SqlClient.SqlCommand" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry18">
+   <Option Name="EntryName" Value="sc" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Specialized.StringCollection" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry19">
+   <Option Name="EntryName" Value="xw" />
+   <Option Name="EntryExpansionText" Value="System.Xml.XmlWriter" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry20">
+   <Option Name="EntryName" Value="dt" />
+   <Option Name="EntryExpansionText" Value="System.Data.DataTable" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry21">
+   <Option Name="EntryName" Value="nvc" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Specialized.NameValueCollection" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry22">
+   <Option Name="EntryName" Value="fwr" />
+   <Option Name="EntryExpansionText" Value="System.Net.FileWebResponse" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry23">
+   <Option Name="EntryName" Value="gc" />
+   <Option Name="EntryExpansionText" Value="System.Globalization.GregorianCalendar" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry24">
+   <Option Name="EntryName" Value="sw" />
+   <Option Name="EntryExpansionText" Value="System.IO.StreamWriter" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry25">
+   <Option Name="EntryName" Value="sh" />
+   <Option Name="EntryExpansionText" Value="System.Int16" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry26">
+   <Option Name="EntryName" Value="ts" />
+   <Option Name="EntryExpansionText" Value="System.Threading.ThreadStart" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry27">
+   <Option Name="EntryName" Value="ip" />
+   <Option Name="EntryExpansionText" Value="System.IntPtr" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry28">
+   <Option Name="EntryName" Value="xs" />
+   <Option Name="EntryExpansionText" Value="System.Xml.Serialization.XmlSerializer" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry29">
+   <Option Name="EntryName" Value="\" />
+   <Option Name="EntryExpansionText" Value="«?Paste»" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry30">
+   <Option Name="EntryName" Value="qda" />
+   <Option Name="EntryExpansionText" Value="System.Data.SqlClient.SqlDataAdapter" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry31">
+   <Option Name="EntryName" Value="qp" />
+   <Option Name="EntryExpansionText" Value="System.Data.SqlClient.SqlParameter" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry32">
+   <Option Name="EntryName" Value="mre" />
+   <Option Name="EntryExpansionText" Value="System.Threading.ManualResetEvent" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry33">
+   <Option Name="EntryName" Value="si" />
+   <Option Name="EntryExpansionText" Value="System.Single" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry34">
+   <Option Name="EntryName" Value="xdo" />
+   <Option Name="EntryExpansionText" Value="System.Xml.Linq.XDocument" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry35">
+   <Option Name="EntryName" Value="sb" />
+   <Option Name="EntryExpansionText" Value="System.Text.StringBuilder" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry36">
+   <Option Name="EntryName" Value="/" />
+   <Option Name="EntryExpansionText" Value="«?Type»" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry37">
+   <Option Name="EntryName" Value="ds" />
+   <Option Name="EntryExpansionText" Value="System.Data.DataSet" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry38">
+   <Option Name="EntryName" Value="mo" />
+   <Option Name="EntryExpansionText" Value="System.Threading.Monitor" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry39">
+   <Option Name="EntryName" Value="dv" />
+   <Option Name="EntryExpansionText" Value="System.Data.DataView" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry40">
+   <Option Name="EntryName" Value="xpd" />
+   <Option Name="EntryExpansionText" Value="System.Xml.XPath.XPathDocument" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry41">
+   <Option Name="EntryName" Value="ty" />
+   <Option Name="EntryExpansionText" Value="System.Type" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry42">
+   <Option Name="EntryName" Value="q" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Queue" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry43">
+   <Option Name="EntryName" Value="de" />
+   <Option Name="EntryExpansionText" Value="System.Decimal" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry44">
+   <Option Name="EntryName" Value="s" />
+   <Option Name="EntryExpansionText" Value="System.String" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry45">
+   <Option Name="EntryName" Value="t" />
+   <Option Name="EntryExpansionText" Value="System.Threading.Thread" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry46">
+   <Option Name="EntryName" Value="u" />
+   <Option Name="EntryExpansionText" Value="System.UInt32" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry47">
+   <Option Name="EntryName" Value="hwq" />
+   <Option Name="EntryExpansionText" Value="System.Net.HttpWebRequest" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry48">
+   <Option Name="EntryName" Value="i" />
+   <Option Name="EntryExpansionText" Value="System.Int32" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry49">
+   <Option Name="EntryName" Value="k" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Stack" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry50">
+   <Option Name="EntryName" Value="l" />
+   <Option Name="EntryExpansionText" Value="System.Int64" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry51">
+   <Option Name="EntryName" Value="m" />
+   <Option Name="EntryExpansionText" Value="System.Text.RegularExpressions.Match" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry52">
+   <Option Name="EntryName" Value="o" />
+   <Option Name="EntryExpansionText" Value="System.Object" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry53">
+   <Option Name="EntryName" Value="a" />
+   <Option Name="EntryExpansionText" Value="System.Collections.ArrayList" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry54">
+   <Option Name="EntryName" Value="b" />
+   <Option Name="EntryExpansionText" Value="System.Boolean" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry55">
+   <Option Name="EntryName" Value="c" />
+   <Option Name="EntryExpansionText" Value="System.Char" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry56">
+   <Option Name="EntryName" Value="d" />
+   <Option Name="EntryExpansionText" Value="System.Double" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry57">
+   <Option Name="EntryName" Value="xtw" />
+   <Option Name="EntryExpansionText" Value="System.Xml.XmlTextWriter" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry58">
+   <Option Name="EntryName" Value="fwq" />
+   <Option Name="EntryExpansionText" Value="System.Net.FileWebRequest" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry59">
+   <Option Name="EntryName" Value="g" />
+   <Option Name="EntryExpansionText" Value="System.Guid" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry60">
+   <Option Name="EntryName" Value="qdr" />
+   <Option Name="EntryExpansionText" Value="System.Data.SqlClient.SqlDataReader" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry61">
+   <Option Name="EntryName" Value="xn" />
+   <Option Name="EntryExpansionText" Value="System.Xml.XmlNode" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry62">
+   <Option Name="EntryName" Value="xa" />
+   <Option Name="EntryExpansionText" Value="System.Xml.XmlAttribute" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry63">
+   <Option Name="EntryName" Value="sr" />
+   <Option Name="EntryExpansionText" Value="System.IO.StreamReader" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry64">
+   <Option Name="EntryName" Value="xd" />
+   <Option Name="EntryExpansionText" Value="System.Xml.XmlDocument" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry65">
+   <Option Name="EntryName" Value="wr" />
+   <Option Name="EntryExpansionText" Value="System.Net.WebResponse" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry66">
+   <Option Name="EntryName" Value="qn" />
+   <Option Name="EntryExpansionText" Value="System.Data.SqlClient.SqlConnection" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry67">
+   <Option Name="EntryName" Value="drv" />
+   <Option Name="EntryExpansionText" Value="System.Data.DataRowView" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry68">
+   <Option Name="EntryName" Value="by" />
+   <Option Name="EntryExpansionText" Value="System.Byte" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry69">
+   <Option Name="EntryName" Value="qcb" />
+   <Option Name="EntryExpansionText" Value="System.Data.SqlClient.SqlCommandBuilder" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry70">
+   <Option Name="EntryName" Value="xdt" />
+   <Option Name="EntryExpansionText" Value="System.Xml.XmlDocumentType" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+ </Language>
+</Page>

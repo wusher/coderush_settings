@@ -1,0 +1,85 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Dynamic Lists_Generic Types (one param)">
+ <Language Name="*Neutral*">
+  <Section Name="Header">
+   <Option Name="TemplateVariable" Value="Generic1Type" />
+   <Option Name="DisplayName" Value="Generic Types (one param)" />
+   <Option Name="CustomData" Value="" />
+   <Option Name="Comment" Value="Generics that accept one parameter" />
+   <Option Name="HoldsTypes" Value="True" />
+   <Option Name="EntriesCount" Value="14" />
+   <Option Name="ContextSelected_Count" Value="0" />
+   <Option Name="ContextExcluded_Count" Value="0" />
+  </Section>
+  <Section Name="Entry0">
+   <Option Name="EntryName" Value="cmp" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Generic.Comparer" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry1">
+   <Option Name="EntryName" Value="lln" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Generic.LinkedListNode" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry2">
+   <Option Name="EntryName" Value="q" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Generic.Queue" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry3">
+   <Option Name="EntryName" Value="s" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Generic.Stack" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry4">
+   <Option Name="EntryName" Value="roc" />
+   <Option Name="EntryExpansionText" Value="System.Collections.ObjectModel.ReadOnlyCollection" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry5">
+   <Option Name="EntryName" Value="ic" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Generic.ICollection" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry6">
+   <Option Name="EntryName" Value="k" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Generic.Stack" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry7">
+   <Option Name="EntryName" Value="l" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Generic.List" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry8">
+   <Option Name="EntryName" Value="oc" />
+   <Option Name="EntryExpansionText" Value="System.Collections.ObjectModel.ObservableCollection" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry9">
+   <Option Name="EntryName" Value="c" />
+   <Option Name="EntryExpansionText" Value="System.Collections.ObjectModel.Collection" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry10">
+   <Option Name="EntryName" Value="ll" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Generic.LinkedList" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry11">
+   <Option Name="EntryName" Value="ec" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Generic.EqualityComparer" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry12">
+   <Option Name="EntryName" Value="ie" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Generic.IEnumerable" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry13">
+   <Option Name="EntryName" Value="bl" />
+   <Option Name="EntryExpansionText" Value="System.ComponentModel.BindingList" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+ </Language>
+</Page>

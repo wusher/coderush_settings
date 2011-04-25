@@ -1,0 +1,40 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Dynamic Lists_Iterator Variables">
+ <Language Name="*Neutral*">
+  <Section Name="Header">
+   <Option Name="TemplateVariable" Value="IteratorVar" />
+   <Option Name="DisplayName" Value="Iterator Variables" />
+   <Option Name="CustomData" Value="" />
+   <Option Name="Comment" Value="Mnemonics for frequently-used iterator variables." />
+   <Option Name="HoldsTypes" Value="False" />
+   <Option Name="EntriesCount" Value="5" />
+   <Option Name="ContextSelected_Count" Value="0" />
+   <Option Name="ContextExcluded_Count" Value="0" />
+  </Section>
+  <Section Name="Entry0">
+   <Option Name="EntryName" Value="i" />
+   <Option Name="EntryExpansionText" Value="i" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry1">
+   <Option Name="EntryName" Value="j" />
+   <Option Name="EntryExpansionText" Value="j" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry2">
+   <Option Name="EntryName" Value="k" />
+   <Option Name="EntryExpansionText" Value="k" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry3">
+   <Option Name="EntryName" Value="c" />
+   <Option Name="EntryExpansionText" Value="counter" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry4">
+   <Option Name="EntryName" Value="x" />
+   <Option Name="EntryExpansionText" Value="index" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+ </Language>
+</Page>

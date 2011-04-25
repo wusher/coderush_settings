@@ -1,0 +1,35 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Dynamic Lists_Generic Types (two params)">
+ <Language Name="*Neutral*">
+  <Section Name="Header">
+   <Option Name="TemplateVariable" Value="Generic2Type" />
+   <Option Name="DisplayName" Value="Generic Types (two params)" />
+   <Option Name="CustomData" Value="" />
+   <Option Name="Comment" Value="Generics that accept two Type parameters" />
+   <Option Name="HoldsTypes" Value="True" />
+   <Option Name="EntriesCount" Value="4" />
+   <Option Name="ContextSelected_Count" Value="0" />
+   <Option Name="ContextExcluded_Count" Value="0" />
+  </Section>
+  <Section Name="Entry0">
+   <Option Name="EntryName" Value="sl" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Generic.SortedList" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry1">
+   <Option Name="EntryName" Value="kvp" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Generic.KeyValuePair" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry2">
+   <Option Name="EntryName" Value="sd" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Generic.SortedDictionary" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry3">
+   <Option Name="EntryName" Value="d" />
+   <Option Name="EntryExpansionText" Value="System.Collections.Generic.Dictionary" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+ </Language>
+</Page>

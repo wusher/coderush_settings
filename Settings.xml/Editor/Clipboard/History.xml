@@ -1,0 +1,11 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="History">
+ <Language Name="*Neutral*">
+  <Section Name="Settings">
+   <Option Name="PersistClipboardHistory" Value="False" />
+   <Option Name="SelectorColor" Value="Named:Red" />
+   <Option Name="RowCount" Value="3" />
+   <Option Name="ColumnCount" Value="3" />
+  </Section>
+ </Language>
+</Page>

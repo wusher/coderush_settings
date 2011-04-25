@@ -1,0 +1,65 @@
+﻿<!--This is a DXCore settings file-->
+<Page Name="Dynamic Lists_XPO">
+ <Language Name="*Neutral*">
+  <Section Name="Header">
+   <Option Name="TemplateVariable" Value="Type" />
+   <Option Name="DisplayName" Value="XPO" />
+   <Option Name="CustomData" Value="" />
+   <Option Name="Comment" Value="eXpress Persistent Objects for .NET from Developer Express" />
+   <Option Name="HoldsTypes" Value="True" />
+   <Option Name="EntriesCount" Value="10" />
+   <Option Name="ContextSelected_Count" Value="0" />
+   <Option Name="ContextExcluded_Count" Value="0" />
+  </Section>
+  <Section Name="Entry0">
+   <Option Name="EntryName" Value="xss" />
+   <Option Name="EntryExpansionText" Value="DevExpress.Xpo.Session" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry1">
+   <Option Name="EntryName" Value="xuo" />
+   <Option Name="EntryExpansionText" Value="DevExpress.Data.Filtering.UnaryOperator" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry2">
+   <Option Name="EntryName" Value="xgo" />
+   <Option Name="EntryExpansionText" Value="DevExpress.Data.Filtering.GroupOperator" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry3">
+   <Option Name="EntryName" Value="xfo" />
+   <Option Name="EntryExpansionText" Value="DevExpress.Data.Filtering.FunctionOperator" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry4">
+   <Option Name="EntryName" Value="xio" />
+   <Option Name="EntryExpansionText" Value="DevExpress.Data.Filtering.InOperator" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry5">
+   <Option Name="EntryName" Value="xbwo" />
+   <Option Name="EntryExpansionText" Value="DevExpress.Data.Filtering.BetweenOperator" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry6">
+   <Option Name="EntryName" Value="xu" />
+   <Option Name="EntryExpansionText" Value="DevExpress.Xpo.UnitOfWork" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry7">
+   <Option Name="EntryName" Value="xcl" />
+   <Option Name="EntryExpansionText" Value="DevExpress.Xpo.XPCollection" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry8">
+   <Option Name="EntryName" Value="xao" />
+   <Option Name="EntryExpansionText" Value="DevExpress.Data.Filtering.AggregateOperand" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+  <Section Name="Entry9">
+   <Option Name="EntryName" Value="xbo" />
+   <Option Name="EntryExpansionText" Value="DevExpress.Data.Filtering.BinaryOperator" />
+   <Option Name="EntryCustomData" Value="" />
+  </Section>
+ </Language>
+</Page>
