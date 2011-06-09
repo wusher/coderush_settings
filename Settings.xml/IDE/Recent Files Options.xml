@@ -8,8 +8,8 @@
    <Option Name="UseNetworkFiles" Value="False" />
    <Option Name="Width" Value="300" />
    <Option Name="Height" Value="400" />
-   <Option Name="Left" Value="10" />
-   <Option Name="Top" Value="10" />
+   <Option Name="Left" Value="1762" />
+   <Option Name="Top" Value="280" />
    <Option Name="StringFilterVizibility" Value="True" />
    <Option Name="DateFilterVizibility" Value="False" />
    <Option Name="DateFromChecked" Value="False" />

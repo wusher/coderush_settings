@@ -3,7 +3,7 @@
  <Language Name="*Neutral*">
   <Section Name="General">
    <Option Name="Enabled" Value="False" />
-   <Option Name="LineColor" Value="ARGB:255:166:186:246" />
+   <Option Name="LineColor" Value="ARGB:255:78:118:238" />
    <Option Name="Opacity" Value="100" />
   </Section>
  </Language>

@@ -30,6 +30,8 @@
    <Option Name="path,GetCurrentDirectory" Value="path" />
    <Option Name="path,GetCurrentDirectory,GetTempPath" Value="path" />
    <Option Name="GetOrganizationsByCurrentUser,GetOrgs,GetAllByOrgTypeAndI9DataAccess,GetAllOrganizations" Value="GetOrgs" />
+   <Option Name="statments,ParseSql" Value="statments" />
+   <Option Name="rawSqlText,RemoveTransactions,_connectionString" Value="rawSqlText" />
   </Section>
  </Language>
 </Page>

@@ -1081,5 +1081,30 @@
    <Option Name="LoadAbilityType" Value="LoadEnabled" />
    <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
   </Section>
+  <Section Name="CR_CodeCleanup">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_MSpecTesting">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_TemplateGoto">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_InlineMethod">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_NamedParameters">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
  </Language>
 </Page>

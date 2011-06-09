@@ -2,7 +2,7 @@
 <Page Name="Templates">
  <Language Name="CSharp">
   <Section Name="Options">
-   <Option Name="SelectedNode" Value="Diagnostics\cw" />
+   <Option Name="SelectedNode" Value="1-key\c" />
    <Option Name="SplitterPosition" Value="244" />
    <Option Name="TreeSplitterPosition" Value="343" />
   </Section>
@@ -15,6 +15,11 @@
  <Language Name="HTML">
   <Section Name="Options">
    <Option Name="SelectedNode" Value="Nuggets\," />
+  </Section>
+ </Language>
+ <Language Name="Basic">
+  <Section Name="Options">
+   <Option Name="SelectedNode" Value="Properties\bg" />
   </Section>
  </Language>
 </Page>
