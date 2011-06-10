@@ -39,10 +39,10 @@
   </Section>
   <Section Name="FilterLocation">
    <Option Name="0" Value="False" />
-   <Option Name="1" Value="True" />
+   <Option Name="1" Value="False" />
    <Option Name="2" Value="False" />
    <Option Name="3" Value="False" />
-   <Option Name="4" Value="False" />
+   <Option Name="4" Value="True" />
   </Section>
  </Language>
 </Page>
