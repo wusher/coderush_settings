@@ -61,9 +61,9 @@
    <Option Name="Enabled26" Value="True" />
    <Option Name="ProviderName27" Value="Declare Constructor" />
    <Option Name="Enabled27" Value="True" />
-   <Option Name="ProviderName28" Value="Declare Controller (VS)" />
+   <Option Name="ProviderName28" Value="Declare Controller" />
    <Option Name="Enabled28" Value="True" />
-   <Option Name="ProviderName29" Value="Declare Controller" />
+   <Option Name="ProviderName29" Value="Declare Controller (VS)" />
    <Option Name="Enabled29" Value="True" />
    <Option Name="ProviderName30" Value="Declare Delegate" />
    <Option Name="Enabled30" Value="True" />

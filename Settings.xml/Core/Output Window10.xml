@@ -24,7 +24,7 @@
    <Option Name="Background" Value="16777215" />
    <Option Name="Foreground" Value="0" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Selected Text">
    <Option Name="LocalName" Value="Selected Text" />
@@ -37,7 +37,7 @@
    <Option Name="Background" Value="16750899" />
    <Option Name="Foreground" Value="0" />
    <Option Name="FontFlags" Value="-2147483648" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Inactive Selected Text">
    <Option Name="LocalName" Value="Inactive Selected Text" />
@@ -50,7 +50,7 @@
    <Option Name="Background" Value="14405055" />
    <Option Name="Foreground" Value="0" />
    <Option Name="FontFlags" Value="-2147483648" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Current List Location">
    <Option Name="LocalName" Value="Current List Location" />
@@ -63,7 +63,7 @@
    <Option Name="Background" Value="10813440" />
    <Option Name="Foreground" Value="16777215" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
  </Language>
 </Page>

@@ -84,7 +84,7 @@
    <Option Name="Declare Enum Element" Value="0.226946043980878" />
    <Option Name="Conditional to Case" Value="14201.2162177838" />
    <Option Name="Rename File to Match Type" Value="2388.11490180318" />
-   <Option Name="Add Contract" Value="0.208146185515183" />
+   <Option Name="Add Contract" Value="0.357360319469794" />
    <Option Name="Inline With Statement" Value="29977.1168989484" />
    <Option Name="Introduce Using Statement" Value="0.174264903266007" />
    <Option Name="Execute Statements in Parallel" Value="0.328274662198591" />
@@ -99,10 +99,10 @@
    <Option Name="Rename" Value="0.180200918423818" />
    <Option Name="Declare Class" Value="0.178093592309561" />
    <Option Name="Move Initialization to Declaration" Value="0.149014076877964" />
-   <Option Name="Extract Method" Value="0.132188071926216" />
+   <Option Name="Extract Method" Value="0.133463424670384" />
    <Option Name="Remove Setter" Value="0.287821570725451" />
    <Option Name="Convert to Integer" Value="0.195207236962983" />
-   <Option Name="Convert to Initializer" Value="0.390047944829314" />
+   <Option Name="Convert to Initializer" Value="0.24739834756896" />
    <Option Name="Seal Class" Value="0.299245591370033" />
    <Option Name="Exit Method" Value="0.355231478111369" />
    <Option Name="Declare Fields with Initializers" Value="52.2026116047139" />
@@ -136,6 +136,7 @@
    <Option Name="Convert to Tuple" Value="0.234924530906989" />
    <Option Name="Inline Method" Value="0.166495490126938" />
    <Option Name="Inline Method (and delete)" Value="0.153809948359605" />
+   <Option Name="Declare Event" Value="0.112806366227459" />
   </Section>
  </Language>
 </Page>

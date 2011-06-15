@@ -11,19 +11,19 @@
    <Option Name="Inside region directives" Value="False" />
   </Section>
   <Section Name="General">
-   <Option Name="Adjust code style on autoformat" Value="True" />
-   <Option Name="Keep existing line breaks" Value="False" />
-   <Option Name="Keep existing white space" Value="False" />
+   <Option Name="Adjust code style on autoformat" Value="False" />
+   <Option Name="Keep existing line breaks" Value="True" />
+   <Option Name="Keep existing white space" Value="True" />
   </Section>
   <Section Name="Indentation">
    <Option Name="Indent anonymous method contents" Value="True" />
-   <Option Name="Indent array, object and collection initializer contents" Value="True" />
+   <Option Name="Indent array, object and collection initializer contents" Value="False" />
    <Option Name="Indent case statement contents" Value="True" />
    <Option Name="Indent case statement from switch statement" Value="True" />
    <Option Name="Indent code block contents" Value="True" />
    <Option Name="Indent comments" Value="True" />
-   <Option Name="Indent labels" Value="True" />
-   <Option Name="Indent nested 'using' statements" Value="True" />
+   <Option Name="Indent labels" Value="False" />
+   <Option Name="Indent nested 'using' statements" Value="False" />
    <Option Name="Indent open and close braces" Value="False" />
   </Section>
   <Section Name="LineBreaks">
@@ -158,8 +158,8 @@
    <Option Name="Align with first invocation argument" Value="False" />
    <Option Name="Wrap first invocation argument" Value="False" />
    <Option Name="Wrap invocation arguments" Value="False" />
-   <Option Name="Align with first query expression item" Value="True" />
-   <Option Name="Wrap query expression item" Value="True" />
+   <Option Name="Align with first query expression item" Value="False" />
+   <Option Name="Wrap query expression item" Value="False" />
    <Option Name="Wrap ternary expression" Value="False" />
    <Option Name="Align with first binary expression item" Value="False" />
    <Option Name="Wrap before operator in binary expression" Value="False" />
@@ -168,7 +168,7 @@
    <Option Name="Wrap before operator in logical expression" Value="False" />
    <Option Name="Wrap logical operator expression" Value="False" />
    <Option Name="Align with first array, object or collection initializer item" Value="False" />
-   <Option Name="Wrap array, object and collection initializers" Value="True" />
+   <Option Name="Wrap array, object and collection initializers" Value="False" />
    <Option Name="Wrap first array, object and collection initializer" Value="False" />
    <Option Name="Align with first multi-variable declaration item" Value="False" />
    <Option Name="Wrap first multi-variable declaration" Value="False" />
