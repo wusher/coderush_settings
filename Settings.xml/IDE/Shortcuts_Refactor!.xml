@@ -192,7 +192,7 @@
    <Option Name="ContextSelected_0" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextSelected_1" Value="System\Picker Is Active" />
    <Option Name="ContextExcluded_Count" Value="0" />
-   <Option Name="Selected" Value="True" />
+   <Option Name="Selected" Value="False" />
   </Section>
   <Section Name="Command6">
    <Option Name="Key1.KeyState" Value="21692417" />
