@@ -38,9 +38,9 @@
   <Section Name="ToolWindow">
    <Option Name="DataView" Value="True" />
    <Option Name="DockSide" Value="Bottom" />
-   <Option Name="DataViewWidth" Value="804" />
-   <Option Name="DataViewHeight" Value="454" />
-   <Option Name="DetailsInTreeView" Value="False" />
+   <Option Name="DataViewWidth" Value="643" />
+   <Option Name="DataViewHeight" Value="547" />
+   <Option Name="DetailsInTreeView" Value="True" />
    <Option Name="HideFilterLabel" Value="False" />
    <Option Name="SilverlightDebugger" Value="False" />
    <Option Name="ShowStackOnlyIfFileExists" Value="False" />

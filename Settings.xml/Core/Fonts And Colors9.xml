@@ -962,7 +962,7 @@
    <Option Name="Background" Value="2762786" />
    <Option Name="Foreground" Value="15987441" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Keyword">
    <Option Name="LocalName" Value="Keyword" />
@@ -975,7 +975,7 @@
    <Option Name="Background" Value="2762786" />
    <Option Name="Foreground" Value="6539155" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Memory Address">
    <Option Name="LocalName" Value="Memory Address" />
@@ -1092,7 +1092,7 @@
    <Option Name="Background" Value="2762786" />
    <Option Name="Foreground" Value="12051176" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Other Error">
    <Option Name="LocalName" Value="Other Error" />
