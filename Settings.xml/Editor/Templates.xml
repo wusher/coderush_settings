@@ -2,7 +2,7 @@
 <Page Name="Templates">
  <Language Name="CSharp">
   <Section Name="Options">
-   <Option Name="SelectedNode" Value="1-key\r" />
+   <Option Name="SelectedNode" Value="From Visual Basic\And" />
    <Option Name="SplitterPosition" Value="244" />
    <Option Name="TreeSplitterPosition" Value="343" />
   </Section>
