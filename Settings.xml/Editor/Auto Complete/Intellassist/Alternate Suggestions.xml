@@ -35,6 +35,10 @@
    <Option Name="group,GenerateGroup" Value="group" />
    <Option Name="col3,col2,col1" Value="col3" />
    <Option Name="height,CalculateNewBodyHeight" Value="height" />
+   <Option Name="IsDownloadSuccessful,IsDownloading,_isActive" Value="_isActive" />
+   <Option Name="bytes" Value="bytes" />
+   <Option Name="process" Value="process" />
+   <Option Name="doContinue" Value="doContinue" />
   </Section>
  </Language>
 </Page>
