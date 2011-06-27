@@ -2,7 +2,7 @@
 <Page Name="Templates">
  <Language Name="CSharp">
   <Section Name="Options">
-   <Option Name="SelectedNode" Value="Right side only\=f" />
+   <Option Name="SelectedNode" Value="If blocks\if" />
    <Option Name="SplitterPosition" Value="244" />
    <Option Name="TreeSplitterPosition" Value="343" />
   </Section>
