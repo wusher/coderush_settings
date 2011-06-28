@@ -2,7 +2,7 @@
 <Page Name="ProviderComplexity">
  <Language Name="*Neutral*">
   <Section Name="TimeComplexity">
-   <Option Name="Convert to Procedure" Value="0.322063559014847" />
+   <Option Name="Convert to Procedure" Value="0.156364034862143" />
    <Option Name="Introduce Parameter Object" Value="0.409854251003834" />
    <Option Name="Collapse Conditional" Value="2566.96605195068" />
    <Option Name="Declare Constructor" Value="0.907462046582604" />
@@ -58,7 +58,7 @@
    <Option Name="Declare Attribute" Value="0.177559729525843" />
    <Option Name="Declare Property (with backing store)" Value="0.860783348840445" />
    <Option Name="Declare Property with Initializer" Value="0.428857028323943" />
-   <Option Name="Declare Method (Event Handler)" Value="0.177518373720626" />
+   <Option Name="Declare Method (Event Handler)" Value="0.153047654488956" />
    <Option Name="Convert to Built-in Type" Value="0.246375137877955" />
    <Option Name="Invert Selection" Value="0.26913777141313" />
    <Option Name="Convert to auto-implemented property" Value="25661.7368079861" />

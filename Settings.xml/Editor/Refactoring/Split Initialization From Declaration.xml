@@ -4,6 +4,7 @@
   <Section Name="General">
    <Option Name="BelowDeclaration" Value="True" />
    <Option Name="NearReference" Value="False" />
+   <Option Name="InsertLine" Value="False" />
   </Section>
  </Language>
 </Page>

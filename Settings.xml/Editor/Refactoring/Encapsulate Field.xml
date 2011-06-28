@@ -9,6 +9,7 @@
    <Option Name="UseSourceVisibility" Value="False" />
    <Option Name="CreateReadonly" Value="False" />
    <Option Name="ChangeFieldVisibility" Value="True" />
+   <Option Name="FieldVisibilityAccordingOptions" Value="False" />
   </Section>
  </Language>
 </Page>

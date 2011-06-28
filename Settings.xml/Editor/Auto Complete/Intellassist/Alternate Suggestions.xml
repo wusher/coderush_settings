@@ -39,6 +39,7 @@
    <Option Name="bytes" Value="bytes" />
    <Option Name="process" Value="process" />
    <Option Name="doContinue" Value="doContinue" />
+   <Option Name="organization" Value="organization" />
   </Section>
  </Language>
 </Page>

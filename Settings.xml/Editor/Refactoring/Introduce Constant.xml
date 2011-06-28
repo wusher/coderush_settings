@@ -20,7 +20,7 @@
   </Section>
   <Section Name="Types">
    <Option Name="TypeName0" Value="String" />
-   <Option Name="String" Value="STR" />
+   <Option Name="String" Value="" />
    <Option Name="TypeName1" Value="Char" />
    <Option Name="Char" Value="CHAR" />
    <Option Name="TypeName2" Value="Byte" />

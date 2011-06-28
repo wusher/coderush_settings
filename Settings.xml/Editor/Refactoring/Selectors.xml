@@ -4,12 +4,12 @@
   <Section Name="TargetPicker">
    <Option Name="LineColor" Value="Named:Red" />
    <Option Name="FillColor" Value="Named:Red" />
-   <Option Name="FillOpacity" Value="50" />
+   <Option Name="FillOpacity" Value="255" />
   </Section>
   <Section Name="Options">
    <Option Name="SelectorColor" Value="ARGB:255:106:153:195" />
    <Option Name="CheckedSelectorColor" Value="Named:Tomato" />
-   <Option Name="FillOpacity" Value="20" />
+   <Option Name="FillOpacity" Value="28" />
   </Section>
  </Language>
 </Page>

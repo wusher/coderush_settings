@@ -5,6 +5,8 @@
    <Option Name="DefaultName" Value="NewVariable" />
    <Option Name="TryToSuggestName" Value="True" />
    <Option Name="EmbedInParens" Value="False" />
+   <Option Name="SmartPasteEnabled" Value="True" />
+   <Option Name="VariablePosition" Value="NearFirstUse" />
   </Section>
  </Language>
 </Page>

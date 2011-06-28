@@ -2,28 +2,28 @@
 <Page Name="Usage History">
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
-   <Option Name="Declaration" Value="150" />
-   <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
+   <Option Name="Declaration" Value="151" />
+   <Option Name="MostRecentlyUsedObject" Value="Extract Method" />
    <Option Name="Compress to Lambda Expression" Value="12" />
-   <Option Name="Introduce Local" Value="165" />
-   <Option Name="Inline Temp1" Value="73" />
-   <Option Name="Create Method Stub" Value="148" />
-   <Option Name="Declare Local (implicit)" Value="313" />
+   <Option Name="Introduce Local" Value="169" />
+   <Option Name="Inline Temp1" Value="77" />
+   <Option Name="Create Method Stub" Value="155" />
+   <Option Name="Declare Local (implicit)" Value="324" />
    <Option Name="Split Initialization from Declaration" Value="35" />
    <Option Name="Declare Property (auto-implemented)" Value="22" />
-   <Option Name="Declare Class" Value="24" />
-   <Option Name="Rename File to Match Type" Value="80" />
+   <Option Name="Declare Class" Value="27" />
+   <Option Name="Rename File to Match Type" Value="81" />
    <Option Name="First Child" Value="4" />
-   <Option Name="Extract Method" Value="150" />
-   <Option Name="Remove Parameter" Value="51" />
+   <Option Name="Extract Method" Value="157" />
+   <Option Name="Remove Parameter" Value="52" />
    <Option Name="Expand Lambda Expression" Value="16" />
    <Option Name="Declare Local" Value="62" />
    <Option Name="Promote to Parameter" Value="18" />
-   <Option Name="Introduce Using Statement" Value="19" />
+   <Option Name="Introduce Using Statement" Value="20" />
    <Option Name="Break Apart Parameters" Value="41" />
-   <Option Name="Move Type to File" Value="120" />
-   <Option Name="Add Parameter" Value="32" />
-   <Option Name="Widen Scope (promote to field)" Value="72" />
+   <Option Name="Move Type to File" Value="123" />
+   <Option Name="Add Parameter" Value="33" />
+   <Option Name="Widen Scope (promote to field)" Value="76" />
    <Option Name="Introduce Setter Guard Clause" Value="30" />
    <Option Name="Change Tag" Value="17" />
    <Option Name="Collapse Getter" Value="57" />
@@ -33,11 +33,11 @@
    <Option Name="Surround with Tag" Value="15" />
    <Option Name="Break Attributes" Value="15" />
    <Option Name="Widen Scope" Value="15" />
-   <Option Name="Make Implicit" Value="74" />
+   <Option Name="Make Implicit" Value="77" />
    <Option Name="Remove Event Handler" Value="6" />
-   <Option Name="Convert to Initializer" Value="12" />
+   <Option Name="Convert to Initializer" Value="13" />
    <Option Name="Introduce Parameter Object" Value="4" />
-   <Option Name="Reorder Parameters" Value="12" />
+   <Option Name="Reorder Parameters" Value="14" />
    <Option Name="Line Up Attributes" Value="3" />
    <Option Name="Collapse Setter" Value="15" />
    <Option Name="Convert to Auto-implemented Property" Value="11" />
@@ -72,7 +72,7 @@
    <Option Name="Remove Redundant Block Delimiters" Value="9" />
    <Option Name="Compress to Ternary Expression" Value="15" />
    <Option Name="Flatten Conditional" Value="6" />
-   <Option Name="Decompose Initializer" Value="4" />
+   <Option Name="Decompose Initializer" Value="5" />
    <Option Name="Name Anonymous Method" Value="2" />
    <Option Name="Combine Conditionals" Value="7" />
    <Option Name="Concatenate Strings" Value="3" />
@@ -96,7 +96,7 @@
    <Option Name="Throw Exceptions" Value="9" />
    <Option Name="Make Read-only" Value="4" />
    <Option Name="Declare Fields with Initializers" Value="2" />
-   <Option Name="Parent Member" Value="5" />
+   <Option Name="Parent Member" Value="6" />
    <Option Name="Use String.Format" Value="6" />
    <Option Name="Promote to Parameter (optional)" Value="1" />
    <Option Name="Move Declaration Near Reference" Value="5" />
@@ -178,7 +178,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Compress to Lambda Expression" />
   </Section>
   <Section Name="|Extract Method|Extract Method to Type|">
-   <Option Name="Extract Method" Value="25" />
+   <Option Name="Extract Method" Value="31" />
    <Option Name="MostRecentlyUsedObject" Value="Extract Method" />
    <Option Name="Extract Method to Type" Value="1" />
   </Section>
@@ -218,17 +218,17 @@
   </Section>
   <Section Name="|Declare Local|Declare Local (implicit)|">
    <Option Name="Declare Local" Value="61" />
-   <Option Name="Declare Local (implicit)" Value="301" />
+   <Option Name="Declare Local (implicit)" Value="312" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Local (implicit)" />
   </Section>
   <Section Name="|First Child|Parent|Parent Member|Parent Type|">
    <Option Name="First Child" Value="4" />
    <Option Name="MostRecentlyUsedObject" Value="Parent Member" />
-   <Option Name="Parent Member" Value="5" />
+   <Option Name="Parent Member" Value="6" />
    <Option Name="Parent" Value="1" />
   </Section>
   <Section Name="|Extract Interface|Move Type to File|Rename|Rename File to Match Type|">
-   <Option Name="Move Type to File" Value="51" />
+   <Option Name="Move Type to File" Value="54" />
    <Option Name="MostRecentlyUsedObject" Value="Move Type to File" />
    <Option Name="Extract Interface" Value="1" />
    <Option Name="Rename File to Match Type" Value="1" />
@@ -283,14 +283,14 @@
   <Section Name="|Add Parameter|Break Apart Parameters|Rename|Reorder Parameters|">
    <Option Name="Add Parameter" Value="2" />
    <Option Name="MostRecentlyUsedObject" Value="Reorder Parameters" />
-   <Option Name="Reorder Parameters" Value="3" />
+   <Option Name="Reorder Parameters" Value="4" />
   </Section>
   <Section Name="|Introduce Using Statement|Make Explicit|Move Declaration Near Reference|Rename|Widen Scope (promote to field)|">
    <Option Name="Introduce Using Statement" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Introduce Using Statement" />
   </Section>
   <Section Name="|Create Method Stub|">
-   <Option Name="Create Method Stub" Value="144" />
+   <Option Name="Create Method Stub" Value="151" />
    <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
   </Section>
   <Section Name="|Extract Method|Introduce Local|Use String.Format|">
@@ -447,7 +447,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
   </Section>
   <Section Name="|Add Parameter|">
-   <Option Name="Add Parameter" Value="6" />
+   <Option Name="Add Parameter" Value="7" />
    <Option Name="MostRecentlyUsedObject" Value="Add Parameter" />
   </Section>
   <Section Name="|Decompose Initializer|Extract Method|Extract Property|Introduce Local|">
@@ -466,9 +466,9 @@
   </Section>
   <Section Name="|Inline Temp1|Make Implicit|Promote to Parameter|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope (promote to field)|">
    <Option Name="Widen Scope (promote to field)" Value="1" />
-   <Option Name="MostRecentlyUsedObject" Value="Promote to Parameter" />
+   <Option Name="MostRecentlyUsedObject" Value="Inline Temp1" />
    <Option Name="Promote to Parameter" Value="4" />
-   <Option Name="Inline Temp1" Value="1" />
+   <Option Name="Inline Temp1" Value="2" />
   </Section>
   <Section Name="|Extract String to Resource|Introduce Constant|Introduce Constant (local)|Introduce Local|Promote to Parameter|">
    <Option Name="Promote to Parameter" Value="3" />
@@ -481,7 +481,7 @@
   <Section Name="|Extract Method|Extract Property|Introduce Local|">
    <Option Name="Extract Method" Value="7" />
    <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
-   <Option Name="Introduce Local" Value="41" />
+   <Option Name="Introduce Local" Value="42" />
   </Section>
   <Section Name="|Convert to Initializer|Make Explicit|Rename|Widen Scope (promote to field)|">
    <Option Name="Convert to Initializer" Value="1" />
@@ -545,7 +545,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Move Type to Namespace|Rename|Rename File to Match Type|Rename Type to Match File|">
-   <Option Name="Rename File to Match Type" Value="31" />
+   <Option Name="Rename File to Match Type" Value="32" />
    <Option Name="MostRecentlyUsedObject" Value="Rename File to Match Type" />
    <Option Name="Rename Type to Match File" Value="1" />
   </Section>
@@ -586,7 +586,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Change Tag" />
   </Section>
   <Section Name="|Declare Class|Declare Struct|">
-   <Option Name="Declare Class" Value="8" />
+   <Option Name="Declare Class" Value="11" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Class" />
   </Section>
   <Section Name="|Add Parameter|Decompose Parameter|Rename|">
@@ -594,7 +594,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Decompose Parameter" />
   </Section>
   <Section Name="|Add Parameter|Remove Parameter|Rename|Reorder Parameters|">
-   <Option Name="Remove Parameter" Value="18" />
+   <Option Name="Remove Parameter" Value="19" />
    <Option Name="MostRecentlyUsedObject" Value="Remove Parameter" />
    <Option Name="Add Parameter" Value="2" />
    <Option Name="Reorder Parameters" Value="1" />
@@ -930,7 +930,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Inline Temp1" />
   </Section>
   <Section Name="|Make Implicit|Move Declaration Near Reference|Split Initialization from Declaration|Widen Scope (promote to field)|">
-   <Option Name="Make Implicit" Value="3" />
+   <Option Name="Make Implicit" Value="4" />
    <Option Name="MostRecentlyUsedObject" Value="Make Implicit" />
   </Section>
   <Section Name="|Base Types|Base Types Within Ancestors|First Child|First Member|First Statement|Implementors|Last Member|Last Statement|Members|Next Reference|Parent|">
@@ -1018,7 +1018,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Rename File to Match Type" />
   </Section>
   <Section Name="|Make Implicit|Promote to Parameter|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
-   <Option Name="Widen Scope (promote to field)" Value="3" />
+   <Option Name="Widen Scope (promote to field)" Value="5" />
    <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
    <Option Name="Split Initialization from Declaration" Value="4" />
    <Option Name="Make Implicit" Value="3" />
@@ -1072,7 +1072,7 @@
   <Section Name="|Add Parameter|Rename|Reorder Parameters|">
    <Option Name="Add Parameter" Value="6" />
    <Option Name="MostRecentlyUsedObject" Value="Reorder Parameters" />
-   <Option Name="Reorder Parameters" Value="2" />
+   <Option Name="Reorder Parameters" Value="3" />
   </Section>
   <Section Name="|Add Parameter|Introduce Alias|Introduce Alias (replace all)|Remove Type Qualifier|Remove Type Qualifier (remove all)|">
    <Option Name="Remove Type Qualifier (remove all)" Value="1" />
@@ -1591,7 +1591,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="68" />
+   <Option Name="Declaration" Value="69" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Ancestor|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
@@ -1910,8 +1910,8 @@
   </Section>
   <Section Name="|Inline Temp1|Make Implicit|Promote to Parameter|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
    <Option Name="Promote to Parameter" Value="1" />
-   <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
-   <Option Name="Inline Temp1" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Inline Temp1" />
+   <Option Name="Inline Temp1" Value="2" />
    <Option Name="Widen Scope (promote to field)" Value="1" />
   </Section>
   <Section Name="|Inline Temp1|Make Explicit|Promote to Parameter|Rename|Widen Scope|Widen Scope (promote to field)|">
@@ -1998,7 +1998,7 @@
   <Section Name="|Inline Temp1|Make Implicit|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope|Widen Scope (promote to field)|">
    <Option Name="Inline Temp1" Value="2" />
    <Option Name="MostRecentlyUsedObject" Value="Make Implicit" />
-   <Option Name="Make Implicit" Value="2" />
+   <Option Name="Make Implicit" Value="4" />
   </Section>
   <Section Name="|Make Implicit|Move Declaration Near Reference|Promote to Parameter|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope (promote to field)|">
    <Option Name="Move Declaration Near Reference" Value="1" />
@@ -2149,7 +2149,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Inline Result" />
   </Section>
   <Section Name="|Decompose Initializer|">
-   <Option Name="Decompose Initializer" Value="1" />
+   <Option Name="Decompose Initializer" Value="2" />
    <Option Name="MostRecentlyUsedObject" Value="Decompose Initializer" />
   </Section>
   <Section Name="|Decompose Initializer|Make Implicit|Promote to Parameter|Rename|Split Initialization from Declaration|">
@@ -2668,7 +2668,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Inline Temp1" />
   </Section>
   <Section Name="|Convert to Constant|Inline Temp1|Make Implicit|Move Declaration Near Reference|Promote to Parameter|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
-   <Option Name="Inline Temp1" Value="1" />
+   <Option Name="Inline Temp1" Value="2" />
    <Option Name="MostRecentlyUsedObject" Value="Inline Temp1" />
   </Section>
   <Section Name="|Promote to Parameter|Rename|Widen Scope (promote constant)|">
@@ -2716,7 +2716,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Inline Temp1" />
   </Section>
   <Section Name="|Inline Temp1|Make Explicit|Move Declaration Near Reference|Promote to Parameter|Rename|Widen Scope (promote to field)|">
-   <Option Name="Widen Scope (promote to field)" Value="1" />
+   <Option Name="Widen Scope (promote to field)" Value="3" />
    <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
   </Section>
   <Section Name="|Make Implicit|Make Member Static|Rename|">
@@ -2734,6 +2734,34 @@
   <Section Name="|Create Setter Method|Encapsulate Field|Encapsulate Field (read-only)|Expand Lambda Expression|Make Member Static|Make Read-only|Rename|Split Initialization from Declaration|">
    <Option Name="Create Setter Method" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Create Setter Method" />
+  </Section>
+  <Section Name="|Extract Method|Extract Method to Type|Inline Method|Introduce Local|">
+   <Option Name="Introduce Local" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
+  </Section>
+  <Section Name="|Extract Method|Extract Method to Type|Introduce ForEach Action|">
+   <Option Name="Extract Method" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Extract Method" />
+  </Section>
+  <Section Name="|Extract Method|Extract Method to Type|Inline Method|Inline Method (and delete)|Introduce Local|Remove Parameter|">
+   <Option Name="Introduce Local" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
+  </Section>
+  <Section Name="|Extract Method|Inline Method|Inline Method (and delete)|Introduce Local|">
+   <Option Name="Introduce Local" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
+  </Section>
+  <Section Name="|Inline Temp1|Introduce Using Statement|Make Explicit|Rename|Widen Scope (promote to field)|">
+   <Option Name="Introduce Using Statement" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Introduce Using Statement" />
+  </Section>
+  <Section Name="|Decompose Initializer|Inline Temp1|Introduce Using Statement|Make Explicit|Promote to Parameter|Rename|Widen Scope|">
+   <Option Name="Inline Temp1" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Inline Temp1" />
+  </Section>
+  <Section Name="|Convert to Initializer|Introduce Using Statement|Make Explicit|Promote to Parameter|Rename|Widen Scope (promote to field)|">
+   <Option Name="Convert to Initializer" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Convert to Initializer" />
   </Section>
  </Language>
 </Page>
