@@ -3,18 +3,18 @@
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
    <Option Name="Declaration" Value="152" />
-   <Option Name="MostRecentlyUsedObject" Value="Declare Local (implicit)" />
+   <Option Name="MostRecentlyUsedObject" Value="Extract Method" />
    <Option Name="Compress to Lambda Expression" Value="12" />
    <Option Name="Introduce Local" Value="170" />
    <Option Name="Inline Temp1" Value="77" />
-   <Option Name="Create Method Stub" Value="155" />
-   <Option Name="Declare Local (implicit)" Value="330" />
+   <Option Name="Create Method Stub" Value="156" />
+   <Option Name="Declare Local (implicit)" Value="331" />
    <Option Name="Split Initialization from Declaration" Value="35" />
    <Option Name="Declare Property (auto-implemented)" Value="22" />
    <Option Name="Declare Class" Value="27" />
    <Option Name="Rename File to Match Type" Value="81" />
    <Option Name="First Child" Value="4" />
-   <Option Name="Extract Method" Value="159" />
+   <Option Name="Extract Method" Value="160" />
    <Option Name="Remove Parameter" Value="52" />
    <Option Name="Expand Lambda Expression" Value="16" />
    <Option Name="Declare Local" Value="62" />
@@ -71,24 +71,24 @@
    <Option Name="Spell Checker" Value="8" />
    <Option Name="Remove Redundant Block Delimiters" Value="9" />
    <Option Name="Compress to Ternary Expression" Value="15" />
-   <Option Name="Flatten Conditional" Value="6" />
+   <Option Name="Flatten Conditional" Value="7" />
    <Option Name="Decompose Initializer" Value="5" />
    <Option Name="Name Anonymous Method" Value="2" />
    <Option Name="Combine Conditionals" Value="7" />
    <Option Name="Concatenate Strings" Value="3" />
    <Option Name="Expand Ternary Expression" Value="5" />
-   <Option Name="Add Else Statement" Value="4" />
+   <Option Name="Add Else Statement" Value="5" />
    <Option Name="Embed Selection" Value="1" />
    <Option Name="Remove Tag" Value="1" />
    <Option Name="Declare Constructor" Value="10" />
-   <Option Name="Declare Field with Initializer" Value="28" />
+   <Option Name="Declare Field with Initializer" Value="29" />
    <Option Name="Optimize Namespace References" Value="10" />
    <Option Name="Encapsulate Field (read-only)" Value="6" />
    <Option Name="Inline Temp" Value="2" />
    <Option Name="Encapsulate Field" Value="1" />
    <Option Name="Convert to auto-implemented property" Value="3" />
    <Option Name="Make Member Static" Value="1" />
-   <Option Name="Reverse Conditional" Value="8" />
+   <Option Name="Reverse Conditional" Value="10" />
    <Option Name="Remove Redundant Qualifier" Value="17" />
    <Option Name="Make Extension" Value="1" />
    <Option Name="Initialize Conditionally" Value="5" />
@@ -292,7 +292,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Introduce Using Statement" />
   </Section>
   <Section Name="|Create Method Stub|">
-   <Option Name="Create Method Stub" Value="151" />
+   <Option Name="Create Method Stub" Value="152" />
    <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
   </Section>
   <Section Name="|Extract Method|Introduce Local|Use String.Format|">
@@ -302,7 +302,7 @@
    <Option Name="Use String.Format" Value="1" />
   </Section>
   <Section Name="|Extract Method|">
-   <Option Name="Extract Method" Value="82" />
+   <Option Name="Extract Method" Value="83" />
    <Option Name="MostRecentlyUsedObject" Value="Extract Method" />
   </Section>
   <Section Name="|Inline Temp1|Introduce Using Statement|Make Explicit|Move Declaration Near Reference|Rename|Widen Scope (promote to field)|">
@@ -955,7 +955,7 @@
   <Section Name="|Flatten Conditional|Reverse Conditional|">
    <Option Name="Flatten Conditional" Value="2" />
    <Option Name="MostRecentlyUsedObject" Value="Reverse Conditional" />
-   <Option Name="Reverse Conditional" Value="3" />
+   <Option Name="Reverse Conditional" Value="4" />
   </Section>
   <Section Name="|Compress to Ternary Expression|Reverse Conditional|">
    <Option Name="Compress to Ternary Expression" Value="10" />
@@ -1179,7 +1179,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Inline Result" />
   </Section>
   <Section Name="|Add Else Statement|">
-   <Option Name="Add Else Statement" Value="4" />
+   <Option Name="Add Else Statement" Value="5" />
    <Option Name="MostRecentlyUsedObject" Value="Add Else Statement" />
   </Section>
   <Section Name="|Inline Temp|Make Implicit|Move Declaration Near Reference|RemoveHungarianPrefix|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope (promote to field)|">
@@ -1286,7 +1286,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Encapsulate Field (read-only)" />
   </Section>
   <Section Name="|Declare Field with Initializer|Declare Property with Initializer|">
-   <Option Name="Declare Field with Initializer" Value="28" />
+   <Option Name="Declare Field with Initializer" Value="29" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Field with Initializer" />
    <Option Name="Declare Property with Initializer" Value="2" />
   </Section>
@@ -1309,7 +1309,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
   </Section>
   <Section Name="|Declare Constructor|Declare Local|Declare Local (implicit)|">
-   <Option Name="Declare Local (implicit)" Value="7" />
+   <Option Name="Declare Local (implicit)" Value="8" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Local (implicit)" />
    <Option Name="Declare Constructor" Value="1" />
    <Option Name="Declare Local" Value="1" />
@@ -2802,6 +2802,11 @@
   <Section Name="|Inline Temp1|Move Declaration Near Reference|Promote to Parameter|Rename|Split Initialization from Declaration|Widen Scope|Widen Scope (promote to field)|">
    <Option Name="Widen Scope (promote to field)" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
+  </Section>
+  <Section Name="|Flatten Conditional|Reverse Conditional|Split Conditional|">
+   <Option Name="Reverse Conditional" Value="1" />
+   <Option Name="Flatten Conditional" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Flatten Conditional" />
   </Section>
  </Language>
 </Page>
