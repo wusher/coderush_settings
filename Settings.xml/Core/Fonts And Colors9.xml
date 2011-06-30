@@ -156,7 +156,7 @@
    <Option Name="Background" Value="2762786" />
    <Option Name="Foreground" Value="15987441" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Selected Text">
    <Option Name="LocalName" Value="Selected Text" />
@@ -195,7 +195,7 @@
    <Option Name="Background" Value="15790320" />
    <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Line Numbers">
    <Option Name="LocalName" Value="Line Numbers" />

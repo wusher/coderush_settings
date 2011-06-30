@@ -1106,7 +1106,7 @@
    <Option Name="Background" Value="1184274" />
    <Option Name="Foreground" Value="16777215" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Keyword">
    <Option Name="LocalName" Value="Keyword" />
@@ -1119,7 +1119,7 @@
    <Option Name="Background" Value="1184274" />
    <Option Name="Foreground" Value="5883249" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Literal">
    <Option Name="LocalName" Value="Literal" />
@@ -1249,7 +1249,7 @@
    <Option Name="Background" Value="1184274" />
    <Option Name="Foreground" Value="5882309" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Other Error">
    <Option Name="LocalName" Value="Other Error" />
