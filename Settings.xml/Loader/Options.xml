@@ -1,8 +1,8 @@
-<!-- This is a DXCore settings file-->
+﻿<!--This is a DXCore settings file-->
 <Page Name="Options">
-  <Language Name="*Neutral*">
-    <Section Name="General">
-      <Option Name="LastDXCoreVersion" Value="11.1.5" />
-    </Section>
-  </Language>
+ <Language Name="*Neutral*">
+  <Section Name="General">
+   <Option Name="LastDXCoreVersion" Value="11.1.5" />
+  </Section>
+ </Language>
 </Page>

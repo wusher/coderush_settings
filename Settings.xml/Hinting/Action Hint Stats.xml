@@ -518,13 +518,13 @@
   </Section>
   <Section Name="Code Creation.Duplicate Line: Field">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="4" />
+   <Option Name="ExecutionCount" Value="5" />
    <Option Name="DisplayLimit" Value="4" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
   <Section Name="Code Creation.Duplicate Line: Assignment Statement">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="8" />
+   <Option Name="ExecutionCount" Value="9" />
    <Option Name="DisplayLimit" Value="4" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>

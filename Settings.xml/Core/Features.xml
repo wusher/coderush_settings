@@ -394,7 +394,7 @@
   </Section>
   <Section Name="Smart parentheses">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="6649" />
+   <Option Name="QueryCount" Value="6650" />
    <Option Name="Description" Value="Automatic+parentheses+add+the+closing+parenthesis+when+you+type+the+opening+character." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cParens+%26+Brackets" />
    <Option Name="Scope" Value="Other+features" />
@@ -402,7 +402,7 @@
   </Section>
   <Section Name="Smart semi-colon">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="2112" />
+   <Option Name="QueryCount" Value="2113" />
    <Option Name="Description" Value="Places+a+semi-colon+typed+inside+parens+at+the+end+of+a+line." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cParens+%26+Brackets" />
    <Option Name="Scope" Value="Other+features" />
@@ -1962,7 +1962,7 @@
   </Section>
   <Section Name="Duplicate Line: Assignment Statement">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="24" />
+   <Option Name="QueryCount" Value="25" />
    <Option Name="Description" Value="Duplicates+an+assignment+statement%2c+selecting+the+left+side+of+the+statement." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cDuplicate+Line%2cAssignment+Statement" />
    <Option Name="Scope" Value="Duplicate+Line" />
@@ -2058,7 +2058,7 @@
   </Section>
   <Section Name="Duplicate Line: Field">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="18" />
+   <Option Name="QueryCount" Value="19" />
    <Option Name="Description" Value="Duplicates+field+declarations." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cDuplicate+Line%2cField" />
    <Option Name="Scope" Value="Duplicate+Line" />
@@ -2922,7 +2922,7 @@
   </Section>
   <Section Name="UnitTestsShowRunner">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="40" />
+   <Option Name="QueryCount" Value="42" />
    <Option Name="Description" Value="Show+UnitTestRunner+window" />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cUnitTestsShowRunner%3bNum+Del" />
    <Option Name="Scope" Value="Other+features" />

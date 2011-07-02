@@ -109,7 +109,7 @@
    <Option Name="Declare Class" Value="0.307219683034994" />
    <Option Name="Move Initialization to Declaration" Value="0.149014076877964" />
    <Option Name="Extract Method" Value="0.124392317378275" />
-   <Option Name="Remove Setter" Value="0.190792889836897" />
+   <Option Name="Remove Setter" Value="0.290209441323444" />
    <Option Name="Make Read-only" Value="0.103252046291064" />
    <Option Name="Convert to Integer" Value="0.401997514677711" />
    <Option Name="Convert to Initializer" Value="0.24739834756896" />
