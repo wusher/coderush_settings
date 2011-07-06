@@ -42,6 +42,7 @@
    <Option Name="organization" Value="organization" />
    <Option Name="maxDid" Value="maxDid" />
    <Option Name="eeee,GetEmployers" Value="eeee" />
+   <Option Name="root,externalProfessional,IndividualWithEmployersAndContacts,IndividualWithEmployers,IndividualWithEmployersAndNoLinkedHr,IndividualWithContacts,IndividualWithFullFamily,IndividualWithoutLinks" Value="root" />
   </Section>
  </Language>
 </Page>
