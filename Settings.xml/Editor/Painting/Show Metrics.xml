@@ -9,10 +9,10 @@
    <Option Name="Color.CyclomaticComplexity" Value="ARGB:255:255:13:13" />
    <Option Name="Opacity.DIT" Value="128" />
    <Option Name="Color.DIT" Value="Named:Firebrick" />
-   <Option Name="Opacity.LineCount" Value="128" />
-   <Option Name="Color.LineCount" Value="Named:Firebrick" />
-   <Option Name="Opacity.MaintenanceComplexity" Value="128" />
-   <Option Name="Color.MaintenanceComplexity" Value="Named:Firebrick" />
+   <Option Name="Opacity.LineCount" Value="255" />
+   <Option Name="Color.LineCount" Value="ARGB:255:255:13:13" />
+   <Option Name="Opacity.MaintenanceComplexity" Value="255" />
+   <Option Name="Color.MaintenanceComplexity" Value="ARGB:255:255:13:13" />
    <Option Name="Opacity.NMI" Value="128" />
    <Option Name="Color.NMI" Value="Named:Firebrick" />
    <Option Name="Opacity.NOC" Value="128" />

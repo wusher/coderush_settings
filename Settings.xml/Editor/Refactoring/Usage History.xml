@@ -2,14 +2,14 @@
 <Page Name="Usage History">
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
-   <Option Name="Declaration" Value="185" />
-   <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
+   <Option Name="Declaration" Value="187" />
+   <Option Name="MostRecentlyUsedObject" Value="Declaration" />
    <Option Name="Compress to Lambda Expression" Value="12" />
    <Option Name="Introduce Local" Value="179" />
    <Option Name="Inline Temp1" Value="78" />
    <Option Name="Create Method Stub" Value="168" />
    <Option Name="Declare Local (implicit)" Value="344" />
-   <Option Name="Split Initialization from Declaration" Value="42" />
+   <Option Name="Split Initialization from Declaration" Value="47" />
    <Option Name="Declare Property (auto-implemented)" Value="22" />
    <Option Name="Declare Class" Value="27" />
    <Option Name="Rename File to Match Type" Value="81" />
@@ -66,7 +66,7 @@
    <Option Name="Execute Statement Asynchronously (StartNew)" Value="1" />
    <Option Name="Introduce Result Variable" Value="16" />
    <Option Name="Introduce Constant" Value="9" />
-   <Option Name="Move Initialization to Declaration" Value="13" />
+   <Option Name="Move Initialization to Declaration" Value="15" />
    <Option Name="Implementors" Value="1" />
    <Option Name="Spell Checker" Value="8" />
    <Option Name="Remove Redundant Block Delimiters" Value="9" />
@@ -99,7 +99,7 @@
    <Option Name="Parent Member" Value="7" />
    <Option Name="Use String.Format" Value="6" />
    <Option Name="Promote to Parameter (optional)" Value="1" />
-   <Option Name="Move Declaration Near Reference" Value="5" />
+   <Option Name="Move Declaration Near Reference" Value="9" />
    <Option Name="Use Assertions" Value="1" />
    <Option Name="Convert to Parallel" Value="1" />
    <Option Name="Exit Method" Value="1" />
@@ -1557,7 +1557,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Make Explicit" />
   </Section>
   <Section Name="|Inline Temp|Move Declaration Near Reference|Promote to Parameter|Rename|Replace Temp with Query|Widen Scope (promote to field)|">
-   <Option Name="Move Declaration Near Reference" Value="1" />
+   <Option Name="Move Declaration Near Reference" Value="2" />
    <Option Name="MostRecentlyUsedObject" Value="Move Declaration Near Reference" />
   </Section>
   <Section Name="|Move Initialization to Declaration|Promote to Parameter|Rename|Replace Temp with Query|Widen Scope|Widen Scope (promote to field)|">
@@ -1597,7 +1597,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="82" />
+   <Option Name="Declaration" Value="84" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Ancestor|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
@@ -2016,7 +2016,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Introduce Parameter Object" />
   </Section>
   <Section Name="|Inline Temp|Move Initialization to Declaration|Rename|Replace Temp with Query|">
-   <Option Name="Move Initialization to Declaration" Value="2" />
+   <Option Name="Move Initialization to Declaration" Value="3" />
    <Option Name="MostRecentlyUsedObject" Value="Move Initialization to Declaration" />
   </Section>
   <Section Name="|Make Implicit|Move Declaration Near Reference|Promote to Parameter|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope|Widen Scope (promote to field)|">
@@ -2037,7 +2037,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Combine Conditionals" />
   </Section>
   <Section Name="|Inline Temp1|Move Initialization to Declaration|Promote to Parameter|Rename|Replace Temp with Query|Widen Scope|Widen Scope (promote to field)|">
-   <Option Name="Move Initialization to Declaration" Value="1" />
+   <Option Name="Move Initialization to Declaration" Value="2" />
    <Option Name="MostRecentlyUsedObject" Value="Move Initialization to Declaration" />
   </Section>
   <Section Name="|Use IsNullOrEmpty (cp)|">
@@ -2858,6 +2858,19 @@
    <Option Name="Inline Method" Value="1" />
    <Option Name="Add Parameter" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Inline Method" />
+  </Section>
+  <Section Name="|Make Implicit|Move Declaration Near Reference|Promote to Parameter|Widen Scope (promote to field)|">
+   <Option Name="Move Declaration Near Reference" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Move Declaration Near Reference" />
+  </Section>
+  <Section Name="|Make Implicit|Move Declaration Near Reference|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
+   <Option Name="Move Declaration Near Reference" Value="2" />
+   <Option Name="Split Initialization from Declaration" Value="3" />
+   <Option Name="MostRecentlyUsedObject" Value="Move Declaration Near Reference" />
+  </Section>
+  <Section Name="|Make Implicit|Rename|Split Initialization from Declaration|Widen Scope|Widen Scope (promote to field)|">
+   <Option Name="Split Initialization from Declaration" Value="2" />
+   <Option Name="MostRecentlyUsedObject" Value="Split Initialization from Declaration" />
   </Section>
  </Language>
 </Page>

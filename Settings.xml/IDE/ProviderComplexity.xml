@@ -2,7 +2,7 @@
 <Page Name="ProviderComplexity">
  <Language Name="*Neutral*">
   <Section Name="TimeComplexity">
-   <Option Name="Convert to Procedure" Value="0.210577891846575" />
+   <Option Name="Convert to Procedure" Value="0.276284191053038" />
    <Option Name="Introduce Parameter Object" Value="0.332327779723019" />
    <Option Name="Collapse Conditional" Value="2566.96605195068" />
    <Option Name="Declare Constructor" Value="0.907462046582604" />
@@ -130,7 +130,7 @@
    <Option Name="Declare Field (read-only)" Value="0.186480800254173" />
    <Option Name="Throw Exceptions" Value="0.458369486999052" />
    <Option Name="Convert to System Type" Value="1.04144350099651" />
-   <Option Name="Replace Temp with Query" Value="0.155686427642219" />
+   <Option Name="Replace Temp with Query" Value="0.133737841471702" />
    <Option Name="Extract Method to Type" Value="0.236656849223834" />
    <Option Name="Inline Constant" Value="0.217513803589334" />
    <Option Name="Make Implicit" Value="0.106195666846825" />

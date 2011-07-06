@@ -5,183 +5,183 @@
    <Option Name="Count" Value="500" />
   </Section>
   <Section Name="datas">
-   <Option Name="0" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\ViewModels\VisibilityDefaultsViewModelTests.cs&lt;7/5/2011 5:23:58 PM&gt;" />
-   <Option Name="1" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\ViewModels\WebFileGridViewModelTests.cs&lt;7/5/2011 5:23:58 PM&gt;" />
-   <Option Name="2" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\DocumentUploadCleanViewModel.cs&lt;7/5/2011 5:23:58 PM&gt;" />
-   <Option Name="3" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Managers\RegardingItemManagerTests.cs&lt;7/5/2011 5:23:58 PM&gt;" />
-   <Option Name="4" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\ViewModels\DocumentUploadCleanViewModelTests.cs&lt;7/5/2011 5:23:58 PM&gt;" />
-   <Option Name="5" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Managers\DocumentVisibilityManagerTests.cs&lt;7/5/2011 5:23:58 PM&gt;" />
-   <Option Name="6" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Views\DocumentWebSecurityViewTests.cs&lt;7/5/2011 5:23:58 PM&gt;" />
-   <Option Name="7" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\UserControlTestingExtensions.cs&lt;7/5/2011 5:23:58 PM&gt;" />
-   <Option Name="8" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Common\Controls\NestedCheckbox.cs&lt;7/5/2011 5:23:58 PM&gt;" />
-   <Option Name="9" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.FamilyIntegrity\FamilyTools.cs&lt;7/5/2011 5:23:58 PM&gt;" />
-   <Option Name="10" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Logic\Immigration\Generated\PersonLogic.Generated.cs&lt;7/5/2011 5:23:58 PM&gt;" />
-   <Option Name="11" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Stubs\StubsGenerated\PersonStub.Generated.cs&lt;7/5/2011 5:23:58 PM&gt;" />
-   <Option Name="12" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.FamilyIntegrity.Test\FamilyToolsTest.cs&lt;7/5/2011 5:23:57 PM&gt;" />
-   <Option Name="13" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.EfileLauncher\ViewModels\DisplayEfileViewModel.cs&lt;7/5/2011 5:23:57 PM&gt;" />
-   <Option Name="14" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\DocumentWebSecurityViewModel.cs&lt;7/5/2011 5:23:45 PM&gt;" />
-   <Option Name="15" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\DocumentWebSecurityView.cs&lt;7/5/2011 5:23:45 PM&gt;" />
-   <Option Name="16" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmFileSharingVisibility.cs&lt;7/5/2011 5:23:45 PM&gt;" />
-   <Option Name="17" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\FileSharingVisibilityViewModel.cs&lt;7/5/2011 5:23:45 PM&gt;" />
-   <Option Name="18" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Managers\BasicObjectInfo.cs&lt;7/5/2011 5:23:45 PM&gt;" />
-   <Option Name="19" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\Factories\PersonFactory.cs&lt;7/5/2011 5:23:45 PM&gt;" />
-   <Option Name="20" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Logic\Immigration\Generated\DirectoryLogic.Generated.cs&lt;7/5/2011 5:23:45 PM&gt;" />
-   <Option Name="21" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Data\Immigration\Interfaces\IPermissionDefaultDac.cs&lt;7/5/2011 5:23:45 PM&gt;" />
-   <Option Name="22" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Stubs\Stubs\DirectoryDacStub.cs&lt;7/5/2011 5:23:45 PM&gt;" />
-   <Option Name="23" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\Person.cs&lt;7/5/2011 5:23:45 PM&gt;" />
-   <Option Name="24" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Managers\LinkedObjectManagerTests.cs&lt;7/5/2011 5:23:45 PM&gt;" />
-   <Option Name="25" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Managers\LinkedObjectManager.cs&lt;7/5/2011 5:23:45 PM&gt;" />
-   <Option Name="26" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\LinkedObjectManagerScenarios.cs&lt;7/5/2011 5:23:45 PM&gt;" />
-   <Option Name="27" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\Helpers\LinkHelper.cs&lt;7/5/2011 5:23:43 PM&gt;" />
-   <Option Name="28" Value="C:\Users\wusher\AppData\Local\Temp\GSE73F7.tmp.cs&lt;7/5/2011 3:23:45 PM&gt;" />
-   <Option Name="29" Value="C:\Users\wusher\AppData\Local\Temp\GSE1BB3.tmp.cs&lt;7/5/2011 3:15:43 PM&gt;" />
-   <Option Name="30" Value="C:\Users\wusher\AppData\Local\Temp\GSE1BA2.tmp.cs&lt;7/5/2011 3:15:43 PM&gt;" />
-   <Option Name="31" Value="C:\Users\wusher\AppData\Local\Temp\GSE1B92.tmp.cs&lt;7/5/2011 3:15:43 PM&gt;" />
-   <Option Name="32" Value="C:\Users\wusher\AppData\Local\Temp\GSE1B91.tmp.cs&lt;7/5/2011 3:15:43 PM&gt;" />
-   <Option Name="33" Value="C:\Users\wusher\AppData\Local\Temp\GSE1B80.tmp.cs&lt;7/5/2011 3:15:43 PM&gt;" />
-   <Option Name="34" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmFileSharingVisibility.Designer.cs&lt;7/5/2011 3:05:29 PM&gt;" />
-   <Option Name="35" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\ViewModels\DocumentWebSecurityViewModelTests.cs&lt;7/5/2011 2:48:28 PM&gt;" />
-   <Option Name="36" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\DocumentWebSecurityViewModel.Properties.cs&lt;7/5/2011 2:46:13 PM&gt;" />
-   <Option Name="37" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\WebFileGridViewModel.cs&lt;7/5/2011 2:39:49 PM&gt;" />
-   <Option Name="38" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\IDocumentWebSecurityViewModel.cs&lt;7/5/2011 2:39:49 PM&gt;" />
-   <Option Name="39" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\DocumentWebSecurityView.resx&lt;7/5/2011 2:39:01 PM&gt;" />
-   <Option Name="40" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\DocumentWebSecurityView.Designer.cs&lt;7/5/2011 2:39:00 PM&gt;" />
-   <Option Name="41" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Properties\licenses.licx&lt;7/5/2011 2:38:52 PM&gt;" />
-   <Option Name="42" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\DocumentUploadView.resx&lt;7/5/2011 2:38:52 PM&gt;" />
-   <Option Name="43" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\DocumentUploadViewModel.cs&lt;7/5/2011 2:38:51 PM&gt;" />
-   <Option Name="44" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\DocumentUploadView.Designer.cs&lt;7/5/2011 2:38:51 PM&gt;" />
-   <Option Name="45" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\DocumentUploadView.cs&lt;7/5/2011 2:38:49 PM&gt;" />
-   <Option Name="46" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\VisibilityDefaultsViewModel.cs&lt;7/5/2011 2:24:43 PM&gt;" />
-   <Option Name="47" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Stubs\Stubs\PermissionDefaultDacStub.cs&lt;7/5/2011 2:21:57 PM&gt;" />
-   <Option Name="48" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\VisibilityDefaultsView.resx&lt;7/5/2011 12:30:40 PM&gt;" />
-   <Option Name="49" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\VisibilityDefaultsView.Designer.cs&lt;7/5/2011 12:30:40 PM&gt;" />
-   <Option Name="50" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\VisibilityDefaultsView.cs&lt;7/5/2011 12:29:25 PM&gt;" />
-   <Option Name="51" Value="C:\Users\wusher\AppData\Local\Temp\5456$CommonLanguageRuntimeLibrary$v2.0.50727\System.Int32.cs&lt;7/5/2011 12:18:56 PM&gt;" />
-   <Option Name="52" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Stubs\StubsGenerated\PermissionDefaultStub.Generated.cs&lt;7/5/2011 11:27:25 AM&gt;" />
-   <Option Name="53" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Data\Immigration\Custom\PermissionDefaultDac.cs&lt;7/5/2011 11:24:59 AM&gt;" />
-   <Option Name="54" Value="C:\Users\wusher\AppData\Local\Temp\GSE5CE2.tmp.cs&lt;7/5/2011 11:24:28 AM&gt;" />
-   <Option Name="55" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Data\Immigration\Generated\PermissionDefaultDac.Generated.cs&lt;7/5/2011 11:19:59 AM&gt;" />
-   <Option Name="56" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Data\Immigration\Custom\PermissionDac.cs&lt;7/5/2011 11:16:25 AM&gt;" />
-   <Option Name="57" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Logic\Immigration\Custom\PermissionDefaultLogic.cs&lt;7/5/2011 10:58:43 AM&gt;" />
-   <Option Name="58" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Logic\Immigration\Generated\PermissionDefaultLogic.Generated.cs&lt;7/5/2011 10:58:04 AM&gt;" />
-   <Option Name="59" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Managers\DocumentVisibilityManager.cs&lt;6/30/2011 5:17:17 PM&gt;" />
-   <Option Name="60" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmAttachTo.resx&lt;6/30/2011 11:55:47 AM&gt;" />
-   <Option Name="61" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmAttachTo.Designer.cs&lt;6/30/2011 11:55:46 AM&gt;" />
-   <Option Name="62" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmAttachTo.cs&lt;6/30/2011 11:55:44 AM&gt;" />
-   <Option Name="63" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\DocumentUploadCleanViewModel.Properties.cs&lt;6/30/2011 11:40:22 AM&gt;" />
-   <Option Name="64" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\Program.cs&lt;6/30/2011 11:27:28 AM&gt;" />
-   <Option Name="65" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmProgressScroller.Designer.cs&lt;6/30/2011 10:39:39 AM&gt;" />
-   <Option Name="66" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmProgressScroller.cs&lt;6/30/2011 10:39:39 AM&gt;" />
-   <Option Name="67" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmInputDialog.Designer.cs&lt;6/30/2011 10:39:38 AM&gt;" />
-   <Option Name="68" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmInputDialog.cs&lt;6/30/2011 10:39:38 AM&gt;" />
-   <Option Name="69" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\PendingCountChangedEventArgs.cs&lt;6/30/2011 10:39:37 AM&gt;" />
-   <Option Name="70" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\AttachedDocumentsView.Designer.cs&lt;6/30/2011 10:39:35 AM&gt;" />
-   <Option Name="71" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\AttachedDocumentsView.cs&lt;6/30/2011 10:39:34 AM&gt;" />
-   <Option Name="72" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\PermissionGroup.cs&lt;6/30/2011 10:39:34 AM&gt;" />
-   <Option Name="73" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\OrganizationWithContacts.cs&lt;6/30/2011 10:39:34 AM&gt;" />
-   <Option Name="74" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\AttachedDocumentsViewModel.cs&lt;6/30/2011 10:39:30 AM&gt;" />
-   <Option Name="75" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Properties\AssemblyInfo.cs&lt;6/30/2011 10:39:30 AM&gt;" />
-   <Option Name="76" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Managers\WebFilePreviewManager.cs&lt;6/30/2011 10:39:30 AM&gt;" />
-   <Option Name="77" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Managers\RegardingItemManager.cs&lt;6/30/2011 10:39:29 AM&gt;" />
-   <Option Name="78" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Managers\BasicObjectInfoGroup.cs&lt;6/30/2011 10:39:28 AM&gt;" />
-   <Option Name="79" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Events\WebFileStatusChangedEventArgs.cs&lt;6/30/2011 10:39:27 AM&gt;" />
-   <Option Name="80" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Events\OpenDocumentEventArgs.cs&lt;6/30/2011 10:39:25 AM&gt;" />
-   <Option Name="81" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\AttachedDocumentsView.resx&lt;6/29/2011 4:55:12 PM&gt;" />
-   <Option Name="82" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Common\Controls\NestedCheckbox.Designer.cs&lt;6/29/2011 4:21:45 PM&gt;" />
-   <Option Name="83" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Common\Controls\ExpandoContainer.cs&lt;6/29/2011 4:17:10 PM&gt;" />
-   <Option Name="84" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmFileSharingVisibility.resx&lt;6/29/2011 4:13:25 PM&gt;" />
-   <Option Name="85" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\Form1.cs&lt;6/29/2011 3:56:30 PM&gt;" />
-   <Option Name="86" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Stubs\Stubs\OrganizationDacStub.cs&lt;6/29/2011 3:40:41 PM&gt;" />
-   <Option Name="87" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Logic\Immigration\Custom\OrganizationLogic.cs&lt;6/29/2011 3:40:19 PM&gt;" />
-   <Option Name="88" Value="C:\Users\wusher\AppData\Local\Temp\GSEF826.tmp.cs&lt;6/29/2011 3:35:04 PM&gt;" />
-   <Option Name="89" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Common\Services\DocumentUploadWebService.cs&lt;6/29/2011 3:13:50 PM&gt;" />
-   <Option Name="90" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\Properties\licenses.licx&lt;6/29/2011 2:07:20 PM&gt;" />
-   <Option Name="91" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\DataGridSpike.resx&lt;6/29/2011 2:07:20 PM&gt;" />
-   <Option Name="92" Value="C:\code\tracker7\winclient\trunk\Product\Production\app.config&lt;6/29/2011 2:07:19 PM&gt;" />
-   <Option Name="93" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\Properties\Settings.settings&lt;6/29/2011 2:07:19 PM&gt;" />
-   <Option Name="94" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\Properties\Resources.resx&lt;6/29/2011 2:07:19 PM&gt;" />
-   <Option Name="95" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\DataGridSpike.Designer.cs&lt;6/29/2011 2:07:18 PM&gt;" />
-   <Option Name="96" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\DataGridSpike.cs&lt;6/29/2011 2:07:18 PM&gt;" />
-   <Option Name="97" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\Fish.cs&lt;6/29/2011 2:07:17 PM&gt;" />
-   <Option Name="98" Value="C:\Users\wusher\AppData\Local\Temp\GSE1BE2.tmp.cs&lt;6/29/2011 1:32:54 PM&gt;" />
-   <Option Name="99" Value="C:\_dev\spikes\BlockingEventEdit\BlockingEventEdit\Program.cs&lt;6/28/2011 5:10:34 PM&gt;" />
-   <Option Name="100" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Views\DocumentUploadViewTests.cs&lt;6/28/2011 2:48:26 PM&gt;" />
-   <Option Name="101" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\ViewModels\FileSharingVisibilityViewModelTests.cs&lt;6/28/2011 2:48:23 PM&gt;" />
-   <Option Name="102" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\PermissionDefault.Generated.cs&lt;6/28/2011 11:28:48 AM&gt;" />
-   <Option Name="103" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\Permission.Generated.cs&lt;6/28/2011 11:28:31 AM&gt;" />
-   <Option Name="104" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Logic.Test\Immigration\Custom\PersonLogicTest.cs&lt;6/28/2011 11:25:35 AM&gt;" />
-   <Option Name="105" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Properties\Resources.resx&lt;6/27/2011 4:10:29 PM&gt;" />
-   <Option Name="106" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\frmExpandoBase.resx&lt;6/27/2011 4:10:28 PM&gt;" />
-   <Option Name="107" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\frmExpandoBase.Designer.cs&lt;6/27/2011 4:10:25 PM&gt;" />
-   <Option Name="108" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\frmExpandoBase.cs&lt;6/27/2011 4:10:25 PM&gt;" />
-   <Option Name="109" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\PersonFactory.cs&lt;6/27/2011 11:18:15 AM&gt;" />
-   <Option Name="110" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\ProcessFactory.cs&lt;6/27/2011 11:09:43 AM&gt;" />
-   <Option Name="111" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\OrganizationFactory.cs&lt;6/27/2011 11:09:37 AM&gt;" />
-   <Option Name="112" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\LinkHelper.cs&lt;6/27/2011 10:59:56 AM&gt;" />
-   <Option Name="113" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\Class1.cs&lt;6/27/2011 10:48:55 AM&gt;" />
-   <Option Name="114" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\Properties\AssemblyInfo.cs&lt;6/27/2011 10:48:55 AM&gt;" />
-   <Option Name="115" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories.Tests\Class1.cs&lt;6/27/2011 10:48:09 AM&gt;" />
-   <Option Name="116" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories.Tests\Properties\AssemblyInfo.cs&lt;6/27/2011 10:48:08 AM&gt;" />
-   <Option Name="117" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Logic.Test\Immigration\Generated\PersonLogicTest.Generated.cs&lt;6/27/2011 10:45:20 AM&gt;" />
-   <Option Name="118" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Logic.Test\Immigration\Generated\PaymentLogicTest.Generated.cs&lt;6/27/2011 10:44:55 AM&gt;" />
-   <Option Name="119" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\Doc.Generated.cs&lt;6/27/2011 10:44:35 AM&gt;" />
-   <Option Name="120" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\Doc.cs&lt;6/27/2011 10:44:35 AM&gt;" />
-   <Option Name="121" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Logic\Immigration\Generated\DocLogic.Generated.cs&lt;6/27/2011 10:44:35 AM&gt;" />
-   <Option Name="122" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Data\Immigration\Generated\DocDac.Generated.cs&lt;6/27/2011 10:44:35 AM&gt;" />
-   <Option Name="123" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.DocumentUpload.Test\app.config&lt;6/27/2011 10:44:35 AM&gt;" />
-   <Option Name="124" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\app.config&lt;6/27/2011 10:44:34 AM&gt;" />
-   <Option Name="125" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\EmailTemplate.Generated.cs&lt;6/27/2011 10:44:34 AM&gt;" />
-   <Option Name="126" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Data\Immigration\Generated\EmailTemplateDac.Generated.cs&lt;6/27/2011 10:44:34 AM&gt;" />
-   <Option Name="127" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.DocumentUpload.Test\Manager\DocumentManagerTest.cs&lt;6/27/2011 10:44:33 AM&gt;" />
-   <Option Name="128" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmInputDialog.resx&lt;6/23/2011 4:54:02 PM&gt;" />
-   <Option Name="129" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Factory.cs&lt;6/23/2011 4:08:26 PM&gt;" />
-   <Option Name="130" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Managers\DocumentVisibilityManagerTest.cs&lt;6/23/2011 3:57:16 PM&gt;" />
-   <Option Name="131" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Core\Delegates.cs&lt;6/23/2011 3:39:19 PM&gt;" />
-   <Option Name="132" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Managers\FileSharingPermissionManagerTests.cs&lt;6/23/2011 2:40:21 PM&gt;" />
-   <Option Name="133" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Managers\FileSharingPermissionManager.cs&lt;6/23/2011 2:40:21 PM&gt;" />
-   <Option Name="134" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\ViewModels\GetPermissionsViewModel.cs&lt;6/22/2011 1:58:08 PM&gt;" />
-   <Option Name="135" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\GetPermissionsViewModel.cs&lt;6/22/2011 1:57:52 PM&gt;" />
-   <Option Name="136" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\OrganizationWithMembers.cs&lt;6/22/2011 1:49:24 PM&gt;" />
-   <Option Name="137" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Common\Services\WebFileService.cs&lt;6/22/2011 1:49:24 PM&gt;" />
-   <Option Name="138" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Common\Services\Interfaces\IDirectoryFilePathService.cs&lt;6/21/2011 5:09:32 PM&gt;" />
-   <Option Name="139" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.Common.Test\Services\DirectoryFilePathServiceTest.cs&lt;6/21/2011 5:08:10 PM&gt;" />
-   <Option Name="140" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Common\Services\DirectoryFilePathService.cs&lt;6/21/2011 5:07:47 PM&gt;" />
-   <Option Name="141" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.Common.Test\Services\WebFileServiceTest.cs&lt;6/21/2011 5:05:20 PM&gt;" />
-   <Option Name="142" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentRepoWebService\ServiceAddFoundation.cs&lt;6/21/2011 5:05:18 PM&gt;" />
-   <Option Name="143" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Properties\AssemblyInfo.cs&lt;6/20/2011 3:22:18 PM&gt;" />
-   <Option Name="144" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\CollectionContainer.resx&lt;6/20/2011 3:22:17 PM&gt;" />
-   <Option Name="145" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\CollectionContainer.Designer.cs&lt;6/20/2011 3:22:17 PM&gt;" />
-   <Option Name="146" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Group.cs&lt;6/20/2011 3:22:17 PM&gt;" />
-   <Option Name="147" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Form1.resx&lt;6/20/2011 3:22:16 PM&gt;" />
-   <Option Name="148" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\GroupRepeater.cs&lt;6/20/2011 3:22:16 PM&gt;" />
-   <Option Name="149" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\ICheckboxBindable.cs&lt;6/20/2011 3:22:16 PM&gt;" />
-   <Option Name="150" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Form1.Designer.cs&lt;6/20/2011 3:22:16 PM&gt;" />
-   <Option Name="151" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\ExpandoContainerBase.resx&lt;6/20/2011 3:22:16 PM&gt;" />
-   <Option Name="152" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Properties\Settings.settings&lt;6/20/2011 3:22:15 PM&gt;" />
-   <Option Name="153" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Form1.cs&lt;6/20/2011 3:22:13 PM&gt;" />
-   <Option Name="154" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Fish.cs&lt;6/20/2011 3:22:13 PM&gt;" />
-   <Option Name="155" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\CollectionContainer.cs&lt;6/20/2011 3:22:13 PM&gt;" />
-   <Option Name="156" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\ExpandoContainerBase.cs&lt;6/20/2011 3:22:13 PM&gt;" />
-   <Option Name="157" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\ExpandoBox.cs&lt;6/20/2011 3:22:13 PM&gt;" />
-   <Option Name="158" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\CheckboxRepeater.cs&lt;6/20/2011 3:22:13 PM&gt;" />
-   <Option Name="159" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Stubs\RandomItemGenerator.cs&lt;6/17/2011 11:15:43 AM&gt;" />
-   <Option Name="160" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Stubs\StubsGenerated\EventStub.Generated.cs&lt;6/17/2011 11:10:58 AM&gt;" />
-   <Option Name="161" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.DocumentUpload\Tracker.DocumentUpload\app.config&lt;6/17/2011 11:00:12 AM&gt;" />
-   <Option Name="162" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.DocumentUpload\Tracker.DocumentUpload\Manager\DocumentUploadManager.cs&lt;6/17/2011 10:59:36 AM&gt;" />
-   <Option Name="163" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Test\Immigration\Generated\FormDefDisplayFieldTest.Generated.cs&lt;6/17/2011 10:59:36 AM&gt;" />
-   <Option Name="164" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Test\Immigration\Generated\DocKeyValueTest.Generated.cs&lt;6/17/2011 10:59:36 AM&gt;" />
-   <Option Name="165" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Test\Immigration\Generated\FormDefTest.Generated.cs&lt;6/17/2011 10:59:36 AM&gt;" />
-   <Option Name="166" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Test\Immigration\Custom\DocsTest.cs&lt;6/17/2011 10:59:36 AM&gt;" />
-   <Option Name="167" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Data\Immigration\Custom\JobAnswerDac.cs&lt;6/17/2011 10:59:36 AM&gt;" />
-   <Option Name="168" Value="C:\Users\wusher\AppData\Local\Temp\GSE7190.tmp.cs&lt;6/17/2011 10:55:03 AM&gt;" />
-   <Option Name="169" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.DocumentUpload\Tracker.DocumentUpload\Manager\DocumentVisibilityManager.cs&lt;6/17/2011 10:44:54 AM&gt;" />
-   <Option Name="170" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.DocumentUpload.Test\Manager\DocumentVisibilityManagerTests.cs&lt;6/17/2011 10:43:49 AM&gt;" />
-   <Option Name="171" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.DocumentUpload.Test\Manager\AdminPropertyManagerTest.cs&lt;6/17/2011 10:43:12 AM&gt;" />
-   <Option Name="172" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.DocumentUpload.Test\Service\TempWebServiceTest.cs&lt;6/17/2011 10:42:49 AM&gt;" />
-   <Option Name="173" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.DocumentUpload.Test\Manager\DocumentVisiblityManagerTests.cs&lt;6/17/2011 10:31:03 AM&gt;" />
-   <Option Name="174" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.DocumentUpload\Tracker.DocumentUpload\DataStubs\WebFileDacStub.cs&lt;6/17/2011 10:10:23 AM&gt;" />
-   <Option Name="175" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\WebFile.cs&lt;6/17/2011 10:10:23 AM&gt;" />
-   <Option Name="176" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\WebFile.Generated.cs&lt;6/17/2011 10:10:23 AM&gt;" />
+   <Option Name="0" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\WebFile.Generated.cs&lt;7/6/2011 11:25:19 AM&gt;" />
+   <Option Name="1" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Managers\LinkedObjectManager.cs&lt;7/6/2011 10:16:13 AM&gt;" />
+   <Option Name="2" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\ViewModels\VisibilityDefaultsViewModelTests.cs&lt;7/6/2011 9:27:48 AM&gt;" />
+   <Option Name="3" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\ViewModels\WebFileGridViewModelTests.cs&lt;7/6/2011 9:27:48 AM&gt;" />
+   <Option Name="4" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\DocumentUploadCleanViewModel.cs&lt;7/6/2011 9:27:48 AM&gt;" />
+   <Option Name="5" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Managers\RegardingItemManagerTests.cs&lt;7/6/2011 9:27:48 AM&gt;" />
+   <Option Name="6" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\ViewModels\DocumentUploadCleanViewModelTests.cs&lt;7/6/2011 9:27:48 AM&gt;" />
+   <Option Name="7" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Managers\DocumentVisibilityManagerTests.cs&lt;7/6/2011 9:27:48 AM&gt;" />
+   <Option Name="8" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Views\DocumentWebSecurityViewTests.cs&lt;7/6/2011 9:27:48 AM&gt;" />
+   <Option Name="9" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\UserControlTestingExtensions.cs&lt;7/6/2011 9:27:48 AM&gt;" />
+   <Option Name="10" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Common\Controls\NestedCheckbox.cs&lt;7/6/2011 9:27:48 AM&gt;" />
+   <Option Name="11" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.FamilyIntegrity\FamilyTools.cs&lt;7/6/2011 9:27:48 AM&gt;" />
+   <Option Name="12" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Logic\Immigration\Generated\PersonLogic.Generated.cs&lt;7/6/2011 9:27:48 AM&gt;" />
+   <Option Name="13" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Stubs\StubsGenerated\PersonStub.Generated.cs&lt;7/6/2011 9:27:48 AM&gt;" />
+   <Option Name="14" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.FamilyIntegrity.Test\FamilyToolsTest.cs&lt;7/6/2011 9:27:48 AM&gt;" />
+   <Option Name="15" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.EfileLauncher\ViewModels\DisplayEfileViewModel.cs&lt;7/6/2011 9:27:48 AM&gt;" />
+   <Option Name="16" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\DocumentWebSecurityViewModel.cs&lt;7/6/2011 9:27:29 AM&gt;" />
+   <Option Name="17" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\DocumentWebSecurityView.cs&lt;7/6/2011 9:27:29 AM&gt;" />
+   <Option Name="18" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmFileSharingVisibility.cs&lt;7/6/2011 9:27:29 AM&gt;" />
+   <Option Name="19" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\FileSharingVisibilityViewModel.cs&lt;7/6/2011 9:27:29 AM&gt;" />
+   <Option Name="20" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Managers\BasicObjectInfo.cs&lt;7/6/2011 9:27:29 AM&gt;" />
+   <Option Name="21" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\Factories\PersonFactory.cs&lt;7/6/2011 9:27:29 AM&gt;" />
+   <Option Name="22" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Logic\Immigration\Generated\DirectoryLogic.Generated.cs&lt;7/6/2011 9:27:29 AM&gt;" />
+   <Option Name="23" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Data\Immigration\Interfaces\IPermissionDefaultDac.cs&lt;7/6/2011 9:27:29 AM&gt;" />
+   <Option Name="24" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Stubs\Stubs\DirectoryDacStub.cs&lt;7/6/2011 9:27:29 AM&gt;" />
+   <Option Name="25" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\Person.cs&lt;7/6/2011 9:27:29 AM&gt;" />
+   <Option Name="26" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Managers\LinkedObjectManagerTests.cs&lt;7/6/2011 9:27:29 AM&gt;" />
+   <Option Name="27" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\LinkedObjectManagerScenarios.cs&lt;7/6/2011 9:27:29 AM&gt;" />
+   <Option Name="28" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\Helpers\LinkHelper.cs&lt;7/6/2011 9:27:25 AM&gt;" />
+   <Option Name="29" Value="C:\Users\wusher\AppData\Local\Temp\GSE73F7.tmp.cs&lt;7/5/2011 3:23:45 PM&gt;" />
+   <Option Name="30" Value="C:\Users\wusher\AppData\Local\Temp\GSE1BB3.tmp.cs&lt;7/5/2011 3:15:43 PM&gt;" />
+   <Option Name="31" Value="C:\Users\wusher\AppData\Local\Temp\GSE1BA2.tmp.cs&lt;7/5/2011 3:15:43 PM&gt;" />
+   <Option Name="32" Value="C:\Users\wusher\AppData\Local\Temp\GSE1B92.tmp.cs&lt;7/5/2011 3:15:43 PM&gt;" />
+   <Option Name="33" Value="C:\Users\wusher\AppData\Local\Temp\GSE1B91.tmp.cs&lt;7/5/2011 3:15:43 PM&gt;" />
+   <Option Name="34" Value="C:\Users\wusher\AppData\Local\Temp\GSE1B80.tmp.cs&lt;7/5/2011 3:15:43 PM&gt;" />
+   <Option Name="35" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmFileSharingVisibility.Designer.cs&lt;7/5/2011 3:05:29 PM&gt;" />
+   <Option Name="36" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\ViewModels\DocumentWebSecurityViewModelTests.cs&lt;7/5/2011 2:48:28 PM&gt;" />
+   <Option Name="37" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\DocumentWebSecurityViewModel.Properties.cs&lt;7/5/2011 2:46:13 PM&gt;" />
+   <Option Name="38" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\WebFileGridViewModel.cs&lt;7/5/2011 2:39:49 PM&gt;" />
+   <Option Name="39" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\IDocumentWebSecurityViewModel.cs&lt;7/5/2011 2:39:49 PM&gt;" />
+   <Option Name="40" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\DocumentWebSecurityView.resx&lt;7/5/2011 2:39:01 PM&gt;" />
+   <Option Name="41" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\DocumentWebSecurityView.Designer.cs&lt;7/5/2011 2:39:00 PM&gt;" />
+   <Option Name="42" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Properties\licenses.licx&lt;7/5/2011 2:38:52 PM&gt;" />
+   <Option Name="43" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\DocumentUploadView.resx&lt;7/5/2011 2:38:52 PM&gt;" />
+   <Option Name="44" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\DocumentUploadViewModel.cs&lt;7/5/2011 2:38:51 PM&gt;" />
+   <Option Name="45" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\DocumentUploadView.Designer.cs&lt;7/5/2011 2:38:51 PM&gt;" />
+   <Option Name="46" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\DocumentUploadView.cs&lt;7/5/2011 2:38:49 PM&gt;" />
+   <Option Name="47" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\VisibilityDefaultsViewModel.cs&lt;7/5/2011 2:24:43 PM&gt;" />
+   <Option Name="48" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Stubs\Stubs\PermissionDefaultDacStub.cs&lt;7/5/2011 2:21:57 PM&gt;" />
+   <Option Name="49" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\VisibilityDefaultsView.resx&lt;7/5/2011 12:30:40 PM&gt;" />
+   <Option Name="50" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\VisibilityDefaultsView.Designer.cs&lt;7/5/2011 12:30:40 PM&gt;" />
+   <Option Name="51" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\VisibilityDefaultsView.cs&lt;7/5/2011 12:29:25 PM&gt;" />
+   <Option Name="52" Value="C:\Users\wusher\AppData\Local\Temp\5456$CommonLanguageRuntimeLibrary$v2.0.50727\System.Int32.cs&lt;7/5/2011 12:18:56 PM&gt;" />
+   <Option Name="53" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Stubs\StubsGenerated\PermissionDefaultStub.Generated.cs&lt;7/5/2011 11:27:25 AM&gt;" />
+   <Option Name="54" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Data\Immigration\Custom\PermissionDefaultDac.cs&lt;7/5/2011 11:24:59 AM&gt;" />
+   <Option Name="55" Value="C:\Users\wusher\AppData\Local\Temp\GSE5CE2.tmp.cs&lt;7/5/2011 11:24:28 AM&gt;" />
+   <Option Name="56" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Data\Immigration\Generated\PermissionDefaultDac.Generated.cs&lt;7/5/2011 11:19:59 AM&gt;" />
+   <Option Name="57" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Data\Immigration\Custom\PermissionDac.cs&lt;7/5/2011 11:16:25 AM&gt;" />
+   <Option Name="58" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Logic\Immigration\Custom\PermissionDefaultLogic.cs&lt;7/5/2011 10:58:43 AM&gt;" />
+   <Option Name="59" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Logic\Immigration\Generated\PermissionDefaultLogic.Generated.cs&lt;7/5/2011 10:58:04 AM&gt;" />
+   <Option Name="60" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Managers\DocumentVisibilityManager.cs&lt;6/30/2011 5:17:17 PM&gt;" />
+   <Option Name="61" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmAttachTo.resx&lt;6/30/2011 11:55:47 AM&gt;" />
+   <Option Name="62" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmAttachTo.Designer.cs&lt;6/30/2011 11:55:46 AM&gt;" />
+   <Option Name="63" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmAttachTo.cs&lt;6/30/2011 11:55:44 AM&gt;" />
+   <Option Name="64" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\DocumentUploadCleanViewModel.Properties.cs&lt;6/30/2011 11:40:22 AM&gt;" />
+   <Option Name="65" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\Program.cs&lt;6/30/2011 11:27:28 AM&gt;" />
+   <Option Name="66" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmProgressScroller.Designer.cs&lt;6/30/2011 10:39:39 AM&gt;" />
+   <Option Name="67" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmProgressScroller.cs&lt;6/30/2011 10:39:39 AM&gt;" />
+   <Option Name="68" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmInputDialog.Designer.cs&lt;6/30/2011 10:39:38 AM&gt;" />
+   <Option Name="69" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmInputDialog.cs&lt;6/30/2011 10:39:38 AM&gt;" />
+   <Option Name="70" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\PendingCountChangedEventArgs.cs&lt;6/30/2011 10:39:37 AM&gt;" />
+   <Option Name="71" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\AttachedDocumentsView.Designer.cs&lt;6/30/2011 10:39:35 AM&gt;" />
+   <Option Name="72" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\AttachedDocumentsView.cs&lt;6/30/2011 10:39:34 AM&gt;" />
+   <Option Name="73" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\PermissionGroup.cs&lt;6/30/2011 10:39:34 AM&gt;" />
+   <Option Name="74" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\OrganizationWithContacts.cs&lt;6/30/2011 10:39:34 AM&gt;" />
+   <Option Name="75" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\AttachedDocumentsViewModel.cs&lt;6/30/2011 10:39:30 AM&gt;" />
+   <Option Name="76" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Properties\AssemblyInfo.cs&lt;6/30/2011 10:39:30 AM&gt;" />
+   <Option Name="77" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Managers\WebFilePreviewManager.cs&lt;6/30/2011 10:39:30 AM&gt;" />
+   <Option Name="78" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Managers\RegardingItemManager.cs&lt;6/30/2011 10:39:29 AM&gt;" />
+   <Option Name="79" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Managers\BasicObjectInfoGroup.cs&lt;6/30/2011 10:39:28 AM&gt;" />
+   <Option Name="80" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Events\WebFileStatusChangedEventArgs.cs&lt;6/30/2011 10:39:27 AM&gt;" />
+   <Option Name="81" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Events\OpenDocumentEventArgs.cs&lt;6/30/2011 10:39:25 AM&gt;" />
+   <Option Name="82" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Views\AttachedDocumentsView.resx&lt;6/29/2011 4:55:12 PM&gt;" />
+   <Option Name="83" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Common\Controls\NestedCheckbox.Designer.cs&lt;6/29/2011 4:21:45 PM&gt;" />
+   <Option Name="84" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Common\Controls\ExpandoContainer.cs&lt;6/29/2011 4:17:10 PM&gt;" />
+   <Option Name="85" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmFileSharingVisibility.resx&lt;6/29/2011 4:13:25 PM&gt;" />
+   <Option Name="86" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\Form1.cs&lt;6/29/2011 3:56:30 PM&gt;" />
+   <Option Name="87" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Stubs\Stubs\OrganizationDacStub.cs&lt;6/29/2011 3:40:41 PM&gt;" />
+   <Option Name="88" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Logic\Immigration\Custom\OrganizationLogic.cs&lt;6/29/2011 3:40:19 PM&gt;" />
+   <Option Name="89" Value="C:\Users\wusher\AppData\Local\Temp\GSEF826.tmp.cs&lt;6/29/2011 3:35:04 PM&gt;" />
+   <Option Name="90" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Common\Services\DocumentUploadWebService.cs&lt;6/29/2011 3:13:50 PM&gt;" />
+   <Option Name="91" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\Properties\licenses.licx&lt;6/29/2011 2:07:20 PM&gt;" />
+   <Option Name="92" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\DataGridSpike.resx&lt;6/29/2011 2:07:20 PM&gt;" />
+   <Option Name="93" Value="C:\code\tracker7\winclient\trunk\Product\Production\app.config&lt;6/29/2011 2:07:19 PM&gt;" />
+   <Option Name="94" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\Properties\Settings.settings&lt;6/29/2011 2:07:19 PM&gt;" />
+   <Option Name="95" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\Properties\Resources.resx&lt;6/29/2011 2:07:19 PM&gt;" />
+   <Option Name="96" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\DataGridSpike.Designer.cs&lt;6/29/2011 2:07:18 PM&gt;" />
+   <Option Name="97" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\DataGridSpike.cs&lt;6/29/2011 2:07:18 PM&gt;" />
+   <Option Name="98" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Controls.Viewer\Fish.cs&lt;6/29/2011 2:07:17 PM&gt;" />
+   <Option Name="99" Value="C:\Users\wusher\AppData\Local\Temp\GSE1BE2.tmp.cs&lt;6/29/2011 1:32:54 PM&gt;" />
+   <Option Name="100" Value="C:\_dev\spikes\BlockingEventEdit\BlockingEventEdit\Program.cs&lt;6/28/2011 5:10:34 PM&gt;" />
+   <Option Name="101" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Views\DocumentUploadViewTests.cs&lt;6/28/2011 2:48:26 PM&gt;" />
+   <Option Name="102" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\ViewModels\FileSharingVisibilityViewModelTests.cs&lt;6/28/2011 2:48:23 PM&gt;" />
+   <Option Name="103" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\PermissionDefault.Generated.cs&lt;6/28/2011 11:28:48 AM&gt;" />
+   <Option Name="104" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\Permission.Generated.cs&lt;6/28/2011 11:28:31 AM&gt;" />
+   <Option Name="105" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Logic.Test\Immigration\Custom\PersonLogicTest.cs&lt;6/28/2011 11:25:35 AM&gt;" />
+   <Option Name="106" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Properties\Resources.resx&lt;6/27/2011 4:10:29 PM&gt;" />
+   <Option Name="107" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\frmExpandoBase.resx&lt;6/27/2011 4:10:28 PM&gt;" />
+   <Option Name="108" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\frmExpandoBase.Designer.cs&lt;6/27/2011 4:10:25 PM&gt;" />
+   <Option Name="109" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\frmExpandoBase.cs&lt;6/27/2011 4:10:25 PM&gt;" />
+   <Option Name="110" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\PersonFactory.cs&lt;6/27/2011 11:18:15 AM&gt;" />
+   <Option Name="111" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\ProcessFactory.cs&lt;6/27/2011 11:09:43 AM&gt;" />
+   <Option Name="112" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\OrganizationFactory.cs&lt;6/27/2011 11:09:37 AM&gt;" />
+   <Option Name="113" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\LinkHelper.cs&lt;6/27/2011 10:59:56 AM&gt;" />
+   <Option Name="114" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\Class1.cs&lt;6/27/2011 10:48:55 AM&gt;" />
+   <Option Name="115" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories\Properties\AssemblyInfo.cs&lt;6/27/2011 10:48:55 AM&gt;" />
+   <Option Name="116" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories.Tests\Class1.cs&lt;6/27/2011 10:48:09 AM&gt;" />
+   <Option Name="117" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.ScenarioFactories.Tests\Properties\AssemblyInfo.cs&lt;6/27/2011 10:48:08 AM&gt;" />
+   <Option Name="118" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Logic.Test\Immigration\Generated\PersonLogicTest.Generated.cs&lt;6/27/2011 10:45:20 AM&gt;" />
+   <Option Name="119" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Logic.Test\Immigration\Generated\PaymentLogicTest.Generated.cs&lt;6/27/2011 10:44:55 AM&gt;" />
+   <Option Name="120" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\Doc.Generated.cs&lt;6/27/2011 10:44:35 AM&gt;" />
+   <Option Name="121" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\Doc.cs&lt;6/27/2011 10:44:35 AM&gt;" />
+   <Option Name="122" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Logic\Immigration\Generated\DocLogic.Generated.cs&lt;6/27/2011 10:44:35 AM&gt;" />
+   <Option Name="123" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Data\Immigration\Generated\DocDac.Generated.cs&lt;6/27/2011 10:44:35 AM&gt;" />
+   <Option Name="124" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.DocumentUpload.Test\app.config&lt;6/27/2011 10:44:35 AM&gt;" />
+   <Option Name="125" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\app.config&lt;6/27/2011 10:44:34 AM&gt;" />
+   <Option Name="126" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\EmailTemplate.Generated.cs&lt;6/27/2011 10:44:34 AM&gt;" />
+   <Option Name="127" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Data\Immigration\Generated\EmailTemplateDac.Generated.cs&lt;6/27/2011 10:44:34 AM&gt;" />
+   <Option Name="128" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.DocumentUpload.Test\Manager\DocumentManagerTest.cs&lt;6/27/2011 10:44:33 AM&gt;" />
+   <Option Name="129" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Windows\frmInputDialog.resx&lt;6/23/2011 4:54:02 PM&gt;" />
+   <Option Name="130" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Factory.cs&lt;6/23/2011 4:08:26 PM&gt;" />
+   <Option Name="131" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Managers\DocumentVisibilityManagerTest.cs&lt;6/23/2011 3:57:16 PM&gt;" />
+   <Option Name="132" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Core\Delegates.cs&lt;6/23/2011 3:39:19 PM&gt;" />
+   <Option Name="133" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\Managers\FileSharingPermissionManagerTests.cs&lt;6/23/2011 2:40:21 PM&gt;" />
+   <Option Name="134" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\Managers\FileSharingPermissionManager.cs&lt;6/23/2011 2:40:21 PM&gt;" />
+   <Option Name="135" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\ViewModels\GetPermissionsViewModel.cs&lt;6/22/2011 1:58:08 PM&gt;" />
+   <Option Name="136" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\GetPermissionsViewModel.cs&lt;6/22/2011 1:57:52 PM&gt;" />
+   <Option Name="137" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentUpload\ViewModels\OrganizationWithMembers.cs&lt;6/22/2011 1:49:24 PM&gt;" />
+   <Option Name="138" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Common\Services\WebFileService.cs&lt;6/22/2011 1:49:24 PM&gt;" />
+   <Option Name="139" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Common\Services\Interfaces\IDirectoryFilePathService.cs&lt;6/21/2011 5:09:32 PM&gt;" />
+   <Option Name="140" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.Common.Test\Services\DirectoryFilePathServiceTest.cs&lt;6/21/2011 5:08:10 PM&gt;" />
+   <Option Name="141" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.Common\Services\DirectoryFilePathService.cs&lt;6/21/2011 5:07:47 PM&gt;" />
+   <Option Name="142" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.Common.Test\Services\WebFileServiceTest.cs&lt;6/21/2011 5:05:20 PM&gt;" />
+   <Option Name="143" Value="C:\code\tracker7\winclient\trunk\Product\Production\Tracker.Winclient.DocumentRepoWebService\ServiceAddFoundation.cs&lt;6/21/2011 5:05:18 PM&gt;" />
+   <Option Name="144" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Properties\AssemblyInfo.cs&lt;6/20/2011 3:22:18 PM&gt;" />
+   <Option Name="145" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\CollectionContainer.resx&lt;6/20/2011 3:22:17 PM&gt;" />
+   <Option Name="146" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\CollectionContainer.Designer.cs&lt;6/20/2011 3:22:17 PM&gt;" />
+   <Option Name="147" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Group.cs&lt;6/20/2011 3:22:17 PM&gt;" />
+   <Option Name="148" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Form1.resx&lt;6/20/2011 3:22:16 PM&gt;" />
+   <Option Name="149" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\GroupRepeater.cs&lt;6/20/2011 3:22:16 PM&gt;" />
+   <Option Name="150" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\ICheckboxBindable.cs&lt;6/20/2011 3:22:16 PM&gt;" />
+   <Option Name="151" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Form1.Designer.cs&lt;6/20/2011 3:22:16 PM&gt;" />
+   <Option Name="152" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\ExpandoContainerBase.resx&lt;6/20/2011 3:22:16 PM&gt;" />
+   <Option Name="153" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Properties\Settings.settings&lt;6/20/2011 3:22:15 PM&gt;" />
+   <Option Name="154" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Form1.cs&lt;6/20/2011 3:22:13 PM&gt;" />
+   <Option Name="155" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\Fish.cs&lt;6/20/2011 3:22:13 PM&gt;" />
+   <Option Name="156" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\CollectionContainer.cs&lt;6/20/2011 3:22:13 PM&gt;" />
+   <Option Name="157" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\ExpandoContainerBase.cs&lt;6/20/2011 3:22:13 PM&gt;" />
+   <Option Name="158" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\ExpandoBox.cs&lt;6/20/2011 3:22:13 PM&gt;" />
+   <Option Name="159" Value="C:\_dev\spikes\RepeatingCheckboxes\RepeatingCheckboxes\CheckboxRepeater.cs&lt;6/20/2011 3:22:13 PM&gt;" />
+   <Option Name="160" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Stubs\RandomItemGenerator.cs&lt;6/17/2011 11:15:43 AM&gt;" />
+   <Option Name="161" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Stubs\StubsGenerated\EventStub.Generated.cs&lt;6/17/2011 11:10:58 AM&gt;" />
+   <Option Name="162" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.DocumentUpload\Tracker.DocumentUpload\app.config&lt;6/17/2011 11:00:12 AM&gt;" />
+   <Option Name="163" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.DocumentUpload\Tracker.DocumentUpload\Manager\DocumentUploadManager.cs&lt;6/17/2011 10:59:36 AM&gt;" />
+   <Option Name="164" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Test\Immigration\Generated\FormDefDisplayFieldTest.Generated.cs&lt;6/17/2011 10:59:36 AM&gt;" />
+   <Option Name="165" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Test\Immigration\Generated\DocKeyValueTest.Generated.cs&lt;6/17/2011 10:59:36 AM&gt;" />
+   <Option Name="166" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Test\Immigration\Generated\FormDefTest.Generated.cs&lt;6/17/2011 10:59:36 AM&gt;" />
+   <Option Name="167" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.Data.Test\Immigration\Custom\DocsTest.cs&lt;6/17/2011 10:59:36 AM&gt;" />
+   <Option Name="168" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Data\Immigration\Custom\JobAnswerDac.cs&lt;6/17/2011 10:59:36 AM&gt;" />
+   <Option Name="169" Value="C:\Users\wusher\AppData\Local\Temp\GSE7190.tmp.cs&lt;6/17/2011 10:55:03 AM&gt;" />
+   <Option Name="170" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.DocumentUpload\Tracker.DocumentUpload\Manager\DocumentVisibilityManager.cs&lt;6/17/2011 10:44:54 AM&gt;" />
+   <Option Name="171" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.DocumentUpload.Test\Manager\DocumentVisibilityManagerTests.cs&lt;6/17/2011 10:43:49 AM&gt;" />
+   <Option Name="172" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.DocumentUpload.Test\Manager\AdminPropertyManagerTest.cs&lt;6/17/2011 10:43:12 AM&gt;" />
+   <Option Name="173" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.DocumentUpload.Test\Service\TempWebServiceTest.cs&lt;6/17/2011 10:42:49 AM&gt;" />
+   <Option Name="174" Value="C:\code\tracker7\shared\trunk\Product\Unit Test\Tracker.DocumentUpload.Test\Manager\DocumentVisiblityManagerTests.cs&lt;6/17/2011 10:31:03 AM&gt;" />
+   <Option Name="175" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.DocumentUpload\Tracker.DocumentUpload\DataStubs\WebFileDacStub.cs&lt;6/17/2011 10:10:23 AM&gt;" />
+   <Option Name="176" Value="C:\code\tracker7\shared\trunk\Product\Production\Tracker.Entity\Immigration\WebFile.cs&lt;6/17/2011 10:10:23 AM&gt;" />
    <Option Name="177" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\ViewModels\AttachedDocumentsViewModelTest.cs&lt;6/17/2011 9:56:36 AM&gt;" />
    <Option Name="178" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\ViewModels\CheckboxBindableStub.cs&lt;6/17/2011 9:53:35 AM&gt;" />
    <Option Name="179" Value="C:\code\tracker7\winclient\trunk\Product\Unit Test\Tracker.Winclient.DocumentUpload.Test\FactoryGirl.cs&lt;6/17/2011 9:52:08 AM&gt;" />
