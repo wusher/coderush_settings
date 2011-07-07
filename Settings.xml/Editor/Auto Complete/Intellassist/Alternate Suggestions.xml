@@ -43,6 +43,8 @@
    <Option Name="maxDid" Value="maxDid" />
    <Option Name="eeee,GetEmployers" Value="eeee" />
    <Option Name="root,externalProfessional,IndividualWithEmployersAndContacts,IndividualWithEmployers,IndividualWithEmployersAndNoLinkedHr,IndividualWithContacts,IndividualWithFullFamily,IndividualWithoutLinks" Value="root" />
+   <Option Name="list" Value="list" />
+   <Option Name="permissionGroup" Value="permissionGroup" />
   </Section>
  </Language>
 </Page>

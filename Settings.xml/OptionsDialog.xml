@@ -8,15 +8,15 @@
    <Option Name="SplitOpen" Value="True" />
    <Option Name="Top" Value="-8" />
    <Option Name="Left" Value="1205" />
-   <Option Name="Width" Value="1250" />
+   <Option Name="Width" Value="1266" />
    <Option Name="Height" Value="1044" />
   </Section>
   <Section Name="Preferences">
    <Option Name="ShowHints" Value="False" />
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="Editor\Painting\Metric Shader" />
-   <Option Name="PriorSelectedNode" Value="Core" />
+   <Option Name="LastSelectedNode" Value="Unit Testing" />
+   <Option Name="PriorSelectedNode" Value="Unit Testing\Test Runner" />
    <Option Name="LastNonNeutralLanguageSelected" Value="Basic" />
   </Section>
   <Section Name="Global">
