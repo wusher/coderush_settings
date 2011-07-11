@@ -8,6 +8,8 @@
    <Option Name="PixelsCount" Value="4" />
    <Option Name="FilesCount" Value="10" />
    <Option Name="CheckDesignerGeneratedFiles" Value="False" />
+   <Option Name="ShowCodeFixHint" Value="True" />
+   <Option Name="CheckXAMLFiles" Value="False" />
   </Section>
  </Language>
 </Page>
