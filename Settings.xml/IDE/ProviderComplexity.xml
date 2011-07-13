@@ -2,7 +2,7 @@
 <Page Name="ProviderComplexity">
  <Language Name="*Neutral*">
   <Section Name="TimeComplexity">
-   <Option Name="Convert to Procedure" Value="16.537063669878" />
+   <Option Name="Convert to Procedure" Value="0.445625303342838" />
    <Option Name="Introduce Parameter Object" Value="1.42981030785636" />
    <Option Name="Collapse Conditional" Value="2566.96605195068" />
    <Option Name="Declare Constructor" Value="0.907462046582604" />
@@ -37,15 +37,15 @@
    <Option Name="Use Equals" Value="0.110684752353485" />
    <Option Name="Make Extension" Value="0.281298277734962" />
    <Option Name="Convert CSS Class to Skin" Value="14369.1132767809" />
-   <Option Name="Declare Interface" Value="0.178538923869772" />
+   <Option Name="Declare Interface" Value="0.139744213780231" />
    <Option Name="Use Equality Operator" Value="0.23992791594231" />
    <Option Name="Declare Event" Value="0.506734847283323" />
    <Option Name="Remove Private Setter" Value="30959.1337368686" />
    <Option Name="Add XML Comments" Value="21493.8173908179" />
    <Option Name="Assert Contract" Value="0.125847092898817" />
-   <Option Name="Promote to Parameter" Value="0.147215221508553" />
+   <Option Name="Promote to Parameter" Value="0.583630108989406" />
    <Option Name="Safe Rename" Value="0.206658587749919" />
-   <Option Name="Add Initialization" Value="689.95662059256" />
+   <Option Name="Add Initialization" Value="345.044643130199" />
    <Option Name="Concatenate Strings" Value="15768.7771029949" />
    <Option Name="Use String.Compare" Value="14218.8994718907" />
    <Option Name="Create Implementer (explicit)" Value="14816.5569653453" />
@@ -65,7 +65,7 @@
    <Option Name="Remove End Tag" Value="17566.1211781052" />
    <Option Name="Boolean to Enum" Value="0.486504374717781" />
    <Option Name="Add to Interface" Value="0.283411850908481" />
-   <Option Name="Property to Method(s)" Value="0.284741709134988" />
+   <Option Name="Property to Method(s)" Value="0.210168843946949" />
    <Option Name="Extract Interface" Value="0.536680673458498" />
    <Option Name="Execute Statement Asynchronously (StartNew)" Value="0.182506175748679" />
    <Option Name="Method to Property" Value="0.258804144753219" />
@@ -84,13 +84,13 @@
    <Option Name="Mirror Code" Value="9789.82240857453" />
    <Option Name="Use IsNullOrEmpty (cp)" Value="0.33908166643329" />
    <Option Name="Reference Assembly" Value="0.180768071956766" />
-   <Option Name="Declare Local (implicit)" Value="0.206839745245226" />
+   <Option Name="Declare Local (implicit)" Value="0.128743681334091" />
    <Option Name="Add Parameter" Value="0.135880322967833" />
    <Option Name="Declare Local" Value="0.360094804387137" />
-   <Option Name="Declare Enum Element" Value="0.226946043980878" />
+   <Option Name="Declare Enum Element" Value="0.133243313658696" />
    <Option Name="Conditional to Case" Value="14201.2162177838" />
    <Option Name="Rename File to Match Type" Value="2388.11490180318" />
-   <Option Name="Add Contract" Value="0.184802739612763" />
+   <Option Name="Add Contract" Value="0.162058753112608" />
    <Option Name="Assume Contract" Value="0.148857890622554" />
    <Option Name="Inline With Statement" Value="29977.1168989484" />
    <Option Name="Introduce Using Statement" Value="0.174264903266007" />
@@ -106,12 +106,12 @@
    <Option Name="Make Member Non-static" Value="0.110488168801112" />
    <Option Name="Surround with UpdatePanel" Value="2204.57273706924" />
    <Option Name="Rename" Value="0.207024760331276" />
-   <Option Name="Declare Class" Value="0.157172017721098" />
+   <Option Name="Declare Class" Value="0.259605841215327" />
    <Option Name="Move Initialization to Declaration" Value="0.172893513490579" />
    <Option Name="Extract Method" Value="0.142854756279501" />
-   <Option Name="Remove Setter" Value="0.323220454480406" />
+   <Option Name="Remove Setter" Value="0.277516762283146" />
    <Option Name="Make Read-only" Value="0.103252046291064" />
-   <Option Name="Convert to Integer" Value="0.238772212372288" />
+   <Option Name="Convert to Integer" Value="0.696492540011655" />
    <Option Name="Convert to Initializer" Value="0.24739834756896" />
    <Option Name="Seal Class" Value="0.299245591370033" />
    <Option Name="Exit Method" Value="0.30150161588762" />
@@ -119,10 +119,10 @@
    <Option Name="Declare Delegate" Value="2.53517094043415" />
    <Option Name="Extract to XAML Resource" Value="0.129453734435221" />
    <Option Name="Declare Enum" Value="0.802448001579986" />
-   <Option Name="Create Method Stub" Value="0.129260077121054" />
+   <Option Name="Create Method Stub" Value="0.418221303312605" />
    <Option Name="Initialize Conditionally" Value="0.15689317916666" />
    <Option Name="Add Setter" Value="0.128710558868873" />
-   <Option Name="Use Assertions" Value="0.116689622638931" />
+   <Option Name="Use Assertions" Value="0.17354511327451" />
    <Option Name="Encapsulate Downcast" Value="0.221897662606164" />
    <Option Name="Extract ContentPlaceHolder" Value="4981.09642089616" />
    <Option Name="Rename Style (in project files)" Value="24526.3269122883" />
@@ -130,8 +130,8 @@
    <Option Name="Declare Field (read-only)" Value="0.186480800254173" />
    <Option Name="Throw Exceptions" Value="0.458369486999052" />
    <Option Name="Convert to System Type" Value="1.04144350099651" />
-   <Option Name="Replace Temp with Query" Value="0.24173053717204" />
-   <Option Name="Extract Method to Type" Value="0.19947508672072" />
+   <Option Name="Replace Temp with Query" Value="0.293139185952149" />
+   <Option Name="Extract Method to Type" Value="0.531386997142053" />
    <Option Name="Inline Constant" Value="0.217513803589334" />
    <Option Name="Make Implicit" Value="0.106195666846825" />
    <Option Name="Declare Field" Value="2.52498336995536" />

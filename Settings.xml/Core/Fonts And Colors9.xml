@@ -962,7 +962,7 @@
    <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Keyword">
    <Option Name="LocalName" Value="Keyword" />
@@ -975,7 +975,7 @@
    <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="10652286" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Memory Address">
    <Option Name="LocalName" Value="Memory Address" />
@@ -1040,7 +1040,7 @@
    <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="39167" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="On-the-fly Error">
    <Option Name="LocalName" Value="On-the-fly Error" />
@@ -1092,7 +1092,7 @@
    <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Other Error">
    <Option Name="LocalName" Value="Other Error" />
@@ -1261,7 +1261,7 @@
    <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="3265189" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="String(C# @ Verbatim)">
    <Option Name="LocalName" Value="String (C# @ Verbatim)" />
