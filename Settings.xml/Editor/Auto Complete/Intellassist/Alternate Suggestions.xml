@@ -45,6 +45,8 @@
    <Option Name="root,externalProfessional,IndividualWithEmployersAndContacts,IndividualWithEmployers,IndividualWithEmployersAndNoLinkedHr,IndividualWithContacts,IndividualWithFullFamily,IndividualWithoutLinks" Value="root" />
    <Option Name="list" Value="list" />
    <Option Name="permissionGroup" Value="permissionGroup" />
+   <Option Name="max" Value="max" />
+   <Option Name="doc,NewDocument" Value="doc" />
   </Section>
  </Language>
 </Page>
