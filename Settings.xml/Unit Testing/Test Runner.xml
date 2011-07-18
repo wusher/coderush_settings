@@ -45,7 +45,7 @@
    <Option Name="DataView" Value="True" />
    <Option Name="DockSide" Value="Bottom" />
    <Option Name="DataViewWidth" Value="537" />
-   <Option Name="DataViewHeight" Value="330" />
+   <Option Name="DataViewHeight" Value="179" />
   </Section>
   <Section Name="Global">
    <Option Name="Enabled" Value="True" />

@@ -2,7 +2,7 @@
 <Page Name="ProviderComplexity">
  <Language Name="*Neutral*">
   <Section Name="TimeComplexity">
-   <Option Name="Convert to Procedure" Value="0.189919866598383" />
+   <Option Name="Convert to Procedure" Value="0.183729620830149" />
    <Option Name="Introduce Parameter Object" Value="0.501729506216082" />
    <Option Name="Collapse Conditional" Value="2566.96605195068" />
    <Option Name="Declare Constructor" Value="0.907462046582604" />
@@ -10,7 +10,7 @@
    <Option Name="Use IsNullOrEmpty" Value="0.255261716670833" />
    <Option Name="Remove Parameter" Value="0.286544886409677" />
    <Option Name="Declare Class with Properties" Value="0.141986722087189" />
-   <Option Name="Declare Property" Value="0.254089963924308" />
+   <Option Name="Declare Property" Value="0.141789316534043" />
    <Option Name="Convert to Tuple" Value="0.234924530906989" />
    <Option Name="Create Descendant (with virtual overrides)" Value="7178.02544807449" />
    <Option Name="Declare Method (abstract)" Value="0.410652656492005" />
@@ -27,7 +27,7 @@
    <Option Name="Create Ancestor" Value="18308.6027795785" />
    <Option Name="Declare View" Value="0.243987780556821" />
    <Option Name="Inline Method (and delete)" Value="0.277405395537306" />
-   <Option Name="Spell Checker" Value="0.199162524553696" />
+   <Option Name="Spell Checker" Value="0.190551153015867" />
    <Option Name="Create Overload" Value="5630.23491503538" />
    <Option Name="Introduce Alias" Value="0.282544971695561" />
    <Option Name="Add AssociatedControlID Attribute" Value="2728.90942425656" />
@@ -60,7 +60,7 @@
    <Option Name="Declare Property with Initializer" Value="0.428857028323943" />
    <Option Name="Declare Method (Event Handler)" Value="0.371068104445699" />
    <Option Name="Convert to Built-in Type" Value="0.273095358501054" />
-   <Option Name="Invert Selection" Value="0.240141438327755" />
+   <Option Name="Invert Selection" Value="0.304610421264836" />
    <Option Name="Convert to auto-implemented property" Value="25661.7368079861" />
    <Option Name="Remove End Tag" Value="17566.1211781052" />
    <Option Name="Boolean to Enum" Value="0.293391258673552" />
@@ -84,13 +84,13 @@
    <Option Name="Mirror Code" Value="9789.82240857453" />
    <Option Name="Use IsNullOrEmpty (cp)" Value="0.33908166643329" />
    <Option Name="Reference Assembly" Value="0.180768071956766" />
-   <Option Name="Declare Local (implicit)" Value="0.167392237959169" />
+   <Option Name="Declare Local (implicit)" Value="0.179941456512197" />
    <Option Name="Add Parameter" Value="0.260960059537637" />
    <Option Name="Declare Local" Value="0.360094804387137" />
    <Option Name="Declare Enum Element" Value="0.264943664794318" />
    <Option Name="Conditional to Case" Value="14201.2162177838" />
    <Option Name="Rename File to Match Type" Value="2388.11490180318" />
-   <Option Name="Add Contract" Value="1.8449647322696" />
+   <Option Name="Add Contract" Value="0.571277979796399" />
    <Option Name="Assume Contract" Value="0.148857890622554" />
    <Option Name="Inline With Statement" Value="29977.1168989484" />
    <Option Name="Introduce Using Statement" Value="0.174264903266007" />
@@ -111,7 +111,7 @@
    <Option Name="Extract Method" Value="0.142854756279501" />
    <Option Name="Remove Setter" Value="0.277516762283146" />
    <Option Name="Make Read-only" Value="0.103252046291064" />
-   <Option Name="Convert to Integer" Value="0.41879820784231" />
+   <Option Name="Convert to Integer" Value="0.272369116410287" />
    <Option Name="Convert to Initializer" Value="0.252963894838578" />
    <Option Name="Seal Class" Value="0.229857371703568" />
    <Option Name="Exit Method" Value="0.30150161588762" />
