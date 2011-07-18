@@ -2,7 +2,7 @@
 <Page Name="ProviderComplexity">
  <Language Name="*Neutral*">
   <Section Name="TimeComplexity">
-   <Option Name="Convert to Procedure" Value="0.183729620830149" />
+   <Option Name="Convert to Procedure" Value="0.172564363450414" />
    <Option Name="Introduce Parameter Object" Value="0.501729506216082" />
    <Option Name="Collapse Conditional" Value="2566.96605195068" />
    <Option Name="Declare Constructor" Value="0.907462046582604" />
@@ -10,7 +10,7 @@
    <Option Name="Use IsNullOrEmpty" Value="0.255261716670833" />
    <Option Name="Remove Parameter" Value="0.286544886409677" />
    <Option Name="Declare Class with Properties" Value="0.141986722087189" />
-   <Option Name="Declare Property" Value="0.141789316534043" />
+   <Option Name="Declare Property" Value="0.142549619743318" />
    <Option Name="Convert to Tuple" Value="0.234924530906989" />
    <Option Name="Create Descendant (with virtual overrides)" Value="7178.02544807449" />
    <Option Name="Declare Method (abstract)" Value="0.410652656492005" />
@@ -90,7 +90,7 @@
    <Option Name="Declare Enum Element" Value="0.264943664794318" />
    <Option Name="Conditional to Case" Value="14201.2162177838" />
    <Option Name="Rename File to Match Type" Value="2388.11490180318" />
-   <Option Name="Add Contract" Value="0.571277979796399" />
+   <Option Name="Add Contract" Value="0.247338170643212" />
    <Option Name="Assume Contract" Value="0.148857890622554" />
    <Option Name="Inline With Statement" Value="29977.1168989484" />
    <Option Name="Introduce Using Statement" Value="0.174264903266007" />
@@ -106,7 +106,7 @@
    <Option Name="Make Member Non-static" Value="0.110488168801112" />
    <Option Name="Surround with UpdatePanel" Value="2204.57273706924" />
    <Option Name="Rename" Value="0.309419907028489" />
-   <Option Name="Declare Class" Value="0.188327076004139" />
+   <Option Name="Declare Class" Value="0.195732818819364" />
    <Option Name="Move Initialization to Declaration" Value="0.172893513490579" />
    <Option Name="Extract Method" Value="0.142854756279501" />
    <Option Name="Remove Setter" Value="0.277516762283146" />
@@ -119,7 +119,7 @@
    <Option Name="Declare Delegate" Value="1.40576215006972" />
    <Option Name="Extract to XAML Resource" Value="0.129453734435221" />
    <Option Name="Declare Enum" Value="0.802448001579986" />
-   <Option Name="Create Method Stub" Value="0.418221303312605" />
+   <Option Name="Create Method Stub" Value="0.361968735269498" />
    <Option Name="Initialize Conditionally" Value="0.15689317916666" />
    <Option Name="Add Setter" Value="0.128710558868873" />
    <Option Name="Use Assertions" Value="0.17354511327451" />
@@ -150,6 +150,7 @@
    <Option Name="Remove Region Directives" Value="0.555418853851164" />
    <Option Name="Remove Redundant Delegate Creation" Value="0.100775504149555" />
    <Option Name="Extract Style (class)" Value="0.276193218534698" />
+   <Option Name="Use Implicit Typecast" Value="1.03985564710635" />
   </Section>
  </Language>
 </Page>

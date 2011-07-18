@@ -2,12 +2,12 @@
 <Page Name="Usage History">
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
-   <Option Name="Declaration" Value="223" />
+   <Option Name="Declaration" Value="229" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
    <Option Name="Compress to Lambda Expression" Value="12" />
    <Option Name="Introduce Local" Value="184" />
    <Option Name="Inline Temp1" Value="82" />
-   <Option Name="Create Method Stub" Value="191" />
+   <Option Name="Create Method Stub" Value="199" />
    <Option Name="Declare Local (implicit)" Value="378" />
    <Option Name="Split Initialization from Declaration" Value="50" />
    <Option Name="Declare Property (auto-implemented)" Value="22" />
@@ -64,7 +64,7 @@
    <Option Name="Collapse Accessors" Value="1" />
    <Option Name="Add to Interface" Value="2" />
    <Option Name="Execute Statement Asynchronously (StartNew)" Value="1" />
-   <Option Name="Introduce Result Variable" Value="16" />
+   <Option Name="Introduce Result Variable" Value="17" />
    <Option Name="Introduce Constant" Value="10" />
    <Option Name="Move Initialization to Declaration" Value="15" />
    <Option Name="Implementors" Value="1" />
@@ -295,7 +295,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Introduce Using Statement" />
   </Section>
   <Section Name="|Create Method Stub|">
-   <Option Name="Create Method Stub" Value="187" />
+   <Option Name="Create Method Stub" Value="195" />
    <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
   </Section>
   <Section Name="|Extract Method|Introduce Local|Use String.Format|">
@@ -881,7 +881,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Line-up Parameters" />
   </Section>
   <Section Name="|Introduce Result Variable|">
-   <Option Name="Introduce Result Variable" Value="16" />
+   <Option Name="Introduce Result Variable" Value="17" />
    <Option Name="MostRecentlyUsedObject" Value="Introduce Result Variable" />
   </Section>
   <Section Name="|Declare Class|Declare Enum|Declare Struct|">
@@ -1604,7 +1604,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Ancestor|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="35" />
+   <Option Name="Declaration" Value="36" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Break Apart Parameters|Expand Ternary Expression|Inline Recent Assignment|Inline Temp|Rename|Replace Temp with Query|">
@@ -1641,7 +1641,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Add End Tag" />
   </Section>
   <Section Name="|Declaration|First Child|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="123" />
+   <Option Name="Declaration" Value="128" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Inline Temp|Make Implicit|Promote to Parameter|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope (promote to field)|">
