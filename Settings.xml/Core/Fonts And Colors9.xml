@@ -543,10 +543,10 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16448250" />
-   <Option Name="Foreground" Value="32768" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Compiler Error">
    <Option Name="LocalName" Value="Compiler Error" />
@@ -1261,7 +1261,7 @@
    <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="3265189" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="String(C# @ Verbatim)">
    <Option Name="LocalName" Value="String (C# @ Verbatim)" />
