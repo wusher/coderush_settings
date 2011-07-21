@@ -44,8 +44,8 @@
    <Option Name="ParensCustomColor" Value="Named:Gray" />
    <Option Name="DataView" Value="True" />
    <Option Name="DockSide" Value="Bottom" />
-   <Option Name="DataViewWidth" Value="537" />
-   <Option Name="DataViewHeight" Value="179" />
+   <Option Name="DataViewWidth" Value="458" />
+   <Option Name="DataViewHeight" Value="299" />
   </Section>
   <Section Name="Global">
    <Option Name="Enabled" Value="True" />
