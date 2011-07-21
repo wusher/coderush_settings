@@ -2,14 +2,14 @@
 <Page Name="OptionsDialog">
  <Language Name="*Neutral*">
   <Section Name="Position">
-   <Option Name="ScreenHeight" Value="1024" />
-   <Option Name="ScreenWidth" Value="1280" />
-   <Option Name="WindowState" Value="2" />
+   <Option Name="ScreenHeight" Value="864" />
+   <Option Name="ScreenWidth" Value="1152" />
+   <Option Name="WindowState" Value="0" />
    <Option Name="SplitOpen" Value="True" />
-   <Option Name="Top" Value="-8" />
-   <Option Name="Left" Value="1205" />
-   <Option Name="Width" Value="1378" />
-   <Option Name="Height" Value="1044" />
+   <Option Name="Top" Value="122" />
+   <Option Name="Left" Value="159" />
+   <Option Name="Width" Value="818" />
+   <Option Name="Height" Value="552" />
   </Section>
   <Section Name="Preferences">
    <Option Name="ShowHints" Value="False" />

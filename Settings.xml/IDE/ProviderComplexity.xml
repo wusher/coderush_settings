@@ -2,7 +2,7 @@
 <Page Name="ProviderComplexity">
  <Language Name="*Neutral*">
   <Section Name="TimeComplexity">
-   <Option Name="Convert to Procedure" Value="0.181784901923082" />
+   <Option Name="Convert to Procedure" Value="0.166895347874255" />
    <Option Name="Introduce Parameter Object" Value="0.167828448195873" />
    <Option Name="Collapse Conditional" Value="2566.96605195068" />
    <Option Name="Declare Constructor" Value="0.907462046582604" />
@@ -90,7 +90,7 @@
    <Option Name="Declare Enum Element" Value="0.264943664794318" />
    <Option Name="Conditional to Case" Value="14201.2162177838" />
    <Option Name="Rename File to Match Type" Value="2388.11490180318" />
-   <Option Name="Add Contract" Value="0.207829604655415" />
+   <Option Name="Add Contract" Value="0.196417474557549" />
    <Option Name="Assume Contract" Value="0.301717514054697" />
    <Option Name="Inline With Statement" Value="29977.1168989484" />
    <Option Name="Introduce Using Statement" Value="0.174264903266007" />
@@ -111,10 +111,10 @@
    <Option Name="Extract Method" Value="0.144330387109135" />
    <Option Name="Remove Setter" Value="0.268991654382618" />
    <Option Name="Make Read-only" Value="0.103252046291064" />
-   <Option Name="Convert to Integer" Value="0.308892154393177" />
+   <Option Name="Convert to Integer" Value="0.217023805973906" />
    <Option Name="Convert to Initializer" Value="0.252963894838578" />
    <Option Name="Seal Class" Value="0.229857371703568" />
-   <Option Name="Exit Method" Value="0.300652439176676" />
+   <Option Name="Exit Method" Value="0.200489671369678" />
    <Option Name="Declare EventArgs Descendant" Value="0.15555182346555" />
    <Option Name="Declare Delegate" Value="0.881560639225036" />
    <Option Name="Extract to XAML Resource" Value="0.129453734435221" />

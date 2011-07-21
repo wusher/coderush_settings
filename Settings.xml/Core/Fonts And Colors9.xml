@@ -546,7 +546,7 @@
    <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Compiler Error">
    <Option Name="LocalName" Value="Compiler Error" />
@@ -1040,7 +1040,7 @@
    <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="39167" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="On-the-fly Error">
    <Option Name="LocalName" Value="On-the-fly Error" />
