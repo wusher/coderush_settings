@@ -614,7 +614,7 @@
  </Language>
  <Language Name="*Neutral*">
   <Section Name="Doc">
-   <Option Name="LastLanguage" Value="CSharp" />
+   <Option Name="LastLanguage" Value="JavaScript" />
   </Section>
  </Language>
 </Page>

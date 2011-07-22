@@ -47,6 +47,7 @@
    <Option Name="permissionGroup" Value="permissionGroup" />
    <Option Name="max" Value="max" />
    <Option Name="doc,NewDocument" Value="doc" />
+   <Option Name="areEqual" Value="areEqual" />
   </Section>
  </Language>
 </Page>

@@ -42,7 +42,7 @@
    <Option Name="InCustomColor" Value="Named:Gray" />
    <Option Name="ParensUseVsColor" Value="False" />
    <Option Name="ParensCustomColor" Value="Named:Gray" />
-   <Option Name="DataView" Value="True" />
+   <Option Name="DataView" Value="False" />
    <Option Name="DockSide" Value="Bottom" />
    <Option Name="DataViewWidth" Value="458" />
    <Option Name="DataViewHeight" Value="299" />
