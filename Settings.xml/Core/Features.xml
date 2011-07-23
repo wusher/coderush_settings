@@ -354,7 +354,7 @@
   </Section>
   <Section Name="Navigate">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="1467" />
+   <Option Name="QueryCount" Value="1469" />
    <Option Name="Description" Value="Executes+navigation+provider+with+the+specified+name." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cNavigate%3bCtrl%2bAlt%2bD" />
    <Option Name="Scope" Value="Other+features" />
@@ -666,7 +666,7 @@
   </Section>
   <Section Name="ScopeCycleDown">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="430" />
+   <Option Name="QueryCount" Value="432" />
    <Option Name="Description" Value="Decreases+the+visibility+(e.g.%2c+moving+from+public+to+private)+of+the+member+at+the+caret." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cScopeCycleDown%3bAlt%2bDown" />
    <Option Name="Scope" Value="Other+features" />
@@ -882,8 +882,8 @@
   </Section>
   <Section Name="m">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="187" />
-   <Option Name="Description" Value="Method+(void).+You+can+also+use+%22mb%22+for+methods+that+return+a+bool%2c+ms+for+methods+that+return+a+string%2c+etc." />
+   <Option Name="QueryCount" Value="188" />
+   <Option Name="Description" Value="Method+(Sub).+You+can+also+use+%22mb%22+for+methods+that+return+a+Boolean%2c+ms+for+methods+that+return+a+String%2c+etc." />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
    <Option Name="ShowInFeatureOptions" Value="True" />
@@ -2930,7 +2930,7 @@
   </Section>
   <Section Name="UnitTestsShowRunner">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="79" />
+   <Option Name="QueryCount" Value="81" />
    <Option Name="Description" Value="Show+UnitTestRunner+window" />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cUnitTestsShowRunner%3bNum+Del" />
    <Option Name="Scope" Value="Other+features" />

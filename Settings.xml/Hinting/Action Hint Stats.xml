@@ -132,6 +132,7 @@
    <Option Name="Item97" Value="Template: l" />
    <Option Name="Item98" Value="Template: it" />
    <Option Name="Item99" Value="Template: to" />
+   <Option Name="Item100" Value="Template: #space#" />
   </Section>
   <Section Name="Code Templates.Template: f">
    <Option Name="Enabled" Value="True" />
@@ -1114,6 +1115,12 @@
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
   <Section Name="Code Templates.Template: it">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
+  <Section Name="Code Templates.Template: #space#">
    <Option Name="Enabled" Value="True" />
    <Option Name="ExecutionCount" Value="1" />
    <Option Name="DisplayLimit" Value="2" />
