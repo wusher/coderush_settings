@@ -2,21 +2,21 @@
 <Page Name="OptionsDialog">
  <Language Name="*Neutral*">
   <Section Name="Position">
-   <Option Name="ScreenHeight" Value="864" />
-   <Option Name="ScreenWidth" Value="1152" />
-   <Option Name="WindowState" Value="0" />
+   <Option Name="ScreenHeight" Value="1024" />
+   <Option Name="ScreenWidth" Value="1280" />
+   <Option Name="WindowState" Value="2" />
    <Option Name="SplitOpen" Value="True" />
-   <Option Name="Top" Value="122" />
-   <Option Name="Left" Value="159" />
-   <Option Name="Width" Value="818" />
-   <Option Name="Height" Value="552" />
+   <Option Name="Top" Value="217" />
+   <Option Name="Left" Value="223" />
+   <Option Name="Width" Value="834" />
+   <Option Name="Height" Value="590" />
   </Section>
   <Section Name="Preferences">
    <Option Name="ShowHints" Value="False" />
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="Editor\Painting\Metric Shader" />
-   <Option Name="PriorSelectedNode" Value="Core" />
+   <Option Name="LastSelectedNode" Value="Editor\Code Formatting\Spacing" />
+   <Option Name="PriorSelectedNode" Value="Editor\Code Formatting\Other/Language Specific" />
    <Option Name="LastNonNeutralLanguageSelected" Value="Basic" />
   </Section>
   <Section Name="Global">
