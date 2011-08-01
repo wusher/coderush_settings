@@ -13,7 +13,7 @@
    <Option Name="Boolean to Enum" Value="0.301618866795849" />
    <Option Name="Surround with UpdatePanel" Value="2204.57273706924" />
    <Option Name="Replace Temp with Query" Value="0.167381347613531" />
-   <Option Name="Convert to Procedure" Value="0.265427001317432" />
+   <Option Name="Convert to Procedure" Value="0.79197862743774" />
    <Option Name="Expand Ternary Expression" Value="0.316243115195753" />
    <Option Name="Create Ancestor" Value="18308.6027795785" />
    <Option Name="Line-up Parameters" Value="0.289111313694825" />
@@ -118,7 +118,7 @@
    <Option Name="Introduce Local (replace all)" Value="0.401971147899097" />
    <Option Name="Use Implicit Typecast" Value="1.03985564710635" />
    <Option Name="Encapsulate Field (read-only)" Value="0.189339217494807" />
-   <Option Name="Add Contract" Value="0.412166750803922" />
+   <Option Name="Add Contract" Value="0.432924245191802" />
    <Option Name="Convert to Point" Value="0.240768849565335" />
    <Option Name="Declare Enum Element" Value="0.158364306412587" />
    <Option Name="Create Descendant (with virtual overrides)" Value="7178.02544807449" />

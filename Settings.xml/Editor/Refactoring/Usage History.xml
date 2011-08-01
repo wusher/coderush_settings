@@ -3,11 +3,11 @@
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
    <Option Name="Declaration" Value="381" />
-   <Option Name="MostRecentlyUsedObject" Value="Make Implicit" />
+   <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
    <Option Name="Compress to Lambda Expression" Value="12" />
    <Option Name="Introduce Local" Value="206" />
    <Option Name="Inline Temp1" Value="93" />
-   <Option Name="Create Method Stub" Value="240" />
+   <Option Name="Create Method Stub" Value="241" />
    <Option Name="Declare Local (implicit)" Value="420" />
    <Option Name="Split Initialization from Declaration" Value="56" />
    <Option Name="Declare Property (auto-implemented)" Value="26" />
@@ -296,7 +296,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Introduce Using Statement" />
   </Section>
   <Section Name="|Create Method Stub|">
-   <Option Name="Create Method Stub" Value="235" />
+   <Option Name="Create Method Stub" Value="236" />
    <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
   </Section>
   <Section Name="|Extract Method|Introduce Local|Use String.Format|">

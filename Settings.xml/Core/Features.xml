@@ -380,7 +380,7 @@
   </Section>
   <Section Name="ReferenceNext">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="918" />
+   <Option Name="QueryCount" Value="920" />
    <Option Name="Description" Value="Highlights+the+next+reference." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cReferenceNext%3bTab" />
    <Option Name="Scope" Value="Conflict+shortcuts" />
@@ -388,7 +388,7 @@
   </Section>
   <Section Name="QuickFileNav">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="755" />
+   <Option Name="QueryCount" Value="756" />
    <Option Name="Description" Value="Quick+File+Navigation" />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cQuickFileNav%3bCtrl%2bAlt%2bF" />
    <Option Name="Scope" Value="Conflict+shortcuts" />
@@ -404,7 +404,7 @@
   </Section>
   <Section Name="Smart parentheses">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="7746" />
+   <Option Name="QueryCount" Value="7747" />
    <Option Name="Description" Value="Automatic+parentheses+add+the+closing+parenthesis+when+you+type+the+opening+character." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cParens+%26+Brackets" />
    <Option Name="Scope" Value="Other+features" />
@@ -428,7 +428,7 @@
   </Section>
   <Section Name="Declare Method">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="419" />
+   <Option Name="QueryCount" Value="420" />
    <Option Name="Description" Value="Generates+a+method+for+the+selected+method+reference+with+appropriate+parameters." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="CodeProvider" />
@@ -1084,7 +1084,7 @@
   </Section>
   <Section Name="Or">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="45" />
+   <Option Name="QueryCount" Value="46" />
    <Option Name="Description" Value="" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -1164,7 +1164,7 @@
   </Section>
   <Section Name="And">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="118" />
+   <Option Name="QueryCount" Value="119" />
    <Option Name="Description" Value="" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -2932,7 +2932,7 @@
   </Section>
   <Section Name="UnitTestsShowRunner">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="89" />
+   <Option Name="QueryCount" Value="90" />
    <Option Name="Description" Value="Show+UnitTestRunner+window" />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cUnitTestsShowRunner%3bNum+Del" />
    <Option Name="Scope" Value="Other+features" />
