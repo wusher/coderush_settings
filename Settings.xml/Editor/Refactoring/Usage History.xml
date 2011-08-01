@@ -3,7 +3,7 @@
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
    <Option Name="Declaration" Value="381" />
-   <Option Name="MostRecentlyUsedObject" Value="Declaration" />
+   <Option Name="MostRecentlyUsedObject" Value="Make Implicit" />
    <Option Name="Compress to Lambda Expression" Value="12" />
    <Option Name="Introduce Local" Value="206" />
    <Option Name="Inline Temp1" Value="93" />
@@ -33,7 +33,7 @@
    <Option Name="Surround with Tag" Value="15" />
    <Option Name="Break Attributes" Value="15" />
    <Option Name="Widen Scope" Value="16" />
-   <Option Name="Make Implicit" Value="151" />
+   <Option Name="Make Implicit" Value="152" />
    <Option Name="Remove Event Handler" Value="10" />
    <Option Name="Convert to Initializer" Value="14" />
    <Option Name="Introduce Parameter Object" Value="4" />
@@ -1828,7 +1828,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Declare Local (implicit)" />
   </Section>
   <Section Name="|Make Implicit|">
-   <Option Name="Make Implicit" Value="28" />
+   <Option Name="Make Implicit" Value="29" />
    <Option Name="MostRecentlyUsedObject" Value="Make Implicit" />
   </Section>
   <Section Name="|Line-up Parameters|Name Anonymous Type|">

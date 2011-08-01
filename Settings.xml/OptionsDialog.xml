@@ -8,15 +8,15 @@
    <Option Name="SplitOpen" Value="True" />
    <Option Name="Top" Value="217" />
    <Option Name="Left" Value="223" />
-   <Option Name="Width" Value="834" />
-   <Option Name="Height" Value="590" />
+   <Option Name="Width" Value="850" />
+   <Option Name="Height" Value="628" />
   </Section>
   <Section Name="Preferences">
    <Option Name="ShowHints" Value="False" />
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="UserLevel" Value="Expert" />
    <Option Name="LastSelectedNode" Value="Editor\Code Formatting\Spacing" />
-   <Option Name="PriorSelectedNode" Value="Editor\Code Formatting\Other/Language Specific" />
+   <Option Name="PriorSelectedNode" Value="Core" />
    <Option Name="LastNonNeutralLanguageSelected" Value="Basic" />
   </Section>
   <Section Name="Global">

@@ -13,7 +13,7 @@
    <Option Name="Boolean to Enum" Value="0.301618866795849" />
    <Option Name="Surround with UpdatePanel" Value="2204.57273706924" />
    <Option Name="Replace Temp with Query" Value="0.167381347613531" />
-   <Option Name="Convert to Procedure" Value="0.19366177026753" />
+   <Option Name="Convert to Procedure" Value="0.265427001317432" />
    <Option Name="Expand Ternary Expression" Value="0.316243115195753" />
    <Option Name="Create Ancestor" Value="18308.6027795785" />
    <Option Name="Line-up Parameters" Value="0.289111313694825" />
@@ -63,9 +63,9 @@
    <Option Name="Remove Event Handler" Value="0.359691184177231" />
    <Option Name="Declare Field" Value="0.219398916633853" />
    <Option Name="Convert to Initializer" Value="0.252963894838578" />
-   <Option Name="Convert to Integer" Value="0.21108594216115" />
+   <Option Name="Convert to Integer" Value="0.263644044478141" />
    <Option Name="Remove Type Qualifier" Value="0.277526372715417" />
-   <Option Name="Add to Interface" Value="0.393118960736252" />
+   <Option Name="Add to Interface" Value="0.555011366928638" />
    <Option Name="Method to Property" Value="0.296905348605251" />
    <Option Name="Declare Local (implicit)" Value="0.278819375403946" />
    <Option Name="Declare Method (Event Handler)" Value="0.295277893974188" />
@@ -73,7 +73,7 @@
    <Option Name="Remove Setter" Value="0.22640090538688" />
    <Option Name="Declare Field with Initializer" Value="2.20851516028745" />
    <Option Name="Exit Method" Value="0.200489671369678" />
-   <Option Name="Use Assertions" Value="0.200714640465661" />
+   <Option Name="Use Assertions" Value="0.151097947483212" />
    <Option Name="Remove Setter Guard Clause" Value="0.255788051107617" />
    <Option Name="Encapsulate Method" Value="0.283762455210516" />
    <Option Name="Introduce Alias" Value="0.282544971695561" />
@@ -118,9 +118,9 @@
    <Option Name="Introduce Local (replace all)" Value="0.401971147899097" />
    <Option Name="Use Implicit Typecast" Value="1.03985564710635" />
    <Option Name="Encapsulate Field (read-only)" Value="0.189339217494807" />
-   <Option Name="Add Contract" Value="0.533555165178051" />
+   <Option Name="Add Contract" Value="0.412166750803922" />
    <Option Name="Convert to Point" Value="0.240768849565335" />
-   <Option Name="Declare Enum Element" Value="0.156657760622642" />
+   <Option Name="Declare Enum Element" Value="0.158364306412587" />
    <Option Name="Create Descendant (with virtual overrides)" Value="7178.02544807449" />
    <Option Name="Inline Macro" Value="0.333933349450105" />
    <Option Name="Declare Struct" Value="2369.1636232448" />
