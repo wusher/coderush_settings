@@ -12,8 +12,8 @@
    <Option Name="Move to Code-behind" Value="0.314207755452114" />
    <Option Name="Boolean to Enum" Value="0.301618866795849" />
    <Option Name="Surround with UpdatePanel" Value="2204.57273706924" />
-   <Option Name="Replace Temp with Query" Value="0.167381347613531" />
-   <Option Name="Convert to Procedure" Value="0.79197862743774" />
+   <Option Name="Replace Temp with Query" Value="0.174571558032398" />
+   <Option Name="Convert to Procedure" Value="0.331674624715423" />
    <Option Name="Expand Ternary Expression" Value="0.316243115195753" />
    <Option Name="Create Ancestor" Value="18308.6027795785" />
    <Option Name="Line-up Parameters" Value="0.289111313694825" />
@@ -67,13 +67,13 @@
    <Option Name="Remove Type Qualifier" Value="0.277526372715417" />
    <Option Name="Add to Interface" Value="0.555011366928638" />
    <Option Name="Method to Property" Value="0.296905348605251" />
-   <Option Name="Declare Local (implicit)" Value="0.278819375403946" />
+   <Option Name="Declare Local (implicit)" Value="0.194060428534533" />
    <Option Name="Declare Method (Event Handler)" Value="0.295277893974188" />
    <Option Name="Property to Method(s)" Value="0.519388405683745" />
    <Option Name="Remove Setter" Value="0.22640090538688" />
    <Option Name="Declare Field with Initializer" Value="2.20851516028745" />
    <Option Name="Exit Method" Value="0.200489671369678" />
-   <Option Name="Use Assertions" Value="0.151097947483212" />
+   <Option Name="Use Assertions" Value="0.126053718665395" />
    <Option Name="Remove Setter Guard Clause" Value="0.255788051107617" />
    <Option Name="Encapsulate Method" Value="0.283762455210516" />
    <Option Name="Introduce Alias" Value="0.282544971695561" />
@@ -118,7 +118,7 @@
    <Option Name="Introduce Local (replace all)" Value="0.401971147899097" />
    <Option Name="Use Implicit Typecast" Value="1.03985564710635" />
    <Option Name="Encapsulate Field (read-only)" Value="0.189339217494807" />
-   <Option Name="Add Contract" Value="0.432924245191802" />
+   <Option Name="Add Contract" Value="0.362716215292373" />
    <Option Name="Convert to Point" Value="0.240768849565335" />
    <Option Name="Declare Enum Element" Value="0.158364306412587" />
    <Option Name="Create Descendant (with virtual overrides)" Value="7178.02544807449" />
@@ -158,7 +158,7 @@
    <Option Name="Create Implementer (explicit)" Value="14816.5569653453" />
    <Option Name="Use StringBuilder" Value="0.622445119569508" />
    <Option Name="Make Extension" Value="0.223559692639445" />
-   <Option Name="Declare Local" Value="0.202215745446572" />
+   <Option Name="Declare Local" Value="0.160736579419806" />
    <Option Name="Introduce Setter Guard Clause" Value="0.348469240320056" />
    <Option Name="Split Temporary Variable" Value="0.16889863423192" />
    <Option Name="Convert Color to HEX" Value="0.350149182792421" />
