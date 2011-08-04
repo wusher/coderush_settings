@@ -48,6 +48,7 @@
    <Option Name="max" Value="max" />
    <Option Name="doc,NewDocument" Value="doc" />
    <Option Name="areEqual" Value="areEqual" />
+   <Option Name="shouldReturn" Value="shouldReturn" />
   </Section>
  </Language>
 </Page>
