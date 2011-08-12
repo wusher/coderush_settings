@@ -2,10 +2,10 @@
 <Page Name="Usage History">
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
-   <Option Name="Declaration" Value="424" />
+   <Option Name="Declaration" Value="426" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
    <Option Name="Compress to Lambda Expression" Value="12" />
-   <Option Name="Introduce Local" Value="209" />
+   <Option Name="Introduce Local" Value="210" />
    <Option Name="Inline Temp1" Value="94" />
    <Option Name="Create Method Stub" Value="249" />
    <Option Name="Declare Local (implicit)" Value="425" />
@@ -33,7 +33,7 @@
    <Option Name="Surround with Tag" Value="15" />
    <Option Name="Break Attributes" Value="15" />
    <Option Name="Widen Scope" Value="16" />
-   <Option Name="Make Implicit" Value="164" />
+   <Option Name="Make Implicit" Value="165" />
    <Option Name="Remove Event Handler" Value="10" />
    <Option Name="Convert to Initializer" Value="14" />
    <Option Name="Introduce Parameter Object" Value="4" />
@@ -66,7 +66,7 @@
    <Option Name="Execute Statement Asynchronously (StartNew)" Value="1" />
    <Option Name="Introduce Result Variable" Value="17" />
    <Option Name="Introduce Constant" Value="19" />
-   <Option Name="Move Initialization to Declaration" Value="18" />
+   <Option Name="Move Initialization to Declaration" Value="19" />
    <Option Name="Implementors" Value="1" />
    <Option Name="Spell Checker" Value="8" />
    <Option Name="Remove Redundant Block Delimiters" Value="9" />
@@ -89,7 +89,7 @@
    <Option Name="Convert to auto-implemented property" Value="16" />
    <Option Name="Make Member Static" Value="1" />
    <Option Name="Reverse Conditional" Value="14" />
-   <Option Name="Remove Redundant Qualifier" Value="18" />
+   <Option Name="Remove Redundant Qualifier" Value="20" />
    <Option Name="Make Extension" Value="1" />
    <Option Name="Initialize Conditionally" Value="5" />
    <Option Name="Assert Contract" Value="3" />
@@ -99,7 +99,7 @@
    <Option Name="Parent Member" Value="11" />
    <Option Name="Use String.Format" Value="6" />
    <Option Name="Promote to Parameter (optional)" Value="1" />
-   <Option Name="Move Declaration Near Reference" Value="9" />
+   <Option Name="Move Declaration Near Reference" Value="10" />
    <Option Name="Use Assertions" Value="1" />
    <Option Name="Convert to Parallel" Value="1" />
    <Option Name="Exit Method" Value="5" />
@@ -1604,7 +1604,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="201" />
+   <Option Name="Declaration" Value="203" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Ancestor|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
@@ -1869,7 +1869,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Decompose Parameter" />
   </Section>
   <Section Name="|Remove Redundant Qualifier|">
-   <Option Name="Remove Redundant Qualifier" Value="13" />
+   <Option Name="Remove Redundant Qualifier" Value="15" />
    <Option Name="MostRecentlyUsedObject" Value="Remove Redundant Qualifier" />
   </Section>
   <Section Name="|Make Explicit|Rename|">
@@ -2026,7 +2026,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Introduce Parameter Object" />
   </Section>
   <Section Name="|Inline Temp|Move Initialization to Declaration|Rename|Replace Temp with Query|">
-   <Option Name="Move Initialization to Declaration" Value="3" />
+   <Option Name="Move Initialization to Declaration" Value="4" />
    <Option Name="MostRecentlyUsedObject" Value="Move Initialization to Declaration" />
   </Section>
   <Section Name="|Make Implicit|Move Declaration Near Reference|Promote to Parameter|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope|Widen Scope (promote to field)|">
@@ -2887,7 +2887,7 @@
   <Section Name="|Make Implicit|Rename|Split Initialization from Declaration|Widen Scope|Widen Scope (promote to field)|">
    <Option Name="Split Initialization from Declaration" Value="2" />
    <Option Name="MostRecentlyUsedObject" Value="Make Implicit" />
-   <Option Name="Make Implicit" Value="1" />
+   <Option Name="Make Implicit" Value="2" />
   </Section>
   <Section Name="|Inline Delegate|Introduce Alias|Introduce Alias (replace all)|Remove Redundant Delegate Creation|Remove Type Qualifier|Remove Type Qualifier (remove all)|">
    <Option Name="Remove Type Qualifier (remove all)" Value="1" />
@@ -3050,6 +3050,14 @@
   <Section Name="|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
    <Option Name="Parent" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Parent" />
+  </Section>
+  <Section Name="|Move Declaration Near Reference|Promote to Parameter|Rename|Widen Scope|Widen Scope (promote to field)|">
+   <Option Name="Move Declaration Near Reference" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Move Declaration Near Reference" />
+  </Section>
+  <Section Name="|Expand Null Coalescing Operation|Extract Method|Extract Method to Type|Extract Property|Introduce Local|Property to Method(s)|">
+   <Option Name="Introduce Local" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
   </Section>
  </Language>
 </Page>

@@ -348,15 +348,15 @@
   </Section>
   <Section Name="SelectionExpand">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="2541" />
+   <Option Name="QueryCount" Value="2543" />
    <Option Name="Description" Value="Expands+selected+text+to+the+next+contiguous+selection+of+code+that+contains+the+current+selection." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cSelectionExpand%3bCtrl%2bW" />
-   <Option Name="Scope" Value="Other+features" />
+   <Option Name="Scope" Value="Conflict+shortcuts" />
    <Option Name="ShowInFeatureOptions" Value="True" />
   </Section>
   <Section Name="Navigate">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="1579" />
+   <Option Name="QueryCount" Value="1582" />
    <Option Name="Description" Value="Executes+navigation+provider+with+the+specified+name." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cNavigate%3bCtrl%2bAlt%2bD" />
    <Option Name="Scope" Value="Other+features" />
@@ -404,7 +404,7 @@
   </Section>
   <Section Name="Smart parentheses">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="7849" />
+   <Option Name="QueryCount" Value="7850" />
    <Option Name="Description" Value="Automatic+parentheses+add+the+closing+parenthesis+when+you+type+the+opening+character." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cParens+%26+Brackets" />
    <Option Name="Scope" Value="Other+features" />
@@ -644,7 +644,7 @@
   </Section>
   <Section Name="Introduce Local">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="400" />
+   <Option Name="QueryCount" Value="401" />
    <Option Name="Description" Value="Creates+new+local+variable+initialized+to+the+selected+expression.+Replaces+the+selection+with+the+new+variable." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -852,8 +852,8 @@
   </Section>
   <Section Name="Remove Redundant Qualifier">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="42" />
-   <Option Name="Description" Value="Removes+redundant+'this'+or+'base'+qualifier." />
+   <Option Name="QueryCount" Value="44" />
+   <Option Name="Description" Value="Removes+redundant+%27this%27+or+%27base%27+qualifier." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
    <Option Name="ShowInFeatureOptions" Value="False" />
@@ -972,7 +972,7 @@
   </Section>
   <Section Name="Make Implicit">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="285" />
+   <Option Name="QueryCount" Value="286" />
    <Option Name="Description" Value="Converts+an+explicitly-typed+variable+declaration+to+an+implicit+one." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -1356,7 +1356,7 @@
   </Section>
   <Section Name="Move Declaration Near Reference">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="15" />
+   <Option Name="QueryCount" Value="16" />
    <Option Name="Description" Value="Moves+the+declaration+statement+for+this+local+variable+near+its+first+reference." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -1364,7 +1364,7 @@
   </Section>
   <Section Name="Move Initialization To Declaration">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="44" />
+   <Option Name="QueryCount" Value="45" />
    <Option Name="Description" Value="Combines+this+local+variable%27s+declaration+with+its+first+initialization." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
