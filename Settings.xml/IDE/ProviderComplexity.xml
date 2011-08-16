@@ -12,8 +12,8 @@
    <Option Name="Move to Code-behind" Value="0.314207755452114" />
    <Option Name="Boolean to Enum" Value="0.233647843257693" />
    <Option Name="Surround with UpdatePanel" Value="2204.57273706924" />
-   <Option Name="Replace Temp with Query" Value="0.194077431716335" />
-   <Option Name="Convert to Procedure" Value="0.524853603528776" />
+   <Option Name="Replace Temp with Query" Value="0.148276698274552" />
+   <Option Name="Convert to Procedure" Value="0.483592127578503" />
    <Option Name="Expand Ternary Expression" Value="0.316243115195753" />
    <Option Name="Create Ancestor" Value="18308.6027795785" />
    <Option Name="Line-up Parameters" Value="0.289111313694825" />
@@ -63,7 +63,7 @@
    <Option Name="Declare Action" Value="13627.4568348157" />
    <Option Name="Declare Field" Value="0.356193932163358" />
    <Option Name="Convert to Initializer" Value="0.211021432162506" />
-   <Option Name="Convert to Integer" Value="0.165329273938341" />
+   <Option Name="Convert to Integer" Value="0.140010127351696" />
    <Option Name="Remove Type Qualifier" Value="0.277526372715417" />
    <Option Name="Add to Interface" Value="0.555011366928638" />
    <Option Name="Name Anonymous Method" Value="0.276729588801615" />
@@ -122,7 +122,7 @@
    <Option Name="Introduce Local (replace all)" Value="0.401971147899097" />
    <Option Name="Use Implicit Typecast" Value="0.572596560763054" />
    <Option Name="Encapsulate Field (read-only)" Value="0.189339217494807" />
-   <Option Name="Add Contract" Value="0.443069995865734" />
+   <Option Name="Add Contract" Value="0.41483427692191" />
    <Option Name="Convert to Point" Value="0.240768849565335" />
    <Option Name="Create Descendant (with virtual overrides)" Value="7178.02544807449" />
    <Option Name="Inline Macro" Value="0.333933349450105" />
@@ -143,7 +143,7 @@
    <Option Name="Convert to Tuple" Value="0.234924530906989" />
    <Option Name="Decompose Parameter" Value="0.242973687866801" />
    <Option Name="Declare Property (with backing store)" Value="0.584050720522915" />
-   <Option Name="Create Method Stub" Value="0.278693930168709" />
+   <Option Name="Create Method Stub" Value="0.121871420770252" />
    <Option Name="Use typedef" Value="0.336316475908763" />
    <Option Name="Extract Method to Type" Value="0.119847493350228" />
    <Option Name="Execute Statement Asynchronously (StartNew)" Value="0.182506175748679" />
@@ -166,7 +166,7 @@
    <Option Name="Create Implementer (explicit)" Value="14816.5569653453" />
    <Option Name="Use StringBuilder" Value="0.622445119569508" />
    <Option Name="Make Extension" Value="0.223559692639445" />
-   <Option Name="Declare Local" Value="0.160518558392961" />
+   <Option Name="Declare Local" Value="0.196302802215505" />
   </Section>
  </Language>
 </Page>
