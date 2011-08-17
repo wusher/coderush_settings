@@ -2,7 +2,7 @@
 <Page Name="Startup">
  <Language Name="*Neutral*">
   <Section Name="Settings">
-   <Option Name="ResetCommands" Value="False" />
+   <Option Name="ResetCommands" Value="True" />
    <Option Name="AlwaysResetCommands" Value="False" />
    <Option Name="DisableClipboardMonitoring" Value="False" />
   </Section>
