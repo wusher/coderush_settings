@@ -3,7 +3,7 @@
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
    <Option Name="Declaration" Value="442" />
-   <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
+   <Option Name="MostRecentlyUsedObject" Value="Parent Member" />
    <Option Name="Compress to Lambda Expression" Value="12" />
    <Option Name="Introduce Local" Value="218" />
    <Option Name="Inline Temp1" Value="94" />
@@ -96,7 +96,7 @@
    <Option Name="Throw Exceptions" Value="9" />
    <Option Name="Make Read-only" Value="4" />
    <Option Name="Declare Fields with Initializers" Value="2" />
-   <Option Name="Parent Member" Value="11" />
+   <Option Name="Parent Member" Value="12" />
    <Option Name="Use String.Format" Value="8" />
    <Option Name="Promote to Parameter (optional)" Value="1" />
    <Option Name="Move Declaration Near Reference" Value="10" />
@@ -230,7 +230,7 @@
   <Section Name="|First Child|Parent|Parent Member|Parent Type|">
    <Option Name="First Child" Value="4" />
    <Option Name="MostRecentlyUsedObject" Value="Parent Member" />
-   <Option Name="Parent Member" Value="11" />
+   <Option Name="Parent Member" Value="12" />
    <Option Name="Parent" Value="1" />
   </Section>
   <Section Name="|Extract Interface|Move Type to File|Rename|Rename File to Match Type|">
