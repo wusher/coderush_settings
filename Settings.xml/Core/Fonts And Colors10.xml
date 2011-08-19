@@ -1116,10 +1116,10 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="2105376" />
-   <Option Name="Foreground" Value="16760576" />
+   <Option Name="Background" Value="16448250" />
+   <Option Name="Foreground" Value="16711680" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Literal">
    <Option Name="LocalName" Value="Literal" />

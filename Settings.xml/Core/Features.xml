@@ -356,7 +356,7 @@
   </Section>
   <Section Name="Navigate">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="1605" />
+   <Option Name="QueryCount" Value="1609" />
    <Option Name="Description" Value="Executes+navigation+provider+with+the+specified+name." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cNavigate%3bCtrl%2bAlt%2bD" />
    <Option Name="Scope" Value="Other+features" />
@@ -380,7 +380,7 @@
   </Section>
   <Section Name="ReferenceNext">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="963" />
+   <Option Name="QueryCount" Value="971" />
    <Option Name="Description" Value="Highlights+the+next+reference." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cReferenceNext%3bTab" />
    <Option Name="Scope" Value="Conflict+shortcuts" />
@@ -388,10 +388,10 @@
   </Section>
   <Section Name="QuickFileNav">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="774" />
+   <Option Name="QueryCount" Value="776" />
    <Option Name="Description" Value="Quick+File+Navigation" />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cQuickFileNav%3bCtrl%2bAlt%2bF" />
-   <Option Name="Scope" Value="Conflict+shortcuts" />
+   <Option Name="Scope" Value="Other+features" />
    <Option Name="ShowInFeatureOptions" Value="True" />
   </Section>
   <Section Name="c">
@@ -404,7 +404,7 @@
   </Section>
   <Section Name="Smart parentheses">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="7968" />
+   <Option Name="QueryCount" Value="7972" />
    <Option Name="Description" Value="Automatic+parentheses+add+the+closing+parenthesis+when+you+type+the+opening+character." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cParens+%26+Brackets" />
    <Option Name="Scope" Value="Other+features" />
@@ -412,7 +412,7 @@
   </Section>
   <Section Name="Smart semi-colon">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="2842" />
+   <Option Name="QueryCount" Value="2843" />
    <Option Name="Description" Value="Places+a+semi-colon+typed+inside+parens+at+the+end+of+a+line." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cParens+%26+Brackets" />
    <Option Name="Scope" Value="Other+features" />
@@ -436,7 +436,7 @@
   </Section>
   <Section Name="CamelCaseLeft">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="1701" />
+   <Option Name="QueryCount" Value="1702" />
    <Option Name="Description" Value="Moves+the+caret+to+the+next+lower+case+to+upper+case+transition%2c+to+the+left+of+the+caret." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cCamelCaseLeft%3bShift%2bAlt%2bLeft" />
    <Option Name="Scope" Value="Conflict+shortcuts" />
@@ -492,7 +492,7 @@
   </Section>
   <Section Name="if">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="863" />
+   <Option Name="QueryCount" Value="864" />
    <Option Name="Description" Value="" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -540,7 +540,7 @@
   </Section>
   <Section Name="Embedding block">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="110" />
+   <Option Name="QueryCount" Value="112" />
    <Option Name="Description" Value="block+-+%7b%7d" />
    <Option Name="OptionsPage" Value="Editor%5cSelections%5cEmbedding%2cblock" />
    <Option Name="Scope" Value="Embeddings" />
@@ -556,7 +556,7 @@
   </Section>
   <Section Name="f">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="178" />
+   <Option Name="QueryCount" Value="180" />
    <Option Name="Description" Value="for+loop%2c+false%2c+or+field+of+type+integer+(depending+on+context)" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -652,7 +652,7 @@
   </Section>
   <Section Name="Rename">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="1375" />
+   <Option Name="QueryCount" Value="1376" />
    <Option Name="Description" Value="Renames+the+current+element+and+updates+references+to+it." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -692,7 +692,7 @@
   </Section>
   <Section Name="Rename File to Match Type">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="189" />
+   <Option Name="QueryCount" Value="190" />
    <Option Name="Description" Value="Renames+the+file+and+updates+the+project+appropriately." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -804,7 +804,7 @@
   </Section>
   <Section Name="Embedding try/catch">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="39" />
+   <Option Name="QueryCount" Value="41" />
    <Option Name="Description" Value="try..catch" />
    <Option Name="OptionsPage" Value="Editor%5cSelections%5cEmbedding%2ctry%2fcatch" />
    <Option Name="Scope" Value="Embeddings" />
@@ -844,7 +844,7 @@
   </Section>
   <Section Name="t">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="162" />
+   <Option Name="QueryCount" Value="163" />
    <Option Name="Description" Value="" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -956,7 +956,7 @@
   </Section>
   <Section Name="=f">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="66" />
+   <Option Name="QueryCount" Value="67" />
    <Option Name="Description" Value="" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -988,7 +988,7 @@
   </Section>
   <Section Name="QuickNav">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="165" />
+   <Option Name="QueryCount" Value="166" />
    <Option Name="Description" Value="Navigation+in+current+file" />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cQuickNav%3bCtrl%2bShift%2bQ" />
    <Option Name="Scope" Value="Other+features" />
@@ -1164,7 +1164,7 @@
   </Section>
   <Section Name="And">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="122" />
+   <Option Name="QueryCount" Value="123" />
    <Option Name="Description" Value="" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -1780,7 +1780,7 @@
   </Section>
   <Section Name="while">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="13" />
+   <Option Name="QueryCount" Value="14" />
    <Option Name="Description" Value="" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />

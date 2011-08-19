@@ -2,8 +2,8 @@
 <Page Name="Usage History">
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
-   <Option Name="Declaration" Value="442" />
-   <Option Name="MostRecentlyUsedObject" Value="Parent Member" />
+   <Option Name="Declaration" Value="443" />
+   <Option Name="MostRecentlyUsedObject" Value="Declaration" />
    <Option Name="Compress to Lambda Expression" Value="12" />
    <Option Name="Introduce Local" Value="218" />
    <Option Name="Inline Temp1" Value="94" />
@@ -12,7 +12,7 @@
    <Option Name="Split Initialization from Declaration" Value="57" />
    <Option Name="Declare Property (auto-implemented)" Value="26" />
    <Option Name="Declare Class" Value="28" />
-   <Option Name="Rename File to Match Type" Value="96" />
+   <Option Name="Rename File to Match Type" Value="97" />
    <Option Name="First Child" Value="4" />
    <Option Name="Extract Method" Value="207" />
    <Option Name="Remove Parameter" Value="66" />
@@ -156,7 +156,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
   </Section>
   <Section Name="|Extract Interface|Move Type to Namespace|Rename|Rename File to Match Type|Rename Type to Match File|">
-   <Option Name="Rename File to Match Type" Value="44" />
+   <Option Name="Rename File to Match Type" Value="45" />
    <Option Name="MostRecentlyUsedObject" Value="Rename File to Match Type" />
    <Option Name="Rename Type to Match File" Value="4" />
    <Option Name="Extract Interface" Value="1" />
@@ -1605,7 +1605,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="206" />
+   <Option Name="Declaration" Value="207" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Ancestor|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
