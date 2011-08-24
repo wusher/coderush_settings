@@ -51,6 +51,7 @@
    <Option Name="shouldReturn" Value="shouldReturn" />
    <Option Name="preference" Value="preference" />
    <Option Name="priorityDate" Value="priorityDate" />
+   <Option Name="did" Value="did" />
   </Section>
  </Language>
 </Page>

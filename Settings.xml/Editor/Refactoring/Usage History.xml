@@ -3,11 +3,11 @@
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
    <Option Name="Declaration" Value="448" />
-   <Option Name="MostRecentlyUsedObject" Value="Introduce Using Statement" />
+   <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
    <Option Name="Compress to Lambda Expression" Value="12" />
    <Option Name="Introduce Local" Value="218" />
    <Option Name="Inline Temp1" Value="94" />
-   <Option Name="Create Method Stub" Value="264" />
+   <Option Name="Create Method Stub" Value="265" />
    <Option Name="Declare Local (implicit)" Value="433" />
    <Option Name="Split Initialization from Declaration" Value="57" />
    <Option Name="Declare Property (auto-implemented)" Value="26" />
@@ -3101,6 +3101,10 @@
   <Section Name="|Introduce Using Statement|Make Explicit|Promote to Parameter|Rename|Widen Scope|Widen Scope (promote to field)|">
    <Option Name="Introduce Using Statement" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Introduce Using Statement" />
+  </Section>
+  <Section Name="|Add Else Statement|Create Method Stub|">
+   <Option Name="Create Method Stub" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
   </Section>
  </Language>
 </Page>
