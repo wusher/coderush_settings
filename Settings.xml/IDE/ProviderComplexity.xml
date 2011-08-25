@@ -55,7 +55,7 @@
    <Option Name="Declare Getter" Value="0.304186077680488" />
    <Option Name="Remove Parameter" Value="0.238291341987259" />
    <Option Name="Convert to Function" Value="0.394031487082782" />
-   <Option Name="Use IsNullOrEmpty (cp)" Value="0.148430618300665" />
+   <Option Name="Use IsNullOrEmpty (cp)" Value="0.145350068458666" />
    <Option Name="Inline Temp" Value="0.311943156828137" />
    <Option Name="Declare Fields with Initializers" Value="1.02380453701753" />
    <Option Name="Extract ContentPlaceHolder" Value="4981.09642089616" />
@@ -63,7 +63,7 @@
    <Option Name="Remove Event Handler" Value="0.359691184177231" />
    <Option Name="Declare Field" Value="0.356193932163358" />
    <Option Name="Convert to Initializer" Value="0.211021432162506" />
-   <Option Name="Convert to Integer" Value="0.168521718873807" />
+   <Option Name="Convert to Integer" Value="0.160830837924455" />
    <Option Name="Remove Type Qualifier" Value="0.277526372715417" />
    <Option Name="Add to Interface" Value="0.555011366928638" />
    <Option Name="Name Anonymous Method" Value="0.276729588801615" />
@@ -121,7 +121,7 @@
    <Option Name="Introduce Local (replace all)" Value="0.401971147899097" />
    <Option Name="Use Implicit Typecast" Value="0.572596560763054" />
    <Option Name="Encapsulate Field (read-only)" Value="0.189339217494807" />
-   <Option Name="Add Contract" Value="0.417879265025311" />
+   <Option Name="Add Contract" Value="0.413241527362526" />
    <Option Name="Convert to Point" Value="0.181821404355943" />
    <Option Name="Create Descendant (with virtual overrides)" Value="7178.02544807449" />
    <Option Name="Inline Macro" Value="0.333933349450105" />
@@ -166,7 +166,7 @@
    <Option Name="Create Implementer (explicit)" Value="14816.5569653453" />
    <Option Name="Use StringBuilder" Value="0.622445119569508" />
    <Option Name="Make Extension" Value="0.223559692639445" />
-   <Option Name="Declare Local" Value="0.162628170838511" />
+   <Option Name="Declare Local" Value="0.1261664569725" />
   </Section>
  </Language>
 </Page>
