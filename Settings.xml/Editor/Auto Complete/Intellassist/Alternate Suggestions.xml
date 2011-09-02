@@ -52,6 +52,7 @@
    <Option Name="preference" Value="preference" />
    <Option Name="priorityDate" Value="priorityDate" />
    <Option Name="did" Value="did" />
+   <Option Name="_modifiedByDisplay,GetCompletedByDisplay,_completedByDisplay,ReportText,Description,EventNameLong,EventName" Value="_modifiedByDisplay" />
   </Section>
  </Language>
 </Page>
