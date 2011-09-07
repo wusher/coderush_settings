@@ -137,6 +137,7 @@
    <Option Name="Inline Method" Value="1" />
    <Option Name="Convert to property with backing store" Value="7" />
    <Option Name="Replace with Constant" Value="2" />
+   <Option Name="Add XML Comments" Value="3" />
   </Section>
   <Section Name="|Declaration|Next Reference|Parent|Parent Member|Parent Type|">
    <Option Name="Declaration" Value="68" />
@@ -3115,6 +3116,10 @@
   <Section Name="|Break Attributes|Extract to XAML Resource|Extract to XAML Resource (replace all)|Remove End Tag|Reorder Attributes|">
    <Option Name="Remove End Tag" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Remove End Tag" />
+  </Section>
+  <Section Name="|Add XML Comments|">
+   <Option Name="Add XML Comments" Value="3" />
+   <Option Name="MostRecentlyUsedObject" Value="Add XML Comments" />
   </Section>
  </Language>
 </Page>

@@ -28,7 +28,7 @@
    <Option Name="1" Value="True" />
    <Option Name="2" Value="True" />
    <Option Name="3" Value="False" />
-   <Option Name="4" Value="True" />
+   <Option Name="4" Value="False" />
   </Section>
   <Section Name="FilterAccess">
    <Option Name="0" Value="True" />
