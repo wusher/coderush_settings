@@ -2,7 +2,7 @@
 <Page Name="Progress Visualization">
  <Language Name="*Neutral*">
   <Section Name="Common">
-   <Option Name="Enabled" Value="True" />
+   <Option Name="Enabled" Value="False" />
   </Section>
  </Language>
 </Page>

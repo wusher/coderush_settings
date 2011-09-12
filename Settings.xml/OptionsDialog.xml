@@ -8,15 +8,15 @@
    <Option Name="SplitOpen" Value="True" />
    <Option Name="Top" Value="-8" />
    <Option Name="Left" Value="1607" />
-   <Option Name="Width" Value="898" />
-   <Option Name="Height" Value="742" />
+   <Option Name="Width" Value="914" />
+   <Option Name="Height" Value="780" />
   </Section>
   <Section Name="Preferences">
    <Option Name="ShowHints" Value="False" />
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="Unit Testing\Test Runner" />
-   <Option Name="PriorSelectedNode" Value="Core" />
+   <Option Name="LastSelectedNode" Value="Hinting\Progress Visualization" />
+   <Option Name="PriorSelectedNode" Value="Editor\Refactoring" />
    <Option Name="LastNonNeutralLanguageSelected" Value="Basic" />
   </Section>
   <Section Name="Global">
