@@ -41,7 +41,7 @@
    <Option Name="Assume Contract" Value="0.301717514054697" />
    <Option Name="Combine Conditionals" Value="0.309414299066716" />
    <Option Name="Reorder Attributes" Value="0.219494558350011" />
-   <Option Name="Extract Method" Value="0.155539893001852" />
+   <Option Name="Extract Method" Value="0.148871086428893" />
    <Option Name="Declare EventArgs Descendant" Value="0.155059482145354" />
    <Option Name="Remove End Tag" Value="17566.1211781052" />
    <Option Name="Introduce Alias" Value="0.282544971695561" />
@@ -63,7 +63,7 @@
    <Option Name="Declare Action" Value="13627.4568348157" />
    <Option Name="Declare Field" Value="0.356193932163358" />
    <Option Name="Convert to Initializer" Value="0.211021432162506" />
-   <Option Name="Convert to Integer" Value="0.18421526591814" />
+   <Option Name="Convert to Integer" Value="0.183815143323335" />
    <Option Name="Remove Type Qualifier" Value="0.194106332443925" />
    <Option Name="Add to Interface" Value="0.555011366928638" />
    <Option Name="Name Anonymous Method" Value="0.276729588801615" />
@@ -123,7 +123,7 @@
    <Option Name="Introduce Local (replace all)" Value="0.401971147899097" />
    <Option Name="Use Implicit Typecast" Value="0.572596560763054" />
    <Option Name="Encapsulate Field (read-only)" Value="0.189339217494807" />
-   <Option Name="Add Contract" Value="0.64571004143828" />
+   <Option Name="Add Contract" Value="0.943594713139867" />
    <Option Name="Convert to Point" Value="0.181821404355943" />
    <Option Name="Create Descendant (with virtual overrides)" Value="7178.02544807449" />
    <Option Name="Inline Macro" Value="0.333933349450105" />

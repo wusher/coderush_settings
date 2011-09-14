@@ -3,12 +3,12 @@
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
    <Option Name="Declaration" Value="466" />
-   <Option Name="MostRecentlyUsedObject" Value="Remove Redundant Qualifier" />
+   <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
    <Option Name="Compress to Lambda Expression" Value="12" />
-   <Option Name="Introduce Local" Value="224" />
+   <Option Name="Introduce Local" Value="226" />
    <Option Name="Inline Temp1" Value="96" />
-   <Option Name="Create Method Stub" Value="286" />
-   <Option Name="Declare Local (implicit)" Value="453" />
+   <Option Name="Create Method Stub" Value="288" />
+   <Option Name="Declare Local (implicit)" Value="457" />
    <Option Name="Split Initialization from Declaration" Value="59" />
    <Option Name="Declare Property (auto-implemented)" Value="26" />
    <Option Name="Declare Class" Value="29" />
@@ -26,7 +26,7 @@
    <Option Name="Widen Scope (promote to field)" Value="109" />
    <Option Name="Introduce Setter Guard Clause" Value="36" />
    <Option Name="Change Tag" Value="17" />
-   <Option Name="Collapse Getter" Value="89" />
+   <Option Name="Collapse Getter" Value="90" />
    <Option Name="Extract Interface" Value="16" />
    <Option Name="Line-up Parameters" Value="29" />
    <Option Name="Declare Property (with backing store)" Value="29" />
@@ -113,7 +113,7 @@
    <Option Name="Pull Member Up" Value="3" />
    <Option Name="Simplify Expression" Value="2" />
    <Option Name="Invert Selection" Value="1" />
-   <Option Name="Declare Property" Value="9" />
+   <Option Name="Declare Property" Value="10" />
    <Option Name="Remove Redundant Assignment" Value="5" />
    <Option Name="Using to Try/Finally" Value="1" />
    <Option Name="Expand Setter" Value="1" />
@@ -135,7 +135,7 @@
    <Option Name="Add Setter" Value="1" />
    <Option Name="Remove Redundant Constructor" Value="1" />
    <Option Name="Inline Method" Value="1" />
-   <Option Name="Convert to property with backing store" Value="7" />
+   <Option Name="Convert to property with backing store" Value="8" />
    <Option Name="Replace with Constant" Value="2" />
    <Option Name="Add XML Comments" Value="3" />
    <Option Name="Add Block Delimiters" Value="1" />
@@ -175,7 +175,7 @@
    <Option Name="Declare Property (auto-implemented)" Value="21" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Property" />
    <Option Name="Declare Property (with backing store)" Value="19" />
-   <Option Name="Declare Property" Value="6" />
+   <Option Name="Declare Property" Value="7" />
   </Section>
   <Section Name="|Extract Method|Introduce Using Statement|">
    <Option Name="Extract Method" Value="4" />
@@ -226,7 +226,7 @@
   </Section>
   <Section Name="|Declare Local|Declare Local (implicit)|">
    <Option Name="Declare Local" Value="70" />
-   <Option Name="Declare Local (implicit)" Value="430" />
+   <Option Name="Declare Local (implicit)" Value="434" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Local (implicit)" />
   </Section>
   <Section Name="|First Child|Parent|Parent Member|Parent Type|">
@@ -251,7 +251,7 @@
    <Option Name="Reorder Parameters" Value="4" />
   </Section>
   <Section Name="|Extract Method|Introduce Local|">
-   <Option Name="Introduce Local" Value="59" />
+   <Option Name="Introduce Local" Value="60" />
    <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
    <Option Name="Extract Method" Value="11" />
   </Section>
@@ -298,7 +298,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Introduce Using Statement" />
   </Section>
   <Section Name="|Create Method Stub|">
-   <Option Name="Create Method Stub" Value="279" />
+   <Option Name="Create Method Stub" Value="281" />
    <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
   </Section>
   <Section Name="|Extract Method|Introduce Local|Use String.Format|">
@@ -375,7 +375,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Collapse Getter" />
   </Section>
   <Section Name="|Collapse Getter|Property to Method(s)|">
-   <Option Name="Collapse Getter" Value="74" />
+   <Option Name="Collapse Getter" Value="75" />
    <Option Name="MostRecentlyUsedObject" Value="Collapse Getter" />
   </Section>
   <Section Name="|Add End Tag|Break Attributes|Reorder Attributes|">
@@ -3129,6 +3129,14 @@
   <Section Name="|Add Else Statement|Declare Local|Declare Local (implicit)|">
    <Option Name="Declare Local (implicit)" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Local (implicit)" />
+  </Section>
+  <Section Name="|Add Setter|Add XML Comments|Convert to auto-implemented property|Convert to property with backing store|">
+   <Option Name="Convert to property with backing store" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Convert to property with backing store" />
+  </Section>
+  <Section Name="|Extract Method|Extract Method to Type|Introduce Local|Property to Method(s)|">
+   <Option Name="Introduce Local" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
   </Section>
  </Language>
 </Page>
