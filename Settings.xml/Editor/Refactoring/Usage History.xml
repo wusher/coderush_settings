@@ -3,7 +3,7 @@
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
    <Option Name="Declaration" Value="467" />
-   <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
+   <Option Name="MostRecentlyUsedObject" Value="Implementations" />
    <Option Name="Compress to Lambda Expression" Value="12" />
    <Option Name="Introduce Local" Value="226" />
    <Option Name="Inline Temp1" Value="96" />
@@ -50,7 +50,7 @@
    <Option Name="Extract String to Resource" Value="2" />
    <Option Name="Create Backing Store" Value="16" />
    <Option Name="Next Reference" Value="2" />
-   <Option Name="Implementations" Value="61" />
+   <Option Name="Implementations" Value="62" />
    <Option Name="Inline Result" Value="2" />
    <Option Name="Introduce Local (replace all)" Value="6" />
    <Option Name="Remove Blank Line" Value="2" />
@@ -3137,6 +3137,10 @@
   <Section Name="|Extract Method|Extract Method to Type|Introduce Local|Property to Method(s)|">
    <Option Name="Introduce Local" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
+  </Section>
+  <Section Name="|First Child|Implementations|Next Reference|Parent|Parent Type|Previous Member|Previous Reference|">
+   <Option Name="Implementations" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Implementations" />
   </Section>
  </Language>
 </Page>

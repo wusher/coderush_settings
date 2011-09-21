@@ -13,7 +13,7 @@
    <Option Name="Boolean to Enum" Value="0.233647843257693" />
    <Option Name="Surround with UpdatePanel" Value="2204.57273706924" />
    <Option Name="Replace Temp with Query" Value="0.140028270304828" />
-   <Option Name="Convert to Procedure" Value="0.376525720589217" />
+   <Option Name="Convert to Procedure" Value="0.398655497650567" />
    <Option Name="Expand Ternary Expression" Value="0.316243115195753" />
    <Option Name="Create Ancestor" Value="18308.6027795785" />
    <Option Name="Line-up Parameters" Value="0.289111313694825" />
@@ -63,7 +63,7 @@
    <Option Name="Declare Action" Value="13627.4568348157" />
    <Option Name="Declare Field" Value="0.356193932163358" />
    <Option Name="Convert to Initializer" Value="0.211021432162506" />
-   <Option Name="Convert to Integer" Value="0.183815143323335" />
+   <Option Name="Convert to Integer" Value="0.275569560553471" />
    <Option Name="Remove Type Qualifier" Value="0.194106332443925" />
    <Option Name="Add to Interface" Value="0.555011366928638" />
    <Option Name="Name Anonymous Method" Value="0.276729588801615" />
