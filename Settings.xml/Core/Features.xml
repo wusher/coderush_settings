@@ -357,7 +357,7 @@
   </Section>
   <Section Name="Navigate">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="1649" />
+   <Option Name="QueryCount" Value="1652" />
    <Option Name="Description" Value="Executes+navigation+provider+with+the+specified+name." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cNavigate%3bCtrl%2bAlt%2bD" />
    <Option Name="Scope" Value="Other+features" />
@@ -389,7 +389,7 @@
   </Section>
   <Section Name="QuickFileNav">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="785" />
+   <Option Name="QueryCount" Value="791" />
    <Option Name="Description" Value="Quick+File+Navigation" />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cQuickFileNav%3bCtrl%2bAlt%2bF" />
    <Option Name="Scope" Value="Conflict+shortcuts" />
@@ -405,7 +405,7 @@
   </Section>
   <Section Name="Smart parentheses">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="8305" />
+   <Option Name="QueryCount" Value="8306" />
    <Option Name="Description" Value="Automatic+parentheses+add+the+closing+parenthesis+when+you+type+the+opening+character." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cParens+%26+Brackets" />
    <Option Name="Scope" Value="Other+features" />
@@ -989,7 +989,7 @@
   </Section>
   <Section Name="QuickNav">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="168" />
+   <Option Name="QueryCount" Value="169" />
    <Option Name="Description" Value="Navigation+in+current+file" />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cQuickNav%3bCtrl%2bShift%2bQ" />
    <Option Name="Scope" Value="Other+features" />
