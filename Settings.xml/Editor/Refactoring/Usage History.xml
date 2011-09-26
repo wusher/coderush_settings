@@ -3,7 +3,7 @@
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
    <Option Name="Declaration" Value="469" />
-   <Option Name="MostRecentlyUsedObject" Value="Declaration" />
+   <Option Name="MostRecentlyUsedObject" Value="Remove Event Handler" />
    <Option Name="Compress to Lambda Expression" Value="12" />
    <Option Name="Introduce Local" Value="226" />
    <Option Name="Inline Temp1" Value="96" />
@@ -34,7 +34,7 @@
    <Option Name="Break Attributes" Value="15" />
    <Option Name="Widen Scope" Value="18" />
    <Option Name="Make Implicit" Value="176" />
-   <Option Name="Remove Event Handler" Value="17" />
+   <Option Name="Remove Event Handler" Value="19" />
    <Option Name="Convert to Initializer" Value="15" />
    <Option Name="Introduce Parameter Object" Value="4" />
    <Option Name="Reorder Parameters" Value="20" />
@@ -1901,7 +1901,7 @@
    <Option Name="Introduce Using Statement" Value="1" />
   </Section>
   <Section Name="|Remove Event Handler|Rename|">
-   <Option Name="Remove Event Handler" Value="14" />
+   <Option Name="Remove Event Handler" Value="16" />
    <Option Name="MostRecentlyUsedObject" Value="Remove Event Handler" />
   </Section>
   <Section Name="|Move Declaration Near Reference|Move Initialization to Declaration|Rename|Widen Scope (promote to field)|">
