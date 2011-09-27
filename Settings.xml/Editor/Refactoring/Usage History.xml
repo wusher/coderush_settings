@@ -3,25 +3,25 @@
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
    <Option Name="Declaration" Value="469" />
-   <Option Name="MostRecentlyUsedObject" Value="Remove Event Handler" />
+   <Option Name="MostRecentlyUsedObject" Value="Extract Method" />
    <Option Name="Compress to Lambda Expression" Value="12" />
-   <Option Name="Introduce Local" Value="226" />
+   <Option Name="Introduce Local" Value="228" />
    <Option Name="Inline Temp1" Value="96" />
    <Option Name="Create Method Stub" Value="289" />
-   <Option Name="Declare Local (implicit)" Value="457" />
+   <Option Name="Declare Local (implicit)" Value="463" />
    <Option Name="Split Initialization from Declaration" Value="59" />
    <Option Name="Declare Property (auto-implemented)" Value="26" />
    <Option Name="Declare Class" Value="29" />
-   <Option Name="Rename File to Match Type" Value="101" />
+   <Option Name="Rename File to Match Type" Value="102" />
    <Option Name="First Child" Value="4" />
-   <Option Name="Extract Method" Value="211" />
+   <Option Name="Extract Method" Value="212" />
    <Option Name="Remove Parameter" Value="66" />
    <Option Name="Expand Lambda Expression" Value="18" />
    <Option Name="Declare Local" Value="78" />
    <Option Name="Promote to Parameter" Value="24" />
-   <Option Name="Introduce Using Statement" Value="32" />
+   <Option Name="Introduce Using Statement" Value="33" />
    <Option Name="Break Apart Parameters" Value="42" />
-   <Option Name="Move Type to File" Value="135" />
+   <Option Name="Move Type to File" Value="137" />
    <Option Name="Add Parameter" Value="44" />
    <Option Name="Widen Scope (promote to field)" Value="109" />
    <Option Name="Introduce Setter Guard Clause" Value="36" />
@@ -72,7 +72,7 @@
    <Option Name="Remove Redundant Block Delimiters" Value="9" />
    <Option Name="Compress to Ternary Expression" Value="17" />
    <Option Name="Flatten Conditional" Value="8" />
-   <Option Name="Decompose Initializer" Value="5" />
+   <Option Name="Decompose Initializer" Value="6" />
    <Option Name="Name Anonymous Method" Value="2" />
    <Option Name="Combine Conditionals" Value="7" />
    <Option Name="Concatenate Strings" Value="3" />
@@ -226,7 +226,7 @@
   </Section>
   <Section Name="|Declare Local|Declare Local (implicit)|">
    <Option Name="Declare Local" Value="70" />
-   <Option Name="Declare Local (implicit)" Value="434" />
+   <Option Name="Declare Local (implicit)" Value="440" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Local (implicit)" />
   </Section>
   <Section Name="|First Child|Parent|Parent Member|Parent Type|">
@@ -251,9 +251,9 @@
    <Option Name="Reorder Parameters" Value="4" />
   </Section>
   <Section Name="|Extract Method|Introduce Local|">
-   <Option Name="Introduce Local" Value="60" />
-   <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
-   <Option Name="Extract Method" Value="11" />
+   <Option Name="Introduce Local" Value="61" />
+   <Option Name="MostRecentlyUsedObject" Value="Extract Method" />
+   <Option Name="Extract Method" Value="12" />
   </Section>
   <Section Name="|Extract Method|Introduce ForEach Action|">
    <Option Name="Extract Method" Value="6" />
@@ -269,7 +269,7 @@
    <Option Name="Rename File to Match Type" Value="3" />
   </Section>
   <Section Name="|Move Type to File|Rename|Rename File to Match Type|">
-   <Option Name="Move Type to File" Value="54" />
+   <Option Name="Move Type to File" Value="56" />
    <Option Name="MostRecentlyUsedObject" Value="Move Type to File" />
    <Option Name="Rename File to Match Type" Value="7" />
   </Section>
@@ -302,7 +302,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
   </Section>
   <Section Name="|Extract Method|Introduce Local|Use String.Format|">
-   <Option Name="Introduce Local" Value="2" />
+   <Option Name="Introduce Local" Value="3" />
    <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
    <Option Name="Extract Method" Value="1" />
    <Option Name="Use String.Format" Value="1" />
@@ -622,7 +622,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
   </Section>
   <Section Name="|Move Type to Namespace|Rename|Rename File to Match Type|">
-   <Option Name="Rename File to Match Type" Value="4" />
+   <Option Name="Rename File to Match Type" Value="5" />
    <Option Name="MostRecentlyUsedObject" Value="Rename File to Match Type" />
   </Section>
   <Section Name="|Convert to System Type|Promote to Parameter|Widen Scope|Widen Scope (promote to field)|">
@@ -3141,6 +3141,14 @@
   <Section Name="|First Child|Implementations|Next Reference|Parent|Parent Type|Previous Member|Previous Reference|">
    <Option Name="Implementations" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Implementations" />
+  </Section>
+  <Section Name="|Introduce Using Statement|Make Explicit|Rename|">
+   <Option Name="Introduce Using Statement" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Introduce Using Statement" />
+  </Section>
+  <Section Name="|Decompose Initializer|Rename|">
+   <Option Name="Decompose Initializer" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Decompose Initializer" />
   </Section>
  </Language>
 </Page>
