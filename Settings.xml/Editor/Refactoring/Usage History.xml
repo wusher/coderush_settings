@@ -3150,5 +3150,9 @@
    <Option Name="Decompose Initializer" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Decompose Initializer" />
   </Section>
+  <Section Name="|Convert to Initializer|Introduce Using Statement|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
+   <Option Name="Widen Scope (promote to field)" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
+  </Section>
  </Language>
 </Page>
