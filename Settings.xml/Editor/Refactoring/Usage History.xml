@@ -2,12 +2,12 @@
 <Page Name="Usage History">
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
-   <Option Name="Declaration" Value="469" />
-   <Option Name="MostRecentlyUsedObject" Value="Extract Method" />
+   <Option Name="Declaration" Value="471" />
+   <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
    <Option Name="Compress to Lambda Expression" Value="12" />
    <Option Name="Introduce Local" Value="228" />
    <Option Name="Inline Temp1" Value="96" />
-   <Option Name="Create Method Stub" Value="289" />
+   <Option Name="Create Method Stub" Value="291" />
    <Option Name="Declare Local (implicit)" Value="463" />
    <Option Name="Split Initialization from Declaration" Value="59" />
    <Option Name="Declare Property (auto-implemented)" Value="26" />
@@ -20,7 +20,7 @@
    <Option Name="Declare Local" Value="78" />
    <Option Name="Promote to Parameter" Value="24" />
    <Option Name="Introduce Using Statement" Value="33" />
-   <Option Name="Break Apart Parameters" Value="42" />
+   <Option Name="Break Apart Parameters" Value="43" />
    <Option Name="Move Type to File" Value="137" />
    <Option Name="Add Parameter" Value="44" />
    <Option Name="Widen Scope (promote to field)" Value="109" />
@@ -89,7 +89,7 @@
    <Option Name="Convert to auto-implemented property" Value="16" />
    <Option Name="Make Member Static" Value="1" />
    <Option Name="Reverse Conditional" Value="16" />
-   <Option Name="Remove Redundant Qualifier" Value="23" />
+   <Option Name="Remove Redundant Qualifier" Value="24" />
    <Option Name="Make Extension" Value="1" />
    <Option Name="Initialize Conditionally" Value="5" />
    <Option Name="Assert Contract" Value="3" />
@@ -164,7 +164,7 @@
    <Option Name="Extract Interface" Value="1" />
   </Section>
   <Section Name="|Break Apart Parameters|">
-   <Option Name="Break Apart Parameters" Value="6" />
+   <Option Name="Break Apart Parameters" Value="7" />
    <Option Name="MostRecentlyUsedObject" Value="Break Apart Parameters" />
   </Section>
   <Section Name="|Ancestor|Declaration|Next Reference|Parent|Parent Member|Parent Type|">
@@ -298,7 +298,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Introduce Using Statement" />
   </Section>
   <Section Name="|Create Method Stub|">
-   <Option Name="Create Method Stub" Value="282" />
+   <Option Name="Create Method Stub" Value="284" />
    <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
   </Section>
   <Section Name="|Extract Method|Introduce Local|Use String.Format|">
@@ -1607,11 +1607,11 @@
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="220" />
+   <Option Name="Declaration" Value="221" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Ancestor|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="57" />
+   <Option Name="Declaration" Value="58" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Break Apart Parameters|Expand Ternary Expression|Inline Recent Assignment|Inline Temp|Rename|Replace Temp with Query|">
@@ -1872,7 +1872,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Decompose Parameter" />
   </Section>
   <Section Name="|Remove Redundant Qualifier|">
-   <Option Name="Remove Redundant Qualifier" Value="18" />
+   <Option Name="Remove Redundant Qualifier" Value="19" />
    <Option Name="MostRecentlyUsedObject" Value="Remove Redundant Qualifier" />
   </Section>
   <Section Name="|Make Explicit|Rename|">
