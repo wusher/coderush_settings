@@ -3,12 +3,12 @@
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
    <Option Name="Declaration" Value="471" />
-   <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
+   <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
    <Option Name="Compress to Lambda Expression" Value="12" />
    <Option Name="Introduce Local" Value="228" />
    <Option Name="Inline Temp1" Value="96" />
    <Option Name="Create Method Stub" Value="291" />
-   <Option Name="Declare Local (implicit)" Value="463" />
+   <Option Name="Declare Local (implicit)" Value="464" />
    <Option Name="Split Initialization from Declaration" Value="59" />
    <Option Name="Declare Property (auto-implemented)" Value="26" />
    <Option Name="Declare Class" Value="29" />
@@ -23,7 +23,7 @@
    <Option Name="Break Apart Parameters" Value="43" />
    <Option Name="Move Type to File" Value="137" />
    <Option Name="Add Parameter" Value="44" />
-   <Option Name="Widen Scope (promote to field)" Value="109" />
+   <Option Name="Widen Scope (promote to field)" Value="110" />
    <Option Name="Introduce Setter Guard Clause" Value="36" />
    <Option Name="Change Tag" Value="17" />
    <Option Name="Collapse Getter" Value="90" />
@@ -226,7 +226,7 @@
   </Section>
   <Section Name="|Declare Local|Declare Local (implicit)|">
    <Option Name="Declare Local" Value="70" />
-   <Option Name="Declare Local (implicit)" Value="440" />
+   <Option Name="Declare Local (implicit)" Value="441" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Local (implicit)" />
   </Section>
   <Section Name="|First Child|Parent|Parent Member|Parent Type|">
@@ -780,7 +780,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Convert to Initializer" />
   </Section>
   <Section Name="|Introduce Using Statement|Make Explicit|Promote to Parameter|Rename|Widen Scope (promote to field)|">
-   <Option Name="Widen Scope (promote to field)" Value="1" />
+   <Option Name="Widen Scope (promote to field)" Value="2" />
    <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
    <Option Name="Make Explicit" Value="1" />
    <Option Name="Introduce Using Statement" Value="1" />
@@ -2538,6 +2538,7 @@
   <Section Name="|Inline Temp1|Move Declaration Near Reference|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
    <Option Name="Split Initialization from Declaration" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Split Initialization from Declaration" />
+   <Option Name="Inline Temp1" Value="1" />
   </Section>
   <Section Name="|Create Case Blocks from Enum|Inline Temp1|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope (promote to field)|">
    <Option Name="Split Initialization from Declaration" Value="1" />
@@ -2847,6 +2848,7 @@
   <Section Name="|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
    <Option Name="Widen Scope (promote to field)" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
+   <Option Name="Split Initialization from Declaration" Value="1" />
   </Section>
   <Section Name="|Make Implicit|Promote to Parameter|Rename|Split Initialization from Declaration|">
    <Option Name="Make Implicit" Value="1" />
@@ -3153,6 +3155,14 @@
   <Section Name="|Convert to Initializer|Introduce Using Statement|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
    <Option Name="Widen Scope (promote to field)" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
+  </Section>
+  <Section Name="|Inline Temp1|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope|Widen Scope (promote to field)|">
+   <Option Name="Inline Temp1" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Inline Temp1" />
+  </Section>
+  <Section Name="|Create With Statement|Extract Method|Introduce Using Statement|">
+   <Option Name="Extract Method" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Extract Method" />
   </Section>
  </Language>
 </Page>

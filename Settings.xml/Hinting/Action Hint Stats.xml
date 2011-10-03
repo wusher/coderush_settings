@@ -137,7 +137,7 @@
   </Section>
   <Section Name="Code Templates.Template: f">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="93" />
+   <Option Name="ExecutionCount" Value="94" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -197,7 +197,7 @@
   </Section>
   <Section Name="Code Templates.Template: cw">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="70" />
+   <Option Name="ExecutionCount" Value="72" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
