@@ -13,7 +13,7 @@
    <Option Name="Boolean to Enum" Value="0.233647843257693" />
    <Option Name="Surround with UpdatePanel" Value="2204.57273706924" />
    <Option Name="Replace Temp with Query" Value="0.183575175324355" />
-   <Option Name="Convert to Procedure" Value="0.2937032366207" />
+   <Option Name="Convert to Procedure" Value="0.345965863124111" />
    <Option Name="Expand Ternary Expression" Value="0.316243115195753" />
    <Option Name="Create Ancestor" Value="18308.6027795785" />
    <Option Name="Line-up Parameters" Value="0.289111313694825" />
@@ -80,7 +80,7 @@
    <Option Name="Introduce Local" Value="0.264962292400326" />
    <Option Name="Inline With Statement" Value="29977.1168989484" />
    <Option Name="Add Parameter" Value="0.280041365649825" />
-   <Option Name="Create Method Stub" Value="0.169575839121263" />
+   <Option Name="Create Method Stub" Value="0.136962888161157" />
    <Option Name="Concatenate Strings" Value="15768.7771029949" />
    <Option Name="Declare Property (auto-implemented)" Value="0.528863535225098" />
    <Option Name="Convert to System Type" Value="0.70191994521452" />
