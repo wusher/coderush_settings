@@ -8,15 +8,15 @@
    <Option Name="SplitOpen" Value="True" />
    <Option Name="Top" Value="-8" />
    <Option Name="Left" Value="1607" />
-   <Option Name="Width" Value="914" />
-   <Option Name="Height" Value="780" />
+   <Option Name="Width" Value="946" />
+   <Option Name="Height" Value="856" />
   </Section>
   <Section Name="Preferences">
    <Option Name="ShowHints" Value="False" />
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="Hinting\Progress Visualization" />
-   <Option Name="PriorSelectedNode" Value="Editor\Refactoring" />
+   <Option Name="LastSelectedNode" Value="IDE\Shortcuts" />
+   <Option Name="PriorSelectedNode" Value="Core" />
    <Option Name="LastNonNeutralLanguageSelected" Value="Basic" />
   </Section>
   <Section Name="Global">
