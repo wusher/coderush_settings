@@ -182,7 +182,7 @@
    <Option Name="Background" Value="4539717" />
    <Option Name="Foreground" Value="5525059" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Indicator Margin">
    <Option Name="LocalName" Value="Indicator Margin" />

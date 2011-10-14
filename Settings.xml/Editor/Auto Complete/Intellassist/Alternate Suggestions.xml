@@ -55,6 +55,7 @@
    <Option Name="_modifiedByDisplay,GetCompletedByDisplay,_completedByDisplay,ReportText,Description,EventNameLong,EventName" Value="_modifiedByDisplay" />
    <Option Name="hasExistingInvoice" Value="hasExistingInvoice" />
    <Option Name="_sql" Value="_sql" />
+   <Option Name="message,GetUploadedBy" Value="message" />
   </Section>
  </Language>
 </Page>
