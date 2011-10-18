@@ -24,7 +24,7 @@
   </Section>
   <Section Name="Navigation.Collect Marker">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="870" />
+   <Option Name="ExecutionCount" Value="871" />
    <Option Name="DisplayLimit" Value="4" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -155,7 +155,7 @@
   </Section>
   <Section Name="Code Templates.Template: r">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="127" />
+   <Option Name="ExecutionCount" Value="130" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -293,7 +293,7 @@
   </Section>
   <Section Name="Code Templates.Template: using">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="38" />
+   <Option Name="ExecutionCount" Value="39" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -353,7 +353,7 @@
   </Section>
   <Section Name="Code Templates.Template: fe">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="151" />
+   <Option Name="ExecutionCount" Value="152" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -518,7 +518,7 @@
   </Section>
   <Section Name="Code Creation.Visibility Change">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="321" />
+   <Option Name="ExecutionCount" Value="325" />
    <Option Name="DisplayLimit" Value="0" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>

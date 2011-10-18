@@ -56,6 +56,7 @@
    <Option Name="hasExistingInvoice" Value="hasExistingInvoice" />
    <Option Name="_sql" Value="_sql" />
    <Option Name="message,GetUploadedBy" Value="message" />
+   <Option Name="efileConfigFile" Value="efileConfigFile" />
   </Section>
  </Language>
 </Page>
