@@ -57,6 +57,7 @@
    <Option Name="_sql" Value="_sql" />
    <Option Name="message,GetUploadedBy" Value="message" />
    <Option Name="efileConfigFile" Value="efileConfigFile" />
+   <Option Name="doRunEveryLaunch" Value="doRunEveryLaunch" />
   </Section>
  </Language>
 </Page>

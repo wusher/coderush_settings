@@ -2,7 +2,7 @@
 <Page Name="Fonts And Colors9.">
  <Language Name="*Neutral*">
   <Section Name="Root">
-   <Option Name="Count" Value="136" />
+   <Option Name="Count" Value="146" />
    <Option Name="LocalName" Value="Text Editor" />
    <Option Name="FontName" Value="Courier New" />
    <Option Name="FontSize" Value="10" />
@@ -40,110 +40,120 @@
    <Option Name="Setting 29" Value="Collapsible Text" />
    <Option Name="Setting 30" Value="Comment" />
    <Option Name="Setting 31" Value="Compiler Error" />
-   <Option Name="Setting 32" Value="Coverage Not Touched Area" />
-   <Option Name="Setting 33" Value="Coverage Partially Touched Area" />
-   <Option Name="Setting 34" Value="Coverage Touched Area" />
-   <Option Name="Setting 35" Value="CSS Comment" />
-   <Option Name="Setting 36" Value="CSS Keyword" />
-   <Option Name="Setting 37" Value="CSS Property Name" />
-   <Option Name="Setting 38" Value="CSS Property Value" />
-   <Option Name="Setting 39" Value="CSS Selector" />
-   <Option Name="Setting 40" Value="CSS String Value" />
-   <Option Name="Setting 41" Value="Current list location" />
-   <Option Name="Setting 42" Value="Current Statement" />
-   <Option Name="Setting 43" Value="Executing Thread IP" />
-   <Option Name="Setting 44" Value="Executiong Threads IPs" />
-   <Option Name="Setting 45" Value="Current Statement (new context)" />
-   <Option Name="Setting 46" Value="Dead Code" />
-   <Option Name="Setting 47" Value="Definition Window Background" />
-   <Option Name="Setting 48" Value="Definition Window Current Match" />
-   <Option Name="Setting 49" Value="Disassembly File Name" />
-   <Option Name="Setting 50" Value="Disassembly Source" />
-   <Option Name="Setting 51" Value="Disassembly Symbol" />
-   <Option Name="Setting 52" Value="Disassembly Text" />
-   <Option Name="Setting 53" Value="Excluded Code" />
-   <Option Name="Setting 54" Value="HTML Attribute" />
-   <Option Name="Setting 55" Value="HTML Attribute Value" />
-   <Option Name="Setting 56" Value="HTML Comment" />
-   <Option Name="Setting 57" Value="HTML Element Name" />
-   <Option Name="Setting 58" Value="HTML Entity" />
-   <Option Name="Setting 59" Value="HTML Operator" />
-   <Option Name="Setting 60" Value="HTML Server-Side Script" />
-   <Option Name="Setting 61" Value="HTML Tag Delimiter" />
-   <Option Name="Setting 62" Value="Identifier" />
-   <Option Name="Setting 63" Value="Keyword" />
-   <Option Name="Setting 64" Value="Memory Address" />
-   <Option Name="Setting 65" Value="Memory Changed" />
-   <Option Name="Setting 66" Value="Memory Data" />
-   <Option Name="Setting 67" Value="Memory Unreadable" />
-   <Option Name="Setting 68" Value="Number" />
-   <Option Name="Setting 69" Value="On-the-fly Error" />
-   <Option Name="Setting 70" Value="On-the-fly Hint" />
-   <Option Name="Setting 71" Value="On-the-fly Warning" />
-   <Option Name="Setting 72" Value="Operator" />
-   <Option Name="Setting 73" Value="Other Error" />
-   <Option Name="Setting 74" Value="Preprocessor Keyword" />
-   <Option Name="Setting 75" Value="Read-Only Region" />
-   <Option Name="Setting 76" Value="Refactoring Background" />
-   <Option Name="Setting 77" Value="Refactoring Current Field" />
-   <Option Name="Setting 78" Value="Refactoring Dependent Field" />
-   <Option Name="Setting 79" Value="Register Data" />
-   <Option Name="Setting 80" Value="Register Data Changed" />
-   <Option Name="Setting 81" Value="Register NAT" />
-   <Option Name="Setting 82" Value="Smart Tag" />
-   <Option Name="Setting 83" Value="SQL DML Marker" />
-   <Option Name="Setting 84" Value="Stale Code" />
-   <Option Name="Setting 85" Value="String" />
-   <Option Name="Setting 86" Value="String(C# @ Verbatim)" />
-   <Option Name="Setting 87" Value="Syntax Error" />
-   <Option Name="Setting 88" Value="Task List Shortcut" />
-   <Option Name="Setting 89" Value="Tracepoint (Disabled)" />
-   <Option Name="Setting 90" Value="Tracepoint (Enabled)" />
-   <Option Name="Setting 91" Value="Tracepoint (Error)" />
-   <Option Name="Setting 92" Value="Tracepoint (Warning)" />
-   <Option Name="Setting 93" Value="Tracepoint - Advanced (Disabled)" />
-   <Option Name="Setting 94" Value="Tracepoint - Advanced (Enabled)" />
-   <Option Name="Setting 95" Value="Tracepoint - Advanced (Error)" />
-   <Option Name="Setting 96" Value="Tracepoint - Advanced (Warning)" />
-   <Option Name="Setting 97" Value="Tracepoint - Mapped (Disabled)" />
-   <Option Name="Setting 98" Value="Tracepoint - Mapped (Enabled)" />
-   <Option Name="Setting 99" Value="Tracepoint - Mapped (Error)" />
-   <Option Name="Setting 100" Value="Tracepoint - Mapped (Warning)" />
-   <Option Name="Setting 101" Value="Track Changes after save" />
-   <Option Name="Setting 102" Value="Track Changes before save" />
-   <Option Name="Setting 103" Value="User Keywords" />
-   <Option Name="Setting 104" Value="User Types" />
-   <Option Name="Setting 105" Value="User Types(Delegates)" />
-   <Option Name="Setting 106" Value="User Types(Enums)" />
-   <Option Name="Setting 107" Value="User Types(Interfaces)" />
-   <Option Name="Setting 108" Value="User Types(Value types)" />
-   <Option Name="Setting 109" Value="VB XML Attribute Name" />
-   <Option Name="Setting 110" Value="VB XML Attribute Quotes" />
-   <Option Name="Setting 111" Value="VB XML Attribute Value" />
-   <Option Name="Setting 112" Value="VB XML CData Section" />
-   <Option Name="Setting 113" Value="VB XML Comment" />
-   <Option Name="Setting 114" Value="VB XML Delimiter" />
-   <Option Name="Setting 115" Value="VB XML Embedded Expression" />
-   <Option Name="Setting 116" Value="VB XML Name" />
-   <Option Name="Setting 117" Value="VB XML Processing Instruction" />
-   <Option Name="Setting 118" Value="VB XML Text" />
-   <Option Name="Setting 119" Value="Visual Basic Read Only Marker" />
-   <Option Name="Setting 120" Value="Warning" />
-   <Option Name="Setting 121" Value="Warning Lines Path" />
-   <Option Name="Setting 122" Value="XML Attribute" />
-   <Option Name="Setting 123" Value="XML Attribute Quotes" />
-   <Option Name="Setting 124" Value="XML Attribute Value" />
-   <Option Name="Setting 125" Value="XML CData Section" />
-   <Option Name="Setting 126" Value="XML Comment" />
-   <Option Name="Setting 127" Value="XML Delimiter" />
-   <Option Name="Setting 128" Value="XML Doc Attribute" />
-   <Option Name="Setting 129" Value="XML Doc Comment" />
-   <Option Name="Setting 130" Value="XML Doc Tag" />
-   <Option Name="Setting 131" Value="XML Keyword" />
-   <Option Name="Setting 132" Value="XML Name" />
-   <Option Name="Setting 133" Value="XML Processing Instruction" />
-   <Option Name="Setting 134" Value="XML Text" />
-   <Option Name="Setting 135" Value="XSLT Keyword" />
+   <Option Name="Setting 32" Value="CSS Comment" />
+   <Option Name="Setting 33" Value="CSS Keyword" />
+   <Option Name="Setting 34" Value="CSS Property Name" />
+   <Option Name="Setting 35" Value="CSS Property Value" />
+   <Option Name="Setting 36" Value="CSS Selector" />
+   <Option Name="Setting 37" Value="CSS String Value" />
+   <Option Name="Setting 38" Value="Current list location" />
+   <Option Name="Setting 39" Value="Current Statement" />
+   <Option Name="Setting 40" Value="Executing Thread IP" />
+   <Option Name="Setting 41" Value="Executiong Threads IPs" />
+   <Option Name="Setting 42" Value="Current Statement (new context)" />
+   <Option Name="Setting 43" Value="Dead Code" />
+   <Option Name="Setting 44" Value="Definition Window Background" />
+   <Option Name="Setting 45" Value="Definition Window Current Match" />
+   <Option Name="Setting 46" Value="Disassembly File Name" />
+   <Option Name="Setting 47" Value="Disassembly Source" />
+   <Option Name="Setting 48" Value="Disassembly Symbol" />
+   <Option Name="Setting 49" Value="Disassembly Text" />
+   <Option Name="Setting 50" Value="Excluded Code" />
+   <Option Name="Setting 51" Value="HTML Attribute" />
+   <Option Name="Setting 52" Value="HTML Attribute Value" />
+   <Option Name="Setting 53" Value="HTML Comment" />
+   <Option Name="Setting 54" Value="HTML Element Name" />
+   <Option Name="Setting 55" Value="HTML Entity" />
+   <Option Name="Setting 56" Value="HTML Operator" />
+   <Option Name="Setting 57" Value="HTML Server-Side Script" />
+   <Option Name="Setting 58" Value="HTML Tag Delimiter" />
+   <Option Name="Setting 59" Value="Identifier" />
+   <Option Name="Setting 60" Value="Keyword" />
+   <Option Name="Setting 61" Value="Memory Address" />
+   <Option Name="Setting 62" Value="Memory Changed" />
+   <Option Name="Setting 63" Value="Memory Data" />
+   <Option Name="Setting 64" Value="Memory Unreadable" />
+   <Option Name="Setting 65" Value="Number" />
+   <Option Name="Setting 66" Value="On-the-fly Error" />
+   <Option Name="Setting 67" Value="On-the-fly Hint" />
+   <Option Name="Setting 68" Value="On-the-fly Warning" />
+   <Option Name="Setting 69" Value="Operator" />
+   <Option Name="Setting 70" Value="Other Error" />
+   <Option Name="Setting 71" Value="Preprocessor Keyword" />
+   <Option Name="Setting 72" Value="Read-Only Region" />
+   <Option Name="Setting 73" Value="Refactoring Background" />
+   <Option Name="Setting 74" Value="Refactoring Current Field" />
+   <Option Name="Setting 75" Value="Refactoring Dependent Field" />
+   <Option Name="Setting 76" Value="Register Data" />
+   <Option Name="Setting 77" Value="Register Data Changed" />
+   <Option Name="Setting 78" Value="Register NAT" />
+   <Option Name="Setting 79" Value="Smart Tag" />
+   <Option Name="Setting 80" Value="SQL DML Marker" />
+   <Option Name="Setting 81" Value="Stale Code" />
+   <Option Name="Setting 82" Value="String" />
+   <Option Name="Setting 83" Value="String(C# @ Verbatim)" />
+   <Option Name="Setting 84" Value="Syntax Error" />
+   <Option Name="Setting 85" Value="Task List Shortcut" />
+   <Option Name="Setting 86" Value="Tracepoint (Disabled)" />
+   <Option Name="Setting 87" Value="Tracepoint (Enabled)" />
+   <Option Name="Setting 88" Value="Tracepoint (Error)" />
+   <Option Name="Setting 89" Value="Tracepoint (Warning)" />
+   <Option Name="Setting 90" Value="Tracepoint - Advanced (Disabled)" />
+   <Option Name="Setting 91" Value="Tracepoint - Advanced (Enabled)" />
+   <Option Name="Setting 92" Value="Tracepoint - Advanced (Error)" />
+   <Option Name="Setting 93" Value="Tracepoint - Advanced (Warning)" />
+   <Option Name="Setting 94" Value="Tracepoint - Mapped (Disabled)" />
+   <Option Name="Setting 95" Value="Tracepoint - Mapped (Enabled)" />
+   <Option Name="Setting 96" Value="Tracepoint - Mapped (Error)" />
+   <Option Name="Setting 97" Value="Tracepoint - Mapped (Warning)" />
+   <Option Name="Setting 98" Value="Track Changes after save" />
+   <Option Name="Setting 99" Value="Track Changes before save" />
+   <Option Name="Setting 100" Value="User Keywords" />
+   <Option Name="Setting 101" Value="User Types" />
+   <Option Name="Setting 102" Value="User Types(Delegates)" />
+   <Option Name="Setting 103" Value="User Types(Enums)" />
+   <Option Name="Setting 104" Value="User Types(Interfaces)" />
+   <Option Name="Setting 105" Value="User Types(Value types)" />
+   <Option Name="Setting 106" Value="VB XML Attribute Name" />
+   <Option Name="Setting 107" Value="VB XML Attribute Quotes" />
+   <Option Name="Setting 108" Value="VB XML Attribute Value" />
+   <Option Name="Setting 109" Value="VB XML CData Section" />
+   <Option Name="Setting 110" Value="VB XML Comment" />
+   <Option Name="Setting 111" Value="VB XML Delimiter" />
+   <Option Name="Setting 112" Value="VB XML Embedded Expression" />
+   <Option Name="Setting 113" Value="VB XML Name" />
+   <Option Name="Setting 114" Value="VB XML Processing Instruction" />
+   <Option Name="Setting 115" Value="VB XML Text" />
+   <Option Name="Setting 116" Value="Visual Basic Read Only Marker" />
+   <Option Name="Setting 117" Value="Warning" />
+   <Option Name="Setting 118" Value="Warning Lines Path" />
+   <Option Name="Setting 119" Value="XAML Attribute" />
+   <Option Name="Setting 120" Value="XAML Attribute Quotes" />
+   <Option Name="Setting 121" Value="XAML Attribute Value" />
+   <Option Name="Setting 122" Value="XAML CData Section" />
+   <Option Name="Setting 123" Value="XAML Comment" />
+   <Option Name="Setting 124" Value="XAML Delimiter" />
+   <Option Name="Setting 125" Value="XAML Keyword" />
+   <Option Name="Setting 126" Value="XAML Markup Extension Class" />
+   <Option Name="Setting 127" Value="XAML Markup Extension Parameter Name" />
+   <Option Name="Setting 128" Value="XAML Markup Extension Parameter Value" />
+   <Option Name="Setting 129" Value="XAML Name" />
+   <Option Name="Setting 130" Value="XAML Processing Instruction" />
+   <Option Name="Setting 131" Value="XAML Text" />
+   <Option Name="Setting 132" Value="XML Attribute" />
+   <Option Name="Setting 133" Value="XML Attribute Quotes" />
+   <Option Name="Setting 134" Value="XML Attribute Value" />
+   <Option Name="Setting 135" Value="XML CData Section" />
+   <Option Name="Setting 136" Value="XML Comment" />
+   <Option Name="Setting 137" Value="XML Delimiter" />
+   <Option Name="Setting 138" Value="XML Doc Attribute" />
+   <Option Name="Setting 139" Value="XML Doc Comment" />
+   <Option Name="Setting 140" Value="XML Doc Tag" />
+   <Option Name="Setting 141" Value="XML Keyword" />
+   <Option Name="Setting 142" Value="XML Name" />
+   <Option Name="Setting 143" Value="XML Processing Instruction" />
+   <Option Name="Setting 144" Value="XML Text" />
+   <Option Name="Setting 145" Value="XSLT Keyword" />
   </Section>
   <Section Name="Plain Text">
    <Option Name="LocalName" Value="Plain Text" />
@@ -169,7 +179,7 @@
    <Option Name="Background" Value="4997436" />
    <Option Name="Foreground" Value="16777215" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Inactive Selected Text">
    <Option Name="LocalName" Value="Inactive Selected Text" />
@@ -195,7 +205,7 @@
    <Option Name="Background" Value="15790320" />
    <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Line Numbers">
    <Option Name="LocalName" Value="Line Numbers" />
@@ -205,9 +215,9 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="11505963" />
-   <Option Name="FontFlags" Value="-2147483648" />
+   <Option Name="Background" Value="0" />
+   <Option Name="Foreground" Value="8421504" />
+   <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Visible White Space">
@@ -218,7 +228,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="11505963" />
    <Option Name="FontFlags" Value="-2147483648" />
    <Option Name="Invalid" Value="True" />
@@ -227,12 +237,12 @@
    <Option Name="LocalName" Value="Bookmark" />
    <Option Name="Description" Value="" />
    <Option Name="AutoBackground" Value="16372415" />
-   <Option Name="AutoForeground" Value="16777227" />
+   <Option Name="AutoForeground" Value="16777216" />
    <Option Name="MarkerVisualStyle" Value="524293" />
    <Option Name="LineStyle" Value="LI_NONE" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
    <Option Name="Background" Value="16372415" />
-   <Option Name="Foreground" Value="8421504" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -244,8 +254,8 @@
    <Option Name="MarkerVisualStyle" Value="393218" />
    <Option Name="LineStyle" Value="LI_NONE" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="0" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="1" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -257,8 +267,8 @@
    <Option Name="MarkerVisualStyle" Value="524290" />
    <Option Name="LineStyle" Value="LI_NONE" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="13426907" />
-   <Option Name="Foreground" Value="0" />
+   <Option Name="Background" Value="4539717" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -465,8 +475,8 @@
    <Option Name="MarkerVisualStyle" Value="24" />
    <Option Name="LineStyle" Value="LI_SQUIGGLY" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="8579786" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="6946153" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -478,8 +488,8 @@
    <Option Name="MarkerVisualStyle" Value="24" />
    <Option Name="LineStyle" Value="LI_SQUIGGLY" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="2996105" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="1564183" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -491,8 +501,8 @@
    <Option Name="MarkerVisualStyle" Value="24" />
    <Option Name="LineStyle" Value="LI_SQUIGGLY" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="34903" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="43520" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -504,7 +514,7 @@
    <Option Name="MarkerVisualStyle" Value="262400" />
    <Option Name="LineStyle" Value="LI_DOTTED" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="0" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -518,7 +528,7 @@
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWBGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
    <Option Name="Background" Value="11855028" />
-   <Option Name="Foreground" Value="0" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -556,47 +566,8 @@
    <Option Name="MarkerVisualStyle" Value="24" />
    <Option Name="LineStyle" Value="LI_SQUIGGLY" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="16711680" />
-   <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
-  </Section>
-  <Section Name="Coverage Not Touched Area">
-   <Option Name="LocalName" Value="Coverage Not Touched Area" />
-   <Option Name="Description" Value="" />
-   <Option Name="AutoBackground" Value="10858726" />
-   <Option Name="AutoForeground" Value="0" />
-   <Option Name="MarkerVisualStyle" Value="8194" />
-   <Option Name="LineStyle" Value="LI_SOLID" />
-   <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="10858726" />
-   <Option Name="Foreground" Value="0" />
-   <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
-  </Section>
-  <Section Name="Coverage Partially Touched Area">
-   <Option Name="LocalName" Value="Coverage Partially Touched Area" />
-   <Option Name="Description" Value="" />
-   <Option Name="AutoBackground" Value="13561855" />
-   <Option Name="AutoForeground" Value="0" />
-   <Option Name="MarkerVisualStyle" Value="8194" />
-   <Option Name="LineStyle" Value="LI_SOLID" />
-   <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="13561855" />
-   <Option Name="Foreground" Value="0" />
-   <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
-  </Section>
-  <Section Name="Coverage Touched Area">
-   <Option Name="LocalName" Value="Coverage Touched Area" />
-   <Option Name="Description" Value="" />
-   <Option Name="AutoBackground" Value="16641504" />
-   <Option Name="AutoForeground" Value="0" />
-   <Option Name="MarkerVisualStyle" Value="8194" />
-   <Option Name="LineStyle" Value="LI_SOLID" />
-   <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16641504" />
-   <Option Name="Foreground" Value="0" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="11506246" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -608,8 +579,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="32768" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -621,8 +592,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="16711680" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="10652286" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -634,8 +605,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="255" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -647,8 +618,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="16711680" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="39167" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -660,8 +631,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="1381795" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="10652286" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -673,8 +644,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="16711680" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="3265189" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -751,7 +722,7 @@
    <Option Name="MarkerVisualStyle" Value="18" />
    <Option Name="LineStyle" Value="LI_NONE" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="10526880" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -777,7 +748,7 @@
    <Option Name="MarkerVisualStyle" Value="2359552" />
    <Option Name="LineStyle" Value="LI_DOTTED" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="0" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -790,7 +761,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="1381795" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -803,8 +774,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="0" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -816,7 +787,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="10813440" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -829,7 +800,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -842,7 +813,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -855,8 +826,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="3420457" />
-   <Option Name="Foreground" Value="15000288" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -868,8 +839,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="2762786" />
-   <Option Name="Foreground" Value="30444" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="3265189" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -881,8 +852,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="32768" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -894,8 +865,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="2762786" />
-   <Option Name="Foreground" Value="6539155" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="10652286" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -907,8 +878,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="255" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="39167" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -920,8 +891,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="3420457" />
-   <Option Name="Foreground" Value="15000288" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="10652286" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -933,8 +904,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="6483711" />
-   <Option Name="Foreground" Value="0" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="13038847" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -946,8 +917,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="2762786" />
-   <Option Name="Foreground" Value="15987441" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -985,7 +956,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -998,7 +969,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="255" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1011,8 +982,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="0" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1050,7 +1021,7 @@
    <Option Name="MarkerVisualStyle" Value="24" />
    <Option Name="LineStyle" Value="LI_SQUIGGLY" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="7602663" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1063,7 +1034,7 @@
    <Option Name="MarkerVisualStyle" Value="24" />
    <Option Name="LineStyle" Value="LI_SQUIGGLY" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="11829830" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1076,7 +1047,7 @@
    <Option Name="MarkerVisualStyle" Value="24" />
    <Option Name="LineStyle" Value="LI_SQUIGGLY" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="44270" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1102,7 +1073,7 @@
    <Option Name="MarkerVisualStyle" Value="24" />
    <Option Name="LineStyle" Value="LI_SQUIGGLY" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="9770901" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1115,8 +1086,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="15854304" />
-   <Option Name="Foreground" Value="16711680" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="13038842" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1155,7 +1126,7 @@
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWBGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
    <Option Name="Background" Value="11855028" />
-   <Option Name="Foreground" Value="0" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1167,7 +1138,7 @@
    <Option Name="MarkerVisualStyle" Value="262400" />
    <Option Name="LineStyle" Value="LI_DOTTED" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="0" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1180,8 +1151,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="0" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1193,7 +1164,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="255" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1206,7 +1177,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="12632256" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1219,7 +1190,7 @@
    <Option Name="MarkerVisualStyle" Value="278784" />
    <Option Name="LineStyle" Value="LI_DOTTED" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="16711680" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1232,7 +1203,7 @@
    <Option Name="MarkerVisualStyle" Value="4368" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="16711680" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1245,7 +1216,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="8388736" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1271,8 +1242,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="1381795" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="3265189" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1284,8 +1255,8 @@
    <Option Name="MarkerVisualStyle" Value="24" />
    <Option Name="LineStyle" Value="LI_SQUIGGLY" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="255" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="4860619" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1467,7 +1438,7 @@
    <Option Name="LineStyle" Value="LI_NONE" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
    <Option Name="Background" Value="7135852" />
-   <Option Name="Foreground" Value="0" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1480,7 +1451,7 @@
    <Option Name="LineStyle" Value="LI_NONE" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
    <Option Name="Background" Value="6483711" />
-   <Option Name="Foreground" Value="0" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1492,7 +1463,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="16711680" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1505,8 +1476,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="11505963" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15119530" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1518,8 +1489,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="11505963" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15119530" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1531,8 +1502,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="11505963" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="39167" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1544,8 +1515,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="11505963" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="3038363" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1557,8 +1528,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="11505963" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15119530" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1570,7 +1541,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="6579385" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1583,7 +1554,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="5592405" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1596,7 +1567,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="12149860" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1609,7 +1580,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="12632256" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1622,7 +1593,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="5609314" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1635,7 +1606,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="12149860" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1661,7 +1632,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="4605572" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1674,7 +1645,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="12632256" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1687,7 +1658,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="5592405" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1701,7 +1672,7 @@
    <Option Name="LineStyle" Value="LI_NONE" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
    <Option Name="Background" Value="15134702" />
-   <Option Name="Foreground" Value="0" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1713,8 +1684,8 @@
    <Option Name="MarkerVisualStyle" Value="24" />
    <Option Name="LineStyle" Value="LI_SQUIGGLY" />
    <Option Name="Flags" Value="FCIF_ISMARKER, FCIF_ALLOWFGCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="32768" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="4635033" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1731,6 +1702,175 @@
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
+  <Section Name="XAML Attribute">
+   <Option Name="LocalName" Value="XAML Attribute" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777217" />
+   <Option Name="AutoForeground" Value="16777216" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15065826" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="XAML Attribute Quotes">
+   <Option Name="LocalName" Value="XAML Attribute Quotes" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777217" />
+   <Option Name="AutoForeground" Value="16777239" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="0" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="XAML Attribute Value">
+   <Option Name="LocalName" Value="XAML Attribute Value" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777217" />
+   <Option Name="AutoForeground" Value="16777216" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="3265189" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="XAML CData Section">
+   <Option Name="LocalName" Value="XAML CData Section" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777217" />
+   <Option Name="AutoForeground" Value="16777216" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="6987151" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="XAML Comment">
+   <Option Name="LocalName" Value="XAML Comment" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777217" />
+   <Option Name="AutoForeground" Value="16777216" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="8421504" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="XAML Delimiter">
+   <Option Name="LocalName" Value="XAML Delimiter" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777217" />
+   <Option Name="AutoForeground" Value="16777216" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15065826" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="XAML Keyword">
+   <Option Name="LocalName" Value="XAML Keyword" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777217" />
+   <Option Name="AutoForeground" Value="16777216" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="16711680" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="XAML Markup Extension Class">
+   <Option Name="LocalName" Value="XAML Markup Extension Class" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777217" />
+   <Option Name="AutoForeground" Value="16777216" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15119530" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="XAML Markup Extension Parameter Name">
+   <Option Name="LocalName" Value="XAML Markup Extension Parameter Name" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777217" />
+   <Option Name="AutoForeground" Value="16777216" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="39167" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="XAML Markup Extension Parameter Value">
+   <Option Name="LocalName" Value="XAML Markup Extension Parameter Value" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777217" />
+   <Option Name="AutoForeground" Value="16777216" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15065826" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="XAML Name">
+   <Option Name="LocalName" Value="XAML Name" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777217" />
+   <Option Name="AutoForeground" Value="16777216" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="10652286" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="XAML Processing Instruction">
+   <Option Name="LocalName" Value="XAML Processing Instruction" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777217" />
+   <Option Name="AutoForeground" Value="16777216" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="8421504" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
+  <Section Name="XAML Text">
+   <Option Name="LocalName" Value="XAML Text" />
+   <Option Name="Description" Value="" />
+   <Option Name="AutoBackground" Value="16777217" />
+   <Option Name="AutoForeground" Value="16777239" />
+   <Option Name="MarkerVisualStyle" Value="0" />
+   <Option Name="LineStyle" Value="LI_SOLID" />
+   <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="0" />
+   <Option Name="FontFlags" Value="0" />
+   <Option Name="Invalid" Value="True" />
+  </Section>
   <Section Name="XML Attribute">
    <Option Name="LocalName" Value="XML Attribute" />
    <Option Name="Description" Value="" />
@@ -1739,8 +1879,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="255" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1752,8 +1892,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="0" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="3265189" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1765,8 +1905,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="16711680" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="3265189" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1778,8 +1918,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="8421504" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="6987151" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1791,8 +1931,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="32768" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1804,8 +1944,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="16711680" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="15065826" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1817,7 +1957,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1830,8 +1970,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="32768" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="6987151" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1856,7 +1996,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="16711680" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1869,8 +2009,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
-   <Option Name="Foreground" Value="1381795" />
+   <Option Name="Background" Value="2105376" />
+   <Option Name="Foreground" Value="10652286" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
   </Section>
@@ -1882,7 +2022,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1895,7 +2035,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="0" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
@@ -1908,7 +2048,7 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="16777215" />
+   <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="11505963" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="True" />
