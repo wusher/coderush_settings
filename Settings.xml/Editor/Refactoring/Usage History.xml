@@ -2,8 +2,8 @@
 <Page Name="Usage History">
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
-   <Option Name="Declaration" Value="496" />
-   <Option Name="MostRecentlyUsedObject" Value="Declaration" />
+   <Option Name="Declaration" Value="497" />
+   <Option Name="MostRecentlyUsedObject" Value="Declare Local" />
    <Option Name="Compress to Lambda Expression" Value="14" />
    <Option Name="Introduce Local" Value="239" />
    <Option Name="Inline Temp1" Value="101" />
@@ -17,7 +17,7 @@
    <Option Name="Extract Method" Value="218" />
    <Option Name="Remove Parameter" Value="74" />
    <Option Name="Expand Lambda Expression" Value="20" />
-   <Option Name="Declare Local" Value="82" />
+   <Option Name="Declare Local" Value="83" />
    <Option Name="Promote to Parameter" Value="25" />
    <Option Name="Introduce Using Statement" Value="37" />
    <Option Name="Break Apart Parameters" Value="43" />
@@ -230,7 +230,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Split Initialization from Declaration" />
   </Section>
   <Section Name="|Declare Local|Declare Local (implicit)|">
-   <Option Name="Declare Local" Value="72" />
+   <Option Name="Declare Local" Value="73" />
    <Option Name="Declare Local (implicit)" Value="459" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Local" />
   </Section>
@@ -1615,7 +1615,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="233" />
+   <Option Name="Declaration" Value="234" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Ancestor|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
@@ -1758,6 +1758,7 @@
   <Section Name="|Introduce Using Statement|Make Implicit|Rename|Replace Temp with Query|Split Initialization from Declaration|">
    <Option Name="Split Initialization from Declaration" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Split Initialization from Declaration" />
+   <Option Name="Make Implicit" Value="1" />
   </Section>
   <Section Name="|Inline Temp|Make Implicit|Promote to Parameter|Promote to Parameter (optional)|Rename|Split Initialization from Declaration|Widen Scope|Widen Scope (promote to field)|">
    <Option Name="Promote to Parameter" Value="1" />
