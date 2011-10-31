@@ -8,14 +8,14 @@
    <Option Name="SplitOpen" Value="True" />
    <Option Name="Top" Value="-8" />
    <Option Name="Left" Value="1607" />
-   <Option Name="Width" Value="946" />
-   <Option Name="Height" Value="856" />
+   <Option Name="Width" Value="962" />
+   <Option Name="Height" Value="894" />
   </Section>
   <Section Name="Preferences">
    <Option Name="ShowHints" Value="False" />
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="IDE\Shortcuts" />
+   <Option Name="LastSelectedNode" Value="Core\Startup" />
    <Option Name="PriorSelectedNode" Value="Core" />
    <Option Name="LastNonNeutralLanguageSelected" Value="Basic" />
   </Section>

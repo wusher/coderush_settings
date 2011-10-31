@@ -4,5 +4,8 @@
   <Section Name="General">
    <Option Name="LastDXCoreVersion" Value="11.1.8" />
   </Section>
+  <Section Name="Loader">
+   <Option Name="UseRawAssemblyLoad" Value="False" />
+  </Section>
  </Language>
 </Page>

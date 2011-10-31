@@ -1001,7 +1001,7 @@
   </Section>
   <Section Name="Remove Empty Handler">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="35" />
+   <Option Name="QueryCount" Value="36" />
    <Option Name="Description" Value="Removes+an+empty+event+handler+along+with+the+event+handler+assignment." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
