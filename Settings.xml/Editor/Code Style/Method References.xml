@@ -2,7 +2,7 @@
 <Page Name="Method References">
  <Language Name="*Neutral*">
   <Section Name="MethodReferences">
-   <Option Name="UseAsParameterType" Value="AlwaysUseDelegates" />
+   <Option Name="UseAsParameterType" Value="WhenNeededUseDelegates" />
   </Section>
  </Language>
 </Page>

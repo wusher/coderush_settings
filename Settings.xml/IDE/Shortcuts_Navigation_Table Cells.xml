@@ -100,7 +100,7 @@
    <Option Name="ContextSelected_Count" Value="1" />
    <Option Name="ContextSelected_0" Value="System\CellNavTooltipIsActive" />
    <Option Name="ContextExcluded_Count" Value="0" />
-   <Option Name="Selected" Value="True" />
+   <Option Name="Selected" Value="False" />
   </Section>
   <Section Name="Command3">
    <Option Name="Key1.KeyState" Value="5767169" />

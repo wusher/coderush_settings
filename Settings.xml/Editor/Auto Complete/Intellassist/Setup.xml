@@ -18,8 +18,8 @@
   </Section>
   <Section Name="Case Sensitivity">
    <Option Name="ExactMatchesOnly" Value="False" />
-   <Option Name="ExactMatchesOnlyWhenUppercaseCharsExist" Value="False" />
-   <Option Name="InexactMatchHighlightColor" Value="ARGB:255:204:0:0" />
+   <Option Name="ExactMatchesOnlyWhenUppercaseCharsExist" Value="True" />
+   <Option Name="InexactMatchHighlightColor" Value="Named:Red" />
   </Section>
   <Section Name="Suggestion Order">
    <Option Name="SortOrder" Value="Length" />

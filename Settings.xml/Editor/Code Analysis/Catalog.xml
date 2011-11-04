@@ -2,7 +2,7 @@
 <Page Name="Catalog">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="Count" Value="145" />
+   <Option Name="Count" Value="129" />
   </Section>
   <Section Name="CodeIssuesList">
    <Option Name="ProviderName0" Value="Abstract member cannot be declared in nonabstract class" />
@@ -19,19 +19,19 @@
    <Option Name="Enabled5" Value="True" />
    <Option Name="ProviderName6" Value="Array elements cannot be of static type" />
    <Option Name="Enabled6" Value="True" />
-   <Option Name="ProviderName7" Value="BaseTypeConstructorsAreNotImplemented" />
+   <Option Name="ProviderName7" Value="Base type constructors are not implemented" />
    <Option Name="Enabled7" Value="True" />
    <Option Name="ProviderName8" Value="Can combine initialization with declaration" />
    <Option Name="Enabled8" Value="True" />
    <Option Name="ProviderName9" Value="Can declare MVC View" />
    <Option Name="Enabled9" Value="True" />
-   <Option Name="ProviderName10" Value="Can initialize conditionally" />
+   <Option Name="ProviderName10" Value="Can implement base type constructors" />
    <Option Name="Enabled10" Value="True" />
-   <Option Name="ProviderName11" Value="Can inline temporary variable" />
+   <Option Name="ProviderName11" Value="Can initialize conditionally" />
    <Option Name="Enabled11" Value="True" />
-   <Option Name="ProviderName12" Value="Can remove type qualifier" />
+   <Option Name="ProviderName12" Value="Can inline temporary variable" />
    <Option Name="Enabled12" Value="True" />
-   <Option Name="ProviderName13" Value="CanImplementBaseTypeConstructors" />
+   <Option Name="ProviderName13" Value="Can remove type qualifier" />
    <Option Name="Enabled13" Value="True" />
    <Option Name="ProviderName14" Value="Cannot create an instance of abstract class" />
    <Option Name="Enabled14" Value="True" />
@@ -83,13 +83,13 @@
    <Option Name="Enabled37" Value="True" />
    <Option Name="ProviderName38" Value="Destructor must declare a body" />
    <Option Name="Enabled38" Value="True" />
-   <Option Name="ProviderName39" Value="Empty case statement" />
+   <Option Name="ProviderName39" Value="Empty event handler" />
    <Option Name="Enabled39" Value="True" />
-   <Option Name="ProviderName40" Value="Empty event handler" />
+   <Option Name="ProviderName40" Value="Empty finally block" />
    <Option Name="Enabled40" Value="True" />
-   <Option Name="ProviderName41" Value="Empty finally block" />
+   <Option Name="ProviderName41" Value="Empty namespace declaration" />
    <Option Name="Enabled41" Value="True" />
-   <Option Name="ProviderName42" Value="Empty namespace declaration" />
+   <Option Name="ProviderName42" Value="Empty switch statement" />
    <Option Name="Enabled42" Value="True" />
    <Option Name="ProviderName43" Value="Environment.NewLine can be used" />
    <Option Name="Enabled43" Value="True" />
@@ -244,7 +244,7 @@
    <Option Name="ProviderName118" Value="Type name does not correspond to file name" />
    <Option Name="Enabled118" Value="True" />
    <Option Name="ProviderName119" Value="Undeclared element" />
-   <Option Name="Enabled119" Value="True" />
+   <Option Name="Enabled119" Value="False" />
    <Option Name="ProviderName120" Value="Undisposed local" />
    <Option Name="Enabled120" Value="True" />
    <Option Name="ProviderName121" Value="Unused declaration" />

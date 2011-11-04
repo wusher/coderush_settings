@@ -2,7 +2,7 @@
 <Page Name="Introduce Constant">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="DefaultConstantName" Value="Constant" />
+   <Option Name="DefaultConstantName" Value="CONSTANT" />
    <Option Name="MaxConstantNameLength" Value="48" />
    <Option Name="ReplaceOnce" Value="False" />
    <Option Name="ReplaceAutomatic" Value="True" />

@@ -58,6 +58,7 @@
    <Option Name="message,GetUploadedBy" Value="message" />
    <Option Name="efileConfigFile" Value="efileConfigFile" />
    <Option Name="doRunEveryLaunch" Value="doRunEveryLaunch" />
+   <Option Name="Config,_config" Value="_config" />
   </Section>
  </Language>
 </Page>

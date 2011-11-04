@@ -2,7 +2,7 @@
 <Page Name="Extract Property">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="InsertCode" Value="UsePicker" />
+   <Option Name="InsertCode" Value="AfterTarget" />
    <Option Name="EmbedInParens" Value="False" />
   </Section>
  </Language>

@@ -9,7 +9,7 @@
   <Section Name="Options">
    <Option Name="SelectorColor" Value="ARGB:255:106:153:195" />
    <Option Name="CheckedSelectorColor" Value="Named:Tomato" />
-   <Option Name="FillOpacity" Value="28" />
+   <Option Name="FillOpacity" Value="255" />
   </Section>
  </Language>
 </Page>

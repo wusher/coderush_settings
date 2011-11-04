@@ -4,14 +4,14 @@
   <Section Name="FolderInfo">
    <Option Name="Enabled" Value="True" />
    <Option Name="Description" Value="Shortcuts for working in the form/component designer." />
-   <Option Name="FolderState" Value="Collapsed" />
+   <Option Name="FolderState" Value="Expanded" />
   </Section>
   <Section Name="Header">
    <Option Name="Count" Value="1" />
   </Section>
   <Section Name="Command0">
-   <Option Name="Key1.KeyState" Value="5767169" />
-   <Option Name="Key1.KeyCode" Value="123" />
+   <Option Name="Key1.KeyState" Value="4521985" />
+   <Option Name="Key1.KeyCode" Value="19" />
    <Option Name="Key1.Ctrl" Value="False" />
    <Option Name="Key1.Shift" Value="False" />
    <Option Name="Key1.Alt" Value="False" />
@@ -33,7 +33,7 @@
    <Option Name="ShiftKeyDown" Value="False" />
    <Option Name="CtrlKeyDown" Value="False" />
    <Option Name="AltKeyDown" Value="False" />
-   <Option Name="Enabled" Value="False" />
+   <Option Name="Enabled" Value="True" />
    <Option Name="ContextSelected_Count" Value="2" />
    <Option Name="ContextSelected_0" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextSelected_1" Value="Focus\Documents\Source\Form Designer" />

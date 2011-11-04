@@ -2,7 +2,7 @@
 <Page Name="Duplicate Line Setup">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="CopyLineIfNoMatchFound" Value="False" />
+   <Option Name="CopyLineIfNoMatchFound" Value="True" />
    <Option Name="DuplicatePreviousLine" Value="False" />
   </Section>
  </Language>

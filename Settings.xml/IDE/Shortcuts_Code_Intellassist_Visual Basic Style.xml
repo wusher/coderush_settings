@@ -3,8 +3,8 @@
  <Language Name="*Neutral*">
   <Section Name="FolderInfo">
    <Option Name="Enabled" Value="False" />
-   <Option Name="Description" Value="Accept suggestions with Tab or Enter; cycle suggestions with the arrow keys.$LineBreak$$LineBreak$See comment for the Intellassist folder (parenting this folder) for notes on how to enable or disable this group of UI settings for Intellassist." />
-   <Option Name="FolderState" Value="Collapsed" />
+   <Option Name="Description" Value="Enable only one of the subfolders below. Enable either the &quot;Visual Basic Style&quot; folder (accept suggestions with the Tab key, cycle suggestions with the arrow keys) or the &quot;C# Style&quot; folder (accept suggestions with the Enter key, cycle suggestions with Tab and Shift+Tab)." />
+   <Option Name="FolderState" Value="Expanded" />
   </Section>
   <Section Name="Header">
    <Option Name="Count" Value="11" />
@@ -33,7 +33,7 @@
    <Option Name="ShiftKeyDown" Value="False" />
    <Option Name="CtrlKeyDown" Value="False" />
    <Option Name="AltKeyDown" Value="False" />
-   <Option Name="Enabled" Value="False" />
+   <Option Name="Enabled" Value="True" />
    <Option Name="ContextSelected_Count" Value="2" />
    <Option Name="ContextSelected_0" Value="Focus\Documents\Source\Code Editor" />
    <Option Name="ContextSelected_1" Value="System\Intellassist Active" />

@@ -2,7 +2,7 @@
 <Page Name="Duplicate Line">
  <Language Name="*Neutral*">
   <Section Name="Doc">
-   <Option Name="LastLanguage" Value="CSharp" />
+   <Option Name="LastLanguage" Value="CSS" />
   </Section>
  </Language>
  <Language Name="Basic">
@@ -609,7 +609,7 @@
    <Option Name="OptionalWhiteSpace" Value="True" />
    <Option Name="StripWhiteSpace" Value="False" />
    <Option Name="StripComment" Value="False" />
-   <Option Name="Order" Value="13" />
+   <Option Name="Order" Value="12" />
    <Option Name="Test_Count" Value="0" />
    <Option Name="ContextSelected_Count" Value="2" />
    <Option Name="ContextSelected_0" Value="Editor\Code\InClass" />

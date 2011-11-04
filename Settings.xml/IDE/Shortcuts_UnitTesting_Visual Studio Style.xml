@@ -7,7 +7,7 @@
    <Option Name="FolderState" Value="Expanded" />
   </Section>
   <Section Name="Header">
-   <Option Name="Count" Value="8" />
+   <Option Name="Count" Value="11" />
   </Section>
   <Section Name="Command0">
    <Option Name="Key1.KeyState" Value="1245185" />
@@ -240,6 +240,93 @@
    <Option Name="ContextSelected_Count" Value="0" />
    <Option Name="ContextExcluded_Count" Value="0" />
    <Option Name="Selected" Value="False" />
+  </Section>
+  <Section Name="Command8">
+   <Option Name="Key1.KeyState" Value="1245185" />
+   <Option Name="Key1.KeyCode" Value="82" />
+   <Option Name="Key1.Ctrl" Value="True" />
+   <Option Name="Key1.Shift" Value="False" />
+   <Option Name="Key1.Alt" Value="False" />
+   <Option Name="Key1.RightSide" Value="False" />
+   <Option Name="Key1.Extended" Value="False" />
+   <Option Name="Key2.KeyState" Value="1638401" />
+   <Option Name="Key2.KeyCode" Value="80" />
+   <Option Name="Key2.Ctrl" Value="False" />
+   <Option Name="Key2.Shift" Value="False" />
+   <Option Name="Key2.Alt" Value="False" />
+   <Option Name="Key2.RightSide" Value="False" />
+   <Option Name="Key2.Extended" Value="False" />
+   <Option Name="Command" Value="UnitTestsRunProject" />
+   <Option Name="Comments" Value="" />
+   <Option Name="Parameters" Value="" />
+   <Option Name="SendKeyToIDE" Value="True" />
+   <Option Name="Binding" Value="0" />
+   <Option Name="MouseAction" Value="0" />
+   <Option Name="ShiftKeyDown" Value="False" />
+   <Option Name="CtrlKeyDown" Value="False" />
+   <Option Name="AltKeyDown" Value="False" />
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ContextSelected_Count" Value="0" />
+   <Option Name="ContextExcluded_Count" Value="0" />
+   <Option Name="Selected" Value="False" />
+  </Section>
+  <Section Name="Command9">
+   <Option Name="Key1.KeyState" Value="1245185" />
+   <Option Name="Key1.KeyCode" Value="82" />
+   <Option Name="Key1.Ctrl" Value="True" />
+   <Option Name="Key1.Shift" Value="False" />
+   <Option Name="Key1.Alt" Value="False" />
+   <Option Name="Key1.RightSide" Value="False" />
+   <Option Name="Key1.Extended" Value="False" />
+   <Option Name="Key2.KeyState" Value="2162689" />
+   <Option Name="Key2.KeyCode" Value="70" />
+   <Option Name="Key2.Ctrl" Value="False" />
+   <Option Name="Key2.Shift" Value="False" />
+   <Option Name="Key2.Alt" Value="False" />
+   <Option Name="Key2.RightSide" Value="False" />
+   <Option Name="Key2.Extended" Value="False" />
+   <Option Name="Command" Value="UnitTestsRunFile" />
+   <Option Name="Comments" Value="" />
+   <Option Name="Parameters" Value="" />
+   <Option Name="SendKeyToIDE" Value="True" />
+   <Option Name="Binding" Value="0" />
+   <Option Name="MouseAction" Value="0" />
+   <Option Name="ShiftKeyDown" Value="False" />
+   <Option Name="CtrlKeyDown" Value="False" />
+   <Option Name="AltKeyDown" Value="False" />
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ContextSelected_Count" Value="0" />
+   <Option Name="ContextExcluded_Count" Value="0" />
+   <Option Name="Selected" Value="False" />
+  </Section>
+  <Section Name="Command10">
+   <Option Name="Key1.KeyState" Value="1245185" />
+   <Option Name="Key1.KeyCode" Value="82" />
+   <Option Name="Key1.Ctrl" Value="True" />
+   <Option Name="Key1.Shift" Value="False" />
+   <Option Name="Key1.Alt" Value="False" />
+   <Option Name="Key1.RightSide" Value="False" />
+   <Option Name="Key1.Extended" Value="False" />
+   <Option Name="Key2.KeyState" Value="1638401" />
+   <Option Name="Key2.KeyCode" Value="80" />
+   <Option Name="Key2.Ctrl" Value="True" />
+   <Option Name="Key2.Shift" Value="False" />
+   <Option Name="Key2.Alt" Value="False" />
+   <Option Name="Key2.RightSide" Value="False" />
+   <Option Name="Key2.Extended" Value="False" />
+   <Option Name="Command" Value="UnitTestsRunProject" />
+   <Option Name="Comments" Value="" />
+   <Option Name="Parameters" Value="" />
+   <Option Name="SendKeyToIDE" Value="True" />
+   <Option Name="Binding" Value="0" />
+   <Option Name="MouseAction" Value="0" />
+   <Option Name="ShiftKeyDown" Value="False" />
+   <Option Name="CtrlKeyDown" Value="False" />
+   <Option Name="AltKeyDown" Value="False" />
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ContextSelected_Count" Value="0" />
+   <Option Name="ContextExcluded_Count" Value="0" />
+   <Option Name="Selected" Value="True" />
   </Section>
  </Language>
 </Page>

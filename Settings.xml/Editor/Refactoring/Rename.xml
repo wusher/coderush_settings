@@ -5,7 +5,7 @@
    <Option Name="EnableCrossFileRename" Value="True" />
    <Option Name="UseCascade" Value="True" />
    <Option Name="Selection" Value="Smart" />
-   <Option Name="VisualizeProgress" Value="False" />
+   <Option Name="VisualizeProgress" Value="True" />
   </Section>
  </Language>
 </Page>

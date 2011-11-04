@@ -898,7 +898,6 @@
    <Option Name="BeginGroup" Value="False" />
    <Option Name="Caption" Value="block - {}" />
    <Option Name="VisibleOnMenu" Value="True" />
-   <Option Name="Top_1" Value="{" />
   </Section>
   <Section Name="Embedding_11">
    <Option Name="Left" Value="" />
@@ -972,13 +971,6 @@
    <Option Name="BeginGroup" Value="False" />
    <Option Name="Caption" Value="To string" />
    <Option Name="VisibleOnMenu" Value="True" />
-   <Option Name="Bottom_1" Value="finally" />
-   <Option Name="Bottom_2" Value="{" />
-   <Option Name="Bottom_3" Value=" Cursor.Current = «Link(saveCursor)»;" />
-   <Option Name="Bottom_4" Value="}" />
-   <Option Name="Top_1" Value="try" />
-   <Option Name="Top_2" Value="{" />
-   <Option Name="Top_3" Value=" Cursor.Current = Cursors.WaitCursor;" />
   </Section>
   <Section Name="Embedding_14">
    <Option Name="Left" Value="   | " />
@@ -999,14 +991,6 @@
    <Option Name="BeginGroup" Value="True" />
    <Option Name="Caption" Value="Comment box  •---•" />
    <Option Name="VisibleOnMenu" Value="True" />
-   <Option Name="Bottom_1" Value="finally" />
-   <Option Name="Bottom_2" Value="{" />
-   <Option Name="Bottom_3" Value="  «Link(stopwatch)».Stop();" />
-   <Option Name="Bottom_4" Value="}" />
-   <Option Name="Bottom_5" Value="Console.WriteLine(&quot;Time elapsed: {0}&quot;, «Link(stopwatch)».Elapsed);" />
-   <Option Name="Top_1" Value="«Link(stopwatch)».Start();" />
-   <Option Name="Top_2" Value="try" />
-   <Option Name="Top_3" Value="{" />
   </Section>
   <Section Name="Embedding_15">
    <Option Name="Left" Value="   | " />

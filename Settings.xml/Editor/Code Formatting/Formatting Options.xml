@@ -17,13 +17,13 @@
   </Section>
   <Section Name="Indentation">
    <Option Name="Indent anonymous method contents" Value="True" />
-   <Option Name="Indent array, object and collection initializer contents" Value="False" />
+   <Option Name="Indent array, object and collection initializer contents" Value="True" />
    <Option Name="Indent case statement contents" Value="True" />
    <Option Name="Indent case statement from switch statement" Value="True" />
    <Option Name="Indent code block contents" Value="True" />
    <Option Name="Indent comments" Value="True" />
    <Option Name="Indent labels" Value="False" />
-   <Option Name="Indent nested 'using' statements" Value="False" />
+   <Option Name="Indent nested 'using' statements" Value="True" />
    <Option Name="Indent open and close braces" Value="False" />
   </Section>
   <Section Name="LineBreaks">
@@ -34,8 +34,8 @@
    <Option Name="Place property attribute on separate line" Value="True" />
    <Option Name="Place type attribute on separate line" Value="True" />
    <Option Name="Place close brace on new line for anonymous methods" Value="True" />
-   <Option Name="Place close brace on new line for anonymous types" Value="False" />
-   <Option Name="Place close brace on new line for array, object and collection initializers" Value="False" />
+   <Option Name="Place close brace on new line for anonymous types" Value="True" />
+   <Option Name="Place close brace on new line for array, object and collection initializers" Value="True" />
    <Option Name="Place close brace on new line for block under case statement" Value="True" />
    <Option Name="Place close brace on new line for code blocks" Value="True" />
    <Option Name="Place close brace on new line for lambda expressions" Value="True" />
@@ -45,7 +45,7 @@
    <Option Name="Place close brace on new line for type declarations" Value="True" />
    <Option Name="Place open brace on new line for anonymous methods" Value="True" />
    <Option Name="Place open brace on new line for anonymous types" Value="True" />
-   <Option Name="Place open brace on new line for array, object and collection initializers" Value="False" />
+   <Option Name="Place open brace on new line for array, object and collection initializers" Value="True" />
    <Option Name="Place open brace on new line for block under case statement" Value="True" />
    <Option Name="Place open brace on new line for code blocks" Value="True" />
    <Option Name="Place open brace on new line for lambda expressions" Value="True" />
@@ -55,15 +55,15 @@
    <Option Name="Place open brace on new line for type declarations" Value="True" />
    <Option Name="Place abstract/interface member on single line" Value="True" />
    <Option Name="Place auto-implemented properties on single line" Value="True" />
-   <Option Name="Place constructor initializer on same line" Value="False" />
-   <Option Name="Place simple accessor on single line" Value="False" />
+   <Option Name="Place constructor initializer on same line" Value="True" />
+   <Option Name="Place simple accessor on single line" Value="True" />
    <Option Name="Place simple anonymous method on single line" Value="False" />
    <Option Name="Place simple member on single line" Value="False" />
    <Option Name="Place 'catch' statement on new line" Value="True" />
    <Option Name="Place 'else' statement on new line" Value="True" />
    <Option Name="Place 'finally' statement on new line" Value="True" />
    <Option Name="Place 'if' statement followed by 'else' on new line" Value="True" />
-   <Option Name="Place single embedded statement on single line" Value="False" />
+   <Option Name="Place single embedded statement on single line" Value="True" />
    <Option Name="Place 'while' statement on new line" Value="True" />
   </Section>
   <Section Name="OtherAndLanguageSpecific">
@@ -165,10 +165,10 @@
    <Option Name="Wrap before operator in binary expression" Value="False" />
    <Option Name="Wrap binary operator expression" Value="False" />
    <Option Name="Align with first logical expression item" Value="False" />
-   <Option Name="Wrap before operator in logical expression" Value="False" />
+   <Option Name="Wrap before operator in logical expression" Value="True" />
    <Option Name="Wrap logical operator expression" Value="False" />
    <Option Name="Align with first array, object or collection initializer item" Value="False" />
-   <Option Name="Wrap array, object and collection initializers" Value="False" />
+   <Option Name="Wrap array, object and collection initializers" Value="True" />
    <Option Name="Wrap first array, object and collection initializer" Value="False" />
    <Option Name="Align with first multi-variable declaration item" Value="False" />
    <Option Name="Wrap first multi-variable declaration" Value="False" />
@@ -179,7 +179,7 @@
    <Option Name="Align with first type parameter constraint" Value="False" />
    <Option Name="Wrap first type parameter constraint" Value="True" />
    <Option Name="Wrap multiple type parameter constraints" Value="False" />
-   <Option Name="Right margin column size" Value="80" />
+   <Option Name="Right margin column size" Value="78" />
    <Option Name="Wrap long lines" Value="False" />
    <Option Name="Align with first member in anonymous type" Value="False" />
    <Option Name="Wrap first member in anonymous type" Value="False" />
