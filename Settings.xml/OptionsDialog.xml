@@ -8,15 +8,15 @@
    <Option Name="SplitOpen" Value="True" />
    <Option Name="Top" Value="-8" />
    <Option Name="Left" Value="1607" />
-   <Option Name="Width" Value="1394" />
+   <Option Name="Width" Value="1410" />
    <Option Name="Height" Value="1044" />
   </Section>
   <Section Name="Preferences">
    <Option Name="ShowHints" Value="False" />
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="Core\Features Statistics" />
-   <Option Name="PriorSelectedNode" Value="Editor\Selections\Embedding" />
+   <Option Name="LastSelectedNode" Value="Core\Startup" />
+   <Option Name="PriorSelectedNode" Value="Core\Settings" />
    <Option Name="LastNonNeutralLanguageSelected" Value="Basic" />
   </Section>
   <Section Name="Global">

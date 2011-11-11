@@ -206,8 +206,8 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS, FCIF_PLAINTEXT" />
-   <Option Name="Background" Value="2105376" />
-   <Option Name="Foreground" Value="14737632" />
+   <Option Name="Background" Value="2236962" />
+   <Option Name="Foreground" Value="13224393" />
    <Option Name="FontFlags" Value="0" />
    <Option Name="Invalid" Value="False" />
   </Section>
@@ -248,7 +248,7 @@
    <Option Name="Background" Value="1118481" />
    <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Line Numbers">
    <Option Name="LocalName" Value="Line Numbers" />
@@ -963,7 +963,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="255" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Excluded Code">
    <Option Name="LocalName" Value="Excluded Code" />
@@ -1262,7 +1262,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="9770901" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="outlining.square">
    <Option Name="LocalName" Value="Outlining Margin Square" />
@@ -1769,7 +1769,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="0" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Tracepoint (Disabled)">
    <Option Name="LocalName" Value="Tracepoint (Disabled)" />
@@ -1977,7 +1977,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="14790085" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="User Types">
    <Option Name="LocalName" Value="User Types" />
@@ -1990,7 +1990,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="5629841" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="User Types(Delegates)">
    <Option Name="LocalName" Value="User Types (Delegates)" />

@@ -2,7 +2,7 @@
 <Page Name="DXCore Visualize_Toolbar">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="Visible" Value="True" />
+   <Option Name="Visible" Value="False" />
   </Section>
  </Language>
 </Page>
