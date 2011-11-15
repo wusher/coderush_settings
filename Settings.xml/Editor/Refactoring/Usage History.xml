@@ -2,8 +2,8 @@
 <Page Name="Usage History">
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
-   <Option Name="Declaration" Value="507" />
-   <Option Name="MostRecentlyUsedObject" Value="Rename File to Match Type" />
+   <Option Name="Declaration" Value="508" />
+   <Option Name="MostRecentlyUsedObject" Value="Declaration" />
    <Option Name="Compress to Lambda Expression" Value="15" />
    <Option Name="Introduce Local" Value="250" />
    <Option Name="Inline Temp1" Value="107" />
@@ -1658,7 +1658,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Add End Tag" />
   </Section>
   <Section Name="|Declaration|First Child|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="223" />
+   <Option Name="Declaration" Value="224" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Inline Temp|Make Implicit|Promote to Parameter|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope (promote to field)|">

@@ -13,7 +13,7 @@
    <Option Name="Boolean to Enum" Value="0.216808215475576" />
    <Option Name="Surround with UpdatePanel" Value="2204.57273706924" />
    <Option Name="Replace Temp with Query" Value="0.240844828648442" />
-   <Option Name="Convert to Procedure" Value="0.265275957490075" />
+   <Option Name="Convert to Procedure" Value="0.203940578318713" />
    <Option Name="Expand Ternary Expression" Value="0.316243115195753" />
    <Option Name="Create Ancestor" Value="18308.6027795785" />
    <Option Name="Line-up Parameters" Value="0.289111313694825" />

@@ -1571,7 +1571,7 @@
    <Option Name="Count" Value="0" />
   </Section>
   <Section Name="Doc">
-   <Option Name="LastLanguage" Value="XML" />
+   <Option Name="LastLanguage" Value="CSharp" />
   </Section>
   <Section Name="Options">
    <Option Name="SmartPasteIndex" Value="27" />
