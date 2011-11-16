@@ -59,6 +59,7 @@
    <Option Name="efileConfigFile" Value="efileConfigFile" />
    <Option Name="doRunEveryLaunch" Value="doRunEveryLaunch" />
    <Option Name="Config,_config" Value="_config" />
+   <Option Name="driver,GetInternetExlporer,GetChrome,GetFirefox,Current" Value="driver" />
   </Section>
  </Language>
 </Page>

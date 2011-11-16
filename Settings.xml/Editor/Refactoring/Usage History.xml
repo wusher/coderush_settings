@@ -1785,6 +1785,7 @@
   <Section Name="|Introduce Using Statement|Promote to Parameter|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
    <Option Name="Introduce Using Statement" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Introduce Using Statement" />
+   <Option Name="Split Initialization from Declaration" Value="1" />
   </Section>
   <Section Name="|Expand Ternary Expression|Rename|">
    <Option Name="Expand Ternary Expression" Value="1" />
@@ -3304,6 +3305,22 @@
   <Section Name="|Execute Statements in Parallel|Extract Method|">
    <Option Name="Extract Method" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Extract Method" />
+  </Section>
+  <Section Name="|Extract String to Resource|Extract String to Resource (replace all)|Introduce Constant|Introduce Constant (local)|Introduce Local|Introduce Local (replace all)|">
+   <Option Name="Introduce Constant" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Introduce Constant" />
+  </Section>
+  <Section Name="|Inline Temp1|Promote to Parameter|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope (promote to field)|">
+   <Option Name="Inline Temp1" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Inline Temp1" />
+  </Section>
+  <Section Name="|Inline Temp1|Rename|Split Initialization from Declaration|Widen Scope|">
+   <Option Name="Inline Temp1" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Inline Temp1" />
+  </Section>
+  <Section Name="|Make Explicit|Promote to Parameter|Replace Temp with Query|Widen Scope (promote to field)|">
+   <Option Name="Make Explicit" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Make Explicit" />
   </Section>
  </Language>
 </Page>
