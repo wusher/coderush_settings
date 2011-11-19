@@ -13,7 +13,7 @@
    <Option Name="Boolean to Enum" Value="0.216808215475576" />
    <Option Name="Surround with UpdatePanel" Value="2204.57273706924" />
    <Option Name="Replace Temp with Query" Value="0.240844828648442" />
-   <Option Name="Convert to Procedure" Value="0.483806642832414" />
+   <Option Name="Convert to Procedure" Value="0.656478572178163" />
    <Option Name="Expand Ternary Expression" Value="0.316243115195753" />
    <Option Name="Create Ancestor" Value="18308.6027795785" />
    <Option Name="Line-up Parameters" Value="0.289111313694825" />
@@ -37,7 +37,7 @@
    <Option Name="Collapse Conditional" Value="2566.96605195068" />
    <Option Name="Move Declaration Near Reference" Value="0.218249727259569" />
    <Option Name="Declare Class with Properties" Value="0.150491127363991" />
-   <Option Name="Encapsulate Downcast" Value="0.221897662606164" />
+   <Option Name="Encapsulate Downcast" Value="0.188353990004522" />
    <Option Name="Assume Contract" Value="0.301717514054697" />
    <Option Name="Combine Conditionals" Value="0.309414299066716" />
    <Option Name="Reorder Attributes" Value="0.219494558350011" />
@@ -52,7 +52,7 @@
    <Option Name="Widen Scope (promote to field)" Value="0.234723154624588" />
    <Option Name="Add XML Comments" Value="21493.8173908179" />
    <Option Name="Declare Constructor" Value="0.907462046582604" />
-   <Option Name="Declare Getter" Value="0.155810745277948" />
+   <Option Name="Declare Getter" Value="0.142198573334758" />
    <Option Name="Remove Parameter" Value="0.238291341987259" />
    <Option Name="Convert to Function" Value="0.394031487082782" />
    <Option Name="Use IsNullOrEmpty (cp)" Value="0.131123424837078" />
@@ -63,7 +63,7 @@
    <Option Name="Remove Event Handler" Value="0.359691184177231" />
    <Option Name="Declare Field" Value="0.356193932163358" />
    <Option Name="Convert to Initializer" Value="0.211021432162506" />
-   <Option Name="Convert to Integer" Value="0.136111112401115" />
+   <Option Name="Convert to Integer" Value="0.16089521442053" />
    <Option Name="Remove Type Qualifier" Value="0.149585372818444" />
    <Option Name="Add to Interface" Value="0.555011366928638" />
    <Option Name="Name Anonymous Method" Value="0.276729588801615" />
@@ -74,7 +74,7 @@
    <Option Name="Simplify Expression" Value="0.277715072928392" />
    <Option Name="Declare Field with Initializer" Value="0.72213686385588" />
    <Option Name="Exit Method" Value="0.287298214260789" />
-   <Option Name="Use Assertions" Value="0.169812174983104" />
+   <Option Name="Use Assertions" Value="0.156074209543761" />
    <Option Name="Remove Setter Guard Clause" Value="0.255788051107617" />
    <Option Name="Encapsulate Method" Value="0.283762455210516" />
    <Option Name="Introduce Local" Value="0.264962292400326" />
@@ -122,7 +122,7 @@
    <Option Name="Introduce Local (replace all)" Value="0.401971147899097" />
    <Option Name="Use Implicit Typecast" Value="0.572596560763054" />
    <Option Name="Encapsulate Field (read-only)" Value="0.189339217494807" />
-   <Option Name="Add Contract" Value="0.275713744448722" />
+   <Option Name="Add Contract" Value="0.263301711271621" />
    <Option Name="Convert to Point" Value="0.181821404355943" />
    <Option Name="Create Descendant (with virtual overrides)" Value="7178.02544807449" />
    <Option Name="Inline Macro" Value="0.333933349450105" />
@@ -156,7 +156,7 @@
    <Option Name="Remove Region Directives" Value="0.555418853851164" />
    <Option Name="Use Environment.NewLine" Value="25961.7438485516" />
    <Option Name="Declare Property" Value="0.485931444820154" />
-   <Option Name="Remove Setter" Value="0.168914981113768" />
+   <Option Name="Remove Setter" Value="0.257083799020734" />
    <Option Name="Introduce Setter Guard Clause" Value="0.348469240320056" />
    <Option Name="Execute Statement Asynchronously (FromAsync)" Value="0.180377400452533" />
    <Option Name="Declare Controller" Value="0.225601953722281" />
@@ -168,7 +168,7 @@
    <Option Name="Create Implementer (explicit)" Value="14816.5569653453" />
    <Option Name="Use StringBuilder" Value="0.622445119569508" />
    <Option Name="Make Extension" Value="0.164187840854392" />
-   <Option Name="Declare Local" Value="0.2086106000869" />
+   <Option Name="Declare Local" Value="0.16610875652637" />
    <Option Name="Use Explicit Typecast" Value="0.172917048413448" />
   </Section>
  </Language>

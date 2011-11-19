@@ -2,39 +2,39 @@
 <Page Name="Usage History">
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
-   <Option Name="Declaration" Value="508" />
-   <Option Name="MostRecentlyUsedObject" Value="Declaration" />
+   <Option Name="Declaration" Value="511" />
+   <Option Name="MostRecentlyUsedObject" Value="Remove Parameter" />
    <Option Name="Compress to Lambda Expression" Value="15" />
    <Option Name="Introduce Local" Value="250" />
    <Option Name="Inline Temp1" Value="107" />
-   <Option Name="Create Method Stub" Value="315" />
-   <Option Name="Declare Local (implicit)" Value="503" />
+   <Option Name="Create Method Stub" Value="316" />
+   <Option Name="Declare Local (implicit)" Value="505" />
    <Option Name="Split Initialization from Declaration" Value="68" />
    <Option Name="Declare Property (auto-implemented)" Value="28" />
    <Option Name="Declare Class" Value="30" />
    <Option Name="Rename File to Match Type" Value="119" />
    <Option Name="First Child" Value="4" />
    <Option Name="Extract Method" Value="221" />
-   <Option Name="Remove Parameter" Value="79" />
+   <Option Name="Remove Parameter" Value="80" />
    <Option Name="Expand Lambda Expression" Value="22" />
    <Option Name="Declare Local" Value="87" />
    <Option Name="Promote to Parameter" Value="29" />
    <Option Name="Introduce Using Statement" Value="37" />
-   <Option Name="Break Apart Parameters" Value="43" />
-   <Option Name="Move Type to File" Value="151" />
+   <Option Name="Break Apart Parameters" Value="45" />
+   <Option Name="Move Type to File" Value="152" />
    <Option Name="Add Parameter" Value="45" />
    <Option Name="Widen Scope (promote to field)" Value="125" />
    <Option Name="Introduce Setter Guard Clause" Value="36" />
    <Option Name="Change Tag" Value="17" />
    <Option Name="Collapse Getter" Value="91" />
    <Option Name="Extract Interface" Value="17" />
-   <Option Name="Line-up Parameters" Value="29" />
+   <Option Name="Line-up Parameters" Value="31" />
    <Option Name="Declare Property (with backing store)" Value="29" />
    <Option Name="Surround with Tag" Value="15" />
    <Option Name="Break Attributes" Value="15" />
    <Option Name="Widen Scope" Value="22" />
    <Option Name="Make Implicit" Value="190" />
-   <Option Name="Remove Event Handler" Value="23" />
+   <Option Name="Remove Event Handler" Value="24" />
    <Option Name="Convert to Initializer" Value="15" />
    <Option Name="Introduce Parameter Object" Value="4" />
    <Option Name="Reorder Parameters" Value="20" />
@@ -50,7 +50,7 @@
    <Option Name="Extract String to Resource" Value="2" />
    <Option Name="Create Backing Store" Value="18" />
    <Option Name="Next Reference" Value="2" />
-   <Option Name="Implementations" Value="71" />
+   <Option Name="Implementations" Value="75" />
    <Option Name="Inline Result" Value="2" />
    <Option Name="Introduce Local (replace all)" Value="7" />
    <Option Name="Remove Blank Line" Value="2" />
@@ -70,7 +70,7 @@
    <Option Name="Implementors" Value="1" />
    <Option Name="Spell Checker" Value="8" />
    <Option Name="Remove Redundant Block Delimiters" Value="9" />
-   <Option Name="Compress to Ternary Expression" Value="17" />
+   <Option Name="Compress to Ternary Expression" Value="18" />
    <Option Name="Flatten Conditional" Value="8" />
    <Option Name="Decompose Initializer" Value="7" />
    <Option Name="Name Anonymous Method" Value="2" />
@@ -85,11 +85,11 @@
    <Option Name="Optimize Namespace References" Value="13" />
    <Option Name="Encapsulate Field (read-only)" Value="6" />
    <Option Name="Inline Temp" Value="6" />
-   <Option Name="Encapsulate Field" Value="8" />
+   <Option Name="Encapsulate Field" Value="9" />
    <Option Name="Convert to auto-implemented property" Value="16" />
    <Option Name="Make Member Static" Value="1" />
    <Option Name="Reverse Conditional" Value="16" />
-   <Option Name="Remove Redundant Qualifier" Value="24" />
+   <Option Name="Remove Redundant Qualifier" Value="25" />
    <Option Name="Make Extension" Value="1" />
    <Option Name="Initialize Conditionally" Value="5" />
    <Option Name="Assert Contract" Value="3" />
@@ -113,7 +113,7 @@
    <Option Name="Pull Member Up" Value="3" />
    <Option Name="Simplify Expression" Value="2" />
    <Option Name="Invert Selection" Value="1" />
-   <Option Name="Declare Property" Value="11" />
+   <Option Name="Declare Property" Value="12" />
    <Option Name="Remove Redundant Assignment" Value="5" />
    <Option Name="Using to Try/Finally" Value="1" />
    <Option Name="Expand Setter" Value="1" />
@@ -169,7 +169,7 @@
    <Option Name="Extract Interface" Value="1" />
   </Section>
   <Section Name="|Break Apart Parameters|">
-   <Option Name="Break Apart Parameters" Value="7" />
+   <Option Name="Break Apart Parameters" Value="8" />
    <Option Name="MostRecentlyUsedObject" Value="Break Apart Parameters" />
   </Section>
   <Section Name="|Ancestor|Declaration|Next Reference|Parent|Parent Member|Parent Type|">
@@ -215,7 +215,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
   </Section>
   <Section Name="|Break Apart Parameters|Extract String to Resource|Introduce Constant|Introduce Constant (local)|Introduce Local|Promote to Parameter|">
-   <Option Name="Break Apart Parameters" Value="1" />
+   <Option Name="Break Apart Parameters" Value="2" />
    <Option Name="MostRecentlyUsedObject" Value="Break Apart Parameters" />
   </Section>
   <Section Name="|Break Apart Parameters|Extract String to Resource|Introduce Constant|Introduce Constant (local)|Introduce Local|Promote to Parameter|Split String|">
@@ -231,7 +231,7 @@
   </Section>
   <Section Name="|Declare Local|Declare Local (implicit)|">
    <Option Name="Declare Local" Value="77" />
-   <Option Name="Declare Local (implicit)" Value="475" />
+   <Option Name="Declare Local (implicit)" Value="477" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Local (implicit)" />
   </Section>
   <Section Name="|First Child|Parent|Parent Member|Parent Type|">
@@ -274,8 +274,8 @@
    <Option Name="Rename File to Match Type" Value="3" />
   </Section>
   <Section Name="|Move Type to File|Rename|Rename File to Match Type|">
-   <Option Name="Move Type to File" Value="59" />
-   <Option Name="MostRecentlyUsedObject" Value="Rename File to Match Type" />
+   <Option Name="Move Type to File" Value="60" />
+   <Option Name="MostRecentlyUsedObject" Value="Move Type to File" />
    <Option Name="Rename File to Match Type" Value="8" />
   </Section>
   <Section Name="|Inline Temp|Move Initialization to Declaration|Promote to Parameter|Rename|Replace Temp with Query|Widen Scope (promote to field)|">
@@ -303,7 +303,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Introduce Using Statement" />
   </Section>
   <Section Name="|Create Method Stub|">
-   <Option Name="Create Method Stub" Value="308" />
+   <Option Name="Create Method Stub" Value="309" />
    <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
   </Section>
   <Section Name="|Extract Method|Introduce Local|Use String.Format|">
@@ -394,7 +394,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Break Apart Parameters" />
   </Section>
   <Section Name="|Line-up Parameters|">
-   <Option Name="Line-up Parameters" Value="15" />
+   <Option Name="Line-up Parameters" Value="16" />
    <Option Name="MostRecentlyUsedObject" Value="Line-up Parameters" />
   </Section>
   <Section Name="|Line-up Parameters|Remove Parameter|Rename|">
@@ -976,7 +976,7 @@
    <Option Name="Reverse Conditional" Value="5" />
   </Section>
   <Section Name="|Compress to Ternary Expression|Reverse Conditional|">
-   <Option Name="Compress to Ternary Expression" Value="12" />
+   <Option Name="Compress to Ternary Expression" Value="13" />
    <Option Name="MostRecentlyUsedObject" Value="Compress to Ternary Expression" />
    <Option Name="Reverse Conditional" Value="2" />
   </Section>
@@ -1617,7 +1617,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="235" />
+   <Option Name="Declaration" Value="237" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Ancestor|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
@@ -1640,7 +1640,7 @@
    <Option Name="ForEach to For" Value="3" />
   </Section>
   <Section Name="|First Child|Implementations|Next Member|Next Reference|Parent|Parent Type|Previous Member|Previous Reference|">
-   <Option Name="Implementations" Value="10" />
+   <Option Name="Implementations" Value="11" />
    <Option Name="MostRecentlyUsedObject" Value="Implementations" />
   </Section>
   <Section Name="|Add XML Comments|Convert to auto-implemented property|Convert to property with backing store|Remove Setter|">
@@ -1658,7 +1658,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Add End Tag" />
   </Section>
   <Section Name="|Declaration|First Child|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="224" />
+   <Option Name="Declaration" Value="225" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Inline Temp|Make Implicit|Promote to Parameter|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope (promote to field)|">
@@ -1699,7 +1699,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|First Child|First Statement|Implementations|Last Statement|Next Member|Next Reference|Parent|Parent Type|Previous Member|Previous Reference|">
-   <Option Name="Implementations" Value="8" />
+   <Option Name="Implementations" Value="9" />
    <Option Name="MostRecentlyUsedObject" Value="Implementations" />
   </Section>
   <Section Name="|Extract Interface|Move Type to Namespace|Rename|Rename File to Match Type|">
@@ -1779,7 +1779,7 @@
   </Section>
   <Section Name="|Declaration|First Child|Implementations|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
    <Option Name="Declaration" Value="2" />
-   <Option Name="Implementations" Value="44" />
+   <Option Name="Implementations" Value="46" />
    <Option Name="MostRecentlyUsedObject" Value="Implementations" />
   </Section>
   <Section Name="|Introduce Using Statement|Promote to Parameter|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
@@ -1887,7 +1887,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Decompose Parameter" />
   </Section>
   <Section Name="|Remove Redundant Qualifier|">
-   <Option Name="Remove Redundant Qualifier" Value="19" />
+   <Option Name="Remove Redundant Qualifier" Value="20" />
    <Option Name="MostRecentlyUsedObject" Value="Remove Redundant Qualifier" />
   </Section>
   <Section Name="|Make Explicit|Rename|">
@@ -1916,7 +1916,7 @@
    <Option Name="Introduce Using Statement" Value="1" />
   </Section>
   <Section Name="|Remove Event Handler|Rename|">
-   <Option Name="Remove Event Handler" Value="18" />
+   <Option Name="Remove Event Handler" Value="19" />
    <Option Name="MostRecentlyUsedObject" Value="Remove Event Handler" />
   </Section>
   <Section Name="|Move Declaration Near Reference|Move Initialization to Declaration|Rename|Widen Scope (promote to field)|">
@@ -2113,9 +2113,9 @@
   </Section>
   <Section Name="|Create Setter Method|Encapsulate Field|Encapsulate Field (read-only)|Encapsulate Method|Make Member Static|Make Read-only|Rename|">
    <Option Name="Make Read-only" Value="1" />
-   <Option Name="MostRecentlyUsedObject" Value="Create Setter Method" />
+   <Option Name="MostRecentlyUsedObject" Value="Encapsulate Field" />
    <Option Name="Create Setter Method" Value="2" />
-   <Option Name="Encapsulate Field" Value="2" />
+   <Option Name="Encapsulate Field" Value="3" />
   </Section>
   <Section Name="|Execute Statement Asynchronously (StartNew)|Introduce Alias|Introduce Alias (replace all)|Remove Type Qualifier|Remove Type Qualifier (remove all)|">
    <Option Name="Remove Type Qualifier (remove all)" Value="1" />
@@ -2263,7 +2263,7 @@
   <Section Name="|Declare Property|Declare Property (auto-implemented)|">
    <Option Name="Declare Property (auto-implemented)" Value="2" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Property" />
-   <Option Name="Declare Property" Value="2" />
+   <Option Name="Declare Property" Value="3" />
   </Section>
   <Section Name="|Convert to Constant|Inline Temp1|Make Implicit|Move Declaration Near Reference|Promote to Parameter|Promote to Parameter (optional)|Rename|Split Initialization from Declaration|Widen Scope|Widen Scope (promote to field)|">
    <Option Name="Make Implicit" Value="1" />
@@ -2312,7 +2312,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Make Implicit" />
   </Section>
   <Section Name="|Add Parameter|Create Overload|Introduce Parameter Object|Make Extension|Make Member Static|Remove Parameter|Rename|Reorder Parameters|">
-   <Option Name="Remove Parameter" Value="2" />
+   <Option Name="Remove Parameter" Value="3" />
    <Option Name="MostRecentlyUsedObject" Value="Remove Parameter" />
   </Section>
   <Section Name="|Inline Temp1|Move Initialization to Declaration|Promote to Parameter|Rename|Widen Scope|Widen Scope (promote to field)|">
@@ -2675,7 +2675,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Remove Parameter" />
   </Section>
   <Section Name="|Extract String to Resource|Introduce Constant|Introduce Constant (local)|Introduce Local|Line-up Parameters|Promote to Parameter|">
-   <Option Name="Line-up Parameters" Value="1" />
+   <Option Name="Line-up Parameters" Value="2" />
    <Option Name="MostRecentlyUsedObject" Value="Line-up Parameters" />
   </Section>
   <Section Name="|Break Apart Parameters|Expand Ternary Expression|Remove Redundant Qualifier|">
@@ -3321,6 +3321,18 @@
   <Section Name="|Make Explicit|Promote to Parameter|Replace Temp with Query|Widen Scope (promote to field)|">
    <Option Name="Make Explicit" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Make Explicit" />
+  </Section>
+  <Section Name="|Inline Recent Assignment|Inline Result|Rename|">
+   <Option Name="Inline Result" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Inline Result" />
+  </Section>
+  <Section Name="|Add Block Delimiters|Introduce Result Variable|">
+   <Option Name="Introduce Result Variable" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Introduce Result Variable" />
+  </Section>
+  <Section Name="|Create Case Blocks from Enum|Inline Result|Make Implicit|Move Declaration Near Reference|Promote to Parameter|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
+   <Option Name="Split Initialization from Declaration" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Split Initialization from Declaration" />
   </Section>
  </Language>
 </Page>

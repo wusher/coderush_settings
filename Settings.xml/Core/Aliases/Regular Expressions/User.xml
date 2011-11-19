@@ -109,7 +109,7 @@
  </Language>
  <Language Name="*Neutral*">
   <Section Name="Doc">
-   <Option Name="LastLanguage" Value="Plain Text" />
+   <Option Name="LastLanguage" Value="HTML" />
   </Section>
  </Language>
 </Page>

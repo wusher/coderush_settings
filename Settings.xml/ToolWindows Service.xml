@@ -2,7 +2,7 @@
 <Page Name="ToolWindows Service">
  <Language Name="*Neutral*">
   <Section Name="ToolWindows_VS2010">
-   <Option Name="Visible_Count" Value="0" />
+   <Option Name="Visible_Count" Value="1" />
    <Option Name="Visible_0" Value="{408b0e9d-8c1d-4c61-8223-550f9242877b}" />
    <Option Name="Visible_1" Value="{408b0e9d-8c1d-4c61-8223-550f9242877b}" />
    <Option Name="Visible_2" Value="{408b0e9d-8c1d-4c61-8223-550f9242877b}" />
