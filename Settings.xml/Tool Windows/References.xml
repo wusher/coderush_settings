@@ -2,7 +2,7 @@
 <Page Name="References">
  <Language Name="*Neutral*">
   <Section Name="Layout">
-   <Option Name="SplitterPos" Value="0.220652173913043" />
+   <Option Name="SplitterPos" Value="0.608695652173913" />
   </Section>
   <Section Name="Font">
    <Option Name="Scale" Value="1" />
