@@ -60,6 +60,9 @@
    <Option Name="doRunEveryLaunch" Value="doRunEveryLaunch" />
    <Option Name="Config,_config" Value="_config" />
    <Option Name="driver,GetInternetExlporer,GetChrome,GetFirefox,Current" Value="driver" />
+   <Option Name="_wasCalledGetAllCount" Value="_wasCalledGetAllCount" />
+   <Option Name="count" Value="count" />
+   <Option Name="value,Create" Value="value" />
   </Section>
  </Language>
 </Page>

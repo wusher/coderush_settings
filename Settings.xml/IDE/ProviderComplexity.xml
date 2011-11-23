@@ -13,7 +13,7 @@
    <Option Name="Boolean to Enum" Value="0.216808215475576" />
    <Option Name="Surround with UpdatePanel" Value="2204.57273706924" />
    <Option Name="Replace Temp with Query" Value="0.240844828648442" />
-   <Option Name="Convert to Procedure" Value="0.656478572178163" />
+   <Option Name="Convert to Procedure" Value="0.304127470721014" />
    <Option Name="Expand Ternary Expression" Value="0.316243115195753" />
    <Option Name="Create Ancestor" Value="18308.6027795785" />
    <Option Name="Line-up Parameters" Value="0.289111313694825" />
@@ -52,7 +52,7 @@
    <Option Name="Widen Scope (promote to field)" Value="0.234723154624588" />
    <Option Name="Add XML Comments" Value="21493.8173908179" />
    <Option Name="Declare Constructor" Value="0.907462046582604" />
-   <Option Name="Declare Getter" Value="0.142198573334758" />
+   <Option Name="Declare Getter" Value="0.16690682161742" />
    <Option Name="Remove Parameter" Value="0.238291341987259" />
    <Option Name="Convert to Function" Value="0.394031487082782" />
    <Option Name="Use IsNullOrEmpty (cp)" Value="0.131123424837078" />
@@ -122,7 +122,7 @@
    <Option Name="Introduce Local (replace all)" Value="0.401971147899097" />
    <Option Name="Use Implicit Typecast" Value="0.572596560763054" />
    <Option Name="Encapsulate Field (read-only)" Value="0.189339217494807" />
-   <Option Name="Add Contract" Value="0.263301711271621" />
+   <Option Name="Add Contract" Value="0.370290180487428" />
    <Option Name="Convert to Point" Value="0.181821404355943" />
    <Option Name="Create Descendant (with virtual overrides)" Value="7178.02544807449" />
    <Option Name="Inline Macro" Value="0.333933349450105" />
