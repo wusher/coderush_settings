@@ -3,7 +3,7 @@
  <Language Name="*Neutral*">
   <Section Name="TimeComplexity">
    <Option Name="Replace with Alias" Value="0.293537739165962" />
-   <Option Name="Declare View" Value="0.258906170861807" />
+   <Option Name="Declare View" Value="0.163980740376799" />
    <Option Name="Invert Selection" Value="0.273324686323302" />
    <Option Name="Extract to XAML Resource" Value="0.129453734435221" />
    <Option Name="Reorder Parameters" Value="0.249394404381436" />
@@ -86,7 +86,7 @@
    <Option Name="Convert to System Type" Value="0.70191994521452" />
    <Option Name="Add Initialization" Value="86.4167702659867" />
    <Option Name="Conditional to Case" Value="14201.2162177838" />
-   <Option Name="Ensures Contract" Value="0.186170033512876" />
+   <Option Name="Ensures Contract" Value="0.164010104051341" />
    <Option Name="Use Equality Operator" Value="0.23992791594231" />
    <Option Name="Inline Constant" Value="0.470185319949529" />
    <Option Name="Inline Recent Assignment" Value="0.411604896829564" />
