@@ -24,7 +24,7 @@
   </Section>
   <Section Name="Navigation.Collect Marker">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="919" />
+   <Option Name="ExecutionCount" Value="920" />
    <Option Name="DisplayLimit" Value="4" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -154,13 +154,13 @@
   </Section>
   <Section Name="Code Templates.Template: f">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="99" />
+   <Option Name="ExecutionCount" Value="100" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
   <Section Name="Code Templates.Template: if">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="511" />
+   <Option Name="ExecutionCount" Value="517" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -172,7 +172,7 @@
   </Section>
   <Section Name="Code Templates.Template: r">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="145" />
+   <Option Name="ExecutionCount" Value="146" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -196,7 +196,7 @@
   </Section>
   <Section Name="Code Templates.Template: ao">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="3" />
+   <Option Name="ExecutionCount" Value="5" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -214,13 +214,13 @@
   </Section>
   <Section Name="Code Templates.Template: cw">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="80" />
+   <Option Name="ExecutionCount" Value="81" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
   <Section Name="Code Templates.Template: c">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="107" />
+   <Option Name="ExecutionCount" Value="109" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -232,7 +232,7 @@
   </Section>
   <Section Name="Code Templates.Template: =f">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="39" />
+   <Option Name="ExecutionCount" Value="40" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -298,7 +298,7 @@
   </Section>
   <Section Name="Code Templates.Template: as">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="62" />
+   <Option Name="ExecutionCount" Value="63" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -310,7 +310,7 @@
   </Section>
   <Section Name="Code Templates.Template: using">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="50" />
+   <Option Name="ExecutionCount" Value="51" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -358,7 +358,7 @@
   </Section>
   <Section Name="Code Templates.Template: rn">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="25" />
+   <Option Name="ExecutionCount" Value="26" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -370,7 +370,7 @@
   </Section>
   <Section Name="Code Templates.Template: fe">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="155" />
+   <Option Name="ExecutionCount" Value="157" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -805,7 +805,7 @@
   </Section>
   <Section Name="Code Creation.Visibility Change">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="352" />
+   <Option Name="ExecutionCount" Value="355" />
    <Option Name="DisplayLimit" Value="0" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -982,7 +982,7 @@
   </Section>
   <Section Name="Visual Basic to C#.Visual Basic to C#: And">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="59" />
+   <Option Name="ExecutionCount" Value="62" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>

@@ -3,7 +3,7 @@
  <Language Name="*Neutral*">
   <Section Name="General">
    <Option Name="CopyLineIfNoMatchFound" Value="True" />
-   <Option Name="DuplicatePreviousLine" Value="False" />
+   <Option Name="DuplicatePreviousLine" Value="True" />
   </Section>
  </Language>
 </Page>

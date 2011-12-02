@@ -6,17 +6,17 @@
    <Option Name="ScreenWidth" Value="1280" />
    <Option Name="WindowState" Value="2" />
    <Option Name="SplitOpen" Value="True" />
-   <Option Name="Top" Value="-8" />
-   <Option Name="Left" Value="1607" />
-   <Option Name="Width" Value="1410" />
-   <Option Name="Height" Value="1044" />
+   <Option Name="Top" Value="217" />
+   <Option Name="Left" Value="223" />
+   <Option Name="Width" Value="1426" />
+   <Option Name="Height" Value="1036" />
   </Section>
   <Section Name="Preferences">
    <Option Name="ShowHints" Value="False" />
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="Core\Startup" />
-   <Option Name="PriorSelectedNode" Value="Core\Settings" />
+   <Option Name="LastSelectedNode" Value="Editor\Code Formatting\Wrapping/Alignment" />
+   <Option Name="PriorSelectedNode" Value="Editor\Code Modification" />
    <Option Name="LastNonNeutralLanguageSelected" Value="Basic" />
   </Section>
   <Section Name="Global">

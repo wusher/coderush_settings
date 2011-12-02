@@ -2,7 +2,10 @@
 <Page Name="Options">
  <Language Name="*Neutral*">
   <Section Name="General">
-   <Option Name="LastDXCoreVersion" Value="11.1.8" />
+   <Option Name="LastDXCoreVersion" Value="11.2.5" />
+  </Section>
+  <Section Name="Loader">
+   <Option Name="UseRawAssemblyLoad" Value="False" />
   </Section>
  </Language>
 </Page>

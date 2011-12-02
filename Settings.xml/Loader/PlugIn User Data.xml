@@ -1106,5 +1106,45 @@
    <Option Name="LoadAbilityType" Value="LoadEnabled" />
    <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
   </Section>
+  <Section Name="DX_Replacement">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_Dispos-o-matic">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_DuplicateCodeUI">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_PrimitiveTab">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_QuickPair">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="CR_StringFormatter">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ExtractMVCTemplates">
+   <Option Name="LoadType" Value="Idle" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
+  <Section Name="Refactor_ReverseBoolean">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
  </Language>
 </Page>
