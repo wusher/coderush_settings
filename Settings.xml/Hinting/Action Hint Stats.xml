@@ -24,7 +24,7 @@
   </Section>
   <Section Name="Navigation.Collect Marker">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="920" />
+   <Option Name="ExecutionCount" Value="925" />
    <Option Name="DisplayLimit" Value="4" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -160,7 +160,7 @@
   </Section>
   <Section Name="Code Templates.Template: if">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="519" />
+   <Option Name="ExecutionCount" Value="523" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -208,7 +208,7 @@
   </Section>
   <Section Name="Code Templates.Template: n">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="138" />
+   <Option Name="ExecutionCount" Value="139" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -340,7 +340,7 @@
   </Section>
   <Section Name="Code Templates.Template: ai">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="21" />
+   <Option Name="ExecutionCount" Value="22" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -352,7 +352,7 @@
   </Section>
   <Section Name="Code Templates.Template: !+">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="2" />
+   <Option Name="ExecutionCount" Value="3" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -788,6 +788,12 @@
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
+  <Section Name="Code Templates.Template: vb">
+   <Option Name="Enabled" Value="True" />
+   <Option Name="ExecutionCount" Value="1" />
+   <Option Name="DisplayLimit" Value="2" />
+   <Option Name="PerSessionDisplayLimits" Value="False" />
+  </Section>
   <Section Name="Code Creation">
    <Option Name="Enabled" Value="True" />
    <Option Name="Color" Value="Named:DarkSalmon" />
@@ -899,13 +905,13 @@
   </Section>
   <Section Name="Selection Tools.Embed: try/catch">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="19" />
+   <Option Name="ExecutionCount" Value="20" />
    <Option Name="DisplayLimit" Value="0" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
   <Section Name="Selection Tools.Embed: try/finally">
    <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="12" />
+   <Option Name="ExecutionCount" Value="13" />
    <Option Name="DisplayLimit" Value="0" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>
@@ -1070,12 +1076,6 @@
   <Section Name="XML Doc Literal.XML Doc Literal: &lt;">
    <Option Name="Enabled" Value="True" />
    <Option Name="ExecutionCount" Value="2" />
-   <Option Name="DisplayLimit" Value="2" />
-   <Option Name="PerSessionDisplayLimits" Value="False" />
-  </Section>
-  <Section Name="Code Templates.Template: vb">
-   <Option Name="Enabled" Value="True" />
-   <Option Name="ExecutionCount" Value="1" />
    <Option Name="DisplayLimit" Value="2" />
    <Option Name="PerSessionDisplayLimits" Value="False" />
   </Section>

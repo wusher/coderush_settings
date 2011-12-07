@@ -963,7 +963,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="255" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Excluded Code">
    <Option Name="LocalName" Value="Excluded Code" />
@@ -1106,7 +1106,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="16777215" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Keyword">
    <Option Name="LocalName" Value="Keyword" />
@@ -1119,7 +1119,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="16751247" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Literal">
    <Option Name="LocalName" Value="Literal" />
@@ -1249,7 +1249,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="13224393" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Other Error">
    <Option Name="LocalName" Value="Other Error" />
@@ -1262,7 +1262,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="9770901" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="outlining.square">
    <Option Name="LocalName" Value="Outlining Margin Square" />
@@ -1298,10 +1298,10 @@
    <Option Name="MarkerVisualStyle" Value="0" />
    <Option Name="LineStyle" Value="LI_SOLID" />
    <Option Name="Flags" Value="FCIF_ALLOWFGCHANGE, FCIF_ALLOWBGCHANGE, FCIF_ALLOWBOLDCHANGE, FCIF_ALLOWCUSTOMCOLORS" />
-   <Option Name="Background" Value="2105376" />
-   <Option Name="Foreground" Value="16744703" />
+   <Option Name="Background" Value="2236962" />
+   <Option Name="Foreground" Value="7566195" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Read-Only Region">
    <Option Name="LocalName" Value="Read-Only Region" />
@@ -1678,7 +1678,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="14790085" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="String(C# @ Verbatim)">
    <Option Name="LocalName" Value="String (C# @ Verbatim)" />
@@ -1769,7 +1769,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="0" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Tracepoint (Disabled)">
    <Option Name="LocalName" Value="Tracepoint (Disabled)" />
