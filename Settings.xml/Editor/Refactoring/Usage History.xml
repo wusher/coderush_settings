@@ -2,7 +2,7 @@
 <Page Name="Usage History">
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
-   <Option Name="Declaration" Value="524" />
+   <Option Name="Declaration" Value="525" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
    <Option Name="Compress to Lambda Expression" Value="16" />
    <Option Name="Introduce Local" Value="252" />
@@ -1617,7 +1617,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="241" />
+   <Option Name="Declaration" Value="242" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Ancestor|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
@@ -1827,6 +1827,7 @@
   <Section Name="|Convert to Constant|Inline Temp1|Make Implicit|Promote to Parameter|Promote to Parameter (optional)|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
    <Option Name="Widen Scope (promote to field)" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
+   <Option Name="Inline Temp1" Value="1" />
   </Section>
   <Section Name="|Make Explicit|Move Declaration Near Reference|Promote to Parameter|Rename|">
    <Option Name="Make Explicit" Value="2" />
@@ -3353,6 +3354,27 @@
   <Section Name="|Make Explicit|Promote to Parameter|Replace Temp with Query|">
    <Option Name="Make Explicit" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Make Explicit" />
+  </Section>
+  <Section Name="|Inline Temp1|Move Declaration Near Reference|Rename|Replace Temp with Query|Widen Scope (promote to field)|">
+   <Option Name="Move Declaration Near Reference" Value="2" />
+   <Option Name="MostRecentlyUsedObject" Value="Move Declaration Near Reference" />
+  </Section>
+  <Section Name="|Convert to Initializer|Make Implicit|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
+   <Option Name="Convert to Initializer" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Convert to Initializer" />
+  </Section>
+  <Section Name="|Inline Temp1|Move Initialization to Declaration|Rename|Replace Temp with Query|Widen Scope (promote to field)|">
+   <Option Name="Move Initialization to Declaration" Value="2" />
+   <Option Name="Inline Temp1" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Move Initialization to Declaration" />
+  </Section>
+  <Section Name="|Convert to Constant|Make Implicit|">
+   <Option Name="Make Implicit" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Make Implicit" />
+  </Section>
+  <Section Name="|Promote to Parameter|Rename|Replace Temp with Query|Widen Scope (promote to field)|">
+   <Option Name="Widen Scope (promote to field)" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
   </Section>
  </Language>
 </Page>
