@@ -11,7 +11,7 @@
    <Option Name="Optimize Namespace References" Value="0.232130774603189" />
    <Option Name="Move to Code-behind" Value="0.314207755452114" />
    <Option Name="Boolean to Enum" Value="0.216808215475576" />
-   <Option Name="Surround with UpdatePanel" Value="551.7464316488" />
+   <Option Name="Surround with UpdatePanel" Value="276.470381736299" />
    <Option Name="Replace Temp with Query" Value="0.134744885478661" />
    <Option Name="Convert to Procedure" Value="0.260494948728209" />
    <Option Name="Expand Ternary Expression" Value="0.316243115195753" />
@@ -124,7 +124,7 @@
    <Option Name="Introduce Local (replace all)" Value="0.401971147899097" />
    <Option Name="Use Implicit Typecast" Value="0.572596560763054" />
    <Option Name="Encapsulate Field (read-only)" Value="0.189339217494807" />
-   <Option Name="Add Contract" Value="0.482805858500269" />
+   <Option Name="Add Contract" Value="0.515883355841576" />
    <Option Name="Convert to Point" Value="0.181821404355943" />
    <Option Name="Create Descendant (with virtual overrides)" Value="7178.02544807449" />
    <Option Name="Inline Macro" Value="0.333933349450105" />

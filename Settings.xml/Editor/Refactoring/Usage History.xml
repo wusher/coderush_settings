@@ -144,6 +144,7 @@
    <Option Name="Remove Redundant Delegate Creation" Value="2" />
    <Option Name="Convert to Constant" Value="1" />
    <Option Name="Declare Event" Value="2" />
+   <Option Name="Case to Conditional" Value="1" />
   </Section>
   <Section Name="|Declaration|Next Reference|Parent|Parent Member|Parent Type|">
    <Option Name="Declaration" Value="68" />
@@ -3375,6 +3376,10 @@
   <Section Name="|Promote to Parameter|Rename|Replace Temp with Query|Widen Scope (promote to field)|">
    <Option Name="Widen Scope (promote to field)" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
+  </Section>
+  <Section Name="|Case to Conditional|">
+   <Option Name="Case to Conditional" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Case to Conditional" />
   </Section>
  </Language>
 </Page>

@@ -63,6 +63,8 @@
    <Option Name="_wasCalledGetAllCount" Value="_wasCalledGetAllCount" />
    <Option Name="count" Value="count" />
    <Option Name="value,Create" Value="value" />
+   <Option Name="entity" Value="entity" />
+   <Option Name="name" Value="name" />
   </Section>
  </Language>
 </Page>
