@@ -248,7 +248,7 @@
    <Option Name="Background" Value="1118481" />
    <Option Name="Foreground" Value="8421504" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Line Numbers">
    <Option Name="LocalName" Value="Line Numbers" />
@@ -638,7 +638,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="10012868" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Compiler Error">
    <Option Name="LocalName" Value="Compiler Error" />
@@ -1106,7 +1106,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="16777215" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Keyword">
    <Option Name="LocalName" Value="Keyword" />
@@ -1119,7 +1119,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="16751247" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Literal">
    <Option Name="LocalName" Value="Literal" />
@@ -1197,7 +1197,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="14790085" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="On-the-fly Error">
    <Option Name="LocalName" Value="On-the-fly Error" />
@@ -1249,7 +1249,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="13224393" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="Other Error">
    <Option Name="LocalName" Value="Other Error" />
@@ -1678,7 +1678,7 @@
    <Option Name="Background" Value="2236962" />
    <Option Name="Foreground" Value="14790085" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="False" />
+   <Option Name="Invalid" Value="True" />
   </Section>
   <Section Name="String(C# @ Verbatim)">
    <Option Name="LocalName" Value="String (C# @ Verbatim)" />

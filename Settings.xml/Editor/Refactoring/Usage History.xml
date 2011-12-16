@@ -2,7 +2,7 @@
 <Page Name="Usage History">
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
-   <Option Name="Declaration" Value="530" />
+   <Option Name="Declaration" Value="531" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
    <Option Name="Compress to Lambda Expression" Value="18" />
    <Option Name="Introduce Local" Value="257" />
@@ -34,7 +34,7 @@
    <Option Name="Break Attributes" Value="15" />
    <Option Name="Widen Scope" Value="22" />
    <Option Name="Make Implicit" Value="203" />
-   <Option Name="Remove Event Handler" Value="24" />
+   <Option Name="Remove Event Handler" Value="25" />
    <Option Name="Convert to Initializer" Value="15" />
    <Option Name="Introduce Parameter Object" Value="4" />
    <Option Name="Reorder Parameters" Value="22" />
@@ -1619,7 +1619,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="242" />
+   <Option Name="Declaration" Value="243" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Ancestor|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
@@ -1919,7 +1919,7 @@
    <Option Name="Introduce Using Statement" Value="1" />
   </Section>
   <Section Name="|Remove Event Handler|Rename|">
-   <Option Name="Remove Event Handler" Value="19" />
+   <Option Name="Remove Event Handler" Value="20" />
    <Option Name="MostRecentlyUsedObject" Value="Remove Event Handler" />
   </Section>
   <Section Name="|Move Declaration Near Reference|Move Initialization to Declaration|Rename|Widen Scope (promote to field)|">
@@ -3413,6 +3413,10 @@
   <Section Name="|Use Equals|Use IsNullOrEmpty (cp)|">
    <Option Name="Use IsNullOrEmpty (cp)" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Use IsNullOrEmpty (cp)" />
+  </Section>
+  <Section Name="|Inline Temp|Move Initialization to Declaration|Rename|Widen Scope (promote to field)|">
+   <Option Name="Widen Scope (promote to field)" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
   </Section>
  </Language>
 </Page>
