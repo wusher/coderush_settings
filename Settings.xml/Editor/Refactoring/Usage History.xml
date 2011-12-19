@@ -1465,6 +1465,7 @@
    <Option Name="Make Implicit" Value="27" />
    <Option Name="MostRecentlyUsedObject" Value="Make Implicit" />
    <Option Name="Split Initialization from Declaration" Value="1" />
+   <Option Name="Widen Scope (promote to field)" Value="1" />
   </Section>
   <Section Name="|Make Implicit|Promote to Parameter|Promote to Parameter (optional)|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
    <Option Name="Make Implicit" Value="1" />
