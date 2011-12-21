@@ -2,12 +2,12 @@
 <Page Name="Usage History">
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
-   <Option Name="Declaration" Value="531" />
-   <Option Name="MostRecentlyUsedObject" Value="Declaration" />
+   <Option Name="Declaration" Value="532" />
+   <Option Name="MostRecentlyUsedObject" Value="Move Type to File" />
    <Option Name="Compress to Lambda Expression" Value="18" />
-   <Option Name="Introduce Local" Value="257" />
+   <Option Name="Introduce Local" Value="258" />
    <Option Name="Inline Temp1" Value="116" />
-   <Option Name="Create Method Stub" Value="331" />
+   <Option Name="Create Method Stub" Value="333" />
    <Option Name="Declare Local (implicit)" Value="514" />
    <Option Name="Split Initialization from Declaration" Value="69" />
    <Option Name="Declare Property (auto-implemented)" Value="28" />
@@ -17,11 +17,11 @@
    <Option Name="Extract Method" Value="223" />
    <Option Name="Remove Parameter" Value="82" />
    <Option Name="Expand Lambda Expression" Value="24" />
-   <Option Name="Declare Local" Value="88" />
+   <Option Name="Declare Local" Value="89" />
    <Option Name="Promote to Parameter" Value="29" />
    <Option Name="Introduce Using Statement" Value="38" />
    <Option Name="Break Apart Parameters" Value="46" />
-   <Option Name="Move Type to File" Value="159" />
+   <Option Name="Move Type to File" Value="162" />
    <Option Name="Add Parameter" Value="45" />
    <Option Name="Widen Scope (promote to field)" Value="127" />
    <Option Name="Introduce Setter Guard Clause" Value="36" />
@@ -88,7 +88,7 @@
    <Option Name="Encapsulate Field" Value="9" />
    <Option Name="Convert to auto-implemented property" Value="16" />
    <Option Name="Make Member Static" Value="1" />
-   <Option Name="Reverse Conditional" Value="16" />
+   <Option Name="Reverse Conditional" Value="19" />
    <Option Name="Remove Redundant Qualifier" Value="25" />
    <Option Name="Make Extension" Value="1" />
    <Option Name="Initialize Conditionally" Value="5" />
@@ -232,7 +232,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Split Initialization from Declaration" />
   </Section>
   <Section Name="|Declare Local|Declare Local (implicit)|">
-   <Option Name="Declare Local" Value="78" />
+   <Option Name="Declare Local" Value="79" />
    <Option Name="Declare Local (implicit)" Value="486" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Local" />
   </Section>
@@ -276,7 +276,7 @@
    <Option Name="Rename File to Match Type" Value="3" />
   </Section>
   <Section Name="|Move Type to File|Rename|Rename File to Match Type|">
-   <Option Name="Move Type to File" Value="63" />
+   <Option Name="Move Type to File" Value="66" />
    <Option Name="MostRecentlyUsedObject" Value="Move Type to File" />
    <Option Name="Rename File to Match Type" Value="8" />
   </Section>
@@ -305,7 +305,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Introduce Using Statement" />
   </Section>
   <Section Name="|Create Method Stub|">
-   <Option Name="Create Method Stub" Value="324" />
+   <Option Name="Create Method Stub" Value="326" />
    <Option Name="MostRecentlyUsedObject" Value="Create Method Stub" />
   </Section>
   <Section Name="|Extract Method|Introduce Local|Use String.Format|">
@@ -498,7 +498,7 @@
   <Section Name="|Extract Method|Extract Property|Introduce Local|">
    <Option Name="Extract Method" Value="11" />
    <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
-   <Option Name="Introduce Local" Value="67" />
+   <Option Name="Introduce Local" Value="68" />
   </Section>
   <Section Name="|Convert to Initializer|Make Explicit|Rename|Widen Scope (promote to field)|">
    <Option Name="Convert to Initializer" Value="1" />
@@ -975,7 +975,7 @@
   <Section Name="|Flatten Conditional|Reverse Conditional|">
    <Option Name="Flatten Conditional" Value="3" />
    <Option Name="MostRecentlyUsedObject" Value="Reverse Conditional" />
-   <Option Name="Reverse Conditional" Value="5" />
+   <Option Name="Reverse Conditional" Value="6" />
   </Section>
   <Section Name="|Compress to Ternary Expression|Reverse Conditional|">
    <Option Name="Compress to Ternary Expression" Value="14" />
@@ -1336,7 +1336,7 @@
    <Option Name="Declare Local" Value="9" />
   </Section>
   <Section Name="|Reverse Conditional|">
-   <Option Name="Reverse Conditional" Value="4" />
+   <Option Name="Reverse Conditional" Value="6" />
    <Option Name="MostRecentlyUsedObject" Value="Reverse Conditional" />
   </Section>
   <Section Name="|Add Parameter|Break Apart Parameters|Create Overload|Introduce Parameter Object|Make Member Static|Rename|Reorder Parameters|">
@@ -1661,7 +1661,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Add End Tag" />
   </Section>
   <Section Name="|Declaration|First Child|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="232" />
+   <Option Name="Declaration" Value="233" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Inline Temp|Make Implicit|Promote to Parameter|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope (promote to field)|">

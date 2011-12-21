@@ -2,7 +2,7 @@
 <Page Name="Duplicate Line">
  <Language Name="*Neutral*">
   <Section Name="Doc">
-   <Option Name="LastLanguage" Value="CSharp" />
+   <Option Name="LastLanguage" Value="Plain Text" />
   </Section>
  </Language>
  <Language Name="Basic">
