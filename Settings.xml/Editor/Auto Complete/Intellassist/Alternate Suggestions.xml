@@ -65,6 +65,7 @@
    <Option Name="value,Create" Value="value" />
    <Option Name="entity" Value="entity" />
    <Option Name="name" Value="name" />
+   <Option Name="isFound,result,propertyName,obj,SetProperty,Tap" Value="result" />
   </Section>
  </Language>
 </Page>

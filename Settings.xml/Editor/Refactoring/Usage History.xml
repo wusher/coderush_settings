@@ -3,27 +3,27 @@
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
    <Option Name="Declaration" Value="532" />
-   <Option Name="MostRecentlyUsedObject" Value="Move Type to File" />
+   <Option Name="MostRecentlyUsedObject" Value="Compress to Ternary Expression" />
    <Option Name="Compress to Lambda Expression" Value="18" />
-   <Option Name="Introduce Local" Value="258" />
+   <Option Name="Introduce Local" Value="260" />
    <Option Name="Inline Temp1" Value="116" />
    <Option Name="Create Method Stub" Value="333" />
-   <Option Name="Declare Local (implicit)" Value="514" />
-   <Option Name="Split Initialization from Declaration" Value="69" />
+   <Option Name="Declare Local (implicit)" Value="516" />
+   <Option Name="Split Initialization from Declaration" Value="70" />
    <Option Name="Declare Property (auto-implemented)" Value="28" />
    <Option Name="Declare Class" Value="31" />
-   <Option Name="Rename File to Match Type" Value="121" />
+   <Option Name="Rename File to Match Type" Value="122" />
    <Option Name="First Child" Value="4" />
    <Option Name="Extract Method" Value="223" />
    <Option Name="Remove Parameter" Value="82" />
    <Option Name="Expand Lambda Expression" Value="24" />
-   <Option Name="Declare Local" Value="89" />
+   <Option Name="Declare Local" Value="91" />
    <Option Name="Promote to Parameter" Value="29" />
    <Option Name="Introduce Using Statement" Value="38" />
    <Option Name="Break Apart Parameters" Value="46" />
    <Option Name="Move Type to File" Value="162" />
    <Option Name="Add Parameter" Value="45" />
-   <Option Name="Widen Scope (promote to field)" Value="127" />
+   <Option Name="Widen Scope (promote to field)" Value="128" />
    <Option Name="Introduce Setter Guard Clause" Value="36" />
    <Option Name="Change Tag" Value="17" />
    <Option Name="Collapse Getter" Value="91" />
@@ -33,7 +33,7 @@
    <Option Name="Surround with Tag" Value="15" />
    <Option Name="Break Attributes" Value="15" />
    <Option Name="Widen Scope" Value="22" />
-   <Option Name="Make Implicit" Value="203" />
+   <Option Name="Make Implicit" Value="204" />
    <Option Name="Remove Event Handler" Value="25" />
    <Option Name="Convert to Initializer" Value="15" />
    <Option Name="Introduce Parameter Object" Value="4" />
@@ -48,7 +48,7 @@
    <Option Name="Convert to Auto-implemented Property (convert all)" Value="4" />
    <Option Name="Make Explicit" Value="66" />
    <Option Name="Extract String to Resource" Value="2" />
-   <Option Name="Create Backing Store" Value="20" />
+   <Option Name="Create Backing Store" Value="21" />
    <Option Name="Next Reference" Value="2" />
    <Option Name="Implementations" Value="81" />
    <Option Name="Inline Result" Value="2" />
@@ -70,7 +70,7 @@
    <Option Name="Implementors" Value="1" />
    <Option Name="Spell Checker" Value="8" />
    <Option Name="Remove Redundant Block Delimiters" Value="9" />
-   <Option Name="Compress to Ternary Expression" Value="19" />
+   <Option Name="Compress to Ternary Expression" Value="20" />
    <Option Name="Flatten Conditional" Value="9" />
    <Option Name="Decompose Initializer" Value="7" />
    <Option Name="Name Anonymous Method" Value="2" />
@@ -165,7 +165,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
   </Section>
   <Section Name="|Extract Interface|Move Type to Namespace|Rename|Rename File to Match Type|Rename Type to Match File|">
-   <Option Name="Rename File to Match Type" Value="57" />
+   <Option Name="Rename File to Match Type" Value="58" />
    <Option Name="MostRecentlyUsedObject" Value="Rename File to Match Type" />
    <Option Name="Rename Type to Match File" Value="4" />
    <Option Name="Extract Interface" Value="1" />
@@ -233,8 +233,8 @@
   </Section>
   <Section Name="|Declare Local|Declare Local (implicit)|">
    <Option Name="Declare Local" Value="79" />
-   <Option Name="Declare Local (implicit)" Value="486" />
-   <Option Name="MostRecentlyUsedObject" Value="Declare Local" />
+   <Option Name="Declare Local (implicit)" Value="488" />
+   <Option Name="MostRecentlyUsedObject" Value="Declare Local (implicit)" />
   </Section>
   <Section Name="|First Child|Parent|Parent Member|Parent Type|">
    <Option Name="First Child" Value="4" />
@@ -489,10 +489,10 @@
   </Section>
   <Section Name="|Extract String to Resource|Introduce Constant|Introduce Constant (local)|Introduce Local|Promote to Parameter|">
    <Option Name="Promote to Parameter" Value="5" />
-   <Option Name="MostRecentlyUsedObject" Value="Introduce Constant" />
+   <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
    <Option Name="Extract String to Resource" Value="1" />
    <Option Name="Introduce Constant" Value="7" />
-   <Option Name="Introduce Local" Value="12" />
+   <Option Name="Introduce Local" Value="14" />
    <Option Name="Introduce Constant (local)" Value="2" />
   </Section>
   <Section Name="|Extract Method|Extract Property|Introduce Local|">
@@ -702,7 +702,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
   </Section>
   <Section Name="|Create Backing Store|Rename|Safe Rename|">
-   <Option Name="Create Backing Store" Value="16" />
+   <Option Name="Create Backing Store" Value="17" />
    <Option Name="MostRecentlyUsedObject" Value="Create Backing Store" />
   </Section>
   <Section Name="|Next Reference|">
@@ -1042,7 +1042,7 @@
   <Section Name="|Make Implicit|Promote to Parameter|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
    <Option Name="Widen Scope (promote to field)" Value="8" />
    <Option Name="MostRecentlyUsedObject" Value="Split Initialization from Declaration" />
-   <Option Name="Split Initialization from Declaration" Value="7" />
+   <Option Name="Split Initialization from Declaration" Value="8" />
    <Option Name="Make Implicit" Value="9" />
   </Section>
   <Section Name="|Remove Attribute|Surround with Tag|">
@@ -1261,7 +1261,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Encapsulate Field (read-only)" />
   </Section>
   <Section Name="|Move Initialization to Declaration|Promote to Parameter|Rename|Widen Scope (promote to field)|">
-   <Option Name="Widen Scope (promote to field)" Value="16" />
+   <Option Name="Widen Scope (promote to field)" Value="17" />
    <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
   </Section>
   <Section Name="|Inline Temp1|Make Implicit|MakeVisibilityExplicit|Promote to Parameter|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope (promote to field)|">
@@ -1333,7 +1333,7 @@
    <Option Name="Declare Local (implicit)" Value="15" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Local" />
    <Option Name="Declare Constructor" Value="1" />
-   <Option Name="Declare Local" Value="9" />
+   <Option Name="Declare Local" Value="11" />
   </Section>
   <Section Name="|Reverse Conditional|">
    <Option Name="Reverse Conditional" Value="6" />
@@ -1849,7 +1849,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Declare Local (implicit)" />
   </Section>
   <Section Name="|Make Implicit|">
-   <Option Name="Make Implicit" Value="35" />
+   <Option Name="Make Implicit" Value="36" />
    <Option Name="MostRecentlyUsedObject" Value="Make Implicit" />
   </Section>
   <Section Name="|Line-up Parameters|Name Anonymous Type|">
@@ -3418,6 +3418,14 @@
   <Section Name="|Inline Temp|Move Initialization to Declaration|Rename|Widen Scope (promote to field)|">
    <Option Name="Widen Scope (promote to field)" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
+  </Section>
+  <Section Name="|Add Block Delimiters|Compress to Ternary Expression|Reverse Conditional|">
+   <Option Name="Compress to Ternary Expression" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Compress to Ternary Expression" />
+  </Section>
+  <Section Name="|Move Type to Namespace|Rename|Rename Type to Match File|">
+   <Option Name="Rename Type to Match File" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Rename Type to Match File" />
   </Section>
  </Language>
 </Page>

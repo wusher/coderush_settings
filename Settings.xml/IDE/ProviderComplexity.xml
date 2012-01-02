@@ -13,14 +13,14 @@
    <Option Name="Boolean to Enum" Value="0.216808215475576" />
    <Option Name="Surround with UpdatePanel" Value="35.9052526372499" />
    <Option Name="Replace Temp with Query" Value="0.134744885478661" />
-   <Option Name="Convert to Procedure" Value="0.914683627087784" />
+   <Option Name="Convert to Procedure" Value="0.258880767292955" />
    <Option Name="Expand Ternary Expression" Value="0.316243115195753" />
    <Option Name="Create Ancestor" Value="18308.6027795785" />
    <Option Name="Line-up Parameters" Value="0.289111313694825" />
    <Option Name="Declare Class" Value="0.708205298833921" />
    <Option Name="Execute Statements in Serial" Value="0.235421047687924" />
    <Option Name="Rename File to Match Type" Value="2388.11490180318" />
-   <Option Name="Reverse Boolean" Value="0.290138587464022" />
+   <Option Name="Reverse Boolean" Value="0.205834142334446" />
    <Option Name="Declare Attribute" Value="0.174214740764504" />
    <Option Name="Make Implicit" Value="0.292404175783678" />
    <Option Name="Make Member Non-static" Value="0.110488168801112" />
@@ -48,11 +48,11 @@
    <Option Name="Introduce Alias" Value="0.282544971695561" />
    <Option Name="Use IsNullOrEmpty" Value="0.219598671710638" />
    <Option Name="Convert Color to HEX" Value="0.350149182792421" />
-   <Option Name="Extract Interface" Value="0.320557650350847" />
    <Option Name="Create Implementer" Value="13103.4120612584" />
-   <Option Name="Declare Enum" Value="0.141294685082192" />
+   <Option Name="Declare Enum" Value="0.162829277494701" />
    <Option Name="Widen Scope (promote to field)" Value="0.234723154624588" />
    <Option Name="Add XML Comments" Value="21493.8173908179" />
+   <Option Name="Declare Constructor" Value="0.907462046582604" />
    <Option Name="Declare Getter" Value="0.182320971582863" />
    <Option Name="Remove Parameter" Value="0.238291341987259" />
    <Option Name="Convert to Function" Value="0.394031487082782" />
@@ -60,9 +60,9 @@
    <Option Name="Inline Temp" Value="0.311943156828137" />
    <Option Name="Declare Fields with Initializers" Value="0.57709502245703" />
    <Option Name="Extract ContentPlaceHolder" Value="4981.09642089616" />
-   <Option Name="Remove Private Setter" Value="30959.1337368686" />
-   <Option Name="Consolidate duplicate code to:" Value="0.305009452393343" />
+   <Option Name="Consolidate duplicate code to:" Value="0.12016723619013" />
    <Option Name="Declare Action" Value="13627.4568348157" />
+   <Option Name="Remove Event Handler" Value="0.359691184177231" />
    <Option Name="Declare Field" Value="0.356193932163358" />
    <Option Name="Convert to Initializer" Value="0.211021432162506" />
    <Option Name="Convert to Integer" Value="0.229515018635624" />
@@ -74,7 +74,6 @@
    <Option Name="Declare Method (Event Handler)" Value="0.544628698799186" />
    <Option Name="Property to Method(s)" Value="0.421644506612007" />
    <Option Name="Simplify Expression" Value="0.277715072928392" />
-   <Option Name="Use Equals" Value="0.218067619609286" />
    <Option Name="Declare Field with Initializer" Value="0.72213686385588" />
    <Option Name="Exit Method" Value="0.287298214260789" />
    <Option Name="Use Assertions" Value="0.152893508229781" />
@@ -83,6 +82,7 @@
    <Option Name="Introduce Local" Value="0.264962292400326" />
    <Option Name="Inline With Statement" Value="29977.1168989484" />
    <Option Name="Add Parameter" Value="0.280041365649825" />
+   <Option Name="Create Method Stub" Value="0.244862702628975" />
    <Option Name="Concatenate Strings" Value="15768.7771029949" />
    <Option Name="Declare Property (auto-implemented)" Value="0.528863535225098" />
    <Option Name="Convert to System Type" Value="0.70191994521452" />
@@ -113,7 +113,6 @@
    <Option Name="Extract Script" Value="27221.6856531476" />
    <Option Name="Spell Checker" Value="0.190551153015867" />
    <Option Name="Remove Redundant Qualifier" Value="0.194952670945744" />
-   <Option Name="Introduce Setter Guard Clause" Value="0.348469240320056" />
    <Option Name="Convert CSS Class to Skin" Value="14369.1132767809" />
    <Option Name="Declare Property with Initializer" Value="0.231002579966648" />
    <Option Name="Declare Enum Element" Value="0.475200721322762" />
@@ -125,7 +124,7 @@
    <Option Name="Introduce Local (replace all)" Value="0.401971147899097" />
    <Option Name="Use Implicit Typecast" Value="0.572596560763054" />
    <Option Name="Encapsulate Field (read-only)" Value="0.189339217494807" />
-   <Option Name="Add Contract" Value="0.565765831404087" />
+   <Option Name="Add Contract" Value="0.27812143368613" />
    <Option Name="Convert to Point" Value="0.181821404355943" />
    <Option Name="Create Descendant (with virtual overrides)" Value="7178.02544807449" />
    <Option Name="Inline Macro" Value="0.333933349450105" />
@@ -136,7 +135,7 @@
    <Option Name="Declare Setter" Value="0.630502455464788" />
    <Option Name="Create With Statement" Value="0.294740851037402" />
    <Option Name="Execute Statements in Parallel" Value="0.328274662198591" />
-   <Option Name="Declare Constructor" Value="0.907462046582604" />
+   <Option Name="Use Equals" Value="0.218067619609286" />
    <Option Name="Dispose Fields" Value="0.187547565240739" />
    <Option Name="Make Explicit" Value="0.148449800857281" />
    <Option Name="Implement IDisposable" Value="0.17866313945473" />
@@ -145,10 +144,11 @@
    <Option Name="Add Setter" Value="0.174369341620074" />
    <Option Name="Remove Type Qualifier (remove all)" Value="0.501912854031683" />
    <Option Name="Add Missing Constructors" Value="0.216201006169028" />
+   <Option Name="Promote to Parameter (optional)" Value="0.165057173986107" />
    <Option Name="Convert to Tuple" Value="0.234924530906989" />
    <Option Name="Decompose Parameter" Value="0.16836611476802" />
    <Option Name="Declare Property (with backing store)" Value="0.584050720522915" />
-   <Option Name="Create Method Stub" Value="0.47658341099807" />
+   <Option Name="Extract Interface" Value="0.320557650350847" />
    <Option Name="Use typedef" Value="0.336316475908763" />
    <Option Name="Inline Delegate" Value="13618.1064006505" />
    <Option Name="Extract Method to Type" Value="0.12049263349264" />
@@ -157,12 +157,13 @@
    <Option Name="Split Temporary Variable" Value="0.16889863423192" />
    <Option Name="Extract Style (class)" Value="0.276193218534698" />
    <Option Name="Use Explicit Typecast" Value="0.172917048413448" />
-   <Option Name="Remove Event Handler" Value="0.359691184177231" />
+   <Option Name="Remove Private Setter" Value="30959.1337368686" />
+   <Option Name="Expand Lambda Expression" Value="0.158476626318277" />
    <Option Name="Remove Region Directives" Value="0.555418853851164" />
    <Option Name="Use Environment.NewLine" Value="25961.7438485516" />
    <Option Name="Declare Property" Value="0.485931444820154" />
    <Option Name="Remove Setter" Value="0.257083799020734" />
-   <Option Name="Promote to Parameter (optional)" Value="0.165057173986107" />
+   <Option Name="Introduce Setter Guard Clause" Value="0.348469240320056" />
    <Option Name="Execute Statement Asynchronously (FromAsync)" Value="0.180377400452533" />
    <Option Name="Declare Controller" Value="0.225601953722281" />
    <Option Name="Throw Exceptions" Value="0.318672111626865" />
@@ -173,8 +174,7 @@
    <Option Name="Create Implementer (explicit)" Value="14816.5569653453" />
    <Option Name="Use StringBuilder" Value="0.622445119569508" />
    <Option Name="Make Extension" Value="0.164187840854392" />
-   <Option Name="Declare Local" Value="0.16262039846243" />
-   <Option Name="Expand Lambda Expression" Value="0.158476626318277" />
+   <Option Name="Declare Local" Value="0.310488994212947" />
   </Section>
  </Language>
 </Page>

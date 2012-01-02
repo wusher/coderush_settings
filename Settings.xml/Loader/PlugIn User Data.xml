@@ -1146,5 +1146,10 @@
    <Option Name="LoadAbilityType" Value="LoadEnabled" />
    <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
   </Section>
+  <Section Name="CR_MultiSelect">
+   <Option Name="LoadType" Value="Demand" />
+   <Option Name="LoadAbilityType" Value="LoadEnabled" />
+   <Option Name="LoadAbilityAfterRestart" Value="LoadEnabled" />
+  </Section>
  </Language>
 </Page>
