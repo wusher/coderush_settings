@@ -8,14 +8,14 @@
    <Option Name="SplitOpen" Value="True" />
    <Option Name="Top" Value="217" />
    <Option Name="Left" Value="223" />
-   <Option Name="Width" Value="1682" />
+   <Option Name="Width" Value="1794" />
    <Option Name="Height" Value="1044" />
   </Section>
   <Section Name="Preferences">
    <Option Name="ShowHints" Value="False" />
    <Option Name="LastLanguage" Value="CSharp" />
    <Option Name="UserLevel" Value="Expert" />
-   <Option Name="LastSelectedNode" Value="Editor\Code Analysis\Duplicate Code" />
+   <Option Name="LastSelectedNode" Value="Unit Testing\Test Runner" />
    <Option Name="PriorSelectedNode" Value="Core" />
    <Option Name="LastNonNeutralLanguageSelected" Value="Basic" />
   </Section>

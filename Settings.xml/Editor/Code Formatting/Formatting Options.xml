@@ -3,12 +3,12 @@
  <Language Name="CSharp">
   <Section Name="BlankLines">
    <Option Name="After imported namespaces section" Value="True" />
-   <Option Name="After multi line members" Value="False" />
+   <Option Name="After multi line members" Value="True" />
    <Option Name="After namespaces" Value="False" />
    <Option Name="After single line members" Value="False" />
-   <Option Name="After type declarations" Value="False" />
-   <Option Name="Around region directives" Value="False" />
-   <Option Name="Inside region directives" Value="False" />
+   <Option Name="After type declarations" Value="True" />
+   <Option Name="Around region directives" Value="True" />
+   <Option Name="Inside region directives" Value="True" />
   </Section>
   <Section Name="General">
    <Option Name="Adjust code style on autoformat" Value="False" />
@@ -181,9 +181,9 @@
    <Option Name="Wrap multiple type parameter constraints" Value="False" />
    <Option Name="Right margin column size" Value="78" />
    <Option Name="Wrap long lines" Value="False" />
-   <Option Name="Align with first member in anonymous type" Value="False" />
+   <Option Name="Align with first member in anonymous type" Value="True" />
    <Option Name="Wrap first member in anonymous type" Value="False" />
-   <Option Name="Wrap members in anonymous type" Value="False" />
+   <Option Name="Wrap members in anonymous type" Value="True" />
    <Option Name="Align with first ancestors list item" Value="False" />
    <Option Name="Wrap ancestors list in type declaration" Value="False" />
    <Option Name="Wrap before colon for ancestors list" Value="False" />

@@ -24,7 +24,7 @@
    <Option Name="Key2.Alt" Value="False" />
    <Option Name="Key2.RightSide" Value="False" />
    <Option Name="Key2.Extended" Value="False" />
-   <Option Name="Command" Value="CleanupActiveFile" />
+   <Option Name="Command" Value="FormatFile" />
    <Option Name="Comments" Value="" />
    <Option Name="Parameters" Value="" />
    <Option Name="SendKeyToIDE" Value="False" />
@@ -36,7 +36,7 @@
    <Option Name="Enabled" Value="True" />
    <Option Name="ContextSelected_Count" Value="0" />
    <Option Name="ContextExcluded_Count" Value="0" />
-   <Option Name="Selected" Value="False" />
+   <Option Name="Selected" Value="True" />
   </Section>
   <Section Name="Global">
    <Option Name="SeparateAltKeys" Value="True" />

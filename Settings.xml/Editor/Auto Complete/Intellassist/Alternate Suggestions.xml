@@ -66,6 +66,7 @@
    <Option Name="entity" Value="entity" />
    <Option Name="name" Value="name" />
    <Option Name="isFound,result,propertyName,obj,SetProperty,Tap" Value="result" />
+   <Option Name="type,info" Value="type" />
   </Section>
  </Language>
 </Page>
