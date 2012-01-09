@@ -374,7 +374,7 @@
   </Section>
   <Section Name="Navigate">
    <Option Name="State" Value="Enabled" />
-   <Option Name="QueryCount" Value="1815" />
+   <Option Name="QueryCount" Value="1816" />
    <Option Name="Description" Value="Executes+navigation+provider+with+the+specified+name." />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cNavigate%3bCtrl%2bAlt%2bD" />
    <Option Name="Scope" Value="Other+features" />
@@ -406,7 +406,7 @@
   </Section>
   <Section Name="QuickFileNav">
    <Option Name="State" Value="Enabled" />
-   <Option Name="QueryCount" Value="888" />
+   <Option Name="QueryCount" Value="889" />
    <Option Name="Description" Value="Quick+File+Navigation" />
    <Option Name="OptionsPage" Value="IDE%5cShortcuts%2cQuickFileNav%3bCtrl%2bAlt%2bF" />
    <Option Name="Scope" Value="Other+features" />
@@ -422,7 +422,7 @@
   </Section>
   <Section Name="Smart parentheses">
    <Option Name="State" Value="Enabled" />
-   <Option Name="QueryCount" Value="9395" />
+   <Option Name="QueryCount" Value="9397" />
    <Option Name="Description" Value="Automatic+parentheses+add+the+closing+parenthesis+when+you+type+the+opening+character." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cParens+%26+Brackets" />
    <Option Name="Scope" Value="Other+features" />
@@ -430,7 +430,7 @@
   </Section>
   <Section Name="Smart semi-colon">
    <Option Name="State" Value="Enabled" />
-   <Option Name="QueryCount" Value="3429" />
+   <Option Name="QueryCount" Value="3430" />
    <Option Name="Description" Value="Places+a+semi-colon+typed+inside+parens+at+the+end+of+a+line." />
    <Option Name="OptionsPage" Value="Editor%5cAuto+Complete%5cParens+%26+Brackets" />
    <Option Name="Scope" Value="Other+features" />
@@ -670,7 +670,7 @@
   </Section>
   <Section Name="Rename">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="1505" />
+   <Option Name="QueryCount" Value="1510" />
    <Option Name="Description" Value="Renames+the+current+element+and+updates+references+to+it." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -871,7 +871,7 @@
   <Section Name="Remove Redundant Qualifier">
    <Option Name="State" Value="None" />
    <Option Name="QueryCount" Value="49" />
-   <Option Name="Description" Value="Removes+redundant+%27this%27+or+%27base%27+qualifier." />
+   <Option Name="Description" Value="Removes+redundant+'this'+or+'base'+qualifier." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
    <Option Name="ShowInFeatureOptions" Value="False" />
@@ -1383,7 +1383,7 @@
   <Section Name="Move Initialization To Declaration">
    <Option Name="State" Value="None" />
    <Option Name="QueryCount" Value="48" />
-   <Option Name="Description" Value="Combines+this+local+variable%27s+declaration+with+its+first+initialization." />
+   <Option Name="Description" Value="Combines+this+local+variable's+declaration+with+its+first+initialization." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
    <Option Name="ShowInFeatureOptions" Value="False" />
@@ -1605,8 +1605,8 @@
    <Option Name="ShowInFeatureOptions" Value="False" />
   </Section>
   <Section Name="c?Type?">
-   <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="13" />
+   <Option Name="State" Value="Enabled" />
+   <Option Name="QueryCount" Value="14" />
    <Option Name="Description" Value="Abstract+class+with+constructor" />
    <Option Name="OptionsPage" Value="Editor%5cTemplates" />
    <Option Name="Scope" Value="Templates" />
@@ -2022,7 +2022,7 @@
   </Section>
   <Section Name="Compress to Ternary Expression">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="37" />
+   <Option Name="QueryCount" Value="38" />
    <Option Name="Description" Value="Compresses+active+if+statement+to+ternary+conditional+expression." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -2134,7 +2134,7 @@
   </Section>
   <Section Name="Expand Ternary Expression">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="11" />
+   <Option Name="QueryCount" Value="12" />
    <Option Name="Description" Value="Expands+active+ternary+expression+to+the+if+statement." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -2286,7 +2286,7 @@
   </Section>
   <Section Name="Reverse Conditional">
    <Option Name="State" Value="None" />
-   <Option Name="QueryCount" Value="36" />
+   <Option Name="QueryCount" Value="37" />
    <Option Name="Description" Value="Inverts+the+logic+in+this+conditional+statement+and+swaps+the+If+and+Else+blocks." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
@@ -2535,7 +2535,7 @@
   <Section Name="ForEach to For">
    <Option Name="State" Value="None" />
    <Option Name="QueryCount" Value="4" />
-   <Option Name="Description" Value="Converts+a+foreach+loop+into+a+for+loop.%0d%0aCaution+--+In+rare+cases+this+refactoring+may+change+a+program%27s+external+behavior+if+the+IEnumerator+implementation+includes+important+side+effects%2c+or+if+any+of+the+IEnumerator+members+behave+in+a+non-standard+manner." />
+   <Option Name="Description" Value="Converts+a+foreach+loop+into+a+for+loop.%0d%0aCaution+--+In+rare+cases+this+refactoring+may+change+a+program's+external+behavior+if+the+IEnumerator+implementation+includes+important+side+effects%2c+or+if+any+of+the+IEnumerator+members+behave+in+a+non-standard+manner." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
    <Option Name="ShowInFeatureOptions" Value="False" />
@@ -3047,7 +3047,7 @@
   <Section Name="Inline Method">
    <Option Name="State" Value="None" />
    <Option Name="QueryCount" Value="1" />
-   <Option Name="Description" Value="Puts+the+method%27s+body+into+the+body+of+its+caller(s)." />
+   <Option Name="Description" Value="Puts+the+method's+body+into+the+body+of+its+caller(s)." />
    <Option Name="OptionsPage" Value="" />
    <Option Name="Scope" Value="RefactoringProvider" />
    <Option Name="ShowInFeatureOptions" Value="False" />

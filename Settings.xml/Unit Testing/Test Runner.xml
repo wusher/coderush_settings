@@ -2,6 +2,10 @@
 <Page Name="Test Runner">
  <Language Name="*Neutral*">
   <Section Name="ToolWindow">
+   <Option Name="DataView" Value="True" />
+   <Option Name="DockSide" Value="Bottom" />
+   <Option Name="DataViewWidth" Value="431" />
+   <Option Name="DataViewHeight" Value="336" />
    <Option Name="DetailsInTreeView" Value="True" />
    <Option Name="HideFilterLabel" Value="False" />
    <Option Name="SilverlightDebugger" Value="False" />
@@ -44,10 +48,6 @@
    <Option Name="InCustomColor" Value="Named:Gray" />
    <Option Name="ParensUseVsColor" Value="True" />
    <Option Name="ParensCustomColor" Value="Named:Gray" />
-   <Option Name="DataView" Value="True" />
-   <Option Name="DockSide" Value="Bottom" />
-   <Option Name="DataViewWidth" Value="500" />
-   <Option Name="DataViewHeight" Value="336" />
   </Section>
  </Language>
 </Page>

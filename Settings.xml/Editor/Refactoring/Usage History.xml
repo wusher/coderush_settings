@@ -2,8 +2,8 @@
 <Page Name="Usage History">
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
-   <Option Name="Declaration" Value="534" />
-   <Option Name="MostRecentlyUsedObject" Value="Implementations" />
+   <Option Name="Declaration" Value="535" />
+   <Option Name="MostRecentlyUsedObject" Value="Compress to Ternary Expression" />
    <Option Name="Compress to Lambda Expression" Value="18" />
    <Option Name="Introduce Local" Value="260" />
    <Option Name="Inline Temp1" Value="116" />
@@ -70,13 +70,13 @@
    <Option Name="Implementors" Value="1" />
    <Option Name="Spell Checker" Value="8" />
    <Option Name="Remove Redundant Block Delimiters" Value="9" />
-   <Option Name="Compress to Ternary Expression" Value="20" />
+   <Option Name="Compress to Ternary Expression" Value="21" />
    <Option Name="Flatten Conditional" Value="9" />
    <Option Name="Decompose Initializer" Value="7" />
    <Option Name="Name Anonymous Method" Value="2" />
    <Option Name="Combine Conditionals" Value="7" />
    <Option Name="Concatenate Strings" Value="3" />
-   <Option Name="Expand Ternary Expression" Value="5" />
+   <Option Name="Expand Ternary Expression" Value="6" />
    <Option Name="Add Else Statement" Value="6" />
    <Option Name="Embed Selection" Value="1" />
    <Option Name="Remove Tag" Value="1" />
@@ -88,7 +88,7 @@
    <Option Name="Encapsulate Field" Value="9" />
    <Option Name="Convert to auto-implemented property" Value="16" />
    <Option Name="Make Member Static" Value="1" />
-   <Option Name="Reverse Conditional" Value="19" />
+   <Option Name="Reverse Conditional" Value="20" />
    <Option Name="Remove Redundant Qualifier" Value="25" />
    <Option Name="Make Extension" Value="1" />
    <Option Name="Initialize Conditionally" Value="5" />
@@ -978,9 +978,9 @@
    <Option Name="Reverse Conditional" Value="6" />
   </Section>
   <Section Name="|Compress to Ternary Expression|Reverse Conditional|">
-   <Option Name="Compress to Ternary Expression" Value="14" />
+   <Option Name="Compress to Ternary Expression" Value="15" />
    <Option Name="MostRecentlyUsedObject" Value="Compress to Ternary Expression" />
-   <Option Name="Reverse Conditional" Value="2" />
+   <Option Name="Reverse Conditional" Value="3" />
   </Section>
   <Section Name="|Flatten Conditional|">
    <Option Name="Flatten Conditional" Value="5" />
@@ -1620,7 +1620,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
-   <Option Name="Declaration" Value="244" />
+   <Option Name="Declaration" Value="245" />
    <Option Name="MostRecentlyUsedObject" Value="Declaration" />
   </Section>
   <Section Name="|Ancestor|Declaration|Next Reference|Parent|Parent Member|Parent Type|Previous Reference|">
@@ -3442,6 +3442,10 @@
   <Section Name="|Initialize Conditionally|Make Implicit|Rename|Replace Temp with Query|Split Initialization from Declaration|Widen Scope (promote to field)|">
    <Option Name="Initialize Conditionally" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Initialize Conditionally" />
+  </Section>
+  <Section Name="|Break Apart Parameters|Expand Ternary Expression|Inline Temp1|Rename|Replace Temp with Query|">
+   <Option Name="Expand Ternary Expression" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Expand Ternary Expression" />
   </Section>
  </Language>
 </Page>
