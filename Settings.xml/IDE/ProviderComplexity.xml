@@ -11,7 +11,7 @@
    <Option Name="Optimize Namespace References" Value="0.232130774603189" />
    <Option Name="Move to Code-behind" Value="0.314207755452114" />
    <Option Name="Boolean to Enum" Value="0.216808215475576" />
-   <Option Name="Surround with UpdatePanel" Value="18.6115710499034" />
+   <Option Name="Surround with UpdatePanel" Value="9.96866859982642" />
    <Option Name="Replace Temp with Query" Value="0.154106851174253" />
    <Option Name="Convert to Procedure" Value="0.36551477390349" />
    <Option Name="Expand Ternary Expression" Value="0.316243115195753" />

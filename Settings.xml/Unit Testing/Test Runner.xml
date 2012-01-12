@@ -4,7 +4,7 @@
   <Section Name="ToolWindow">
    <Option Name="DataView" Value="True" />
    <Option Name="DockSide" Value="Bottom" />
-   <Option Name="DataViewWidth" Value="431" />
+   <Option Name="DataViewWidth" Value="297" />
    <Option Name="DataViewHeight" Value="336" />
    <Option Name="DetailsInTreeView" Value="True" />
    <Option Name="HideFilterLabel" Value="False" />

@@ -963,7 +963,7 @@
    <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="255" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Excluded Code">
    <Option Name="LocalName" Value="Excluded Code" />
@@ -1119,7 +1119,7 @@
    <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="7918477" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Literal">
    <Option Name="LocalName" Value="Literal" />
@@ -1678,7 +1678,7 @@
    <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="4238847" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="String(C# @ Verbatim)">
    <Option Name="LocalName" Value="String (C# @ Verbatim)" />
@@ -1769,7 +1769,7 @@
    <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="0" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="Tracepoint (Disabled)">
    <Option Name="LocalName" Value="Tracepoint (Disabled)" />
@@ -1990,7 +1990,7 @@
    <Option Name="Background" Value="2105376" />
    <Option Name="Foreground" Value="14791720" />
    <Option Name="FontFlags" Value="0" />
-   <Option Name="Invalid" Value="True" />
+   <Option Name="Invalid" Value="False" />
   </Section>
   <Section Name="User Types(Delegates)">
    <Option Name="LocalName" Value="User Types (Delegates)" />

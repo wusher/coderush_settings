@@ -2,7 +2,7 @@
 <Page Name="Templates">
  <Language Name="CSharp">
   <Section Name="Options">
-   <Option Name="SelectedNode" Value="Types\c?Type?" />
+   <Option Name="SelectedNode" Value="Using\using" />
    <Option Name="SplitterPosition" Value="244" />
    <Option Name="TreeSplitterPosition" Value="343" />
   </Section>
