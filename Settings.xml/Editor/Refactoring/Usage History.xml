@@ -3,12 +3,12 @@
  <Language Name="*Neutral*">
   <Section Name="GlobalContextUsage">
    <Option Name="Declaration" Value="535" />
-   <Option Name="MostRecentlyUsedObject" Value="Compress to Ternary Expression" />
+   <Option Name="MostRecentlyUsedObject" Value="Declare Local (implicit)" />
    <Option Name="Compress to Lambda Expression" Value="18" />
-   <Option Name="Introduce Local" Value="260" />
+   <Option Name="Introduce Local" Value="263" />
    <Option Name="Inline Temp1" Value="116" />
    <Option Name="Create Method Stub" Value="333" />
-   <Option Name="Declare Local (implicit)" Value="521" />
+   <Option Name="Declare Local (implicit)" Value="523" />
    <Option Name="Split Initialization from Declaration" Value="70" />
    <Option Name="Declare Property (auto-implemented)" Value="28" />
    <Option Name="Declare Class" Value="31" />
@@ -23,7 +23,7 @@
    <Option Name="Break Apart Parameters" Value="46" />
    <Option Name="Move Type to File" Value="162" />
    <Option Name="Add Parameter" Value="45" />
-   <Option Name="Widen Scope (promote to field)" Value="128" />
+   <Option Name="Widen Scope (promote to field)" Value="129" />
    <Option Name="Introduce Setter Guard Clause" Value="36" />
    <Option Name="Change Tag" Value="17" />
    <Option Name="Collapse Getter" Value="91" />
@@ -233,7 +233,7 @@
   </Section>
   <Section Name="|Declare Local|Declare Local (implicit)|">
    <Option Name="Declare Local" Value="79" />
-   <Option Name="Declare Local (implicit)" Value="493" />
+   <Option Name="Declare Local (implicit)" Value="495" />
    <Option Name="MostRecentlyUsedObject" Value="Declare Local (implicit)" />
   </Section>
   <Section Name="|First Child|Parent|Parent Member|Parent Type|">
@@ -492,13 +492,13 @@
    <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
    <Option Name="Extract String to Resource" Value="1" />
    <Option Name="Introduce Constant" Value="7" />
-   <Option Name="Introduce Local" Value="14" />
+   <Option Name="Introduce Local" Value="15" />
    <Option Name="Introduce Constant (local)" Value="2" />
   </Section>
   <Section Name="|Extract Method|Extract Property|Introduce Local|">
    <Option Name="Extract Method" Value="11" />
    <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
-   <Option Name="Introduce Local" Value="68" />
+   <Option Name="Introduce Local" Value="69" />
   </Section>
   <Section Name="|Convert to Initializer|Make Explicit|Rename|Widen Scope (promote to field)|">
    <Option Name="Convert to Initializer" Value="1" />
@@ -1828,7 +1828,7 @@
    <Option Name="MostRecentlyUsedObject" Value="Simplify Expression" />
   </Section>
   <Section Name="|Convert to Constant|Inline Temp1|Make Implicit|Promote to Parameter|Promote to Parameter (optional)|Rename|Split Initialization from Declaration|Widen Scope (promote to field)|">
-   <Option Name="Widen Scope (promote to field)" Value="1" />
+   <Option Name="Widen Scope (promote to field)" Value="2" />
    <Option Name="MostRecentlyUsedObject" Value="Widen Scope (promote to field)" />
    <Option Name="Inline Temp1" Value="1" />
   </Section>
@@ -3446,6 +3446,10 @@
   <Section Name="|Break Apart Parameters|Expand Ternary Expression|Inline Temp1|Rename|Replace Temp with Query|">
    <Option Name="Expand Ternary Expression" Value="1" />
    <Option Name="MostRecentlyUsedObject" Value="Expand Ternary Expression" />
+  </Section>
+  <Section Name="|Extract Method|Extract Property|Introduce Local|Introduce Local (replace all)|Use String.Format|">
+   <Option Name="Introduce Local" Value="1" />
+   <Option Name="MostRecentlyUsedObject" Value="Introduce Local" />
   </Section>
  </Language>
 </Page>
